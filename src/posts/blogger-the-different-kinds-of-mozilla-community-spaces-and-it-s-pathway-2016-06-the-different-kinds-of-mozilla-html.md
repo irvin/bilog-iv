@@ -1,0 +1,176 @@
+---
+layout: "post.njk"
+title: "The different kinds of (Mozilla) community spaces and it’s pathway"
+date: "2016-06-17T00:07:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2016/06/the-different-kinds-of-mozilla.html"
+canonical_url: ""
+permalink: "/2016/06/the-different-kinds-of-mozilla.html"
+tags: ["mozilla-reps", "mozilla", "moz-participate", "blogger"]
+excerpt: "This is part of the result we found from the “How might we (re)invent existing and future MozSpace to run innivation experiments”, which we address different kinds of community spa"
+---
+
+<p>This is part of the result we found from the  “How might we (re)invent existing and future MozSpace to run innivation experiments”, which we address different kinds of community space at the community space session on Mozilla AllHands 2016 in London. </p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s1600/MozSpaces+-+Reinventing+MozSpaces+-+new.png"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s640/MozSpaces+-+Reinventing+MozSpaces+-+new.png" width="466" /></a>
+</div>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI0RVrb0-JitslCv2Loo4WsI9pS-d-0Lj_hy_EtM5-w-FSvSFCJuVEuXCrU1hE5LPUcquAbY63fQjtEC3oUnEi_Ll60bCw8Lj1b7RznfO-XNP44euT21oszStFcK46L-OWaH-6w/s1600/MozSpaces+-+Stream+2+-+Reinventing+MozSpaces.png">(see original draft poster from our discussion)</a>
+
+<h1 id="toc_0">The characteristic</h1>
+
+<p>There are different types of spaces with various characteristic, eg.</p>
+
+<ul>
+<li># of core contributors </li>
+<li>scale of community</li>
+<li># of non-Mozilla communities involved</li>
+<li>meeting / event frequency</li>
+<li>density of the region / distence of the contributors (transit difficulties)</li>
+<li>resource invest from Mozilla and community</li>
+</ul>
+
+<h1 id="toc_1">Different type of spaces</h1>
+
+<p>Following is the <em>space</em> various in different type that we found in our expereinces and in different region, it may be a of community space (and probably also same for the community meeting).</p>
+
+<p>Temporary (in time &amp; venue) spaces</p>
+
+<ul>
+<li>Online space (forum / IM / IRC channels)</li>
+<li>Kitchen (or school) table</li>
+<li>Meet in coffee house</li>
+<li>Hackathon &amp; sprint in private apartment / meeting venue </li>
+<li>Partnership with co-working space (eg., The Hub)</li>
+<li>Cooperating / supporting existing hackerspace / makerspace</li>
+</ul>
+
+<p>Physically communtiy space</p>
+
+<ul>
+<li>Mozilla Community Spaces, eg., Taipei, Manila &amp; Jakarta </li>
+<li>Space inside Mozilla office</li>
+</ul>
+
+<h2 id="toc_2">Online space (forum / IM / IRC channels)</h2>
+
+<p>It was begin when some people who is interesting in promoting Mozilla and it’s various products gathering and meet online.</p>
+
+<ul>
+<li># of core contributors - 2~20</li>
+<li>scale of community - 5~150</li>
+<li>there will be much harder more then this numbers</li>
+<li># of non-Mozilla communities involved - 0</li>
+<li>meeting / event frequency - variously</li>
+<li>distence of the contributors - withing country / same languages area</li>
+<li>resource invest from Mozilla and community - minimin</li>
+</ul>
+
+<h2 id="toc_3">Kitchen (or school) Table</h2>
+
+<p>Some people may want to meet face-by-face hacking / discussing frequenly</p>
+
+<ul>
+<li># of core contributors - 2~3</li>
+<li>scale of community - 2~5</li>
+<li># of non-Mozilla communities involved - 0</li>
+<li>meeting / event frequency - various from weekly to monthly</li>
+<li>distence of the contributors - closly, within city</li>
+<li>resource invest from Mozilla and community - minimum</li>
+</ul>
+
+<h2 id="toc_4">Meet in coffee house</h2>
+
+<p>If there are more contributors within in the city, they may able to meet weekly / bi-weekly / monthly and maybe more leisure with loose agenda ccording to the meeting frequency</p>
+
+<ul>
+<li># of core contributors - 5~10</li>
+<li>scale of community - 5~30</li>
+<li># of non-Mozilla communities involved - some randemly</li>
+<li>meeting / event frequency - weekly to monthly</li>
+<li>density of the region / distence of the contributors - within city</li>
+<li>resource invest from Mozilla and community - small, mainly a cup of coffee</li>
+</ul>
+
+<h2 id="toc_5">Private apartment / meeting venue</h2>
+
+<p>When more contributors focus on some contirbuting regions, they will run some hackathon / design sprint periodically</p>
+
+<ul>
+<li># of core contributors - 5~15</li>
+<li>scale of community - 10~100</li>
+<li># of non-Mozilla communities involved - 0</li>
+<li>meeting / event frequency - quatyly / 6 months / yearly</li>
+<li>density of the region / distence of the contributors - within country</li>
+<li>resource invest from Mozilla and community - medium each time</li>
+</ul>
+
+<h2 id="toc_6">Partnership with co-working space (eg., The Hub)</h2>
+
+<p>If there are some contributors or remoties work more frequenly and host more events, they may want to find a permanently / half-permanently space. We find that sometimes there are good cooperating and supporting from local co-working space.</p>
+
+<ul>
+<li># of core contributors - 3~10</li>
+<li>scale of community - 20~</li>
+<li># of non-Mozilla communities involved - some</li>
+<li>meeting / event frequency - daily, bi-daily, weekly</li>
+<li>density of the region / distence of the contributors - within city</li>
+<li>resource invest from Mozilla and community - small/medium monthly</li>
+</ul>
+
+<h2 id="toc_7">Cooperating with existing hackerspace / makerspace</h2>
+
+<p>Similar to the above co-working space, there may be some hackerspace / makerspace already exist and in good align with Mozilla’s mission, the community may like to join or get involved the venue.</p>
+
+<p>We should have some application procedure at this stage, for communities who is interesting in get into next stage of pathway.</p>
+
+<ul>
+<li># of core contributors - 3~10</li>
+<li>scale of community - 20~</li>
+<li># of non-Mozilla communities involved - more then 2</li>
+<li>meeting / event frequency - daily, bi-daily, weekly</li>
+<li>density of the region / distence of the contributors - within city</li>
+<li>resource invest from Mozilla and community - small/medium monthly</li>
+</ul>
+
+<h2 id="toc_8">Physical Community Space</h2>
+
+<p>After all this stage, the community now has more people and frequenly events and many meetups, they may want to get their own community spaces in order to better hosting and contributing. </p>
+
+<p>The most important thing in this stage is that besides benefit Mozilla community, we want to also help / support other communities within the region, in order to better using the resource, and they most probably also under their early stage of this pathway.</p>
+
+<p># of core contributors - 10~20
+scale of community - 50~
+# of non-Mozilla communities involved - 10 and more
+meeting / event frequency - daily, bi-daily
+density of the region / distence of the contributors - within city
+resource invest from Mozilla and community - large monthly</p>
+
+<h2 id="toc_9">Space inside Mozilla office</h2>
+
+<p>If we have more and more remoties working at Mozilla during the growth of the Mozilla community, eventually we will set up a Mozilla office inside the area. It will be similar to the community spaces and have good community-staff relationship if we follow and grow alone the path.</p>
+
+<ul>
+<li># of core contributors - 20~35</li>
+<li>scale of community - 100~</li>
+<li># of non-Mozilla communities involved - 10 and more</li>
+<li>meeting / event frequency - daily, bi-daily</li>
+<li>density of the region / distence of the contributors - within city / country</li>
+<li>resource invest from Mozilla and community - large monthly</li>
+</ul>
+
+<h1 id="toc_10">The pathway (aka. A River of Spaces)</h1>
+
+<p>Above different kinds of space is a typical pathway we found in different communities and in our community&#39;s 10+ years experience. We had pass all of those stage (besides the office one), and some other communities may currently in one of the earlier stage.</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s1600/MozSpaces+-+Stream+2+-+The+River+of+Space.png"><img border="0" height="381" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s400/MozSpaces+-+Stream+2+-+The+River+of+Space.png" width="400" /></a><br>A River of Spaces
+</div>
+
+<p>It’s like the flow of the river from upper reach to the ocean, we can imaging the flow as the size of the community / the resource / the reach and the impact. Different communities are not necessery follow the same pathway but it should be somehow similer.</p>
+
+<p>Thanks all of the Mozilla Community Space stewards in the session, especially Henrik, Gaspar, Nikos, Yofie who is in this discussion.</p>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s1600/mozlondon_community_space.gif"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s640/mozlondon_community_space.gif" width="640" /></a></div>

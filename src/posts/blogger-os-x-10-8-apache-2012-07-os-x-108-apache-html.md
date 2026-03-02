@@ -1,0 +1,64 @@
+---
+layout: "post.njk"
+title: "OS X 10.8 的 Apache 相關設定"
+date: "2012-07-30T10:03:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2012/07/os-x-108-apache.html"
+canonical_url: ""
+permalink: "/2012/07/os-x-108-apache.html"
+tags: ["dev", "mac", "blogger"]
+excerpt: "上週升級到 OS X10.8 Mountain Lion 美洲獅（還是山獅好聽），剛才發現本機的網站開不起來、偏好設定→共享裡面原本的「網頁共享」，也就是內建的 Apache 的開關也消失了。 筆記一下我自己的相關設定： 10.8 Server 以外的版本 把網頁共享拿掉了 ， VirtualHost X 的作者做了一個偏好設定面板，可以用來開關 Apach"
+---
+
+<p>上週升級到 OS X10.8 Mountain Lion 美洲獅（還是山獅好聽），剛才發現本機的網站開不起來、偏好設定→共享裡面原本的「網頁共享」，也就是內建的 Apache 的開關也消失了。</p>
+
+<p>筆記一下我自己的相關設定：</p>
+
+<ol>
+
+<li><p>10.8 Server 以外的版本<a href="http://support.apple.com/kb/HT5230">把網頁共享拿掉了</a>，<a href="http://clickontyler.com/virtualhostx/">VirtualHost X</a> 的作者做了一個偏好設定面板，可以用來開關 Apache：<a href="http://clickontyler.com/blog/2012/02/web-sharing-mountain-lion/">Web Sharing in OS X Mountain Lion</a></p></li>
+
+<li><p><code>/etc/apache2</code> 下舊的 <code>httpd.conf</code> 被更名為 <code>httpd.conf~previous</code>，需要手動 Merge 一下：</p>
+
+<ul>
+
+<li><p>新的 Apache 中個人設定挪到 /etc/apache2/users 下的 <code>用戶名.conf</code>（這裡的用戶名就是 <code>/Users/</code> 下的個人資料夾名稱），檔案權限為 <code>644 root:wheel</code>；參考 <a href="http://docstore.mik.ua/orelly/linux/apache/ch03_11.htm">Options (Apache: The Definitive Guide)</a>  加上 <code>Includes</code> (Server-side includes) 跟 <code>FollowSymLinks</code>：</p><pre><code>&lt;Directory "/Users/用戶名/Sites/"&gt;
+    Options Indexes MultiViews Includes FollowSymLinks
+    AllowOverride All
+    Order allow,deny
+    Allow from all
+    Header set Access-Control-Allow-Origin *
+    DirectoryIndex index.html index.php index.shtml
+&lt;/Directory&gt;
+</code></pre></li><li><p><code>/etc/apache2/httpd.conf</code> Server-side include 跟 VirtualHosts 設定：</p><pre><code>+ Listen 8080
+
+#uncomment following settings:
+AddType text/html .shtml
+AddOutputFilter INCLUDES .shtml
+Include /private/etc/apache2/extra/httpd-vhosts.conf
+</code></pre></li>
+
+<li>
+<p><code>/etc/apache2/extra/httpd-vhosts.conf</code></p>
+
+<pre>
+<code>NameVirtualHost *:80
+
+&lt;VirtualHost *:80&gt;
+    DocumentRoot "/Users/Irvin/Sites/"
+    Header set Access-Control-Allow-Origin *
+&lt;/VirtualHost&gt;
+
+&lt;VirtualHost *:80&gt;
+    DocumentRoot "/Users/Irvin/Sites/moztw"
+    ServerName moztw
+    DirectoryIndex index.html index.php index.shtml
+&lt;/VirtualHost&gt;
+
+&lt;VirtualHost *:8080&gt;
+    DocumentRoot "/Users/Irvin/Sites/moztw"
+    DirectoryIndex index.html index.php index.shtml
+&lt;/VirtualHost&gt;</code>
+</pre>
+
+</li></ul></li></ol>

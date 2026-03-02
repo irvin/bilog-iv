@@ -1,0 +1,47 @@
+---
+layout: "post.njk"
+title: "網路趨勢圖＆東京鐵道圖"
+date: "2007-01-13T08:55:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2007/01/blog-post_13.html"
+canonical_url: ""
+permalink: "/2007/01/blog-post_13.html"
+tags: ["鐵道", "blogger"]
+excerpt: "從 傅瑞德 那兒看到 網路趨勢圖 很明顯的是源自於東京地鐵圖。看傅瑞德貼的東京都交通局版地鐵圖看起來不太像，拿Tokyo Metro這張來比照就一模一樣了。 傅瑞德有 提到 ，這是倫敦地鐵風格的繪製法。 倫敦地鐵風格的schematic map有三個比較明顯的特點： 1. 路線以顏色區分 2. 路線大多以水平、垂直、45度角三種角度呈現 3. 路線上的車站距"
+---
+
+<p>從 <a href="http://fred.ipod.to/blog/?post;862">傅瑞德</a> 那兒看到 <a href="http://www.informationarchitects.jp/webtrends2007">網路趨勢圖</a></p>
+
+<a href="http://www.informationarchitects.jp/webtrends2007" title="2007 web trends"><img style="width: 500px;" src="http://www.informationarchitects.jp/wp-content/uploads/2006/12/trendsmall.jpg" alt="web trends 2007"></a>
+
+<div id="fullpost">
+<p>很明顯的是源自於東京地鐵圖。看傅瑞德貼的東京都交通局版地鐵圖看起來不太像，拿Tokyo Metro這張來比照就一模一樣了。</p>
+
+
+<a href="http://www.tokyometro.jp/rosen/rosenzu/pdf/rosen_chi02.pdf" title="Tokyo Metro"><img style="width: 500px;" src="http://farm1.static.flickr.com/154/355630339_f8bb45e820.jpg" alt="東京地鐵地鐵圖" /></a>
+
+
+<p>傅瑞德有 <a href="http://fred.ipod.to/blog/?post;862">提到</a>，這是倫敦地鐵風格的繪製法。<br />
+<blockquote>
+倫敦地鐵風格的schematic map有三個比較明顯的特點：<br />
+1. 路線以顏色區分<br />
+2. 路線大多以水平、垂直、45度角三種角度呈現<br />
+3. 路線上的車站距離不依實際比例<br />
+</blockquote></p>
+
+
+<p>東京鐵道系統分成三個主要系統，JR、地鐵、都營，與其他私營鐵路。<br />
+JR (Japan Railways)，日本鐵路集團，原本是國營鐵路公司，後來民營化後依照地域分割為七家公司。</p>
+
+<p><a href="http://www.jreast.co.jp/JR">JR東日本</a> 經營東京都內的JR鐵路系統，包含山手線、中央線與延伸出東京都圈的各JR路線，大部份為地上鐵路，山手線則是一圈約一小時的環狀線。</p>
+
+<a href="http://www.jreast.co.jp/map/index.html" title="JR東日本路線圖"><img src="http://farm1.static.flickr.com/149/355642882_1694a44b02.jpg" style="width: 500px;" alt="JR東京近郊路線圖" /></a>
+
+<p>東京的地鐵有 <a href="http://www.tokyometro.jp/">Tokyo Metro東京地鐵</a>（原營團帝國高速鐵道）與東京都政府經營的 <a href="http://www.kotsu.metro.tokyo.jp/subway/index.html">都營地鐵</a> 兩個系統。東京地鐵有8條線，都營地鐵則有4條線，包含「東京最後一條路面電車」都電荒川線。都營與地鐵的車站大部份都會共站，方便地鐵系統的轉乘，地鐵與JR相近的站有時候就會分開一段距離了。</p>
+
+<a href="http://www.tokyometro.jp/rosen/rosenzu/index.html" title="東京地鐵路線圖"><img src="http://farm1.static.flickr.com/141/355648588_3a5f6afa0f.jpg" style="width: 500px;" alt="" /></a>
+
+<p>東京還有數條私營鐵路，包含通往成田機場的聯絡線 <a href="http://www.keisei.co.jp/">京成電鐵</a> Skyliner。通往臨海副都心、台場的 <a href="http://www.yurikamome.co.jp/">Yurikamome 百合海鷗號</a>、通往羽田機場的 <a href="http://www.tokyo-monorail.co.jp/" >Tokyo Monorail東京單軌鐵路</a>。百合海鷗號坐起來與木柵線十分相像，單軌鐵路則是比較有顛簸感。</p>
+
+
+<p>在東京遊玩，最好的交通工具就是鐵道，幾乎沒有景點是鐵路到不了的。雖然東京都鐵路路線圖看起來很複雜，但是實際上要坐起來其實反而會覺得很簡單。各鐵道系統都有一日乘車卷的優惠，我最喜歡的玩法就是半天或一天的時間，選擇一兩條線，沿著路線上的景點一路玩過去。</p></div>

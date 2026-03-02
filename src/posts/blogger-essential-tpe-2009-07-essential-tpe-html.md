@@ -1,0 +1,49 @@
+---
+layout: "post.njk"
+title: "essential tpe 服務就甘心欸"
+date: "2009-07-09T12:08:00.003Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2009/07/essential-tpe.html"
+canonical_url: ""
+permalink: "/2009/07/essential-tpe.html"
+tags: ["gadget", "Apple", "blogger"]
+excerpt: "essential tpe 是一個三年左右的年輕台灣品牌，專門設計蘋果電腦的週邊產品。 我的上一台 Mac 是 iBook G4 12\" 末代機（Mid 2005），是優仕還在金華街的時候買的，買了不久他們就搬到八德路上了。我個人是很不喜歡用鍵盤保護膜的，第一是用久了會髒兮兮很噁心，很難洗乾淨，第二是先前筆電鍵盤膜的印子居然印到螢幕上了。使用 iBook 的"
+---
+
+<a href="http://www.flickr.com/photos/irvin/2674887622/" title="Flickr 上 Irvin Chen 的 Essential TPE MBP保護套件 - 1"><img src="http://farm4.static.flickr.com/3269/2674887622_616d0fe1ea.jpg" width="500" height="375" alt="Essential TPE MBP保護套件 - 1" /></a>
+
+<a href="http://www.essentialtpe.com/global/index.php?lang=zh">essential tpe</a> 是一個三年左右的年輕台灣品牌，專門設計蘋果電腦的週邊產品。</p>
+
+<p>我的上一台 Mac 是 iBook G4 12" 末代機（Mid 2005），是優仕還在金華街的時候買的，買了不久他們就搬到八德路上了。我個人是很不喜歡用鍵盤保護膜的，第一是用久了會髒兮兮很噁心，很難洗乾淨，第二是先前筆電鍵盤膜的印子居然印到螢幕上了。使用 iBook 的那兩年間，我一直都用 Macally 的鍵盤布，也忘記哪裡來的。先蓋住鍵盤、再把螢幕闔上，整個質感一級啊。</p>
+
+<div id="fullpost"><p>因此，去年敗了 MacBook Pro 15"（Early 2008）之後，就一直在找適合的鍵盤布，看到了 <a href="http://www.one18.com/?p=61">阿西摩的分享誌 v3.5.2 α » 優質國產精品級 MBP/MB 保護套件</a> 介紹，因為內附那一條鍵盤布的關係，就立刻買了一套 <a href="http://www.essentialtpe.com/global/index.php?option=com_content&view=article&id=69&Itemid=76&lang=zh">Laptop Shield Kit</a>。鍵盤布這種東西啊，不過就是一塊布，說貴不貴，成本也不高，但是就真的很難買。一直到了最近，才有 Moshi 在單獨零售（<a href="http://www.moshimore.com.tw/shop/goods.php?id=39">ShieldPad</a>）。</p>
+
+<a href="http://www.flickr.com/photos/irvin/2674883674/" title="Flickr 上 Irvin Chen 的 Essential TPE MBP保護套件 - 3"><img src="http://farm4.static.flickr.com/3217/2674883674_cb4079f965.jpg" width="500" height="375" alt="Essential TPE MBP保護套件 - 3" /></a>
+
+<p>剛買到 essential tpe 的 Laptop Shield Kit 時，還剛好拿到了上面照片中這一片有瑕疵的鍵盤布，布邊裂開了。後來向廠商反應了之後，很快就收到了一片新的鍵盤布。舊的那一片經過剪裁，還在我的 EeePC 901 上快樂服役中。</p>
+
+<a href="http://www.flickr.com/photos/irvin/2674885752/" title="Flickr 上 Irvin Chen 的 Essential TPE MBP保護套件 - 2"><img src="http://farm4.static.flickr.com/3037/2674885752_3d1de8a4a4.jpg" width="500" height="375" alt="Essential TPE MBP保護套件 - 2" /></a>
+
+<p>後來又買了 essential tpe 的 <a href="http://www.essentialtpe.com/global/index.php?option=com_content&id=76%3Aultra-protection-sleeve-15&lang=zh">Ultra Protection Sleeve (UPS) 內袋</a>，薄薄的一層硬殼套，放進背包或是手提包都方便。</p>
+
+<p>可惜，MBP 上使用的這一片鍵盤布，去年年底的有一次台南蘋果聚會結束後，不知道丟哪去了。年初時，想到 essential tpe 曾經在網站中打出了 Laptop Shield Kit 靠手墊免費換新的活動，標榜只要把髒掉的靠手墊寄回，加上 100 塊的處理費就可以換一片。那時候剛好靠手墊也很髒了，想說聯絡看看能不能換一片，同時零購鍵盤布。雖然那時市面上已經有 Moshi 的在零售了，但是看過朋友使用，moshi 的比較大片、還有兩個小耳朵，還是覺得 tpe 的符合鍵盤尺寸，也比較漂亮。</P>
+
+<a href="http://twitpic.com/110cz"><img src="http://twitpic.com/show/thumb/110cz.png"></a>
+
+<p>當時 tpe 的網站寄信系統連續好幾天都有上圖的問題，又找不到可以寄信詢問的 email（我真的不了解為什麼很多公司不在寄信頁面上放個 mail 位址），加上網站上的客服電話連續幾天都沒有人接，當時也就在 plurk 跟 twitter 上抱怨了幾句（<a href="http://twitter.com/irvinfly/status/1106148573">1</a>、<a href="http://twitter.com/irvinfly/status/1101465208">2</a>、<a href="http://www.plurk.com/p/ce9lx">3</a>、<a href="http://www.plurk.com/p/ck7a2">4</a>）。三月時發現 <a href="http://twitter.com/irvinfly/statuses/1312796179">連中文網站都消失了</a>，印象中這幾個月在市面上都不常見到它的產品，還以為這個品牌已經隨風而去。前兩個禮拜也趁 moshi 特價，買了靠手墊 palmguard 跟鍵盤布 ShieldPad</p>
+
+<p>沒想到三天前，在 Plurk 上的古早 <a href="http://www.plurk.com/p/j4bys">抱怨噗</a> 居然被挖出來，出現了 essential tpe 的回應。第一時間的反應是：啊你們還沒倒，太好了（笑），原來是 tpe 也開了 <a href="http://www.plurk.com/essentialtpe">plurk 帳號</a>，剛好查到這則噗。經過郵件聯繫後，今天就收到 essential tpe 寄來的小包啦。</p>
+
+<a href="http://www.flickr.com/photos/irvin/3703397555/" title="Flickr 上 Irvin Chen 的 essential tpe laptop shield kit - 1"><img src="http://farm3.static.flickr.com/2595/3703397555_a58ce5930b.jpg" width="500" height="375" alt="essential tpe laptop shield kit - 1" /></a>
+
+<a href="http://www.flickr.com/photos/irvin/3703398193/" title="Flickr 上 Irvin Chen 的 essential tpe laptop shield kit - 2"><img src="http://farm4.static.flickr.com/3525/3703398193_1af5701164.jpg" width="500" height="375" alt="essential tpe laptop shield kit - 2" /></a>
+
+<p>打開一看，除了一套 MBP Laptop Shield Kit、還有一封信跟兩片鍵盤布。加上 Laptop Shield Kit 裡面那一片，我不但可以天天擦鍵盤、兩片疊起來感受他的質感，還可以一直用到現役的 MBP 除役，都不會沒有鍵盤布可以用啦！真是太歡樂了，就甘心欸，一定要特別來推薦一下。</p>
+
+<a href="http://www.flickr.com/photos/irvin/3703398785/" title="Flickr 上 Irvin Chen 的 essential tpe laptop shield kit - 3"><img src="http://farm3.static.flickr.com/2502/3703398785_64393fe8f9.jpg" width="500" height="375" alt="essential tpe laptop shield kit - 3" /></a>
+
+<p>MBP 啊，往後又可以讓 tpe 來陪伴你了。至於兩個禮拜前剛買的 moshi 鍵盤布，已經被女王的 VAIO 揪走了，大小正巧嘟嘟好適合 12" 的 VAIO。</p>
+
+<p>在小包中的信有寫到，先前的網站，已經 <a href="http://www.essentialtpe.com/">全面都翻新了</a>。對於新網站，我還是有個小小的建議。目前網站中每樣產品的網址都太長了，也不是很人性化、不但不適合 SEO 也不方便轉貼，Joomla 的系統應該可以配合 Apache 的 mod_rewrite 針對每篇文章設定替代網址才對。此外網站中錯字有點多，小小翻了一下就發現四五個錯字，然後 Unibody MBP 15" UPS 的照片還是用舊款 MBP 的照片，還是儘速換上比較好。</p>
+
+<p>同樣是 Mac 的週邊廠商，最近 moshi 的曝光度大增，北中南辦了好幾個展示會、在 Mac 社群間進行新產品展示。essential tpe 的螢幕保護貼 <a href="http://www.essentialtpe.com/global/index.php?option=com_content&view=article&id=84&Itemid=99&lang=zh">vivid protector</a> 現在正要上市，實在也是慢了 moshi 的 <a href="http://www.moshimore.com.tw/shop/goods.php?id=71">iVisor AG</a> 一步，朋友很多人都隨 Unibody Mac 貼好了保護貼。相較於 moshi，essential tpe 的低調作風，在增加知名度跟產品研發上面，實在還要更加努力才行呀。（也來個 iPhone / iPod touch 的週邊吧～）</p></div>

@@ -1,0 +1,14 @@
+---
+layout: layout.njk
+---
+<article class="post">
+  <h1>{{ title }}</h1>
+  <p class="meta">
+    <span>{{ date or page.date }}</span>
+    <span>來源：{{ source }}</span>
+    {% if original_url %}<a href="{{ original_url }}" target="_blank" rel="noopener">原文連結</a>{% endif %}
+  </p>
+  <section class="post-content">
+    {{ content | safe }}
+  </section>
+</article>

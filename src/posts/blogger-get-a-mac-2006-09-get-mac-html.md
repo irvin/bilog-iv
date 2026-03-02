@@ -1,0 +1,28 @@
+---
+layout: "post.njk"
+title: "從蘋果 電腦「Get a mac」廣告談起"
+date: "2006-09-26T04:48:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2006/09/get-mac.html"
+canonical_url: ""
+permalink: "/2006/09/get-mac.html"
+tags: ["廣告", "Apple", "blogger"]
+excerpt: "9/20 人文社會藝術講座 作業 當代社會的消費與政治 孫治本 http://www.arch.nctu.edu.tw/courses/DFL1301/index.htm 從蘋果電腦「Get a mac」廣告談起 最近蘋果電腦一系列的「 Get a Mac 」廣告，在網路上掀起極大的迴響。系列廣告由兩個主要角色演出，其中一個中年、穿著褐色老氣西裝、打領帶，表"
+---
+
+9/20 人文社會藝術講座 作業<br />
+當代社會的消費與政治 孫治本<br />
+<a href="http://www.arch.nctu.edu.tw/courses/DFL1301/index.htm">http://www.arch.nctu.edu.tw/courses/DFL1301/index.htm</a><br />
+<br />
+<span style="font-weight: bold;">從蘋果電腦「Get a mac」廣告談起</span><br />
+<br />
+最近蘋果電腦一系列的「<a href="http://www.apple.com/getamac/">Get a Mac</a>」廣告，在網路上掀起極大的迴響。系列廣告由兩個主要角色演出，其中一個中年、穿著褐色老氣西裝、打領帶，表現僵直的上班族是PC（Windows，代表Bill Gates），而另一個年輕、穿著T-Shirt與牛仔褲，談吐神情，表現輕鬆自在的則是Mac（蘋果電腦，代表創辦人Steve Jobs）。全系列的廣告中皆透過他們兩人逗趣的對談與肢體語言表現出Mac優於PC的特點。<br />
+<br />
+從此系列廣告中可以看到，現代社會的消費產品所強調的幾個特點：產品要有活力、有個性、要特色化。當市面上大部分消費性電子產品（例如手機、電腦、MP3等電子產品）的功能性已經能滿足其基本要求，產品在差異化、特色化的努力就成了消費者在琳瑯滿目的產品中選購的著眼點了。<br />
+<div id="fullpost">例如：如果有兩台MP3 player，價格一樣、記憶體容量一樣、播放音樂的音質、電力時間長短都大同小異，消費者會選購哪一台呢？是外表亮眼、可以掛在胸前當裝飾品的這台？或是跟記憶中爺爺奶奶的收音機長的一樣的那台？如果有兩台手機，功能上都大同小異，消費者會選擇最可靠的大同還是時尚的Benq-Siemens？十倍數時代，產品的發展早已符合大部分人的需求。今日消費者所消費的已不只是產品本身功能性帶來的價值，也包含了產品所帶來的時尚觀念。<br />
+<br />
+Starbucks林立於世界各大都會的街頭巷尾，建構了可觀的咖啡經濟，但消費者真是因為想喝Starbucks的咖啡而來嗎？相較於「35元也能喝到好咖啡」的「壹咖啡」，Starbucks所賣的其實是其生活態度與風格，是時尚，是一杯咖啡的悠閒。身為一個當代社會的消費者，可以選擇消費單純的產品，或是多付出點錢，同時能享受到跟隨產品而來的風格。此中沒有好壞，一切都看個人所欲。而在消費者做出抉擇的同時，廠商也會同樣做出抉擇：目標在務實的消費者或時尚的消費者。<br />
+<br />
+而我發現，仔細研究各廣告如何表現其對於生活風格的訴求，也是一件頗有趣的事。（註）<br />
+<br />
+註：「<a href="http://www.lifeclever.com/2006/09/07/how-to-dress-like-a-mac">How to dress like a Mac</a>」，「<a href="http://fashionistatv.com/?p=20">How to dress like a PC</a>」</div>

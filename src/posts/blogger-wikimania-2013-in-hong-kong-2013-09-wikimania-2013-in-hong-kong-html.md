@@ -1,0 +1,184 @@
+---
+layout: "post.njk"
+title: "Wikimania 2013 in Hong Kong"
+date: "2013-09-20T13:22:00.001Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2013/09/wikimania-2013-in-hong-kong.html"
+canonical_url: ""
+permalink: "/2013/09/wikimania-2013-in-hong-kong.html"
+tags: ["mozilla-reps", "community", "moztw", "blogger"]
+excerpt: "Mozilla Reps - Wikimania 2013 I'd been traveling to Hong Kong participate in Wikimania 2013 at Aug 7-11, in sponsored by Mozilla Reps program on Plane ticket and accommodation. and"
+---
+
+<h1><a href="https://reps.mozilla.org/e/wikimania-2013/">Mozilla Reps - Wikimania 2013</a></h1>
+
+<p>I'd been traveling to Hong Kong participate in Wikimania 2013 at Aug 7-11, in sponsored by Mozilla Reps program on Plane ticket and accommodation. and this is my report of the event, summarize what I do and what I learned at the conference.</p>
+
+<h2>Event Planning</h2>
+
+<h3>Registration</h3>
+
+<p>Wikimania were open registration for everyone, and there are 6 different ticket prices according to the registration time (early/regular/late registration) and identity (volunteer with Wikimedia accounts or not). It's different to our experience for Mozilla conference / meetup, that all Mozilla globally events I'd participant before were invite only, and most of them were for core contributors. Instead of "all insider", there are many leisure contributors (specially many students from China) showing up in Wikimania.</p>
+
+<h3>Volunteer</h3>
+
+<p>The Wikimedia Hong Kong chapter had recruit a hundreds of local students as volunteer workers in the conference, since they're non-community contributors, it's a little hard to have some kinds of interaction with them (discussion on Wikipedia or on OSS culture).</p>
+
+<p>After the closing ceremony, the organizer had let volunteers line-up outside of the hall. That is a clever arrangement, enable every participant to see in the faces of all volunteers, and give the warm good-bye to each other.</p>
+
+<p><a href="http://www.flickr.com/photos/irvin/9580297989/" title="Wikimania 2013 - Session - After closing plenary by Irvin Chen, on Flickr"><img src="http://farm4.staticflickr.com/3802/9580297989_df68bf829c_z.jpg" width="640" height="480" alt="Wikimania 2013 - Session - After closing plenary"></a><br>
+Photos of volunteers line up at sides of stair after closing ceremony</p>
+
+<h3>Arrival</h3>
+
+<p>The Wikimania host team wait for the participants right at outside of customs at Hong Kong Airport, just as we do at many Mozilla's volunteer events. But at Hong Kong, there are many ways to get in besides air transport, there are a lots of participants get into Hong Kong by going through border by rail. I don't know whether they had same preparation at the railway customs at train station to China.</p>
+
+<h3>Accommodation</h3>
+
+<p>Wikimania had offer special contracted dormitory for a good price (USD 27 per person per night) for participants at Hong Kong Baptist University. It's 30 mins away from the conference's venue by bus, and the conference provides shuttle bus at each morning and evening. This arrange must saved a lot for Wikimedia Fundation, because a great numbers of their community contributors need to stayed for more than 4 nights for pre-conference, and the normal price of hotels costs about 150 USD per night at Hong Kong.</p>
+
+<p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.tw/maps?saddr=Hong+Kong+Polytechnic+University&amp;daddr=%E9%A6%99%E6%B8%AF%E4%B9%9D%E9%BE%8D%E5%A1%98%E6%B5%B8%E6%9C%83%E5%A4%A7%E5%AD%B8%E9%81%935%E8%99%9F&amp;hl=zh-TW&amp;ie=UTF8&amp;sll=22.335012,114.182839&amp;sspn=0.004034,0.006968&amp;geocode=Fd1XVAEd3j3OBiGgf212NBrrWilbiiWc6AAENDGgf212NBrrWg%3BFYfPVAEdkEnOBikBf4J9LgcENDGKObzuUQPt4w&amp;brcurrent=3,0x0:0x0,0&amp;mra=ls&amp;t=m&amp;ll=22.318871,114.179798&amp;spn=0.032942,0.006219&amp;output=embed"></iframe><br />
+<a href="http://goo.gl/maps/Ufsxh">The maps of dormitory (Baptist University) to event venue (PolyU)</a></p>
+
+<h3>Venue</h3>
+
+<p>The venue of the Wikimania 2013 is Hong Kong Polytechnic University (PolyU), a famous university which is also known by us in Taiwan for many years. PolyU had been already set partnership with Wikimedia Hong Kong community from 2012 spring, when they trying to biding for the event. To partner with the venue at such ahead of time, became one of the major advantage of WMHK community to biding.</p>
+
+<ul>
+<li><a href="http://meta.wikimedia.org/wiki/Wikimania_2013_bids/Hong_Kong#Budget">The biding information from Wikimedia Hong Kong community for Wikimania 2013</a></li>
+</ul>
+
+
+<p>The conference used 8 lecture halls (including the main auditorium, capacity of 1000 people) and about 10 class rooms during the event, which spreading in 5 different buildings around main opening space "Logo Square", which used for dining and community booth.</p>
+
+<p><a href="http://wikimania2013.wikimedia.org/wiki/Venue">
+<img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUII9NSTgI_fB3CSDVFuxG5jB83XvT1RpleBUeUbOxVtLO2avKJhB7oZt19rYexEYE64-Pn7xHo5zKZj1dWuNEWLmx7lP79AuorgvKJdJP1AxBeCB5uiH8PX6I0g2VF2zyjOp9bQ/s400/1200px-Wikimania-2013-PolyU-Maps.jpg" /></a><br>The Venue Map of event</p>
+
+<p>The facilities of the opening space "Logo Square" including tables for booth, a big stair which people can sit, a huge TV screen showing videos from different Wikimedia chapters. People can greet each others, chat, social and get drinks at the square through the whole event. It's also providing good free dining experience than typical cafeteria, and able to host all thousand participants at same time.</p>
+
+<p>
+<a href="http://www.flickr.com/photos/irvin/9583054790/" title="Wikimania 2013 - Logo Square panorama by Irvin Chen, on Flickr"><img src="http://farm8.staticflickr.com/7364/9583054790_8cec10a872_c.jpg" width="800" height="320" alt="Wikimania 2013 - Logo Square panorama"></a><br>The panorama of "Logo Square" at a dining time</p>
+
+<h3>Foods</h3>
+
+<p>The conference provides Chinese/western buffet on breakfast and lunch, with coffee, soda and bottle water through the whole events for free. The free and more then enough cokes was sooo good in the summer day time of Hong Kong. It make me (and other peoples) happy with little expense of conference.</p>
+
+<h2>Events</h2>
+
+<h3>Welcome Party</h3>
+
+<p>The welcome party were held in a famous sightseeing venue "sky100 Observation Deck". Wikimania reserved half of the observation deck and prepared buffet inside. But the venue is too small, full fill with hundreds of participants, and amount of foods is not enough. The long line-up of people for buffet make the venue even smaller and harder to wandering around. But overall the choice of venue is good, treat the people who first came to Hong Kong with the night view of the city.</p>
+
+<h3>Closing party</h3>
+
+<p>The closing party is barbecue style dinner at "Shek O beach" side, which is a very popular vocation venue of Hong Kong at weekend (and really full of people). It's really far away from the city central (~20 km) and from the public transportation system (30 mins by bus to the nearest subway). Wikimania offer the shuttle bus to and from the venue, but people will need to stay until the end of party.</p>
+
+<p>I havn't stay at the party because the line-up of the food is even longer than welcome party, but it tooks me more then 1.5 hour to quit from the beach, line-up 1 hour for the public bus and get to the nearest subway station. I think we definitely have to prevent for such kinds of problem, find a venue near public transportation system, if we're going to prepare for same events in future.</p>
+
+<h3>Opening Ceremony</h3>
+
+<p>The content of the opening ceremony of Wikimania is pretty the same to the other conference, including the speech from organizer and from Jimmy Wales, and some slides of the reviewing of the foundation.</p>
+
+<p>The organizer had prepared a special 15mins performance "Lion Dance" at the beginning of the ceremony, it really is a fascinate exhibition of Chinese culture to participant from around the world. We can learn from them that trying to arrange some kinds of special perform or shows, if we're going to hold a international events.</p>
+
+<p><a href="http://www.flickr.com/photos/irvin/9583042598/" title="Wikimania 2013 Opening ceremony - 2 by Irvin Chen, on Flickr"><img src="http://farm6.staticflickr.com/5499/9583042598_75c50e3a28_z.jpg" width="640" height="480" alt="Wikimania 2013 Opening ceremony - 2"></a><br>
+The "Lion Dance" in open ceremony</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Lion_dance">Lion dance - Wikipedia</a></li>
+</ul>
+
+
+<h2>Sessions</h2>
+
+<h3>Scheduling</h3>
+
+<p>The schedule of Wikimania 2013 include near 130 sessions as 8 tracks in 3 days. The content including speeches, discussions and about one track of workshops each day. The tracks were organized in different topics, that easy to locate interesting one, from so many choice in the same time. But on my own opinon, the number of sessions is it a little more, because some of that I attendding had no more than 10 audience.</p>
+
+<ul>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Schedule">The schedule of Wikimania 2013</a></li>
+</ul>
+
+
+<p>Due to my roles and focus at Mozilla and at Mozilla Taiwan Community, I choose to attend most of the session at 'community', 'Asia' and 'future'  tracks. I feels there are 3 points worth to share.</p>
+
+<h3>Future</h3>
+
+<p>As my first Wikimania experience, I feels that "Future" is the main topic of the conference. For ex., what's the future of Wikipedia would be? how will the community and contributors look like in 10 years from now, how "scary" will the future if things go all wrong...</p>
+
+<p>This theme carried out with a panel "Imagine the Wikipedia in 2022". In the beginning of the panel, the host said that she carries a "Time Machine", and it's 2022 in sudden, then different Wikimedia staff shared what's happening "in this 10 years", including funding, contributor evolution, organization/profitable company structure and many other aspects.</p>
+
+<p>In another session "Ghosts of Wikis Yet to Come: Three Stories of Wikimedia's Future", the presenter shared 3 kinds of future story of Wikipedia. In the first future, Wikipedia turned out to be a corporate mega-mind controlled information database. In the second future, Wikipedia turned out to be social-powed portal, full of blur blur from your friends. In the other future, Wikipedia turned to "Wikiville", a small tribe of editors against every new technology like SNS, AR, or semantic web, they only cared about "information quality", and faced the huge crisis.</p>
+
+<p>In these sessions, they point out the difficulties Wikipedia currently facing, and the most important, what will it be if they don't take changes. After the session, participants will easy to understand why we need to adopt these changes, and "the changes" were covered by other part of the conferences to be deeply discussion.</p>
+
+<em>Related sessions:</em>
+
+<ul>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Imagine_the_Wikipedia_in_2022">Imagine the Wikipedia in 2022</a>
+</li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Ghosts_of_Wikis_Yet_to_Come:_Three_Stories_of_Wikimedia%27s_Future">Ghosts of Wikis Yet to Come: Three Stories of Wikimedia's Future</a>
+</li>
+</ul>
+
+<h3>Diversity</h3>
+
+<p>Wikipedian discuss contributor's diversity in many different domains, including locale, gender, age, article topics and ways of funding. We all know how importance of diversity in locales, for that Firefox is the browser with most l10n versions in world, but I didn't see much we discussed on diversity of contributors genders and other.</p>
+
+<p>Male and female has different care, interest and familiar domain, The research shows that female editors focused on peoples and arts, while males focus on geography and science. Currently the gender problem of Wikipedia is that there are 90% of users and contributors are male, and most of them is likely a "geeky man". This problem causing the article bias in topic. I see many projects carried out to solve the problem in many sessions, engaged female from different countries and different jobs to edit Wikipedia.</p>
+
+<em>Sessions related to diversity:</em>
+
+<ul>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Promoting_diversity_in_the_German_Wikipedia">Promoting diversity in the German Wikipedia</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Towards_bridging_the_gender_gap_in_Indian_Wikimedia_community">Towards bridging the gender gap in Indian Wikimedia community</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Bridging_the_Gender_Gap_with_Women_Scientists">Bridging the Gender Gap with Women Scientists</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Women_and_non-conventional_education_-_A_study_from_Indian_cultural_context">Women and non-conventional education - A study from Indian cultural context</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Encouraging_the_creation_and_development_of_articles_about_women_in_Ibero-America">Encouraging the creation and development of articles about women in Ibero-America</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Encouraging_the_creation_and_development_of_articles_about_women_in_Ibero-America">Encouraging the creation and development of articles about women in Ibero-America</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/How_to_diversify_its_sources_of_funding">How to diversify its sources of funding</a></li>
+</ul>
+
+
+<h3>Contribute experience</h3>
+
+<p>One of the reason causing decrease number and single "geeky" type of contributors is the difficult in usage of Wikipedia editor, and complicated rules to contribute. New edit tends to be deleted or rollback, if people didn't aware of the reference policy of Wikipedia. The Wikipedian discuss many possible ways to fixing that, including a new WYSIWYG editor, new tutorial system and an improved disclosure procedure of edit. The main target is to lower the difficulties, then gain the contributors and engage more diversity in contributors.</p>
+
+<em>Sessions related to user experience:</em>
+
+<ul>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/VisualEditor:_The_present_and_future_of_editing_our_wikis">VisualEditor: The present and future of editing our wikis</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Fun_user_experience_is_srs_bznss,_and_so_can_you">Fun user experience is srs bznss, and so can you</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/A_Strategy_for_Progressive_Disclosure_in_Wikipedia">A Strategy for Progressive Disclosure in Wikipedia</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Improving_the_user_experience_of_language_tools">Improving the user experience of language tools</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Forget_the_tutorials,_be_bold!_How_one_feature_has_attracted_thousands_of_new_editors">Forget the tutorials, be bold! How one feature has attracted thousands of new editors</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/From_the_streets_to_the_wikis,_onboarding_newbies">From the streets to the wikis, onboarding newbies</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Engaging_users_on_Wikipedia">Engaging users on Wikipedia</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Article_Feedback">Article Feedback</a></li>
+<li><a href="http://wikimania2013.wikimedia.org/wiki/Submissions/Make_your_user_experience_easy_to_learn:_a_guided_tour">Make your user experience easy to learn: a guided tour</a></li>
+</ul>
+
+
+<h2>Meetup</h2>
+
+<h3>Meet the Mozillians 2013 HK</h3>
+
+<p>Our Hong Kong community (which is currently organized by Sammy Fung) host a "Meet the Mozillians 2013 HK" meetup during the event at Friday night. Totally 11 people joined the meetup, including local community members Fubuki Hoshino, Wan Leung Wong, Amanda Lam, Sammy and several others, foreign Mozillians including Arky, Orin, me, and Oarabile (member of Mozilla Botswana). We'd discussion several things during the whole 3 hours meeting.</p>
+
+<p>The topics including,
+- Hong Kong community conditions. They're just settle up, and the contributors were large shared with current FLOSS communities like HKLUG, OSHK. Also the website is under construction.
+- Recruitment, we shared some of the recruit resource including the SNS channel at the right hand side of Firefox download landing page, and snippet at the front-page (default search page).</p>
+
+<p><a href="http://www.flickr.com/photos/irvin/9481109710/" title="Meet the Mozillians 2013 HK by Irvin Chen, on Flickr"><img src="http://farm3.staticflickr.com/2877/9481109710_7e43b84c03_c.jpg" width="800" height="187" alt="Meet the Mozillians 2013 HK"></a><br>
+Panorama of the meeting</p>
+
+<ul>
+<li><a href="https://reps.mozilla.org/e/meet-the-mozillians-2013-hong-kong/">Rep event page of "Meet the Mozillians 2013 HK"</a></li>
+</ul>
+
+
+<h3>Meetings during Wikimania</h3>
+
+<p>There are also several different meetups scheduled in Hong Kong during this period, such as Creative Commons meeting (there are several Taiwanese CC members who were going to  participate in their own meeting, thus they can also join Wikimania for some free time.)</p>
+
+<p>I feels that it's really a good chance to organize the small/medium size inter-countries event during a large conference. Since the people from everywhere already gathered for the conference I also suggest we may plan to prepare have some meetup near next year's Wikimania (in London).</p>

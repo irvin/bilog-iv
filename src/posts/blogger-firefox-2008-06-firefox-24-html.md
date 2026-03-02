@@ -1,0 +1,107 @@
+---
+layout: "post.njk"
+title: "Firefox 機器人"
+date: "2008-06-24T08:24:00.008Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2008/06/firefox_24.html"
+canonical_url: ""
+permalink: "/2008/06/firefox_24.html"
+tags: ["mozilla", "科幻", "瀏覽器", "firefox", "blogger"]
+excerpt: "Firefox 3 機器人 舊金山的 狐迷 們在 6/22 舉辦的 Launch Party 上，建造了 Firefox 機器人！ ( Firefox 3 Build The Robot Crew Uploaded by JP Puerta ) Firefox 機器人是源自於 Beta 2 的歡迎畫面，而且這是有故事的： Beta 2: ( Firefox"
+---
+
+Firefox 3 機器人
+
+<p>舊金山的 狐迷 們在 6/22 舉辦的 Launch Party 上，建造了 Firefox 機器人！<br />
+<img src="http://farm4.static.flickr.com/3254/2603070503_4499982721.jpg" /><br />
+(<a title="Firefox 3 Build The Robot Crew" href="http://www.flickr.com/photos/ews/2603070503/">Firefox 3 Build The Robot Crew</a> Uploaded by <a href="http://www.flickr.com/photos/ews/" title="Link to JP Puerta's photostream">JP Puerta</a>)</p>
+<br />
+
+<p>Firefox 機器人是源自於 Beta 2 的歡迎畫面，而且這是有故事的：</p>
+
+
+<p>Beta 2:<br />
+<img src="http://farm3.static.flickr.com/2133/2126792678_08d927cbda.jpg" /><br />
+(<a title="Firefox 3 Beta 2 Welcome page" href="http://flickr.com/photos/plynoi/2126792678/">Firefox 3 Beta 2 Welcome page</a> Uploaded by <a href="http://flickr.com/photos/plynoi/" title="Link to plynoi's photostream">plynoi</a>)</p><br />
+<div id="fullpost">
+
+<p>Beta 3:<br />
+<img src="http://farm3.static.flickr.com/2187/2326232424_fb52973924.jpg" /><br />
+(<a title="What's new page of Firefox 3 beta3" href="http://flickr.com/photos/plynoi/2326232424/">What's new page of Firefox 3 beta3</a> Uploaded by <a href="http://flickr.com/photos/plynoi/" title="Link to plynoi's photostream">plynoi</a>)</p><br />
+
+
+<p>Beta 4:<br />
+<img src="http://farm4.static.flickr.com/3150/2325196753_a7d7cb5249.jpg" /><br />
+(<a title="welcome to firefox 3 beta 4" href="http://flickr.com/photos/fmg2001/2325196753/">welcome to firefox 3 beta 4</a> Uploaded by <a href="http://flickr.com/photos/fmg2001/" title="">fmg2001</a>)</p><br />
+
+
+<p>Bata 5:<br />
+<img src="http://farm3.static.flickr.com/2040/2382560385_4e71c96bee.jpg" /><br />
+(<a title="firefox 3 beta 5 welcome page" href="http://www.flickr.com/photos/fmg2001/2382560385/">firefox 3 beta 5 welcome page</a> Uploaded by <a href="http://www.flickr.com/photos/fmg2001/" title="Link to fmg2001's photostream">fmg2001</a>)</p><br />
+
+
+<p>看出來了嗎？Firefox 機器人在外星人入侵時解救了地球！</p><br />
+
+
+<p>且機器人還在 Firefox 3 中留了隱藏訊息：在網址列輸入 <a href="about:robots">about:robots</a> 即可開啟：<br /><br />
+<img src="http://docs.google.com/File?id=dhm4tqmm_76czbvmscn_b" /><br />
+<a href="http://www.flickr.com/photos/irvin/2606631782/">Firefox 3 about:robots easter eggs (zhtw)</a></p>
+
+
+<p>原文：<br />
+<img src="http://docs.google.com/File?id=dhm4tqmm_77d49psddz_b" /><br />
+(<a title="Firefox 3 contains BSG easter egg" href="http://www.flickr.com/photos/leufstedt/2597996929/">Firefox 3 contains BSG easter egg</a> Uploaded by <a href="http://www.flickr.com/photos/leufstedt/" title="Link to Leufstedt's photostream">Leufstedt</a>)</p><br />
+
+<p>這其中其實用了很多梗，<a href="http://www.jonlee.ca/firefox-3-easter-egg-explained/">Firefox 3 Easter Egg Explained - jonlee.ca</a> 將這些片段都找出來了，我把它翻譯整理在下：</p><br />
+
+
+<blockquote>高特！不要炸飛這個世界！<br />
+Gort! Klaatu barada nikto!<br />
+我們帶著和平與友好前來拜訪你！<br />
+We have come to visit you in peace and with goodwill!</blockquote>
+
+<p>這兩句是 1951 年科幻電影《The Day the Earth Stood Still》中的台詞，第一句的詳細說明可以參見 <a href="http://en.wikipedia.org/wiki/Klaatu_barada_nikto">Wikipedia</a>，第二句則是在 4 分鐘的地方。</p>
+
+<blockquote><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/sIaxSxEqKtA&hl=zh_TW"></param><embed src="http://www.youtube.com/v/sIaxSxEqKtA&hl=zh_TW" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XjHziasA7s8&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/XjHziasA7s8&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="344"></embed></object></blockquote><br /><br /><br />
+
+
+<blockquote>機器人不得傷害人類，或袖手旁觀坐視人類受到傷害。<br />
+Robots may not injure a human being or, through inaction, allow a human being to come to harm.</blockquote>
+
+<p>這是艾西莫夫機器人三大法則（Three Laws of Robotics）的第一條，全文為：</p>
+
+<blockquote>第一法則：機器人不得傷害人類，或因袖手旁觀而使人類受到傷害。<br />
+第二法則：機器人必須服從人類的命令，除非與第一法則相抵觸。<br />
+第三法則﹕機器人必須保護自己的存在，除非與第一或第二法則相抵觸。</blockquote>
+
+<p>以三大法則為背景的科幻故事可說是數不勝數了，電影中比較有名的有機械公敵與變人，至於小說當然就是 <a href="http://en.wikipedia.org/wiki/Isaac_Asimov%27s_Robot_Series">艾西莫夫機器人系列</a> 作品，例如 <a href="http://findbook.tw/book/9789867415912/basic">我，機器人</a>、鋼穴、裸陽、<a href="http://findbook.tw/book/9789576217005/basic">正子人</a> 等書。</p><br /><br />
+
+
+<blockquote>機器人見過你們人類絕對無法置信的事物。<br />
+Robots have seen things you people wouldn’t believe.</blockquote>
+
+<p>這是經典科幻電影《銀翼殺手 Blade Runner》片尾，複製人 Roy Batty 正被 Rick Deckard 獵殺將死前的台詞改寫。
+
+<blockquote><p>I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time, like tears in rain. Time to die.</p>
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZTzA_xesrL8&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/ZTzA_xesrL8&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="344"></embed></object></blockquote><br /><br />
+
+
+<blockquote>機器人是您的塑膠伙伴，有它作伴快樂無比。<br />
+Robots are Your Plastic Pal Who’s Fun To Be With.</blockquote>
+
+<p>來自於 道格拉斯·亞當斯 的《<a href="http://zh.wikipedia.org/w/index.php?title=%E9%93%B6%E6%B2%B3%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97%E7%B3%BB%E5%88%97&variant=zh-tw">The Hitchhiker's Guide to the Galaxy 銀河便車指南</a>》中，虛構的 Sirius Cybernetics Corporation 對於「robot」的定義，本書 <a href="http://findbook.tw/book/9789571343808/basic">中譯本</a> 由時報出版，<a href="http://www.imdb.com/title/tt0371724/">同名電影</a> 於 2005 年上映。</p><br /><br />
+
+
+<blockquote>機器人有著不該被咬的閃亮鐵屁股。<br />
+Robots have shiny metal posteriors which should not be bitten.</blockquote>
+
+<p>這是一部科幻動畫喜劇《<a href="http://zh.wikipedia.org/wiki/%E4%B9%83%E5%87%BA%E5%80%8B%E6%9C%AA%E4%BE%86">Futurama</a>》中機器人 Bender 的梗，他常說「Bite my shiny metal ass!」（來咬我的閃亮鐵屁股！）</p><br /><br />
+
+
+<blockquote>而且他們有個計劃…<br />
+And they have a plan.</blockquote>
+
+<p>這是科幻影集 Battlestar Galactica（星際大爭霸）中賽隆人的梗。</p></div>

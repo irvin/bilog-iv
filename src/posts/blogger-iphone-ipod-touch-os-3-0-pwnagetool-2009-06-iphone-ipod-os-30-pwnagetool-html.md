@@ -1,0 +1,35 @@
+---
+layout: "post.njk"
+title: "iPhone & iPod touch OS 3.0 越獄工具 PwnageTool 上場了！"
+date: "2009-06-19T17:43:00.009Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2009/06/iphone-ipod-os-30-pwnagetool.html"
+canonical_url: ""
+permalink: "/2009/06/iphone-ipod-os-30-pwnagetool.html"
+tags: ["Apple", "ipod", "iphone", "blogger"]
+excerpt: "就在剛剛（台灣時間 6/20 1:30 左右），駭客團體 Dev-Team 公開 iPhone & iPod OS 3.0 的越獄破解工具 PwnageTool 3.0 了！ 目前 PwnageTool 僅有 Mac 版，Windows 的使用者請耐心等候。 原始文章： Dev-Team Blog - trois, drei, три, három! 請詳閱"
+---
+
+<p>就在剛剛（台灣時間 6/20 1:30 左右），駭客團體 Dev-Team 公開 iPhone & iPod OS 3.0 的越獄破解工具 PwnageTool 3.0 了！</p>
+
+<p>目前 PwnageTool 僅有 Mac 版，Windows 的使用者請耐心等候。</p>
+
+<p>原始文章：<a href="http://blog.iphone-dev.org/post/126465561/trois-drei-h-rom">Dev-Team Blog - trois, drei, три, három!</a></p>
+
+<p><em>請詳閱以下內容再進行越獄動作，此動作帶有危險性，如不慎有損毀你珍貴的 iPhone 或 iPod touch 的可能性！</em></p>
+
+<p>以下快速翻譯一下內容：</p>
+
+<p>1. 最重要的，如果你使用需解鎖的 iPhone 3G（例如美國版鎖定 AT&T），此工具不適用！用了會恢復鎖機狀態，使你無法講電話！請繼續等待即將公開的解鎖工具 UltraSn0w。一代 iPhone（非 3G）則可透過 PwnageTool 3.0 解鎖。</p>
+
+<p>2. 剛上市的 iPhone 3Gs 也無法使用。</p>
+
+<p>3. PwnageTool 3.0 可適用的對象有一代 iPhone、一代 iPod touch、iPhone 3G 無鎖機版（中華電信公司貨即是無鎖機版），不可適用的對象有二代 iPod touch 及 iPhone 3G 鎖機版。</p>
+
+<p>無鎖機版 iPhone 3G 及任何一代 iPhone：請先用 iTunes 更新至 3.0，以便更新你的通訊軔體（baseband），再使用 PwnageTool 3.0 建立 ipsw 檔案，使用其進行越獄。</p>
+
+<p>一代 iPod touch：請先使用 iTunes 升級至 3.0，然後使用 PwnageTool 3.0 進行越獄。</p>
+
+<p>二代 iPod touch（內建喇叭機型）：目前無法越獄，請繼續等候。</p>
+
+<p>PwnageTool 3.0 官方下載網址（BT 種子檔）：<a href="http://torrents.thepiratebay.org/4963802/PwnageTool_3.0.dmg.4963802.TPB.torrent">http://torrents.thepiratebay.org/4963802/PwnageTool_3.0.dmg.4963802.TPB.torrent</a></p>

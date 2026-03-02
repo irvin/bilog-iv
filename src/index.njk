@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+title: 首頁
+permalink: /index.html
+---
+<section>
+  <p>此站由 Markdown 編譯產生，內容來源為 Blogger 與 Medium 匯出備份。</p>
+  <ul class="post-list">
+    {% for post in collections.postsByDate %}
+      <li>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+        <span>{{ post.data.date or post.date }}</span>
+        <small>{{ post.data.source }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

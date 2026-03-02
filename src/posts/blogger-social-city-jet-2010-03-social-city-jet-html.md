@@ -1,0 +1,42 @@
+---
+layout: "post.njk"
+title: "Social City Jet 火狐畫面最大化套件"
+date: "2010-03-24T17:36:00.010Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2010/03/social-city-jet.html"
+canonical_url: ""
+permalink: "/2010/03/social-city-jet.html"
+tags: ["jetpack", "firefox", "blogger"]
+excerpt: "2010/4/21 更新： Social City 前幾天的更新中，已經把畫面最大化的功能拿掉了，因此這個套件目前只剩下關廣告的功能啦！ 這兩天發現一個臉書的遊戲 Social City 還不錯玩，但是總是覺得畫面小小的，很浪費寬螢幕的空間。下午就用火狐 Firefox 的 Jetpack 套件架構寫了個 Social City Jet 套件來修改畫面，讓城"
+---
+
+<blockquote><b>2010/4/21 更新：</b>Social City 前幾天的更新中，已經把畫面最大化的功能拿掉了，因此這個套件目前只剩下關廣告的功能啦！</blockquote>
+
+<p>這兩天發現一個臉書的遊戲 <a href="http://apps.facebook.com/socialcity/">Social City</a> 還不錯玩，但是總是覺得畫面小小的，很浪費寬螢幕的空間。下午就用火狐 Firefox 的 Jetpack 套件架構寫了個 <a href="https://jetpackgallery.mozillalabs.com/jetpacks/381">Social City Jet</a> 套件來修改畫面，讓城市顯示的大一點啦。</P>
+
+<p>下面第一章圖是原本的版面，第二張圖是裝了 Social City Jet 之後的畫面，是不是感覺寬廣多了呢？（還順手把廣告偷偷拿掉了）</p>
+<img border="0" height="486" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpsL4efvPS6UFUCUY9YihW7XpIBScoNF_Bo-9HYmYx6xuCjXfrGL-yY3kVwtF5pawAjpAnCN_w5zZ-M5l7VFwsmALY8xis1KvZooz9vqIa_kirQ1mEJPZNo-tVvT7gy3ztNHMtw/s640/social-5.png" width="640" />
+<img border="0" height="486" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZEixun2A190DcXkQbHtuo0jmm6CRNaoWdtWsP8uJ9i63cj3pmRLQTAQXe_QkD-4RLicIrI1Ey75fOSY_5x5O8h17KY_ihjWmsjmP774QELrRAYJQioSZvi9MSstYpaGc1QstkoQ/s640/social-6.png" width="640" />
+<!-- more -->
+<p>因為 Social City Jet 套件使用了火狐未來（預計 4.0 時加入）的套件架構 Jetpack，所以安裝時需要多幾個步驟，在此為大家介紹如何安裝：</p>
+第一步：開啟 <a href="http://jetpackgallery.mozillalabs.com/jetpacks/381">Social City Jet :: jetpack</a> 頁面，先勾選下圖的 (1) 處「Let me install this unreviewed Jetpack.」，再點選 (2) 的按鈕「INSTALL JETPACK」。 </p>
+<img border="0" height="483" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjKpIJv2Gk6yHGgMpJeHr-zf5bEiJ6Lokyrprg_AvLKyufJ92wYfUDTG7Es-6fnEX60ZcOq27cbGTpl9iq-tgan_SGYRmWqeE2GY0MGP66RRmOwINFgZPz9rueQQOIN4Egw8tKg/s640/social-0.png" width="640" />
+
+<p>第二步：火狐此時會問你要不要安裝 Jetpack 附加元件，請放心點選「立刻安裝」。</p>
+<img border="0" height="267" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivyq_8Wp-wmrGdhWrTA-890ouYWx-hqVJZOfi6WtwlvkWv9aIb8_EX0J9ZSrtuazqyZDO4bVXzTwa0xgxjttf9xeB0c8_25MnqkP2qaR_-DhU1FJzs8zvfcQwPDV2gFUmGpZaixg/s400/social-2.png" width="400" />
+
+<p>第三步：Jetpack 安裝完成後，請選擇「重新啟動 Firefox」，火狐關閉後會自動重開。</p>
+<img border="0" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjcB3Vb0eJwX3oHU0PdgRpI2rZEarBhjhwHS2tChXHCjo2ORVp9RwFhTuWgf7Ab7QJ8Pr9epogdXe7uAjoDJ3B3gc_OPhrbFDqpw5DlZhqAJdEeheeL9Ezjq0yTX5KJmy98p40UA/s400/social-3.png" width="400" />
+
+<p>第四步：火狐重新開啟之後，就會跳出套件安裝完成的頁面，如此就可以了！</p>
+<img border="0" height="302" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUVERWulz5o1JQK-iAswRFzcwcML6nrI9jEjLQK8e1q8OjClgu0r0SmKn_zZf3yK7dxqd5NYHnubWBPtQOQOEyOD2aqRTM8ZuSoQhdTKeAFZEzw-uErO8F-zZWpw8DlkTv5qBx9Q/s400/social-4.png" width="400" />
+
+<p>安裝完成之後，右上角會出現 Social City 圖案的按鈕，按下去就會直接開啟 Social City 的登入頁面。</p>
+<img border="0" height="486" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpsL4efvPS6UFUCUY9YihW7XpIBScoNF_Bo-9HYmYx6xuCjXfrGL-yY3kVwtF5pawAjpAnCN_w5zZ-M5l7VFwsmALY8xis1KvZooz9vqIa_kirQ1mEJPZNo-tVvT7gy3ztNHMtw/s640/social-5.png" width="640" />
+
+<p>只要登入之後，再按一次這個按鈕，遊戲畫面就會開到最大啦！</p>
+
+<p>這個套件因為直接把遊戲用的空間硬是拉大的關係，所以畫面右邊本來被遮住的地方有時怪怪的，如果有房子或工廠剛好在右半邊，有時候會看不到完工或生人的標誌，特別提醒大家注意喔。</p>
+
+<p>如果你喜歡這個 Jetpack 套件，也推薦你試試看我的另一個 噗浪 <a href="http://sites.google.com/site/jetplurk/alpha/zh">JetPlurk α</a>套件喔！（<a href="https://jetpackgallery.mozillalabs.com/jetpacks/362">直接安裝頁面</a>）</p>
+<img border="0" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPp00KwnVF6w36vODaA6ilGtmS7zuQfKMHK3plPRzDV6fgA9fsX8hVfwrPzMZevjchX9OgZWfHoUpucpeEJ1w5Cv7DZfc2ptnK8IINcQqrz_tXcRZz2c3FGVWaeukinjs4I8LOQ/s400/jetplurk+021+screenshot+-+2.png" width="400" />

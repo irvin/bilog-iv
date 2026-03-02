@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if title %}{{ title }} | {% endif %}Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1><a href="/">Irvin Blog Archive</a></h1>
+      <p>完全靜態，保留原始文章網址結構</p>
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "name": "irvin-blog-static",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "import": "node scripts/import-content.js",
+    "build": "npm run import && eleventy",
+    "serve": "npm run import && eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.0"
+  }
+}

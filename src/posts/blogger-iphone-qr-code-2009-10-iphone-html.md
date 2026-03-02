@@ -1,0 +1,115 @@
+---
+layout: "post.njk"
+title: "iPhone 免費 QR Code 二維條碼軟體大測試"
+date: "2009-10-12T15:33:00.006Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2009/10/iphone.html"
+canonical_url: ""
+permalink: "/2009/10/iphone.html"
+tags: ["Apple", "分享", "blogger"]
+excerpt: "因為 iPhone 上原先安裝的兩個二維條碼軟體，剛好都解不開 findbook.tw 網站所提供的條碼，因此今天利用了一些時間，把 App Store 上找到的 14 套免費二維條碼軟體通通抓下來，簡單測試了一下。 其實每一套軟體的功能都大同小異，差異點主要在於以下幾點： 1. 是否要先按下照相才能辨識，或者能夠在鏡頭指到條碼時直接辨識（測試結果是只有 i"
+---
+
+<p>因為 iPhone 上原先安裝的兩個二維條碼軟體，剛好都解不開 <a href="http://findbook.tw">findbook.tw</a> 網站所提供的條碼，因此今天利用了一些時間，把 App Store 上找到的 14 套免費二維條碼軟體通通抓下來，簡單測試了一下。</p>
+<p>其實每一套軟體的功能都大同小異，差異點主要在於以下幾點：<br>1. 是否要先按下照相才能辨識，或者能夠在鏡頭指到條碼時直接辨識（測試結果是只有 i-nigma 能夠做到）<br>2. 拍攝完條碼是否要手動微調照片大小、位置對準辨識框<br>3. 可否直接開啟相簿中的相片來辨識<br>4. 辨識力及速度<br>5. 辨識結果的處理程序跟會不會儲存歷史辨識資訊。</p>
+<p>根據以上五點的表現，以下每一套軟體我都有簡單的測試結果，並且分為五顆星到一顆星的推薦等級。</p>
+<p>這是本次測試用的 QR Code，直接顯示在螢幕上來拍攝：<br>
+<a href="http://findbook.tw/book/9789866651878/price_qrcode"><img src="http://findbook.tw/book/9789866651878/price_qrcode" /></a></p>
+<br>
+<br>
+<span style="color: orange; background-color: yellow;">[★★★★★]</span>
+<br>
+
+<p><a href="http://appshopper.com/utilities/i-nigma"><img src="http://images.appshopper.com/icons/331/895424.png" /></a><br>
+i-nigma <span style="color: #999999;">3.00.01</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=331895424&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/i-nigma" title="App Shopper">App Shopper</a><br>
+可不需要拍攝、畫面指到條碼就直接解開，速度超快、功能與自訂選項都很完整，可惜功能間切換的左右移動不是很流暢。</p>
+
+<p><a href="http://appshopper.com/productivity/beetagg-reader"><img src="http://images.appshopper.com/icons/286/586449.png" /></a><br>
+BeeTagg Reader <span style="color: #999999;">2.3.10</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=286586449&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/productivity/beetagg-reader" title="App Shopper">App Shopper</a><br>
+可讀取相簿中的圖片或拍攝來解碼，不需手動調整條碼大小，解開的網址會用內建的瀏覽器視窗開啟，很方便。</p>
+<!-- more --><br>
+<br>
+<span style="color: orange; background-color: yellow;">[★★★★]</span>
+<br>
+
+<p><a href="http://appshopper.com/utilities/barcode"><img src="http://images.appshopper.com/icons/285/683111.jpg" /></a><br>
+Barcode <span style="color: #999999;">0.4</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=285683111&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/barcode" title="App Shopper">App Shopper</a><br>
+需要先選擇條碼種類、手動對準辨識框。辨識蠻快、可用的動作（開啟、郵寄、簡訊）也很多。可辨識相簿中的圖片。</p>
+
+
+<p><a href="http://appshopper.com/utilities/barcodes"><img src="http://images.appshopper.com/icons/292/197557.jpg" /></a><br>
+Barcodes <span style="color: #999999;">1.0</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292197557&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/barcodes" title="App Shopper">App Shopper</a><br>
+可拍攝或辨識相簿及 Camera roll 中的圖片，需要將照片手動對準辨識框（將條碼放太大反而會辨識不到）。辨識速度蠻快的。</p>
+
+
+<p><a href="http://appshopper.com/entertainment/mobiletag-2d-barcodes-reader-datamatrix-qr-codes"><img src="http://images.appshopper.com/icons/324/679839.png" /></a><br>
+mobiletag <span style="color: #999999;">2.2.0607</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=324679839&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/entertainment/mobiletag-2d-barcodes-reader-datamatrix-qr-codes" title="App Shopper">App Shopper</a><br>
+辨識很快，但是首次使用要輸入 email，不知道要做什麼用。不需手動調整條碼大小，但不能辨識相簿中圖片。辨識成功有音效，還蠻嚇人的。</p>
+<br>
+<br>
+<span style="color: orange; background-color: yellow;">[★★★]</span>
+<br>
+
+<p><a href="http://appshopper.com/utilities/qr-app"><img src="http://images.appshopper.com/icons/320/140689.png" /></a><br>
+QR app <span style="color: #999999;">1.1</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=320140689&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/qr-app" title="App Shopper">App Shopper</a><br>
+速度很快，不需手動調整條碼大小，掃描到網址時不經詢問會自動開啟 Safari。</p>
+
+
+<p><a href="http://appshopper.com/utilities/quickmark-lite"><img src="http://images.appshopper.com/icons/311/580105.png" /></a><br>
+QuickMark Lite <span style="color: #999999;">3.8.0</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311580105&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/quickmark-lite" title="App Shopper">App Shopper</a><br>
+速度還蠻快的，無法儲存掃描歷史，可以發送到 twitter。需手動對準條碼，說明說可以不用拍照直接解，實際使用卻沒這個功能。（付費版 QuickMark 應該是有，免費的 Lite 版沒有，但是說明中卻有特別提到這個功能）</p>
+
+
+<p><a href="http://appshopper.com/utilities/scanmee"><img src="http://images.appshopper.com/icons/309/707110.png" /></a><br>
+ScanMee <span style="color: #999999;">1.0</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=309707110&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/scanmee" title="App Shopper">App Shopper</a><br>
+需手動對準條碼、速度還蠻快的。無法辨識相簿中相片、無辨識歷史。</p>
+
+
+<p><a href="http://appshopper.com/utilities/mobi-reader"><img src="http://images.appshopper.com/icons/325/188729.png" /></a><br>
+Mobi Reader <span style="color: #999999;">1.0</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=325188729&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/mobi-reader" title="App Shopper">App Shopper</a><br>
+速度很快，可惜是法文（或義大利文？）沒有英文介面，看不懂。</p>
+
+
+<p><a href="http://appshopper.com/utilities/idecode"><img src="http://images.appshopper.com/icons/286/795499.jpg" /></a><br>
+iDecode <span style="color: #999999;">1.2</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=286795499&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/idecode" title="App Shopper">App Shopper</a><br>
+速度頗慢，需要先選擇使用的二維條碼種類</p>
+<br>
+<br>
+<span style="color: orange; background-color: yellow;">[★★]</span>
+<br>
+
+<p><a href="http://appshopper.com/business/upcode"><img src="http://images.appshopper.com/icons/297/104013.png" /></a><br>
+UpCode <span style="color: #999999;">1.5</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=297104013&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/business/upcode" title="App Shopper">App Shopper</a><br>
+解不開測試用的 QR Code。</p>
+
+
+<p><a href="http://appshopper.com/business/codeicare"><img src="http://images.appshopper.com/icons/317/994657.png" /></a><br>
+CodeIcare <span style="color: #999999;">2.1.0</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=317994657&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/business/codeicare" title="App Shopper">App Shopper</a><br>
+解不開測試用的 QR Code。</p>
+
+
+<p><a href="http://appshopper.com/utilities/scanlife"><img src="http://images.appshopper.com/icons/285/324287.jpg" /></a><br>
+ScanLife <span style="color: #999999;">2.0</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=285324287&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/utilities/scanlife" title="App Shopper">App Shopper</a><br>
+不支援解 QR Code。</p>
+<br>
+<br>
+<span style="color: orange; background-color: yellow;">[★]</span>
+<br>
+
+<p><a href="http://appshopper.com/productivity/2d-sense"><img src="http://images.appshopper.com/icons/286/060121.jpg" /></a><br>
+2D Sense <span style="color: #999999;">3.15</span><br>
+<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=286060121&amp;mt=8" title="App Store">App Store</a>、<a href="http://appshopper.com/productivity/2d-sense" title="App Shopper">App Shopper</a><br>
+解不開測試用的 QR Code，而且還解的很慢很慢。</p>

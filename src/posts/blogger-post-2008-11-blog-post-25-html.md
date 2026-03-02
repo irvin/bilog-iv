@@ -1,0 +1,40 @@
+---
+layout: "post.njk"
+title: "台南野草莓官網恢復說明"
+date: "2008-11-24T19:22:00.013Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2008/11/blog-post_25.html"
+canonical_url: ""
+permalink: "/2008/11/blog-post_25.html"
+tags: ["學運", "網站", "野草莓", "blogger"]
+excerpt: "（關於官網遭關閉事件，可先閱讀 11/24 早上文章： 台南野草莓官網無預警遭關閉說明 ） 昨天（24 日）早上約 10 點 台南區野草莓網站 被 Google Sites（Google 協作平台）無預警因違反使用條款理由關閉，現（25 日 3 點）已恢復，在此簡單說明如下。 昨天早上發現網站被關閉後，我立刻用 Google Sites 的回報功能回報，直到"
+---
+
+<a href="http://www.flickr.com/photos/irvin/3057018332/" title="Flickr 上 Irvin Chen 的 台南野草莓官網恢復"><img src="http://farm4.static.flickr.com/3006/3057018332_20d1b4a1dd.jpg" width="500" height="366" alt="台南野草莓官網恢復" /></a>
+
+<p>（關於官網遭關閉事件，可先閱讀 11/24 早上文章：<a href="http://irvin.sto.tw/2008/11/blog-post_24.html">台南野草莓官網無預警遭關閉說明</a>）</p>
+
+<p>昨天（24 日）早上約 10 點 <a href="http://go2.tw/tainandirect">台南區野草莓網站</a> 被 Google Sites（Google 協作平台）無預警因違反使用條款理由關閉，現（25 日 3 點）已恢復，在此簡單說明如下。</p>
+
+<p>昨天早上發現網站被關閉後，我立刻用 Google Sites 的回報功能回報，直到今天凌晨都還沒有恢復，因此在今日 2 點左右再度使用回報功能回報，以中英文分別說明網站並未違反條款，也無任何違法或侵權行為。</p>
+
+<p>3 點 20 分左右，網站就忽然恢復正常。跟關站時一樣，沒有通知、沒有預警，只是恢復正常了。待內容更新後我會把 <a href="http://go2.tw/tainandirect">http://go2.tw/tainandirect</a> 網址再度更改回 Google Sites。（更新：已將網址改回完成）</p>
+
+<p>雖然野草莓官方網站發出之新聞稿「<a href="http://action1106.blogspot.com/2008/11/blog-post_25.html">台南野草莓官網遭抄台事件聲明</a>」針對 Google 或政府提出侵犯言論自由的疑慮，但在網站服務中斷期間，個人寧願相信這是網站遭人回報之程序上的錯誤或誤會。此次能迅速排除網站問題，恢復網站運作，在此公開對 Google 公司表達謝意。</p>
+
+<p>雖然網站已順利上線，我還是針對 Google 公司提出以下建議：</p>
+
+<p>一、關閉任何協作平台網站、Blogger、或針對個人終止或暫停任何服務前，Google 公司應事先通知當事人其疑慮或違反之服務條款，並提供具時效性之救濟管道。直接關閉的作法非常不適合，也剝奪當事人進行事先處理或澄清的權利。</p>
+
+<p>二、關站迄今（11/25 3:40）個人尚未收到任何來函，說明為何網站遭到關閉，或回覆先前之去信。對於帶來使用者不便，至少應以回覆說明。</p>
+
+<p>三、使用者選擇 Google 服務，是出於對 Google 之信任，或認同 Google 公司 Don't be Evil 之準則，因此將個人重要資料與內容交予或選擇置放於 Google 公司╱服務。對於使用者建置之內容或提供使用者之服務，Google 應更加小心謹慎處理。使用者越為信任 Google，Google 所應負之責任越大。</p>
+
+<p>台南區野草莓官網架設工友 Irvin</p>
+
+<p>11/26更新：昨天已收到 Google 的回信如下，看來是擋 Spam 功能出錯：</p>
+
+<blockquote>Hello,<br>
+<br>
+Thank you for your reply. We have re-enabled your site and apologize for the inconvenience. For an explanation of why your site was disabled, please see the following thread in our User Help Group:<br>
+<a>http://groups.google.com/group/google-sites-announcements/browse_thread/thread/1563d0ad57c629ed?hl=en#</a></blockquote>

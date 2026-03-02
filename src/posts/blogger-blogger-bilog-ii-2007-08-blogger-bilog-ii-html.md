@@ -1,0 +1,23 @@
+---
+layout: "post.njk"
+title: "Blogger 上的 Bilog II"
+date: "2007-08-14T15:36:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2007/08/blogger-bilog-ii.html"
+canonical_url: ""
+permalink: "/2007/08/blogger-bilog-ii.html"
+tags: ["bilog", "部落格", "blogger"]
+excerpt: "又做了一些 Bilog II 功能上的小修改，大部份都是以前就想要加上來的。Google Blogger 這個 BSP 就是好在很穩定，平台與功能上很自由，但是預設的功能實在很陽春，很多東西都要手動修改模板來加入，對於對 CSS 與 HTML 不熟的人，就麻煩了。 小小紀錄一下 Bilog II 這邊有用到的 Blogger Hack： 標籤雲： Abin'"
+---
+
+<p>又做了一些 Bilog II 功能上的小修改，大部份都是以前就想要加上來的。Google Blogger 這個 BSP 就是好在很穩定，平台與功能上很自由，但是預設的功能實在很陽春，很多東西都要手動修改模板來加入，對於對 CSS 與 HTML 不熟的人，就麻煩了。</p>
+<p>小小紀錄一下 Bilog II 這邊有用到的 Blogger Hack：</p>
+<div id="fullpost">
+<p>標籤雲：<a href="http://abintech.azhai.org/2006/11/label-cloud.html">Abin's Tech Note: 增強標籤分類功能: 標籤雲 (Label Cloud)</a><br />
+最新文章：<a href="http://jinyaolin.blogspot.com/2006/11/blogger.html">堯@部落格: Blogger聯播程式產生器</a><br />
+最新回應：<a href="http://jinyaolin.blogspot.com/2007/04/blogger426.html">堯@部落格: Blogger最新回應程式產生器(426更新版)</a><br />
+相關文章：<a href="http://abintech.azhai.org/2007/03/related-post.html">Abin's Tech Note: 加入相關文章功能 (Related Post)</a><br />
+繼續閱讀：<a href="http://www.inblogs.net/chagg/2006/10/blogger-beta.html">Chagg's 嘴砲日記: Blogger Beta 繼續閱讀功能改良</a><br />
+黑米小按鈕：<a href="http://jacobmei.blogspot.com/2007/05/blogger.htmlBlogger">小梅子: 「教學」黑米小按鈕在 Blogger 上的置放方法</a><br />
+部落格絲帶 Blogsticker：<a href="http://mediaobserve.blogspot.com/2007/05/blog-post_03.html">媒觀系: 幫你的部落格綁上「捍衛樂生」的絲帶（修正版）</a></p>
+</div>

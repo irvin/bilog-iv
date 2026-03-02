@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-03-02T09:49:42.591Z",
+  "counts": {
+    "blogger": 227,
+    "medium": 136,
+    "total": 363
+  },
+  "samples": {
+    "bloggerPermalinks": [
+      "/2005/03/blog-post.html",
+      "/2007/01/blog-post_19.html",
+      "/2004/12/google-blogger.html",
+      "/2006/04/bloglines.html",
+      "/2005/03/sf-acg-steam-boy.html"
+    ],
+    "mediumPermalinks": [
+      "/how-a-journey-was-good-luck-with-my-best-wishes-viking-d57c7415556.html",
+      "/this-is-really-a-long-exciting-and-sad-story-for-mozilla-worth-to-share-with-all-mozillians-who-a259b74c3970.html",
+      "/hi-ben-8822823054d6.html",
+      "/thunderbird-%E6%B1%BA%E5%AE%9A%E7%B9%BC%E7%BA%8C%E4%BB%A5-mozilla-%E4%BD%9C%E7%8-6902894a051a.html",
+      "/%E9%80%99%E9%82%8A%E7%9A%84%E6%8B%AC%E8%99%9F%E6%87%89%E8%A9%B2%E8%A6%81%E5%8C%85%E4%BD%8F-%E7%9A%84-6863cf0c9b2c.html"
+    ]
+  }
+}

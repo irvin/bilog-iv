@@ -1,0 +1,94 @@
+---
+layout: "post.njk"
+title: "Firefox 3 日漸肥大的收藏庫減肥法：續篇"
+date: "2009-05-05T08:23:00.010Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2009/05/firefox-3-google-toolbar.html"
+canonical_url: ""
+permalink: "/2009/05/firefox-3-google-toolbar.html"
+tags: ["mozilla", "分享", "瀏覽器", "firefox", "blogger"]
+excerpt: "本文已更新，請看： Bilog II: Firefox 3 日漸肥大的收藏庫減肥法：最新版！ 更新：我已經整合本篇與上篇之內容，發表於 Mozilla Links 正體中文版: Firefox 3 日漸肥大的收藏庫：減肥法 嘍！如果還未看過上篇的朋友，可以過去 Mozilla Links zh 閱讀完整文章。 經過上週這篇 Bilog II: Firefox"
+---
+
+<p><span style="font-weight:bold;">本文已更新，請看：<a href="http://irvin.sto.tw/2009/08/firefox-3.html">Bilog II: Firefox 3 日漸肥大的收藏庫減肥法：最新版！</a></span></p>
+
+<p>更新：我已經整合本篇與上篇之內容，發表於 <a href="http://mozlinks-zh.blogspot.com/2009/05/firefox-3.html">Mozilla Links 正體中文版: Firefox 3 日漸肥大的收藏庫：減肥法</a> 嘍！如果還未看過上篇的朋友，可以過去 Mozilla Links zh 閱讀完整文章。</p>
+
+<p>經過上週這篇 <a href="http://irvin.sto.tw/2009/04/firefox-3.html">Bilog II: Firefox 3 日漸肥大的收藏庫減肥法</a> 文章發表後，收到很多網友的迴響（<a href=" http://www.ptt.cc/bbs/Browsers/M.1241080969.A.70E.html">Ptt</a>）。其中有一點令我好奇：有的網友 places.sqlite 很小，有的很大。收藏庫中同樣是數萬個網站的記錄，有的網友跟我一樣上百 MB，有的卻只有數 MB，非常奇怪，因此今天又趁機研究了一下。</p>
+
+<p>由於收藏庫檔案增大的狀況每人不一，我開始懷疑有擴充套件在吃空間，因此把 places.sqlite 每個單獨的 table 拆開來看看容量。</p>
+
+<p>這是我的 places.sqlite 的結構：</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503046263/" title="Flickr 上 Irvin Chen 的 places.sqlite結構"><img src="http://farm4.static.flickr.com/3386/3503046263_89e1e95174.jpg" width="500" height="323" alt="places.sqlite結構" /></a>
+
+<div id="fullpost"><p>我把每個 Table 獨立匯出後，每個 Table 大小如下（places.sqlite 檔案大小為 84 MB）：</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503859296/" title="Flickr 上 Irvin Chen 的 places.sqlite各table大小"><img src="http://farm4.static.flickr.com/3359/3503859296_aa36563282.jpg" width="500" height="218" alt="places.sqlite各table大小" /></a>
+
+<p>很明顯的是，moz_annos 這張表佔了整個資料庫檔案總容量的 86%，問題一定出在這邊。annos table 的內容包含以下的部份，的確看到幾個擴充套件使用了這張表儲存資料。</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503085253/" title="Flickr 上 Irvin Chen 的 moz_anno_attributes: annos table內容"><img src="http://farm4.static.flickr.com/3592/3503085253_16aa43193d.jpg" width="500" height="338" alt="moz_anno_attributes: annos table內容" /></a>
+
+<p>在我的收藏庫中 moz_annos 的內容，各 ID 筆數分別為：10（網頁編碼）117 筆、14 "google-toolbar/thumbnail" 2971 筆、15 "google-toolbar/thumbnail-score" 2971 筆。</p>
+
+<p>看到這邊，已經確認問題出在 Google Toolbar 工具列這個擴充套件上。其中 ID 14 的 "google-toolbar/thumbnail"，兩千多筆資料，每筆竟然都是 base 64 編碼的 png 圖檔。</p>
+
+<p>讓我們取出一筆來 Decode：</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503935082/" title="Flickr 上 Irvin Chen 的 隨選一筆出來decode"><img src="http://farm4.static.flickr.com/3548/3503935082_2380778f39.jpg" width="500" height="313" alt="隨選一筆出來decode" /></a>
+
+<p>得到某個網站的縮圖：</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503935084/" title="Flickr 上 Irvin Chen 的 這就是Google存在places.sqlite裡的東西"><img src="http://farm4.static.flickr.com/3641/3503935084_61ce61369f_o.png" width="196" height="136" alt="這就是Google存在places.sqlite裡的東西" /></a>
+
+<p>其實這是 Google Toolbar 5 的新功能「新分頁」所使用的縮圖：</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503998844/" title="Flickr 上 Irvin Chen 的 Google Toolbar 新分頁功能"><img src="http://farm4.static.flickr.com/3326/3503998844_d297ce3f11.jpg" width="500" height="380" alt="Google Toolbar 新分頁功能" /></a>
+
+<p>如果各位朋友跟我一樣，對這個畫面沒有什麼印象。可以開啟下述網址看看：</p>
+
+<pre><code>chrome://google-toolbar/content/new-tab.html</code></pre>
+
+<p>此外，<a href="http://www.plurk.com/littlebtc">@littlebtc</a> 發現 Bugzilla 中，已經有人回報這個問題：<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=489173">Bug 489173 – Latest Google Toolbar Appears to Make places.sqlite Massive</a>，也有人回報給 Google。我先前安裝的 <a href="http://www.google.com/tools/firefox/">Google Toolbar 5</a> for Mac 版本是 5.0.20090122Mb2，最新的 5.0.20090324M 版不知道是否已經修正了這個問題。</p>
+
+<p>這個功能，可以在 Google Toolbar 的設定畫面中，透過取消主畫面倒數第三個選項「啟用 Google 新分頁網頁」來關閉。</p>
+
+<a href="http://www.flickr.com/photos/irvin/3503998846/" title="Flickr 上 Irvin Chen 的 Google Toolbar 設定畫面"><img src="http://farm4.static.flickr.com/3348/3503998846_4ca8e3ae69.jpg" width="500" height="379" alt="Google Toolbar 設定畫面" /></a>
+
+
+<p>現在鎖定問題，讓我們來修改一下，<a href="http://irvin.sto.tw/2009/04/firefox-3.html">上一篇文章</a> 中的收藏庫瘦身指令：</p>
+
+<p>以下使用簡單的 sql 命令，清除 places.sqlite 檔案中無用的紀錄，並保留實用的部份。Windows 的使用者請先前往 <a href="http://www.sqlite.org/download.html">SQLite Download Page</a>，下載 Precompiled Binaries For Windows 中的 sqlite-3_6_13.zip，解壓縮至目錄中，而 Mac OS X 已經內建了 sqlite3。</p>
+
+<p>請事先備份你的 places.sqlite 檔案，並小心服用。進行前請先把 Firefox 關閉，如果沒關，我也不知道會發生什麼事情！以下指令請在 Firefox 3 的 Profile 目錄下，以命令列逐行執行。</p>
+
+<pre><code>sqlite3 places.sqlite "DELETE FROM moz_historyvisits WHERE place_id IN (SELECT id FROM moz_places WHERE visit_count <=2 );"
+sqlite3 places.sqlite "DELETE FROM moz_places WHERE (visit_count <=2 AND hidden <> 1 AND id NOT IN (SELECT place_id FROM moz_annos UNION SELECT fk FROM moz_bookmarks));"
+sqlite3 places.sqlite "DELETE FROM moz_inputhistory WHERE place_id NOT IN (SELECT id FROM moz_places);"
+sqlite3 places.sqlite "DELETE FROM moz_favicons WHERE id NOT IN (SELECT favicon_id FROM moz_places);"
+sqlite3 places.sqlite "DELETE FROM moz_annos WHERE anno_attribute_id IN (SELECT id FROM moz_anno_attributes WHERE name = 'google-toolbar/thumbnail-score' OR name = 'google-toolbar/thumbnail');"     
+</code></pre>
+
+<p>上述指令的作用是，將 places.sqlite 內瀏覽次數小於 2 次的紀錄刪除，但保留常瀏覽的網站，使 Awesome Bar 的威力不至於打折。最後一行鎖定了 Google Toolbar 的記錄來刪除。</p>
+
+<p>此時需要先打開 Firefox，再關閉 Firefox。確認完全關閉後再繼續進行下一步。</p>
+
+<pre><code>sqlite3 places.sqlite "VACUUM;"
+</code></pre>
+
+<p>完成之後，你的收藏庫就減肥完成啦。經過第二次減肥，我的收藏庫居然從 414MB 降到只剩 5MB！</p>
+
+<a href="http://www.flickr.com/photos/irvin/3504210614/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite成果 v2"><img src="http://farm4.static.flickr.com/3550/3504210614_7f6af7e45f.jpg" width="500" height="238" alt="清理Firefox 3肥大的places.sqlite成果 v2" /></a>
+
+<p>上一篇發出後，很多網友問到：這樣作跟使用 Firefox 內建的「清除隱私資料…」清除瀏覽紀錄有什麼不同？</p>
+
+<p>最主要的差別是：清除隱私資料，會把所有的瀏覽紀錄清光光，我卻只想清除無用的那些紀錄，保留有用的部份。此外，清除隱私資料→清除瀏覽紀錄後，需要等 Firefox 在閒置時執行 vacuum ，完畢才會縮小 places.sqlite 的檔案大小，不會立即縮小。</p>
+
+<p>有些人想要徹底擺脫 places.sqlite 這個檔案，但是除了瀏覽歷史外，此檔案中還存有各網站的 favicon 快取，及擴充套件的資料……等，因此 Firefox 3 沒辦法不使用這個檔案。但是我們可以透過調整 about:config 的參數來控制 Firefox 3 對瀏覽歷史的儲存動作。</p>
+
+<pre><code>about:config
+browser.history_expire_sites 瀏覽歷史中保留的網站數目，預設是 40000 個
+browser.history_expire_days 瀏覽歷史的最長保留天數，預設是 180 天
+browser.history_expire_days_min 瀏覽歷史的最短保留天數，預設是 90 天</code></pre>
+</div>

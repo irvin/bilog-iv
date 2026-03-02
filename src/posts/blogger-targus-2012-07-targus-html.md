@@ -1,0 +1,41 @@
+---
+layout: "post.njk"
+title: "Targus 包，一直壞一直壞……"
+date: "2012-07-17T07:55:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2012/07/targus.html"
+canonical_url: ""
+permalink: "/2012/07/targus.html"
+tags: ["生活", "敗家", "blogger"]
+excerpt: "很多人知道我是 Targus 電腦包的愛用者，從 2006 年（當時 PALM is LIFE 論壇勸敗力驚人）買到第一個音樂青蛙包之後，一直到現在一直都只有背 Targus，除了好背以外， 終身保固 也是主要的原因。 對筆記型電腦包提供有限制的終身保固： Targus 向購買消費者擔保其所售出的產品 在材料或工藝上沒有任何瑕疵 。本保固的範圍並不包括意外損"
+---
+
+<a href="http://www.flickr.com/photos/irvin/8322599366/" title="Targus 都會雅痞郵差包 - 1 by Irvin Chen, on Flickr"><img src="http://farm9.staticflickr.com/8223/8322599366_9e5a7da46f_z.jpg" width="640" height="480" alt="Targus 都會雅痞郵差包 - 1"></a>
+
+<p>很多人知道我是 Targus 電腦包的愛用者，從 2006 年（當時 <a href="http://f.pil.tw/forum-viewthread-action-printable-tid-94588.html">PALM is LIFE</a> 論壇勸敗力驚人）買到第一個音樂青蛙包之後，一直到現在一直都只有背 Targus，除了好背以外，<a href="http://www.targus.com/tw/warranty.asp">終身保固</a>也是主要的原因。</p>
+
+<blockquote><p><strong>對筆記型電腦包提供有限制的終身保固：</strong>Targus 
+向購買消費者擔保其所售出的產品<u>在材料或工藝上沒有任何瑕疵</u>。本保固的範圍並不包括意外損壞、自然損耗、消耗品耗損、誤用、保養不當或改裝，也不包括不可抗力，例如洪水和地震。</p></blockquote>
+
+
+<p>但是，用了這麼久時間，同樣的問題卻一直在發生：縫線脫落、內層破洞。而且以我少少的使用經驗，連續兩個包都是買來沒多久就出現瑕疵點。</p>
+
+<p>今天早上出門搭電梯時，猛然發現上個月新買的眼鏡蛇包背帶縫線破了一大個洞。回顧過去的使用經驗，我的 Targus 包真的是一直壞一直壞，整天在送修，雖然終身保固維修不用錢，不過每次寄回去維修都是十幾天，中間沒包可用，郵資跟打包也是夠麻煩的。</p>
+
+<a href="http://www.flickr.com/photos/irvin/7588499316/" title="眼鏡蛇包背帶縫線脫落 by Irvin Chen, on Flickr"><img src="http://farm9.staticflickr.com/8145/7588499316_a918e52469_z.jpg" width="640" height="480" alt="眼鏡蛇包背帶縫線脫落"></a>
+
+<p>稍微查了一下自己的紀錄，從過去到現在所送修過的經驗就有：<br>
+2006/6 在某資訊展跟熊老闆買的音樂青蛙包：<br>
+2006/10 NB 層跟內層的分隔上方縫線脫落送修、<br>
+2009/4 背袋跟背面破送修、<br>
+2010/8 背帶縫線脫落送修；<br>
+<br>
+2009/9 買的郵差包，最後一層的魔鬼沾一直會黏到隔間的布面、然後就破了，懶得寄送一直沒修，直到<br>
+2011/9 創意思考舊包換新包折價時趁機換新了。<br>
+2012/6 同處及鑰匙隔間破了兩個可以通到內層的洞送修，十天前剛換回新品（第一次送修收到全新品）。<br>
+<br>
+六月底送修郵差包時，順便在熊老闆的店買來替著用的眼鏡蛇包，一週後就發現背帶上（燙印？）的 Targus 字樣掉了、今天發現背帶縫線脫落，買來到現在也才不到一個月時間。</p>
+
+<a href="http://www.flickr.com/photos/irvin/7588501286/" title="眼鏡蛇包另一邊背帶也快破了 by Irvin Chen, on Flickr"><img src="http://farm9.staticflickr.com/8141/7588501286_306c7693b8_z.jpg" width="640" height="480" alt="眼鏡蛇包另一邊背帶也快破了"></a>
+
+<p>一直以來都有朋友在講 Targus 很容易壞。雖然不是什麼太貴的背包，但是一個兩三千，才買一個月就得送修，這樣的材料及工藝是怎麼回事？這樣的品質真的可以嗎？</p>

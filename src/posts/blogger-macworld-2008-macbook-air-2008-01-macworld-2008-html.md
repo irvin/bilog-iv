@@ -1,0 +1,32 @@
+---
+layout: "post.njk"
+title: "Macworld 2008 新玩意：Macbook Air！"
+date: "2008-01-15T17:57:00Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2008/01/macworld-2008.html"
+canonical_url: ""
+permalink: "/2008/01/macworld-2008.html"
+tags: ["Apple", "ipod", "iphone", "blogger"]
+excerpt: "邊看轉播邊筆記…… 文字轉播 MacRumors.com iPod touch、iPhone、Apple TV、Time Capsule iPod touch 的 Maps、Notes、Weather、Mail、Stock 官方補完包，要價 20 美元……囧。 建議直接參考 這篇 自己裝回去吧。 iPod touch、iPhone 新功能：歌詞顯示，我看這之"
+---
+
+<p>邊看轉播邊筆記……<br />
+文字轉播 <a href="http://www.macrumorslive.com/">MacRumors.com</a></p>
+
+<p>iPod touch、iPhone、Apple TV、Time Capsule<br />
+<br />
+iPod touch 的 Maps、Notes、Weather、Mail、Stock 官方補完包，要價 20 美元……囧。<br />
+建議直接參考 <a href="http://irvin.sto.tw/2007/12/ipod-touch-step-by-step-112.html">這篇</a> 自己裝回去吧。<br />
+iPod touch、iPhone 新功能：歌詞顯示，我看這之前忘記寫的功能終於補回來了。<br />
+iTunes 開始提供電影租片；新週邊「時光膠囊」：一台無線的 Time Machine ＝ $300 元的內建 500G 硬碟 Airport。<br />
+Apple TV 升級：可租 HD+ 杜比 5.1 的影片、看 flickr、.Mac 的相片，直接線上購買 iTunes 音樂。此外降價，由 300 美金降價成 230 美金。<br />
+<br />
+Macbook Air！<br />
+<br />
+這是「世界上最輕薄的筆電」，重 1.36 公斤（3 磅）、厚度自 0.4 公分至 1.93 公分（0.16 吋～ 0.76 吋），13.3 吋 LED 背光螢幕、具備環境光線感應器，使用多重觸控軌跡版！<br />
+硬碟使用 1.8 吋 80GB 硬碟，可選配 64GB 固態硬碟，但是非常貴……<br />
+標準規格是 1.6GHz Core 2 Duo CPU，選配 1.8GHz。內建 2GB 記憶體，只有 1 個 USB 埠沒有 1394 火線（囧），內建 802.11n 無線網路及藍牙 2.1，沒有光碟機（選購外接 99 美元，或者使用內建軟體「借用」PC 或 Mac 的光碟機），全鋁機殼。<br />
+蘋果台灣同步上市，定價 64890 元，通過電磁檢驗後送貨。<br />
+<br />
+還蠻玩不起的，不然好想要，剛好可以換掉 iBook ……<br />
+我看我把 Google Adwords 放到文章下面好了，囧。</p>

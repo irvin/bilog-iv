@@ -1,0 +1,51 @@
+---
+layout: "post.njk"
+title: "Please correct our country’s name from “Taiwan, Province of China” to “Taiwan”  on Access Now’s website"
+date: "2017-10-29T13:07:00.004Z"
+source: "blogger"
+original_url: "http://irvin.sto.tw/2017/10/please-correct-our-countrys-name-in.html"
+canonical_url: ""
+permalink: "/2017/10/please-correct-our-countrys-name-in.html"
+tags: ["政治", "rightscon", "blogger"]
+excerpt: "An open letter to Access Now Hi, I’m Irvin, Mozilla contributor from Taiwan. I had contributing to internet Human Right policy advocacy for years and had joined last year’s RightsC"
+---
+
+<h2>An open letter to Access Now</h2>
+
+<p>Hi,</p>
+
+<p>I’m Irvin, Mozilla contributor from Taiwan. I had contributing to internet Human Right policy advocacy for years and had joined last year’s RightsCon.</p>
+
+<p>Recently I notice that Access Now wrongly list my country’s name as “Taiwan, Province of China” on the campaign page country drop-down list (eg., <a href="https://www.accessnow.org/campaign/free-ahmed-mansoor/">Take Action - Access Now</a> ). Please correct it and listing our country as "Taiwan" or "Taiwan (Republic of China)" (our formal name).</p>
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61XDegSTQf-zpzBTjZOmLiG2kdWH5Zd81VOjK3cXxtc6NRJo0Nq3FEWpeVs6kJ3uH1VR4gEG0sNXVf8Xn8Zu5JrmWWW7-7Cbgye57p8IRtC6IcfkNvhPhAtjbmHv6WLKk2wzsbA/s1600/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2017-10-29+21.14.04.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61XDegSTQf-zpzBTjZOmLiG2kdWH5Zd81VOjK3cXxtc6NRJo0Nq3FEWpeVs6kJ3uH1VR4gEG0sNXVf8Xn8Zu5JrmWWW7-7Cbgye57p8IRtC6IcfkNvhPhAtjbmHv6WLKk2wzsbA/s640/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2017-10-29+21.14.04.png" width="640" height="334" data-original-width="1600" data-original-height="835" /></a></div>
+<p>I believe you had wrongly followed <a href="https://en.wikipedia.org/wiki/ISO_3166-2">ISO 3166-2</a>, this name list wrongly put Taiwan under "province of China", following UNs POV, we all know how bias it can be.</p>
+
+<p>Taiwan had never been a province of current China Communist government, although they always claimed as it, and force other country to acknowledge it as "<a href="https://en.wikipedia.org/wiki/One-China_policy">One-China Policy</a>".</p>
+
+<p>We are an independent island country, with 23M inhabitants. We had democracy government with elected presidents, no internet regulation, not behind the great firewall, and in no favor of totalitarianism.</p>
+
+<p>We had strong civil society and diversity civil hacker communities such as <a href="http://g0v.tw/">g0v</a>, famous civil hacker community. We even have legally gay marriage (start from 2019).</p>
+
+<p>You can read the whole story in articles below. In short, we had been an independent political entity since 1949, when KMT party lose their civil war against Communist Party in China and retreat to this island.</p>
+
+<ul>
+  <li><a href="http://www.bbc.com/news/world-asia-16164639">Taiwan country profile - BBC News</a></li>
+  <li><a href="http://http://en.wikipedia.org/wiki/Political_status_of_Taiwan">Political status of Taiwan - Wikipedia</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Cross-Strait_relations">Cross-Strait relations - Wikipedia</a></li>
+</ul>
+
+<p>Some Best practice,</p>
+
+<ul>
+  <li>Mozilla — <a href="https://wiki.mozilla.org/Lists_of_Countries_and_Regions">Lists of Countries and Regions - MozillaWiki</a></li>
+  <li>FreeBSD — <a href="https://www.freebsd.org/internal/i18n.html">Internationalization Policy</a></li>
+</ul>
+
+<p>Please correct our name in Access Nows country list, just simply list it as <strong>Taiwan</strong>.</p>
+
+<p>Very thanks,</p>
+
+<p>Irvin Chen<br>Community Liaison,<br>MozTW (Mozilla Taiwan Community)</p>
+
+<p>(<a href="https://medium.com/@irvinfly/please-correct-our-countrys-name-in-access-now-s-campaign-page-from-taiwan-province-of-china-to-f7b251eb9b96">Medium link</a>)</p>
