@@ -10,7 +10,7 @@ tags: ["政治", "台南", "blogger"]
 excerpt: "人民作主運動 是由核四公投促進會，針對公投法補正的訴求，而發起的千里苦行行動。因為 非凡的告知 ，昨天我也參加了一天的行動。 從1994年到現在，總共已經進行的三次核四公投苦行，促成一部公投法，但卻充斥著不合理的限制，也提供政府不該擁有的，否決人民提出之議題的權力。這第四次的苦行，預計以兩個月時間，完成環台的千里路程。 在較大的地圖上查看 20091206"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/4163746004/" title="Flickr 上 Irvin Chen 的 人民作主運動：台南市東寧運動公園→水萍塭公園 - 2"><img alt="人民作主運動：台南市東寧運動公園→水萍塭公園 - 2" height="375" src="http://farm5.static.flickr.com/4040/4163746004_04112b3967.jpg" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/4163746004/" title="Flickr 上 Irvin Chen 的 人民作主運動：台南市東寧運動公園→水萍塭公園 - 2"><img alt="人民作主運動：台南市東寧運動公園→水萍塭公園 - 2" height="375" src="/assets/images/farm5.static.flickr.com/b431fd4343a2cfd2.jpg" width="500" /></a>
 
 <p><a href="http://www.nuke4.com/">人民作主運動</a> 是由核四公投促進會，針對公投法補正的訴求，而發起的千里苦行行動。因為 <a href="http://www.peopo.org/peoplemasters/post/47607">非凡的告知</a>，昨天我也參加了一天的行動。</p>
 
@@ -25,7 +25,7 @@ excerpt: "人民作主運動 是由核四公投促進會，針對公投法補正
 <p>我不斷的想到，不知道那些已經完成五百公里路段的志工們，這一個月是怎麼撐過去的，且接下來還有自南部經東部的另外五百公里……</p>
 
 <a href="http://www.flickr.com/photos/irvin/4162976139/" title="Flickr 上 Irvin Chen 的 人民作主運動：永康→大橋 - 4"><img alt="人民作主運動：永康→大橋 - 
-4" height="375" src="http://farm3.static.flickr.com/2759/4162976139_47b53770a5.jpg" width="500" /></a>
+4" height="375" src="/assets/images/farm3.static.flickr.com/ca1ba535626279b6.jpg" width="500" /></a>
 
 <p>苦行時，隊伍要求行進時維持靜默、且排列整齊，我想從中所傳達出的信念，應該是很清楚且沈重的，一股無聲的力量。</p>
 

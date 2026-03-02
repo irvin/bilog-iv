@@ -10,7 +10,7 @@ tags: ["電影", "推介", "blogger"]
 excerpt: "納投名狀，結兄弟誼， 死生相托，吉凶相救， 福禍相依，患難相扶。 戰亂時代，將、民、兵，不得已互相殘殺，為的卻是追求同樣簡單的需求。生存、飽食、家庭… 戰爭的雙方已被迫忘了起初的理想，剩餘的是現實與殘酷、理想的矛盾與掙扎、內心的大義與奸險。陳可辛藉由投名狀，透過兄弟間的情義，交織這些令人難以下嚥的內容，再經由苦澀不已的鏡頭，娓娓的道了出來。 兄弟結義，各殺一"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/2145746166/" title="Flickr 上 Irvin Chen 的 投名狀海報"><img src="http://farm3.static.flickr.com/2277/2145746166_848eeeb425_o.jpg" width="250" height="364" alt="投名狀海報" /></a>
+<a href="http://www.flickr.com/photos/irvin/2145746166/" title="Flickr 上 Irvin Chen 的 投名狀海報"><img src="/assets/images/farm3.static.flickr.com/1c9b0196016aa2f7.jpg" width="250" height="364" alt="投名狀海報" /></a>
 
 <blockquote>納投名狀，結兄弟誼，<br />
 死生相托，吉凶相救，<br />

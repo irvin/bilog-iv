@@ -22,11 +22,11 @@ Vista 放在 C:\Users\<user name>\AppData\Roaming\Mozilla\Firefox\Profiles\<br /
 Linux 在 ~/.mozilla/firefox/<br />
 Mac 在 家目錄\資源庫\Application Support\Firefox\Profiles\</p>
 
-<a href="http://www.flickr.com/photos/irvin/3485249967/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 01"><img src="http://farm4.static.flickr.com/3333/3485249967_c85903d21c.jpg" width="500" height="281" alt="清理Firefox 3肥大的places.sqlite 01" /></a>
+<a href="http://www.flickr.com/photos/irvin/3485249967/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 01"><img src="/assets/images/farm4.static.flickr.com/2cec227cb3e81e35.jpg" width="500" height="281" alt="清理Firefox 3肥大的places.sqlite 01" /></a>
 
 <div id="fullpost"><p>看看我的 places.sqlite，已經肥大到 414MB 了，而這不過是從去年 12 月底開始使用至今呢！最簡單的清理法就是直接把 places.sqlite 刪除，開啟 Firefox 時會自動重建這個檔案，但是瀏覽紀錄就全沒了。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3485249985/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 02"><img src="http://farm4.static.flickr.com/3356/3485249985_84f4a47b95.jpg" width="500" height="312" alt="清理Firefox 3肥大的places.sqlite 02" /></a>
+<a href="http://www.flickr.com/photos/irvin/3485249985/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 02"><img src="/assets/images/farm4.static.flickr.com/a1474cacd154ccc1.jpg" width="500" height="312" alt="清理Firefox 3肥大的places.sqlite 02" /></a>
 
 <p>從收藏庫查看，可以發現已經記錄了 4 萬筆網站。Firefox 預設最多會保留四萬個網站、90 ～ 180 天的瀏覽紀錄，雖然可以調整 about:config 的 browser.history_expire_sites、browser.history_expire_days、browser.history_expire_days_min 等三個參數，控制相關設定，但是降低了 expire_days 或降低 expire_sites 的上限，又會使 Awesome Bar 的威力下降。</p>
 
@@ -52,17 +52,17 @@ sqlite3 places.sqlite "DELETE FROM moz_favicons WHERE id NOT IN (SELECT favicon_
 
 <p>完成之後，你的收藏庫就減肥完成啦。經過減肥之後，我的收藏庫居然從 414MB 降到只剩 40.2MB！</p>
 
-<a href="http://www.flickr.com/photos/irvin/3485249999/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 03"><img src="http://farm4.static.flickr.com/3647/3485249999_f16c65cfd4.jpg" width="500" height="270" alt="清理Firefox 3肥大的places.sqlite 03" /></a>
+<a href="http://www.flickr.com/photos/irvin/3485249999/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 03"><img src="/assets/images/farm4.static.flickr.com/926c0387d1189f4c.jpg" width="500" height="270" alt="清理Firefox 3肥大的places.sqlite 03" /></a>
 
 <p>再打開收藏庫看看，只剩下 2643 個項目。刪去了佔 9 成的那些不到兩次的瀏覽紀錄，成功的使 Firefox 3 回復該有的速度。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3486113338/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 04"><img src="http://farm4.static.flickr.com/3540/3486113338_984d6b311c.jpg" width="500" height="342" alt="清理Firefox 3肥大的places.sqlite 04" /></a>
+<a href="http://www.flickr.com/photos/irvin/3486113338/" title="Flickr 上 Irvin Chen 的 清理Firefox 3肥大的places.sqlite 04"><img src="/assets/images/farm4.static.flickr.com/90531ceb0a8ba46f.jpg" width="500" height="342" alt="清理Firefox 3肥大的places.sqlite 04" /></a>
 
 <p>感謝 <a href="http://twitter.com/yllan">@yllan</a> 及 <a href="http://twitter.com/softcup">@softcup</a> 的 <a href="http://www.plurk.com/p/qjs2k">分享</a>，這是今天研究一個下午的成果。</p>
 
 <p>補充：很多朋友在問，這樣作跟使用 Firefox 內建的「清除隱私資料…」清除瀏覽紀錄有什麼不同？基本上的差別就是，清除隱私資料，會把所有的瀏覽紀錄清光光，我卻只想清除無用的那些紀錄，保留有用的部份。此外，清除隱私資料→清除瀏覽紀錄後，如果沒有做 sqlite vacuum 空間是不會釋出的（我也不知道會不會定期自動釋放）。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3488508127/" title="Flickr 上 Irvin Chen 的 places.sqlite大測試"><img src="http://farm4.static.flickr.com/3614/3488508127_423b17b0d6.jpg" width="500" height="240" alt="places.sqlite大測試" /></a>
+<a href="http://www.flickr.com/photos/irvin/3488508127/" title="Flickr 上 Irvin Chen 的 places.sqlite大測試"><img src="/assets/images/farm4.static.flickr.com/e1601f3d2ac827b3.jpg" width="500" height="240" alt="places.sqlite大測試" /></a>
 
 <p>經過小小的測試（見上圖），上面的四個 places.sqlite 分別是以下操作所得：（原檔案大小是 372.2 MB）<br />
 places.sqlite 1 Firefox 3 開啟→關閉→VACUUM  366.3MB<br />

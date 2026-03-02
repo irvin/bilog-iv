@@ -10,5 +10,5 @@ tags: ["網站", "有趣", "blogger"]
 excerpt: "看Bloglines到一半剛好遇到維修，出現了可愛的Bloglines水管工XD"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/132210041/"><img style="float: right;" src="http://static.flickr.com/51/132210041_991840e680_m.jpg" alt="" border="0" /></a>
+<a href="http://www.flickr.com/photos/irvin/132210041/"><img style="float: right;" src="/assets/images/static.flickr.com/5a9282e5bb3976f1.jpg" alt="" border="0" /></a>
 看Bloglines到一半剛好遇到維修，出現了可愛的Bloglines水管工XD

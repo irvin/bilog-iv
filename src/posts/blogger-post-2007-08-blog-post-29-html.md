@@ -10,7 +10,7 @@ tags: ["小說", "書", "推介", "blogger"]
 excerpt: "幾年前買的有趣社會諷刺小說，作者是黃凡，超贊。前幾天晚上熬夜把他又看完了一遍，在此簡單推介給大家。 差點失業的哲學系教授，跟他唯一的學生神壇之子、哲學系主任、學生的父親神壇的檀主，在大學裡搞了個實用的大學神壇，開設實用宗教課程，竟一炮而紅，演變成一個關於大學新設的哲學宗教學院、靈骨塔，一門價值數千億的生意。 而永遠不會缺少的派系鬥爭，人與人間的權謀、心機、財"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/1259757864/" title="相片分享"><img src="http://farm2.static.flickr.com/1390/1259757864_367e4cebf2_m.jpg" style="float:right;" width="180" height="240" alt="大學之賊。黃凡" /></a>
+<a href="http://www.flickr.com/photos/irvin/1259757864/" title="相片分享"><img src="/assets/images/farm2.static.flickr.com/9fe92c2f3b210323.jpg" style="float:right;" width="180" height="240" alt="大學之賊。黃凡" /></a>
 
 <p>幾年前買的有趣社會諷刺小說，作者是黃凡，超贊。前幾天晚上熬夜把他又看完了一遍，在此簡單推介給大家。</p>
 

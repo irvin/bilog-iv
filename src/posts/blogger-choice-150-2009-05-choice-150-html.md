@@ -10,7 +10,7 @@ tags: ["敗家", "個人", "消費", "分享", "blogger"]
 excerpt: "Choice 150 官網： http://www.taiwanmoto.com/products3.htm 去年家人選了這台車，到現在滿一年一個月了，昨天剛好滿五千，分享一下心得。 整體來講就是好騎有力，但是細節的部分品管感覺蠻糟，不很推薦。（除非附近有經銷店家可修就可考慮） 從一開始買到現在，引擎一直都蠻有力的，感覺也很穩定，還沒有越騎越虛弱的感覺，對這"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/3537831191/" title="Flickr 上 Irvin Chen 的 修機車 2"><img src="http://farm4.static.flickr.com/3378/3537831191_011db38621.jpg" width="500" height="375" alt="修機車 2" /></a>
+<a href="http://www.flickr.com/photos/irvin/3537831191/" title="Flickr 上 Irvin Chen 的 修機車 2"><img src="/assets/images/farm4.static.flickr.com/6b7b43d41a367969.jpg" width="500" height="375" alt="修機車 2" /></a>
 
 Choice 150 官網：<a>http://www.taiwanmoto.com/products3.htm</a>
 

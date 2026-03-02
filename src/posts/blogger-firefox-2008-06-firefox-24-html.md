@@ -13,7 +13,7 @@ excerpt: "Firefox 3 機器人 舊金山的 狐迷 們在 6/22 舉辦的 Launch P
 Firefox 3 機器人
 
 <p>舊金山的 狐迷 們在 6/22 舉辦的 Launch Party 上，建造了 Firefox 機器人！<br />
-<img src="http://farm4.static.flickr.com/3254/2603070503_4499982721.jpg" /><br />
+<img src="/assets/images/farm4.static.flickr.com/985ae47d71484a38.jpg" /><br />
 (<a title="Firefox 3 Build The Robot Crew" href="http://www.flickr.com/photos/ews/2603070503/">Firefox 3 Build The Robot Crew</a> Uploaded by <a href="http://www.flickr.com/photos/ews/" title="Link to JP Puerta's photostream">JP Puerta</a>)</p>
 <br />
 
@@ -21,7 +21,7 @@ Firefox 3 機器人
 
 
 <p>Beta 2:<br />
-<img src="http://farm3.static.flickr.com/2133/2126792678_08d927cbda.jpg" /><br />
+<img src="/assets/images/farm3.static.flickr.com/9b870c95d02f45cb.jpg" /><br />
 (<a title="Firefox 3 Beta 2 Welcome page" href="http://flickr.com/photos/plynoi/2126792678/">Firefox 3 Beta 2 Welcome page</a> Uploaded by <a href="http://flickr.com/photos/plynoi/" title="Link to plynoi's photostream">plynoi</a>)</p><br />
 <div id="fullpost">
 

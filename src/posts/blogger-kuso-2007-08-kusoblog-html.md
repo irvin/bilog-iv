@@ -12,4 +12,4 @@ excerpt: "Web 2.0時代，連「理容院」也要「部落格」一下，不過
 
 <p>Web 2.0時代，連「理容院」也要「部落格」一下，不過我很懷疑，老闆知不知道啥是部落格... 七月中在高雄某處發現。</p>
 
-<a href="http://www.flickr.com/photos/irvin/1138249657/" title="相片分享"><img src="http://farm2.static.flickr.com/1134/1138249657_8ddc9e42a2.jpg" width="500" height="371" alt="「部落格」理容院" /></a>
+<a href="http://www.flickr.com/photos/irvin/1138249657/" title="相片分享"><img src="/assets/images/farm2.static.flickr.com/863161647fd9b7fe.jpg" width="500" height="371" alt="「部落格」理容院" /></a>

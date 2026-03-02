@@ -10,7 +10,7 @@ tags: ["學運", "網站", "野草莓", "blogger"]
 excerpt: "台南區野草莓網站今天早上被 Google Sites（Google 協作平台）關閉，在此稍微說明一下，也請大家幫我們傳達出去。 台南區野草莓的官網網址是 http://go2.tw/tainandirect ，使用 Google Sites（Google 協作平台）服務架設在 http://sites.google.com/site/tainandirect"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/3055929096/" title="Flickr 上 Irvin Chen 的 台南野草莓網站被Google Sites無預警關閉"><img src="http://farm4.static.flickr.com/3152/3055929096_f8922b2850.jpg" width="500" height="268" alt="台南野草莓網站被Google Sites無預警關閉" /></a>
+<a href="http://www.flickr.com/photos/irvin/3055929096/" title="Flickr 上 Irvin Chen 的 台南野草莓網站被Google Sites無預警關閉"><img src="/assets/images/farm4.static.flickr.com/05a7207528f43ab6.jpg" width="500" height="268" alt="台南野草莓網站被Google Sites無預警關閉" /></a>
 
 <p>台南區野草莓網站今天早上被 Google Sites（Google 協作平台）關閉，在此稍微說明一下，也請大家幫我們傳達出去。</p>
 

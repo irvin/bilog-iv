@@ -14,7 +14,7 @@ excerpt: "Regional Reps meeting in Hong Kong, May 29 2014 During the HKOSC , we 
 
 <p>During the <a href="/2014/05/mozillians-in-hong-kong-open-source.html">HKOSC</a>, we reps managed to find some time in  and have a discussion on various topics, include the status of the community and volunteers in each region, the recruit and event effort, and the current status of cooperation between communities and each of local Mozilla offices.</p>
 
-<p><a href="https://www.flickr.com/photos/105205172@N02/13866183615" title="DSC07044 by Orin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7321/13866183615_140086be0f_z.jpg" width="640" height="480" alt="DSC07044"></a></p>
+<p><a href="https://www.flickr.com/photos/105205172@N02/13866183615" title="DSC07044 by Orin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/076c10f36ae8cc9e.jpg" width="640" height="480" alt="DSC07044"></a></p>
 
 <p>We all agree that we should put more effort on China this year, the huge growing market but with less reps, contributors and Mozillians. It has more large opportunity and definitely is important to our 1M Mozillians goal. But there is always some difficulties, for example,</p>
 
@@ -64,8 +64,8 @@ excerpt: "Regional Reps meeting in Hong Kong, May 29 2014 During the HKOSC , we 
 </ul>
 
 
-<p><a href="https://www.flickr.com/photos/105205172@N02/13866562714" title="DSC07062 by Orin Chen, on Flickr"><img src="https://farm4.staticflickr.com/3816/13866562714_4a71366cbd_z.jpg" width="640" height="480" alt="DSC07062"></a>
-<a href="https://www.flickr.com/photos/irvin/13652370724" title="HKOSC - Mozilla communities in Chinese-speaking regions - 5 by Irvin Chen, on Flickr"><img src="https://farm4.staticflickr.com/3811/13652370724_23f2f2f275_z.jpg" width="640" height="480" alt="HKOSC - Mozilla communities in Chinese-speaking regions - 5"></a></p>
+<p><a href="https://www.flickr.com/photos/105205172@N02/13866562714" title="DSC07062 by Orin Chen, on Flickr"><img src="/assets/images/farm4.staticflickr.com/0b2c30a81cf2c43b.jpg" width="640" height="480" alt="DSC07062"></a>
+<a href="https://www.flickr.com/photos/irvin/13652370724" title="HKOSC - Mozilla communities in Chinese-speaking regions - 5 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.staticflickr.com/a2cefa45be7a6ef3.jpg" width="640" height="480" alt="HKOSC - Mozilla communities in Chinese-speaking regions - 5"></a></p>
 
 <p>Thanks every Mozillians from Taiwan, China and Hong Kong who participant in HKOSC and in meetup. From the left to right, <a href="https://www.linkedin.com/profile/view?id=105577624">Richard Lin</a>, <a href="https://reps.mozilla.org/u/Irvin/">Irvin</a>,  <a href="https://reps.mozilla.org/u/meteor/">Liu, Xing</a>, <a href="https://reps.mozilla.org/u/steekid/">Shen, Hao</a>,  <a href="https://reps.mozilla.org/u/shaohua_wen/">Shaohua</a>, <a href="https://reps.mozilla.org/u/orin/">Orin</a>, <a href="http://reps.mozilla.org/u/petercpg/">Peter</a>, <a href="https://mozillians.org/zh-TW/u/fhoshino/">Fubuki Hoshino</a>, <a href="https://reps.mozilla.org/u/sammyfung/">Sammy</a>, Firefox &amp; Dino!</p>
 

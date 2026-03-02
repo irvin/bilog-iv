@@ -26,7 +26,7 @@ excerpt: "Mozilla Reps - Wikimania 2013 I'd been traveling to Hong Kong particip
 
 <p>After the closing ceremony, the organizer had let volunteers line-up outside of the hall. That is a clever arrangement, enable every participant to see in the faces of all volunteers, and give the warm good-bye to each other.</p>
 
-<p><a href="http://www.flickr.com/photos/irvin/9580297989/" title="Wikimania 2013 - Session - After closing plenary by Irvin Chen, on Flickr"><img src="http://farm4.staticflickr.com/3802/9580297989_df68bf829c_z.jpg" width="640" height="480" alt="Wikimania 2013 - Session - After closing plenary"></a><br>
+<p><a href="http://www.flickr.com/photos/irvin/9580297989/" title="Wikimania 2013 - Session - After closing plenary by Irvin Chen, on Flickr"><img src="/assets/images/farm4.staticflickr.com/f721445cf8757ab3.jpg" width="640" height="480" alt="Wikimania 2013 - Session - After closing plenary"></a><br>
 Photos of volunteers line up at sides of stair after closing ceremony</p>
 
 <h3>Arrival</h3>
@@ -57,7 +57,7 @@ Photos of volunteers line up at sides of stair after closing ceremony</p>
 <p>The facilities of the opening space "Logo Square" including tables for booth, a big stair which people can sit, a huge TV screen showing videos from different Wikimedia chapters. People can greet each others, chat, social and get drinks at the square through the whole event. It's also providing good free dining experience than typical cafeteria, and able to host all thousand participants at same time.</p>
 
 <p>
-<a href="http://www.flickr.com/photos/irvin/9583054790/" title="Wikimania 2013 - Logo Square panorama by Irvin Chen, on Flickr"><img src="http://farm8.staticflickr.com/7364/9583054790_8cec10a872_c.jpg" width="800" height="320" alt="Wikimania 2013 - Logo Square panorama"></a><br>The panorama of "Logo Square" at a dining time</p>
+<a href="http://www.flickr.com/photos/irvin/9583054790/" title="Wikimania 2013 - Logo Square panorama by Irvin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/83292044ca5ecd88.jpg" width="800" height="320" alt="Wikimania 2013 - Logo Square panorama"></a><br>The panorama of "Logo Square" at a dining time</p>
 
 <h3>Foods</h3>
 
@@ -81,7 +81,7 @@ Photos of volunteers line up at sides of stair after closing ceremony</p>
 
 <p>The organizer had prepared a special 15mins performance "Lion Dance" at the beginning of the ceremony, it really is a fascinate exhibition of Chinese culture to participant from around the world. We can learn from them that trying to arrange some kinds of special perform or shows, if we're going to hold a international events.</p>
 
-<p><a href="http://www.flickr.com/photos/irvin/9583042598/" title="Wikimania 2013 Opening ceremony - 2 by Irvin Chen, on Flickr"><img src="http://farm6.staticflickr.com/5499/9583042598_75c50e3a28_z.jpg" width="640" height="480" alt="Wikimania 2013 Opening ceremony - 2"></a><br>
+<p><a href="http://www.flickr.com/photos/irvin/9583042598/" title="Wikimania 2013 Opening ceremony - 2 by Irvin Chen, on Flickr"><img src="/assets/images/farm6.staticflickr.com/a15f9d41c41a726e.jpg" width="640" height="480" alt="Wikimania 2013 Opening ceremony - 2"></a><br>
 The "Lion Dance" in open ceremony</p>
 
 <ul>
@@ -169,7 +169,7 @@ The "Lion Dance" in open ceremony</p>
 - Hong Kong community conditions. They're just settle up, and the contributors were large shared with current FLOSS communities like HKLUG, OSHK. Also the website is under construction.
 - Recruitment, we shared some of the recruit resource including the SNS channel at the right hand side of Firefox download landing page, and snippet at the front-page (default search page).</p>
 
-<p><a href="http://www.flickr.com/photos/irvin/9481109710/" title="Meet the Mozillians 2013 HK by Irvin Chen, on Flickr"><img src="http://farm3.staticflickr.com/2877/9481109710_7e43b84c03_c.jpg" width="800" height="187" alt="Meet the Mozillians 2013 HK"></a><br>
+<p><a href="http://www.flickr.com/photos/irvin/9481109710/" title="Meet the Mozillians 2013 HK by Irvin Chen, on Flickr"><img src="/assets/images/farm3.staticflickr.com/aed74143d11ccd89.jpg" width="800" height="187" alt="Meet the Mozillians 2013 HK"></a><br>
 Panorama of the meeting</p>
 
 <ul>

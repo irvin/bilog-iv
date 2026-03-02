@@ -10,7 +10,7 @@ tags: ["交大", "blogger"]
 excerpt: "（交大科科社快樂聚餐中） 這是我在 NCTU 版上給剛要進入交大的學弟妹，關於參加社團的建議。 大學是個社會的縮影，而社團則被社會上的很多組織團體，視為進入各大學的一個接入點，其中包含慈善組織、宗教組織、甚至是有不良意圖的組織……等；以「成長課程」名義來包裝也是個常見的行銷手法，也曾被不善人士利用（網路上有很多資訊），各位學弟學妹請小心謹慎為上。 加入社團前"
 ---
 
-<p><a href="http://www.flickr.com/photos/irvin/376397801/" title="相片分享"><img src="http://farm1.static.flickr.com/173/376397801_733ad79d0b.jpg" alt="96學期期末聚會" height="375" width="500" /></a><br />（交大科科社快樂聚餐中）</p>
+<p><a href="http://www.flickr.com/photos/irvin/376397801/" title="相片分享"><img src="/assets/images/farm1.static.flickr.com/2e6f1ca79f78c778.jpg" alt="96學期期末聚會" height="375" width="500" /></a><br />（交大科科社快樂聚餐中）</p>
 
 <p>這是我在 NCTU 版上給剛要進入交大的學弟妹，關於參加社團的建議。</p>
 

@@ -14,5 +14,5 @@ excerpt: "Engadget提到 WWDC 2007在6/11~6/15舉行，期待的Leopard與iLife0
 
 <p>來個倒數吧！稍微搜索，找到了下面兩個Widget，功能都一樣，就看外表選吧。</p>
 
-<p><a href="http://www.apple.com/downloads/dashboard/developer/wwdc2007countdownwidget.html"><img src="http://static.flickr.com/174/387767852_f54130684c.jpg" /></a></p>
-<p><a href="http://www.apple.com/downloads/dashboard/developer/wwdc2007countdown.html"><img src="http://static.flickr.com/167/387767888_ade8b67756.jpg" /></a></p>
+<p><a href="http://www.apple.com/downloads/dashboard/developer/wwdc2007countdownwidget.html"><img src="/assets/images/static.flickr.com/5bc7acaf03a31c20.jpg" /></a></p>
+<p><a href="http://www.apple.com/downloads/dashboard/developer/wwdc2007countdown.html"><img src="/assets/images/static.flickr.com/d3437adba3f17b05.jpg" /></a></p>

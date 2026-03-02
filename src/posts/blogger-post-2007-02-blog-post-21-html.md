@@ -10,7 +10,7 @@ tags: ["小說", "時空旅人之妻", "科幻", "blogger"]
 excerpt: "好啦，其實是發現 時空旅人亨利的 MySpace 。 克萊兒、克萊兒的髮、克萊兒的藝術、克萊兒的氣味，所有關於克萊兒的東西都是亨利的興趣。Really，他強調。 亨利的其他興趣包含跑步、德文、下廚…等；身為獨特的龐客圖書館員，亨利聽 Dead Kennedy 、 The Stooges 、 Violent Femmes …等樂團；他最喜歡的書包含德國詩人 里"
 ---
 
-<a href="http://www.flickr.com/photos/60061298@N00/396627584"><img style="float:right; width: 350px;" src="http://static.flickr.com/178/396627584_8708412361.jpg" border="0" alt="" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/396627584"><img style="float:right; width: 350px;" src="/assets/images/static.flickr.com/84d628a15633a660.jpg" border="0" alt="" /></a>
 
 <p>好啦，其實是發現 <a href="http://www.myspace.com/henry_detamble">時空旅人亨利的 MySpace</a>。</p>
 

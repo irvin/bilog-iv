@@ -30,32 +30,32 @@ excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 
 
 <p>先連接 touch 到電腦上。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249259014/" title="Flickr 上 Irvin Chen 的 恢復模式1"><img src="http://farm3.static.flickr.com/2379/2249259014_574253dd70.jpg" alt="恢復模式1" height="333" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249259014/" title="Flickr 上 Irvin Chen 的 恢復模式1"><img src="/assets/images/farm3.static.flickr.com/f22bad00267ad3b1.jpg" alt="恢復模式1" height="333" width="500" /></a>
 
 <p>同時按住 touch 上的 Home（目錄鍵）與電源鍵不放，touch 會重開機，並且從 iTunes 左邊消失，此時放開電源鍵（仍需按住 Home 鍵）。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249258894/" title="Flickr 上 Irvin Chen 的 恢復模式2"><img src="http://farm3.static.flickr.com/2229/2249258894_d1db01e13d.jpg" alt="恢復模式2" height="326" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249258894/" title="Flickr 上 Irvin Chen 的 恢復模式2"><img src="/assets/images/farm3.static.flickr.com/5df2abb4256249a3.jpg" alt="恢復模式2" height="326" width="500" /></a>
 
 <p>過一段時間，touch 會重新以恢復模式啟動，出現在 iTunes 中，此時再放開 Home 鍵。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2248465251/" title="Flickr 上 Irvin Chen 的 恢復模式3"><img src="http://farm3.static.flickr.com/2188/2248465251_91c221c39f.jpg" alt="恢復模式3" height="182" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2248465251/" title="Flickr 上 Irvin Chen 的 恢復模式3"><img src="/assets/images/farm3.static.flickr.com/4629285a426f6932.jpg" alt="恢復模式3" height="182" width="500" /></a>
 
 <p>這時候就可以繼續「第一步B：降版」的動作。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2248465427/" title="Flickr 上 Irvin Chen 的 恢復模式4"><img src="http://farm3.static.flickr.com/2016/2248465427_0da6647888.jpg" alt="恢復模式4" height="326" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2248465427/" title="Flickr 上 Irvin Chen 的 恢復模式4"><img src="/assets/images/farm3.static.flickr.com/d3258914353d5da5.jpg" alt="恢復模式4" height="326" width="500" /></a>
 
 
 <p><span style="font-weight: bold; color: rgb(255, 255, 255);">第一步B：降版</span></p>
 
 <p>1.1.2 及 1.1.3 的 touch 都需要先降版成為 1.1.1 版才可破解。首先將 touch 連到電腦上，進入 iTunes，按住 Shift 點選回覆（Mac 則是按住 option 點選回覆），接著會出現選擇韌體的畫面。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2062902431"><img src="http://static.flickr.com/2324/2062902431_35b91c1542.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062902431"><img src="/assets/images/static.flickr.com/a603bd17157793c0.jpg" /></a>
 
 <p>選擇 1.1.1 版韌體的檔案，經過回覆之後，這台 iPod touch 就會變回 1.1.1 版了。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2062902495"><img src="http://static.flickr.com/2247/2062902495_f7d414bbfb.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/2062902583"><img src="http://static.flickr.com/2346/2062902583_38dc22a0bb.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/2062902811"><img src="http://static.flickr.com/2305/2062902811_baa0daa9e1.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062902495"><img src="/assets/images/static.flickr.com/72ac2ef0ed012239.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062902583"><img src="/assets/images/static.flickr.com/b82ec807df4b85f5.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062902811"><img src="/assets/images/static.flickr.com/ecfa27f879fa0e7b.jpg" /></a>
 
 
 <p><span style="font-weight: bold; color: rgb(255, 255, 255);">第二步：Jailbreak 1.1.1</span></p>
@@ -64,61 +64,61 @@ excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 
 
 接著把 touch 的自動關機先關掉。（設定→一般→自動鎖定→永不）</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2062903677"><img src="http://static.flickr.com/2093/2062903677_f161bb285d.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062903677"><img src="/assets/images/static.flickr.com/7bc3a78420dfba36.jpg" /></a>
 
 <p>輸入破解的網址：http://jailbreakme.com</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2063696352"><img src="http://static.flickr.com/2081/2063696352_166f6a9522.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2063696352"><img src="/assets/images/static.flickr.com/e3c9f19952bf840f.jpg" /></a>
 
 <p>進入 AppSnapp 的網站後，往下拉，按 Install AppSnapp 開始破解程序。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2063696560"><img src="http://static.flickr.com/2110/2063696560_1a74c6614b.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/2062904483"><img src="http://static.flickr.com/2190/2062904483_52d18bff5c.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2063696560"><img src="/assets/images/static.flickr.com/a984b88e73d97889.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062904483"><img src="/assets/images/static.flickr.com/755e9c86c010efcb.jpg" /></a>
 
 <p>接著 Safari 會自動離開，開始破解的動作啦。在此步如果在 Safari 跳開之後沒有任何動作，請再重新進入網站點選 Install 試試看，有時後會比較遲鈍，有時候則是因為網路關係比較慢有回應。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2063697000"><img src="http://static.flickr.com/2321/2063697000_cd7197cc63.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/2062903203"><img src="http://static.flickr.com/2179/2062903203_078217e0e6.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2063697000"><img src="/assets/images/static.flickr.com/098c8fa3c794d4ee.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2062903203"><img src="/assets/images/static.flickr.com/9bdaefa1f97f941e.jpg" /></a>
 
 <p>自動重開機後，破解就完成了。破解程式會自動安裝好 Installer。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2063696774"><img src="http://static.flickr.com/2110/2063696774_8192529ab1.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2063696774"><img src="/assets/images/static.flickr.com/40ad2db800f59e8b.jpg" /></a>
 
 
 <p><span style="font-weight: bold; color: rgb(255, 255, 255);">第三步：Jailbreak 1.1.2</span></p>
 
 <p>先執行 Installer ，安裝 Source 下的 Community Source，回到主目錄後重新執行 Installer，安裝 Tweaks(1.1.1) 目錄下的 OktoPrep，安裝完成會出現已可升級版本的訊息，按下按鈕回主目錄，等待 touch 自行重新開機。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2093201156"><img src="http://static.flickr.com/2141/2093201156_9e5f5e287f.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2093201156"><img src="/assets/images/static.flickr.com/a8b866a46b7b8bc6.jpg" /></a>
 
 <p>接著將 iPod touch 接上電腦，打開 iTunes。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249772297/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 4"><img src="http://farm3.static.flickr.com/2283/2249772297_b6ec1327db.jpg" alt="升級 1.1.2 4" height="326" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249772297/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 4"><img src="/assets/images/farm3.static.flickr.com/326a9bd4262d0f4d.jpg" alt="升級 1.1.2 4" height="326" width="500" /></a>
 
 <p>按住 Shift (Option) 點選更新，選擇先前下載的 1.1.2 版軔體進行升級的動作。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250569942/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 2"><img src="http://farm3.static.flickr.com/2380/2250569942_c7cded352f.jpg" alt="升級 1.1.2 2" height="395" width="500" /></a>
-<a href="http://www.flickr.com/photos/irvin/2250569962/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 1"><img src="http://farm3.static.flickr.com/2104/2250569962_8c99217a0e_o.png" alt="升級 1.1.2 1" height="144" width="382" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250569942/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 2"><img src="/assets/images/farm3.static.flickr.com/5898f6d3a716ad42.jpg" alt="升級 1.1.2 2" height="395" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250569962/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 1"><img src="/assets/images/farm3.static.flickr.com/20456b93c56de742.png" alt="升級 1.1.2 1" height="144" width="382" /></a>
 
 <p>更新完成後，就會得到一台 1.1.2 版的（看似）未破解 touch 了。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249772333/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 3"><img src="http://farm3.static.flickr.com/2084/2249772333_d985eb74b5.jpg" alt="升級 1.1.2 3" height="326" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249772333/" title="Flickr 上 Irvin Chen 的 升級 1.1.2 3"><img src="/assets/images/farm3.static.flickr.com/63b33381ba7868fa.jpg" alt="升級 1.1.2 3" height="326" width="500" /></a>
 
 <p>將 iTunes 關掉，不要將 touch 拔離電腦，（如果在 Windows 下請按 ctrl-alt-del 進處理程序將 iTunes Helper、iPod Service 等相關程式都強制結束）。<a href="http://conceitedsoftware.com/iphone/1.1.2-jailbreak.zip">下載</a> 所需檔案並解壓縮。如果使用 Windows 請執行 windows.bat，使用 mac 就執行 jailbreak.jar。</p>
 
 <p>如果在 Windows 下執行沒有反應，代表需要安裝 Java，請 <a href="http://www.java.com/zh_TW/">至此下載</a> 安裝。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2093200956"><img src="http://static.flickr.com/2379/2093200956_3db903ba80.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2093200956"><img src="/assets/images/static.flickr.com/181a2ad66b78e629.jpg" /></a>
 
 <p>執行 1.1.2 Jailbreak 後，按下 Jailbreak!，就開始破解程序了。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2092422141"><img src="http://static.flickr.com/2380/2092422141_3343f7e5ed.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/2093201056"><img src="http://static.flickr.com/2418/2093201056_f8aa663db1.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/2093201120"><img src="http://static.flickr.com/2095/2093201120_dcfb5f198c.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2092422141"><img src="/assets/images/static.flickr.com/db195e9c5240784f.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2093201056"><img src="/assets/images/static.flickr.com/e769234a8b620988.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2093201120"><img src="/assets/images/static.flickr.com/ee969de827277305.jpg" /></a>
 
 <p>等待其完成後，即完成 1.1.2 版破解程序。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2093201200"><img src="http://static.flickr.com/2362/2093201200_5e5a349825.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2093201200"><img src="/assets/images/static.flickr.com/b0959a21f25a3645.jpg" /></a>
 
 
 <p><span style="font-weight: bold; color: rgb(255, 255, 255);">第四步：更改程式預設安裝位置、安裝中文輸入 Native CN</span></p>
@@ -127,20 +127,20 @@ excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 
 
 <p>因為 1.1.2 版軔體太大，因此程式安裝的磁區會空間不足，需要以下動作來更改，才能正常使用。進入 Install，安裝 Utilities 目錄下的 BossTool 及 System 下的 BSD Subsystem。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250589104/" title="Flickr 上 Irvin Chen 的 BossTool 1"><img src="http://farm3.static.flickr.com/2146/2250589104_4e59e42359_o.png" alt="BossTool 1" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250589104/" title="Flickr 上 Irvin Chen 的 BossTool 1"><img src="/assets/images/farm3.static.flickr.com/597fce0abc4c6c2f.png" alt="BossTool 1" height="480" width="320" /></a>
 
 <p>進入 BossTool，執行 Free Disk Space。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250589126/" title="Flickr 上 Irvin Chen 的 BossTool 2"><img src="http://farm3.static.flickr.com/2049/2250589126_43cc8c041b_o.png" alt="BossTool 2" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250589126/" title="Flickr 上 Irvin Chen 的 BossTool 2"><img src="/assets/images/farm3.static.flickr.com/2384910e5225b3d8.png" alt="BossTool 2" height="480" width="320" /></a>
 
 <p>點選 Relocate Apps，就完成了。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250589146/" title="Flickr 上 Irvin Chen 的 BossTool 3"><img src="http://farm3.static.flickr.com/2257/2250589146_42b5521585_o.png" alt="BossTool 3" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250589146/" title="Flickr 上 Irvin Chen 的 BossTool 3"><img src="/assets/images/farm3.static.flickr.com/57a243877e911f3c.png" alt="BossTool 3" height="480" width="320" /></a>
 
 <p>接著安裝中文輸入 Native CN。進入 Installer，切換到 Sources，點選 Edit、Add，輸入 Native CN 的網址 http://www.iphone.org.hk/repository.plist，OK，Done。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250599480/" title="Flickr 上 Irvin Chen 的 NativeCN 1"><img src="http://farm3.static.flickr.com/2108/2250599480_7d0e85f348_o.png" alt="NativeCN 1" height="480" width="320" /></a>
-<a href="http://www.flickr.com/photos/irvin/2249801465/" title="Flickr 上 Irvin Chen 的 NativeCN 2"><img src="http://farm3.static.flickr.com/2048/2249801465_5fb4056a9f_o.png" alt="NativeCN 2" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250599480/" title="Flickr 上 Irvin Chen 的 NativeCN 1"><img src="/assets/images/farm3.static.flickr.com/52a875ca0bd3b957.png" alt="NativeCN 1" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249801465/" title="Flickr 上 Irvin Chen 的 NativeCN 2"><img src="/assets/images/farm3.static.flickr.com/4729213aa5ccf219.png" alt="NativeCN 2" height="480" width="320" /></a>
 
 <p>切換回 Install 功能，選擇 Utilities，安裝 Native CN。</p>
 
@@ -155,22 +155,22 @@ excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 
 
 <p>進入 Installer，安裝 System 下的 Official 1.1.3 Upgrader。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249817917/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 0"><img src="http://farm3.static.flickr.com/2076/2249817917_0a1d07433b_o.png" alt="Jailbreak 113 0" height="480" width="320" /></a>
-<a href="http://www.flickr.com/photos/irvin/2250615664/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 1"><img src="http://farm3.static.flickr.com/2209/2250615664_ff36e546a1_o.png" alt="Jailbreak 113 1" height="480" width="320" /></a>
-<a href="http://www.flickr.com/photos/irvin/2250615692/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 2"><img src="http://farm3.static.flickr.com/2086/2250615692_2656bef12e_o.png" alt="Jailbreak 113 2" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249817917/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 0"><img src="/assets/images/farm3.static.flickr.com/80cea7df7e17d44f.png" alt="Jailbreak 113 0" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250615664/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 1"><img src="/assets/images/farm3.static.flickr.com/994737c24b06beff.png" alt="Jailbreak 113 1" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250615692/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 2"><img src="/assets/images/farm3.static.flickr.com/623b4549d1aa4d64.png" alt="Jailbreak 113 2" height="480" width="320" /></a>
 
 <p>連接上電腦，關掉 iTunes 與 touch 的省電自動關機功能，確定無線網路正常且穩定。接下來的步驟需要大約一小時的時間讓 touch 下載軔體與破解。</p>
 
 <p>執行安裝好的 Upgrade，點選開始之後，破解程序會自動進行。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249817767/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 3"><img src="http://farm3.static.flickr.com/2249/2249817767_8948fdb518_m.jpg" alt="Jailbreak 113 3" height="240" width="160" /></a><a href="http://www.flickr.com/photos/irvin/2250615772/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 4"><img src="http://farm3.static.flickr.com/2381/2250615772_9b3ffed0fb_m.jpg" alt="Jailbreak 113 4" height="240" width="160" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249817767/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 3"><img src="/assets/images/farm3.static.flickr.com/c3d207ddb8a8a43e.jpg" alt="Jailbreak 113 3" height="240" width="160" /></a><a href="http://www.flickr.com/photos/irvin/2250615772/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 4"><img src="/assets/images/farm3.static.flickr.com/88083cd1eee9bb4e.jpg" alt="Jailbreak 113 4" height="240" width="160" /></a>
 
-<a href="http://www.flickr.com/photos/irvin/2250615792/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 5"><img src="http://farm3.static.flickr.com/2212/2250615792_0ca608d518_m.jpg" alt="Jailbreak 113 5" height="240" width="160" /></a><a href="http://www.flickr.com/photos/irvin/2250615822/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 6"><img src="http://farm3.static.flickr.com/2385/2250615822_4b43ba942b_m.jpg" alt="Jailbreak 113 6" height="240" width="160" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250615792/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 5"><img src="/assets/images/farm3.static.flickr.com/25ccadebd34e9e83.jpg" alt="Jailbreak 113 5" height="240" width="160" /></a><a href="http://www.flickr.com/photos/irvin/2250615822/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 6"><img src="/assets/images/farm3.static.flickr.com/384b5dd3aa94580e.jpg" alt="Jailbreak 113 6" height="240" width="160" /></a>
 
 <p>待漫長的破解程序完成，就會得到一台 1.1.3 版的破解 touch 了！</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249817875/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 7"><img src="http://farm3.static.flickr.com/2056/2249817875_903a34f32b_o.png" alt="Jailbreak 113 7" height="480" width="320" /></a>
-<a href="http://www.flickr.com/photos/irvin/2250615746/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 8"><img src="http://farm3.static.flickr.com/2085/2250615746_a283831085_o.png" alt="Jailbreak 113 8" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249817875/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 7"><img src="/assets/images/farm3.static.flickr.com/f015118be1d8e513.png" alt="Jailbreak 113 7" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250615746/" title="Flickr 上 Irvin Chen 的 Jailbreak 113 8"><img src="/assets/images/farm3.static.flickr.com/3176ec3f3daa09d7.png" alt="Jailbreak 113 8" height="480" width="320" /></a>
 
 
 <p><span style="font-weight: bold; color: rgb(255, 255, 255);">第六步：安裝 iPhone 系列程式</span></p>
@@ -181,18 +181,18 @@ excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 
 
 <p>2008/02/18 更新：Applerepo.com 已經關門，可以以 http://ipodtouchmaster.com/files/repo.xml 取代。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249866219/" title="Flickr 上 Irvin Chen 的 iPhone Apps 1"><img src="http://farm3.static.flickr.com/2151/2249866219_b33497d031_o.png" alt="iPhone Apps 1" height="480" width="320" /></a>
-<a href="http://www.flickr.com/photos/irvin/2250664506/" title="Flickr 上 Irvin Chen 的 iPhone Apps 2"><img src="http://farm3.static.flickr.com/2349/2250664506_1a0b5b157c_o.png" alt="iPhone Apps 2" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249866219/" title="Flickr 上 Irvin Chen 的 iPhone Apps 1"><img src="/assets/images/farm3.static.flickr.com/694715a24ff88a5c.png" alt="iPhone Apps 1" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250664506/" title="Flickr 上 Irvin Chen 的 iPhone Apps 2"><img src="/assets/images/farm3.static.flickr.com/7a8ec0eb88912bce.png" alt="iPhone Apps 2" height="480" width="320" /></a>
 
 <p>切換回 Install，會看到多了三個 iPhone 的目錄，如果你的版本是 1.1.2 就安裝 1.1.2 中的，是 1.1.3 就安裝 1.1.3 中的程式（1.1.3 版中，另需安裝 Application Prep，而 1.1.3 Mail Fix 不用安裝）。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250664406/" title="Flickr 上 Irvin Chen 的 iPhone Apps 4"><img src="http://farm3.static.flickr.com/2139/2250664406_f6286f8774_o.png" alt="iPhone Apps 4" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250664406/" title="Flickr 上 Irvin Chen 的 iPhone Apps 4"><img src="/assets/images/farm3.static.flickr.com/2b02dd75934d6e2e.png" alt="iPhone Apps 4" height="480" width="320" /></a>
 
 <p>安裝完成後，回主目錄就會啟動設定圖示順序的功能啦。</p>
 
-<a href="http://www.flickr.com/photos/irvin/2249865921/" title="Flickr 上 Irvin Chen 的 iPhone Apps 5"><img src="http://farm3.static.flickr.com/2234/2249865921_2dc16b247b_o.png" alt="iPhone Apps 5" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2249865921/" title="Flickr 上 Irvin Chen 的 iPhone Apps 5"><img src="/assets/images/farm3.static.flickr.com/f779b4c4312d8b87.png" alt="iPhone Apps 5" height="480" width="320" /></a>
 
 <p>此時破解就大功告成！</p>
 
-<a href="http://www.flickr.com/photos/irvin/2250144447/" title="Flickr 上 Irvin Chen 的 jailbreak iPod touch 1.1.3 3"><img src="http://farm3.static.flickr.com/2398/2250144447_01f9062b53_o.png" alt="jailbreak iPod touch 1.1.3 3" height="480" width="320" /></a>
-<a href="http://www.flickr.com/photos/irvin/2250942714/" title="Flickr 上 Irvin Chen 的 jailbreak iPod touch 1.1.3 2"><img src="http://farm3.static.flickr.com/2113/2250942714_0d79e8d9c8_o.png" alt="jailbreak iPod touch 1.1.3 2" height="480" width="320" /></a></div>
+<a href="http://www.flickr.com/photos/irvin/2250144447/" title="Flickr 上 Irvin Chen 的 jailbreak iPod touch 1.1.3 3"><img src="/assets/images/farm3.static.flickr.com/f11fde3ef06792b7.png" alt="jailbreak iPod touch 1.1.3 3" height="480" width="320" /></a>
+<a href="http://www.flickr.com/photos/irvin/2250942714/" title="Flickr 上 Irvin Chen 的 jailbreak iPod touch 1.1.3 2"><img src="/assets/images/farm3.static.flickr.com/c59efcec1d818e78.png" alt="jailbreak iPod touch 1.1.3 2" height="480" width="320" /></a></div>

@@ -22,23 +22,23 @@ excerpt: "過去就曾經 幹繳 過國泰世華的 網路銀行 ，還因此跑
 
 <p>這是國泰世華銀行在 Firefox 3 上登入後的第一個畫面。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2844022959"><img src="http://static.flickr.com/3078/2844022959_fef282df02.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2844022959"><img src="/assets/images/static.flickr.com/e4f50dec5350c599.jpg" /></a>
 
 <p>按下「證卷服務」看看吧。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2844757732"><img src="http://static.flickr.com/3140/2844757732_15f5ecca77.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2844757732"><img src="/assets/images/static.flickr.com/3c9fc65fee778f00.jpg" /></a>
 
 <p>看起來上方的「銀行服務、證卷服務、信用卡服務……」都是完全正常的，不過左邊的功能選項「額度繳款查詢、預借現金額度查詢……」就失效了。</p>
 
 <p>我們打開網頁下方的頁框來看看。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2843923729"><img src="http://static.flickr.com/3094/2843923729_81faca1e49.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2843923729"><img src="/assets/images/static.flickr.com/25f2d5010a929a1c.jpg" /></a>
 
 <p>下方的頁框是證卷服務的頁面。看得出來，上方的服務選項是連結到下方的頁框，左邊的功能則是連結到頁框的本身。</p>
 
 <p>現在打開頁框的原始碼看看……</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2844857630"><img src="http://static.flickr.com/3031/2844857630_61d9be422a.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2844857630"><img src="/assets/images/static.flickr.com/fc9ceba1175732d1.jpg" /></a>
 
 <pre><code>&lt;a href="#" onclick="Show_WebData('C185')"&gt;額度繳款查詢&lt;/a&gt;&lt;br&gt;
 &lt;a href="#" onclick="Show_WebData('C395')"&gt;預借現金額度查詢&lt;/a&gt;&lt;br&gt;
@@ -49,7 +49,7 @@ excerpt: "過去就曾經 幹繳 過國泰世華的 網路銀行 ，還因此跑
 
 <p>帳單及消費明細的連結是呼叫「Show_WebData('C195')」這個函式來顯示，讓我們看看函式的原始碼。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2844023161"><img src="http://static.flickr.com/3201/2844023161_d8b178fbf9.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2844023161"><img src="/assets/images/static.flickr.com/a9740b1054f35dce.jpg" /></a>
 
 <p>最重要的是這一句：</p>
 
@@ -60,7 +60,7 @@ excerpt: "過去就曾經 幹繳 過國泰世華的 網路銀行 ，還因此跑
 
 <p>打開這個連結試試看。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2844759280"><img src="http://static.flickr.com/3164/2844759280_31c5debde0.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2844759280"><img src="/assets/images/static.flickr.com/3e27c986031de972.jpg" /></a>
 
 <p>成功，看到網頁了。</p>
 

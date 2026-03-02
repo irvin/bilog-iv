@@ -15,19 +15,19 @@ excerpt: "為了紀念從今天一醒來做到現在的作業，特別貼上來.
 <p><b>交大行政大樓 Google Sketchup 模型</b></p>
 
 <p>先來個線稿吧。<br />
-<a href="http://www.flickr.com/photos/60061298@N00/482651069"><img src="http://static.flickr.com/216/482651069_1f60a9990b.jpg" /></a></p>
+<a href="http://www.flickr.com/photos/60061298@N00/482651069"><img src="/assets/images/static.flickr.com/a83507ab4b755a7c.jpg" /></a></p>
 <div id="fullpost">
 <p>然後是斜側面、正面、側面與背面：<br />
-<a href="http://www.flickr.com/photos/60061298@N00/482650451"><img src="http://static.flickr.com/219/482650451_ea6da495c3.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/482650857"><img src="http://static.flickr.com/177/482650857_7846003e8a.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/482650953"><img src="http://static.flickr.com/173/482650953_74f143186e.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/482650387"><img src="http://static.flickr.com/170/482650387_5b553460b5.jpg" /></a></p>
+<a href="http://www.flickr.com/photos/60061298@N00/482650451"><img src="/assets/images/static.flickr.com/407f9153018a37f0.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/482650857"><img src="/assets/images/static.flickr.com/77bf3f93356c1d18.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/482650953"><img src="/assets/images/static.flickr.com/c34ae62063a09910.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/482650387"><img src="/assets/images/static.flickr.com/3e48213d4c445fcf.jpg" /></a></p>
 
 <p>接著是貼上照片之後的樣子：<br />
-<a href="http://www.flickr.com/photos/60061298@N00/482641018"><img src="http://static.flickr.com/214/482641018_e826d1cda0.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/482641294"><img src="http://static.flickr.com/214/482641294_2dc5dad7a9.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/482641116"><img src="http://static.flickr.com/214/482641116_1c25d029fc.jpg" /></a>
-<a href="http://www.flickr.com/photos/60061298@N00/482641232"><img src="http://static.flickr.com/192/482641232_975330f5b4.jpg" /></a></p>
+<a href="http://www.flickr.com/photos/60061298@N00/482641018"><img src="/assets/images/static.flickr.com/7a744ea051778a4c.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/482641294"><img src="/assets/images/static.flickr.com/7d5933321af85548.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/482641116"><img src="/assets/images/static.flickr.com/ed460f063bf174f2.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/482641232"><img src="/assets/images/static.flickr.com/3996e2d474bb0920.jpg" /></a></p>
 
 <p>用 Photo Match 建模的問題在於，好用的照片很難照...</p>
 

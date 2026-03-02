@@ -10,7 +10,7 @@ tags: ["政治", "NPO", "blogger"]
 excerpt: "前情提要：蘋果日報 〈 踢爆 893萬善款只捐62萬 街頭勸募 協會竟挪用支薪 〉 其實台灣有很多 NPO 都很努力，也很需要資源協助，請不要因為少數 (？) 不良的組織與不作為的公務人員，就放棄對公益的堅持。 如果想要找可靠的捐款管道，可以根據個人關心的議題，捐給 綠色和平 、 國際特赦組織臺灣分會 、 無國界醫生 、 世界展望會 （飢餓三十那個）⋯⋯之類"
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/danapai/12696071674/" title="DSC_5066b (小)"><img src="https://c3.staticflickr.com/4/3670/12696071674_ae8cf7f7a7_b.jpg" width="1024" height="683" alt="DSC_5066b (小)"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/danapai/12696071674/" title="DSC_5066b (小)"><img src="/assets/images/c3.staticflickr.com/d1690d8ea1c57120.jpg" width="1024" height="683" alt="DSC_5066b (小)"></a>
 
 <p>前情提要：蘋果日報 〈<a href="http://www.appledaily.com.tw/appledaily/article/headline/20161224/37496513/">踢爆 893萬善款只捐62萬 街頭勸募 協會竟挪用支薪</a>〉</p>
 

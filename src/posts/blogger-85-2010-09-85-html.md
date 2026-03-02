@@ -10,17 +10,17 @@ tags: ["都市", "高雄", "blogger"]
 excerpt: "由於 PIL 論壇 剛好有網友詢問高雄 85 大樓日租套房，由於有位朋友的親戚正好在 85 經營日租套房 旅遊星 ，因此雖然我家就在高雄，一年前還是特別跑去住了一晚，個人覺得回味無窮，非常值得，與大家分享。 從傍晚到晚上的夕陽入海，是 85 大樓上最美的景觀。 居住在雲端的感覺也不過就是這樣而已。 當天由於朋友他們家的房間都滿了，因此另外介紹了 以馬內利 給"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/3349045354/" title="Love River - the 85 Tower by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3640/3349045354_59db3b6856.jpg" width="375" height="500" alt="Love River - the 85 Tower" /></a>
+<a href="http://www.flickr.com/photos/irvin/3349045354/" title="Love River - the 85 Tower by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/f557bedd5b28f7bf.jpg" width="375" height="500" alt="Love River - the 85 Tower" /></a>
 
 <p>由於 <a href="http://forum.palmislife.com/viewthread.php?tid=103708">PIL 論壇</a> 剛好有網友詢問高雄 85 大樓日租套房，由於有位朋友的親戚正好在 85 經營日租套房 <a href="http://www.5658.com.tw/travelstar/" target="_blank">旅遊星</a>，因此雖然我家就在高雄，一年前還是特別跑去住了一晚，個人覺得回味無窮，非常值得，與大家分享。</p>
 
 <p>從傍晚到晚上的夕陽入海，是 85 大樓上最美的景觀。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3912626942/" title="85以馬內利：31樓日租套房 日海景 - 1 by Irvin Chen, on Flickr"><img src="http://farm3.static.flickr.com/2621/3912626942_5b911b439a.jpg" width="500" height="375" alt="85以馬內利：31樓日租套房 日海景 - 1" /></a>
+<a href="http://www.flickr.com/photos/irvin/3912626942/" title="85以馬內利：31樓日租套房 日海景 - 1 by Irvin Chen, on Flickr"><img src="/assets/images/farm3.static.flickr.com/5dbf6834a04b0af8.jpg" width="500" height="375" alt="85以馬內利：31樓日租套房 日海景 - 1" /></a>
 
 <p>居住在雲端的感覺也不過就是這樣而已。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3911842707/" title="85以馬內利：31樓日租套房 夜海景 Panoramic - 2 by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3445/3911842707_8be04b932e.jpg" width="500" height="418" alt="85以馬內利：31樓日租套房 夜海景 Panoramic - 2" /></a>
+<a href="http://www.flickr.com/photos/irvin/3911842707/" title="85以馬內利：31樓日租套房 夜海景 Panoramic - 2 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/892584b463cc0caf.jpg" width="500" height="418" alt="85以馬內利：31樓日租套房 夜海景 Panoramic - 2" /></a>
 
 <p>當天由於朋友他們家的房間都滿了，因此另外介紹了 <a href="http://www.5658.com.tw/85home/" target="_blank">以馬內利</a> 給我們，經過接洽，入住的是 31 樓面向西邊的「童話玻璃屋」海景套房。</p>
 
@@ -29,10 +29,10 @@ excerpt: "由於 PIL 論壇 剛好有網友詢問高雄 85 大樓日租套房，
 <p>85 中的套房房間都非常小，大概比東京商業旅館的套房大一點點而以，浴室也非常迷你、僅供一人轉身，當然只有淋浴設備。我覺得，住 85 的話不用拘泥於房間的設備，乾淨就好，你也不會想要一直窩在這麼狹小的房間中。</p>
 
 <p>寢室部份<br>
-<a href="http://www.flickr.com/photos/irvin/3907328868/" title="85以馬內利：31樓日租套房 Panoramic - 3 by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3508/3907328868_b87362cd9e.jpg" width="500" height="287" alt="85以馬內利：31樓日租套房 Panoramic - 3" /></a></p>
+<a href="http://www.flickr.com/photos/irvin/3907328868/" title="85以馬內利：31樓日租套房 Panoramic - 3 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/278891ba76349d90.jpg" width="500" height="287" alt="85以馬內利：31樓日租套房 Panoramic - 3" /></a></p>
 
 <p>客廳部份（圖居然沒拼好 :P）<br>
-<a href="http://www.flickr.com/photos/irvin/3907326902/" title="85以馬內利：31樓日租套房 Panoramic - 2 by Irvin Chen, on Flickr"><img src="http://farm3.static.flickr.com/2545/3907326902_d6cc5fc086.jpg" width="500" height="320" alt="85以馬內利：31樓日租套房 Panoramic - 2" /></a></p>
+<a href="http://www.flickr.com/photos/irvin/3907326902/" title="85以馬內利：31樓日租套房 Panoramic - 2 by Irvin Chen, on Flickr"><img src="/assets/images/farm3.static.flickr.com/f8f98f4275d82cc8.jpg" width="500" height="320" alt="85以馬內利：31樓日租套房 Panoramic - 2" /></a></p>
 
 <p>對面是 85 大樓的「另一隻腳」，所以窗戶以貼紙掩蓋起來了。八五大樓下半部有兩隻腳，其中一邊都是套房，而對面那邊則都是辦公室。我住的這個套房的裝潢是相對普通的，另外參觀了其他幾間房間，主題式裝潢都很漂亮。</p>
 
@@ -48,17 +48,17 @@ excerpt: "由於 PIL 論壇 剛好有網友詢問高雄 85 大樓日租套房，
 
 <p>延港邊的自行車道散步或騎公共自行車（85 大樓前方有租車站、使用信用卡即可租車），途經光榮碼頭、愛河河口鐵路橋到真愛碼頭還車。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3349037114/" title="愛之船沿愛河向下 - 11 by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3594/3349037114_5c21806f18.jpg" width="500" height="375" alt="愛之船沿愛河向下 - 11" /></a>
-<a href="http://www.flickr.com/photos/irvin/3348209297/" title="愛之船沿愛河向下 - 23 七賢橋 by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3433/3348209297_a1fde3f01d.jpg" width="500" height="375" alt="愛之船沿愛河向下 - 23 七賢橋" /></a>
+<a href="http://www.flickr.com/photos/irvin/3349037114/" title="愛之船沿愛河向下 - 11 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/aebd39a709d94cb9.jpg" width="500" height="375" alt="愛之船沿愛河向下 - 11" /></a>
+<a href="http://www.flickr.com/photos/irvin/3348209297/" title="愛之船沿愛河向下 - 23 七賢橋 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/02086184cea4d965.jpg" width="500" height="375" alt="愛之船沿愛河向下 - 23 七賢橋" /></a>
 
 <p>於真愛碼頭搭乘愛之船，延愛河上溯至愛河之心（每整點行駛、單程約半小時）。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3409455393/" title="高雄公共腳踏車半日遊 - 01 捷運凹子底站 by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3392/3409455393_878942500e.jpg" width="375" height="500" alt="高雄公共腳踏車半日遊 - 01 捷運凹子底站" /></a>
+<a href="http://www.flickr.com/photos/irvin/3409455393/" title="高雄公共腳踏車半日遊 - 01 捷運凹子底站 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/94b9408246572391.jpg" width="375" height="500" alt="高雄公共腳踏車半日遊 - 01 捷運凹子底站" /></a>
 
 <p>從愛河之心租公共腳踏車，開始順著 <a href="http://khh.travel/tw/theme/Bike03.aspx">愛河自行車道</a> 往下騎。</p>
 
-<a href="http://www.flickr.com/photos/irvin/3410265526/" title="高雄公共腳踏車半日遊 - 02 愛河之心愛之船 by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3358/3410265526_047f0b8276.jpg" width="375" height="500" alt="高雄公共腳踏車半日遊 - 02 愛河之心愛之船" /></a>
-<a href="http://www.flickr.com/photos/irvin/3348201555/" title="Tower of Light by Irvin Chen, on Flickr"><img src="http://farm4.static.flickr.com/3638/3348201555_02332327b2.jpg" width="375" height="500" alt="Tower of Light" /></a>
+<a href="http://www.flickr.com/photos/irvin/3410265526/" title="高雄公共腳踏車半日遊 - 02 愛河之心愛之船 by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/cde520be5aeeaa41.jpg" width="375" height="500" alt="高雄公共腳踏車半日遊 - 02 愛河之心愛之船" /></a>
+<a href="http://www.flickr.com/photos/irvin/3348201555/" title="Tower of Light by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/b604bfdb4f80cfa0.jpg" width="375" height="500" alt="Tower of Light" /></a>
 
 <p>沿途有光之塔、音樂館、歷史博物館、電影館，再回到真愛碼頭。車程約一小時，一路皆為下坡、輕鬆好騎，且大多有樹蔭遮蔽。享受流水、水鳥與樹蔭，而路程中有數個可供觀河的休息據點。</p>
 
@@ -70,11 +70,11 @@ excerpt: "由於 PIL 論壇 剛好有網友詢問高雄 85 大樓日租套房，
 
 <p>除了 85 大樓的日租套房外，另外還特別推薦那邊愛河的日租屋，風景也是絕佳喔！而且比起八五來說，房內空間寬敞多了。（這是旅遊星的愛河館景觀）</p>
 
-<a href="http://www.flickr.com/photos/irvin/4127554560/" title="MozTW 高雄開發合宿景緻 - 10 by Irvin Chen, on Flickr"><img src="http://farm3.static.flickr.com/2803/4127554560_c3b548a332.jpg" width="500" height="237" alt="MozTW 高雄開發合宿景緻 - 10" /></a>
-<a href="http://www.flickr.com/photos/irvin/4126879831/" title="MozTW 高雄開發合宿景緻 - 15 by Irvin Chen, on Flickr"><img src="http://farm3.static.flickr.com/2798/4126879831_07f860c946.jpg" width="500" height="292" alt="MozTW 高雄開發合宿景緻 - 15" /></a>
+<a href="http://www.flickr.com/photos/irvin/4127554560/" title="MozTW 高雄開發合宿景緻 - 10 by Irvin Chen, on Flickr"><img src="/assets/images/farm3.static.flickr.com/d29b13bcacc890eb.jpg" width="500" height="237" alt="MozTW 高雄開發合宿景緻 - 10" /></a>
+<a href="http://www.flickr.com/photos/irvin/4126879831/" title="MozTW 高雄開發合宿景緻 - 15 by Irvin Chen, on Flickr"><img src="/assets/images/farm3.static.flickr.com/ac83473f3115cab1.jpg" width="500" height="292" alt="MozTW 高雄開發合宿景緻 - 15" /></a>
 
 <p>如果能天天在這種地方工作，人生毫無遺憾了（偷偷出賣 <a href="http://blog.bobchao.net/">柏強</a>）。</p>
 
-<a href="http://www.flickr.com/photos/irvin/4127582403/" title="BobChao @ MozTW 高雄開發合宿 by Irvin Chen, on Flickr"><img src="http://farm3.static.flickr.com/2758/4127582403_7ea81f54c3.jpg" width="375" height="500" alt="BobChao @ MozTW 高雄開發合宿" /></a>
+<a href="http://www.flickr.com/photos/irvin/4127582403/" title="BobChao @ MozTW 高雄開發合宿 by Irvin Chen, on Flickr"><img src="/assets/images/farm3.static.flickr.com/de4641c7d2d24b92.jpg" width="375" height="500" alt="BobChao @ MozTW 高雄開發合宿" /></a>
 
 <p>特別說明一下，雖然以馬內利是朋友所介紹，但是本文非廣編文，作者自負房租、也沒打到什麼折（哈）。該日租屋的業者李小姐服務態度與熱忱都不錯，如果李小姐您看到了，下次我再去住時要記得給個折扣啊 XD</p>

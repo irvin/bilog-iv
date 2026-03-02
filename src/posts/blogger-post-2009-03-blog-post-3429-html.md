@@ -10,7 +10,7 @@ tags: ["書", "文化", "都市", "台南", "blogger"]
 excerpt: "沒想到第一次寫深耕，是因為書店要關門了，一時刻心痛的難以下筆。 回想從兩年前剛到台南與書房的偶遇，逐漸認識。早已習慣看到新書訊時，就拿起電話撥到深耕訂書。這種只要報上名字一切OK的服務，有何種網站、連鎖書店可以替代？更別說兩位大姐的親切與服務，這種人情才是書店最令人珍惜的價值。 雖然現在有了findbook.tw，有了博客來，但是失去的似乎更多。 如此一個小"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/3120272108/" title="Flickr 上 Irvin Chen 的 深耕書房 - 1"><img src="http://farm4.static.flickr.com/3262/3120272108_9e0a938299.jpg" width="375" height="500" alt="深耕書房 - 1" /></a>
+<a href="http://www.flickr.com/photos/irvin/3120272108/" title="Flickr 上 Irvin Chen 的 深耕書房 - 1"><img src="/assets/images/farm4.static.flickr.com/8a27f6b3e5dd2570.jpg" width="375" height="500" alt="深耕書房 - 1" /></a>
 
 <p>沒想到第一次寫深耕，是因為書店要關門了，一時刻心痛的難以下筆。</p>
 

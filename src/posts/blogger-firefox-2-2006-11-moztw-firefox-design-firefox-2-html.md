@@ -18,7 +18,7 @@ excerpt: "在 柏強的城市探險記 看到 Mozilla Taiwan 火狐月 Firefox 2
 最爽的是，看到自己做的傳單一張張發出去（雖然印的是黑白的）<br />
 感謝柏強跟Mozilla Taiwan，感謝Firefox 2！<br />
 <div id="fullpost">
-<a href="http://www.flickr.com/photos/irvin/309557336/" title="Photo Sharing"><img src="http://static.flickr.com/103/309557336_0b80cb27af.jpg" width="353" height="500" alt="Firefox 2 要點概覽精簡版 正面" /></a><br />
-<a href="http://www.flickr.com/photos/irvin/309557369/" title="Photo Sharing"><img src="http://static.flickr.com/101/309557369_69d04f1088.jpg" width="353" height="500" alt="Firefox 2 要點概覽精簡版 反面" /></a><br />
+<a href="http://www.flickr.com/photos/irvin/309557336/" title="Photo Sharing"><img src="/assets/images/static.flickr.com/286371bfd8763c60.jpg" width="353" height="500" alt="Firefox 2 要點概覽精簡版 正面" /></a><br />
+<a href="http://www.flickr.com/photos/irvin/309557369/" title="Photo Sharing"><img src="/assets/images/static.flickr.com/fca302932dedce96.jpg" width="353" height="500" alt="Firefox 2 要點概覽精簡版 反面" /></a><br />
 <br />
 火狐月之前的 party 我也去了，一直還沒有紀錄，幾天沈澱沈澱再貼上來。</div>

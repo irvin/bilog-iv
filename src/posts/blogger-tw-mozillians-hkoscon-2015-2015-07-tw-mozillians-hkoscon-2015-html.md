@@ -22,7 +22,7 @@ excerpt: "In the end of June, totally 7 Taiwan Mozillians (5 reps, 2 core contri
 
 <h2>Booth 攤位</h2>
 
-<p><a href="https://www.flickr.com/photos/irvin/19175020222/in/album-72157654694304708/" title="MozTW Mozillians #FoxYeah @ HKOSCon2015"><img src="https://farm1.staticflickr.com/488/19175020222_9f4f637f54_z.jpg" width="640" height="480" alt="MozTW Mozillians #FoxYeah @ HKOSCon2015"></a> <br/>
+<p><a href="https://www.flickr.com/photos/irvin/19175020222/in/album-72157654694304708/" title="MozTW Mozillians #FoxYeah @ HKOSCon2015"><img src="/assets/images/farm1.staticflickr.com/370bbb95d75248bc.jpg" width="640" height="480" alt="MozTW Mozillians #FoxYeah @ HKOSCon2015"></a> <br/>
 (TW Mozillians with <a href="https://reps.mozilla.org/u/sammyfung/">Sammy Fung</a>, Bob &amp; Ernest is not in this photo) <br/>
 (台灣成員與香港的&nbsp;Sammy，Bob 與 Ernest 不在這張照片中)</p>
 
@@ -30,7 +30,7 @@ excerpt: "In the end of June, totally 7 Taiwan Mozillians (5 reps, 2 core contri
 
 <p>將 FoxYeah 標語製作成大扛棒在攤位上展示，並讓人拿著最喜歡的標語拍照，是一個準備簡單，卻非常有笑點的小活動。不但容易吸引目光，也成為與參觀者的交流話題。</p>
 
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/irvin/19240598475/in/album-72157654694304708/" title="Thomas #FoxYeah @ HKOSCon2015"><img src="https://farm1.staticflickr.com/470/19240598475_32638abfce_z.jpg" width="480" height="640" alt="Thomas #FoxYeah @ HKOSCon2015"></a> <br/>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/irvin/19240598475/in/album-72157654694304708/" title="Thomas #FoxYeah @ HKOSCon2015"><img src="/assets/images/farm1.staticflickr.com/3607dd9f8a4c0d2c.jpg" width="480" height="640" alt="Thomas #FoxYeah @ HKOSCon2015"></a> <br/>
 (We even got a "Gandi love Firefox" big thumb up from <a href="http://gandi.net/">Gandi.net</a>'s Asia COO Thomas)<br>
 (我們甚至獲得了 Gandi 的 Asia COO Thomas 的「Gandi Love Firefox」認證)</p>
 
@@ -44,7 +44,7 @@ excerpt: "In the end of June, totally 7 Taiwan Mozillians (5 reps, 2 core contri
 
 <h2>Webmaker Workshop 工作坊</h2>
 
-<p><a href="https://www.flickr.com/photos/irvin/19052959598/in/album-72157654694304708/" title="Webmaker Workshop @HKOSCon2015"><img src="https://farm1.staticflickr.com/486/19052959598_08db6c1aea_z.jpg" width="640" height="480" alt="Webmaker Workshop @HKOSCon2015"></a></p>
+<p><a href="https://www.flickr.com/photos/irvin/19052959598/in/album-72157654694304708/" title="Webmaker Workshop @HKOSCon2015"><img src="/assets/images/farm1.staticflickr.com/ac64c26d1e9d56f0.jpg" width="640" height="480" alt="Webmaker Workshop @HKOSCon2015"></a></p>
 
 <p>Host a Webmaker workshop is one of my main topic in HKOSCon. But the lecture room is under "speak" mode, and not too easy for workshop that it's hard to see how attendees' status. Fortunately that my content is half exercise and half lecture intro.</p>
 

@@ -11,7 +11,7 @@ excerpt: "昨天在使用 Bloglines beta 這個 RSS Reader 看 Blog 時，忽然
 ---
 
 <a href="http://www.flickr.com/photos/irvin/3406702052/" title="Flickr 上 Irvin Chen 的 Bloglines console">
-<img src="http://farm4.static.flickr.com/3602/3406702052_7de342d78b.jpg" width="500" height="380" alt="Bloglines console" />
+<img src="/assets/images/farm4.static.flickr.com/8600ee16c0773f1f.jpg" width="500" height="380" alt="Bloglines console" />
 </a>
 
 <p>昨天在使用 <a href="http://beta.bloglines.com/">Bloglines beta</a> 這個 RSS Reader 看 Blog 時，忽然跳出了上面這個 Drop-down console 終端機的畫面，一時還以為 Bloglines 跟我們一樣在玩 <a href="http://www.moztw.org/events/ie8/">愚人節活動</a>。</p>
@@ -34,7 +34,7 @@ Proudly Made On Earth!
 
 <div id="fullpost">
 
-<a href="http://www.flickr.com/photos/irvin/3406702182/" title="Flickr 上 Irvin Chen 的 Bloglines console: ls"><img src="http://farm4.static.flickr.com/3574/3406702182_0c99a4407d.jpg" width="500" height="380" alt="Bloglines console: ls" /></a>
+<a href="http://www.flickr.com/photos/irvin/3406702182/" title="Flickr 上 Irvin Chen 的 Bloglines console: ls"><img src="/assets/images/farm4.static.flickr.com/42a69b319c9272f4.jpg" width="500" height="380" alt="Bloglines console: ls" /></a>
 
 <p>在 Console 下試著輸入一些指令試試。</p>
 
@@ -52,7 +52,7 @@ Proudly Made On Earth!
 -rwxr--r-- 柏強的城市探險記
 </pre></code>
 
-<a href="http://www.flickr.com/photos/irvin/3405890623/" title="Flickr 上 Irvin Chen 的 Bloglines console: cat"><img src="http://farm4.static.flickr.com/3656/3405890623_91eecd336e.jpg" width="500" height="380" alt="Bloglines console: cat" /></a>
+<a href="http://www.flickr.com/photos/irvin/3405890623/" title="Flickr 上 Irvin Chen 的 Bloglines console: cat"><img src="/assets/images/farm4.static.flickr.com/94b9bfe0d8e871c8.jpg" width="500" height="380" alt="Bloglines console: cat" /></a>
 
 <p>cat 後面接任何一個目錄名或 RSS 名稱，則是會一次跑出所有未讀的 RSS…… 似乎沒辦法只看某個 RSS，而且名稱中如果有空格時就找不到了（"\"也無效）。</p>
 
@@ -71,11 +71,11 @@ burnt_umber
 theme set to old.
 </pre></code>
 
-<a href="http://www.flickr.com/photos/irvin/3405890721/" title="Flickr 上 Irvin Chen 的 Bloglines console: set theme &amp; text"><img src="http://farm4.static.flickr.com/3603/3405890721_fab7f3ea0e.jpg" width="500" height="380" alt="Bloglines console: set theme &amp; text" /></a>
+<a href="http://www.flickr.com/photos/irvin/3405890721/" title="Flickr 上 Irvin Chen 的 Bloglines console: set theme &amp; text"><img src="/assets/images/farm4.static.flickr.com/5a8f705a55d907e2.jpg" width="500" height="380" alt="Bloglines console: set theme &amp; text" /></a>
 
 <p>改成綠色是不是比較保護眼睛？</p>
 
-<a href="http://www.flickr.com/photos/irvin/3406702364/" title="Flickr 上 Irvin Chen 的 Bloglines console: zombie"><img src="http://farm4.static.flickr.com/3418/3406702364_9474129b70.jpg" width="500" height="380" alt="Bloglines console: zombie" /></a>
+<a href="http://www.flickr.com/photos/irvin/3406702364/" title="Flickr 上 Irvin Chen 的 Bloglines console: zombie"><img src="/assets/images/farm4.static.flickr.com/c99fc5cdfe234e69.jpg" width="500" height="380" alt="Bloglines console: zombie" /></a>
 
 <p>也可以直接使用 set text 跟 set background 來設定文字跟背景顏色，黃字黑底很醒目……</p>
 

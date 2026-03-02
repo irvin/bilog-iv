@@ -10,17 +10,17 @@ tags: ["ubuntu", "eeepc", "blogger"]
 excerpt: "雖然去年年底辦的中華電信 iPhone 3G 有含 24 個月 Hifly 無限上網，但是得要在肯德雞等有 Hinet 熱點的地方才可以用，偏偏統一的 Wifly 無線網路勢力比較龐大，因此還是有使用 3G 網卡的需求。手邊剛好有兩張 BandLuxe C120 網卡，這張網卡在 XP 跟 Mac 下都可以隨插即用，但是在 Ubuntu 8.04 下從來沒有"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/3338106641/" title="Flickr 上 Irvin Chen 的 EeePC 901 With BandLuxe C120"><img src="http://farm4.static.flickr.com/3652/3338106641_9f30a6199b.jpg" width="500" height="375" alt="EeePC 901 With BandLuxe C120" /></a>
+<a href="http://www.flickr.com/photos/irvin/3338106641/" title="Flickr 上 Irvin Chen 的 EeePC 901 With BandLuxe C120"><img src="/assets/images/farm4.static.flickr.com/04520b3ed0413557.jpg" width="500" height="375" alt="EeePC 901 With BandLuxe C120" /></a>
 
 <p>雖然去年年底辦的中華電信 iPhone 3G 有含 24 個月 Hifly 無限上網，但是得要在肯德雞等有 Hinet 熱點的地方才可以用，偏偏統一的 Wifly 無線網路勢力比較龐大，因此還是有使用 3G 網卡的需求。手邊剛好有兩張 BandLuxe C120 網卡，這張網卡在 XP 跟 Mac 下都可以隨插即用，但是在 Ubuntu 8.04 下從來沒有成功使用過，前幾天搜索了一下發現在 8.10 下已經有辦法可以使用了。</p>
 
 <div id="fullpost"><p>參考 <a href="http://abcubuntu.blogspot.com/2008/12/ubuntu-810bandluxe-c120.html">Ubuntu 美麗新世界: Ubuntu 8.10使用BandLuxe C120上網詳細步驟！</a> 及 <a href="http://abcubuntu.blogspot.com/2009/01/blog-post.html">Ubuntu 美麗新世界: 鉅瞻科技客服回覆原文</a> 所述，先在 Windows 上透過撥號程式確定網卡的軔體是 405070-001-052 版。（我的兩張其中一張不是，因為 Mac 無法使用，聯絡客服後取得軔體更新到這個版本了）</p>
 
-<a href="http://www.flickr.com/photos/irvin/3338034377/" title="Flickr 上 Irvin Chen 的 C120-1"><img src="http://farm4.static.flickr.com/3630/3338034377_4750b87772_o.png" width="498" height="343" alt="C120-1" /></a>
+<a href="http://www.flickr.com/photos/irvin/3338034377/" title="Flickr 上 Irvin Chen 的 C120-1"><img src="/assets/images/farm4.static.flickr.com/3d3a692507b5bad4.png" width="498" height="343" alt="C120-1" /></a>
 
 <p>先解除 SIM 卡的 PIN 密碼：</p>
 
-<a href="http://www.flickr.com/photos/irvin/3338034467/" title="Flickr 上 Irvin Chen 的 C120-2"><img src="http://farm4.static.flickr.com/3615/3338034467_5b062a1c79_o.png" width="498" height="343" alt="C120-2" /></a>
+<a href="http://www.flickr.com/photos/irvin/3338034467/" title="Flickr 上 Irvin Chen 的 C120-2"><img src="/assets/images/farm4.static.flickr.com/32f4188f859b74b7.png" width="498" height="343" alt="C120-2" /></a>
 
 <p>編輯 /etc/wvdial.conf，如下：</p>
 
@@ -45,6 +45,6 @@ ISDN = 0<br />
 
 <p>要上網前插入 C120 網卡，Ubuntu 會自動掛載網卡內的驅動程式磁碟，先把這個磁碟卸載，再 sudo wvdial，如果有看到取得 IP、DNS 的回應，就可以縮小終端機視窗上網去了。這個方法在我的 EeePC 901 上跑的 Easy Peasy 1.0 也可以正常使用無誤。（如不行可先試試改 /dev/ttyUSB0 為 /dev/ttyUSB1，我測試的結果是斷線後要重開機才能再次正常連線）</p>
 
-<a href="http://www.flickr.com/photos/irvin/3338866258/" title="Flickr 上 Irvin Chen 的 C120-3"><img src="http://farm4.static.flickr.com/3603/3338866258_c3386ac8bc.jpg" width="500" height="293" alt="C120-3" /></a>
+<a href="http://www.flickr.com/photos/irvin/3338866258/" title="Flickr 上 Irvin Chen 的 C120-3"><img src="/assets/images/farm4.static.flickr.com/58ba59d27c822b35.jpg" width="500" height="293" alt="C120-3" /></a>
 
 <p>最後要抱怨一下 鉅瞻科技 BandRich，既然 C120 在 Ubuntu 8.10 上是可以 Workaround 的，為什麼不花一點資源與時間弄個撥號程式或快速設定的 deb 套件，方便使用者也可以同時擴大市場。此外我手上兩張 C120，其中一張原本在 Vista 跟 Mac OSX 上無法正常使用，還要使用者自己打電話去，要新的軔體更新才可以使用。說 Ubuntu 8.10 不是官方支援的作業系統，這種態度真是還沒從典型的代工廠思路走到品牌思路的最好證明。</p></div>

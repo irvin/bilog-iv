@@ -10,7 +10,7 @@ tags: ["書", "媒體", "blogger"]
 excerpt: "「週刊 世界飛機」是本由 DeAgostini 所出版的週刊雜誌，在台灣由雨禾國際有限公司發行。DeAgostini 所出版的刊物，一貫特色是可收集的設計：每一期的每一頁內容都可以簡單撕下，按照規劃好的單元與頁碼，收集入所附的活頁夾中，經過上百期的敗家之後，就能成為一套數大冊、內容完整、便於檢索的飛機百科全書。 其實我個人覺得，這個模式更適合使用在現行的雜誌"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/4126641663/" title="Flickr 上 Irvin Chen 的 世界飛機圖像大百科"><img alt="世界飛機圖像大百科" height="375" src="http://farm3.static.flickr.com/2694/4126641663_a67878250e.jpg" width="500" /></a>
+<a href="http://www.flickr.com/photos/irvin/4126641663/" title="Flickr 上 Irvin Chen 的 世界飛機圖像大百科"><img alt="世界飛機圖像大百科" height="375" src="/assets/images/farm3.static.flickr.com/e45b064975aa178b.jpg" width="500" /></a>
 
 <p>「週刊 世界飛機」是本由 DeAgostini 所出版的週刊雜誌，在台灣由雨禾國際有限公司發行。DeAgostini 所出版的刊物，一貫特色是可收集的設計：每一期的每一頁內容都可以簡單撕下，按照規劃好的單元與頁碼，收集入所附的活頁夾中，經過上百期的敗家之後，就能成為一套數大冊、內容完整、便於檢索的飛機百科全書。</p>
 
@@ -22,7 +22,7 @@ excerpt: "「週刊 世界飛機」是本由 DeAgostini 所出版的週刊雜誌
 
 <p>我至今已經持續購買世界飛機週刊到第五期，覺得文章跟圖片的品質都很不錯，雖然以百科全書打散式的內容，組成一本週刊，有點失去雜誌與「編輯的味道」，但是仍會持續買下去。可惜的是，本日（2009/12/22）出刊的第五期，在第 22 頁上有很明顯的印刷錯誤，圖片的邊緣都被裁切到了。</p>
 
-<a href="http://www.flickr.com/photos/irvin/5476674614/" title="世界飛機 vol5 p22 印刷錯誤 by Irvin Chen, on Flickr"><img src="http://farm6.static.flickr.com/5097/5476674614_a9fc3022f3_b.jpg" width="744" height="1024" alt="世界飛機 vol5 p22 印刷錯誤" /></a>
+<a href="http://www.flickr.com/photos/irvin/5476674614/" title="世界飛機 vol5 p22 印刷錯誤 by Irvin Chen, on Flickr"><img src="/assets/images/farm6.static.flickr.com/21baa352dad9876a.jpg" width="744" height="1024" alt="世界飛機 vol5 p22 印刷錯誤" /></a>
 
 <p>幸好這本週刊是「收集式」的週刊，可以直接在未來的期數中重新附上這一頁就好了，不至於採用像其他雜誌般，無用的更正欄位來彌補。希望在下幾期內就能拿到重印的頁面，讓我們看看出版「週刊　世界飛機」的 DeAgostini，會不會以世界級的水準來滿足讀者吧！</p>
 

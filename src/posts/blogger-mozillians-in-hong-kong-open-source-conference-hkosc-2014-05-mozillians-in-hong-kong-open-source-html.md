@@ -10,7 +10,7 @@ tags: ["mozilla-reps", "mozilla", "hkosc", "moztw", "blogger"]
 excerpt: "HKOSC 2014 Hong Kong Open Source Conference aka HKOSC, is an annual conference in Hong Kong for open source community. In 2014/3/29, we took this good chance to gather Mozillians ("
 ---
 
-<a style="float:right;" href="https://www.flickr.com/photos/irvin/13651954233" title="HKOSC - Agenda &amp; Badge by Irvin Chen, on Flickr"><img src="https://farm4.staticflickr.com/3733/13651954233_014eb630cd_m.jpg" width="240" height="180" alt="HKOSC - Agenda &amp; Badge"></a>
+<a style="float:right;" href="https://www.flickr.com/photos/irvin/13651954233" title="HKOSC - Agenda &amp; Badge by Irvin Chen, on Flickr"><img src="/assets/images/farm4.staticflickr.com/fcafdcaa09395ec2.jpg" width="240" height="180" alt="HKOSC - Agenda &amp; Badge"></a>
 
 <h2>HKOSC 2014</h2>
 
@@ -32,14 +32,14 @@ Guest: <a href="https://reps.mozilla.org/u/WongWeiZhen/">Wong Wei Zhen</a> from 
 
 <p>(Thanks <a href="http://apc.io/">APC</a> for letting us borrow the <a href="http://apc.io/products/paper/">APC Paper</a> device.)</p>
 
-<p><a href="https://www.flickr.com/photos/irvin/13651957545" title="HKOSC - Mozilla Booth - 1 by Irvin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7044/13651957545_57502f935a.jpg" width="320" height="426" alt="HKOSC - Mozilla Booth - 1"></a><a href="https://www.flickr.com/photos/irvin/13652315334" title="HKOSC - Mozilla Booth - 3 by Irvin Chen, on Flickr"><img src="https://farm6.staticflickr.com/5528/13652315334_32e090f295.jpg" width="320" height="426" alt="HKOSC - Mozilla Booth - 3"></a>
-<a href="https://www.flickr.com/photos/105205172@N02/13866569164" title="DSC07038 by Orin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7255/13866569164_0494127bc2_z.jpg" width="640" height="480" alt="DSC07038"></a></p>
+<p><a href="https://www.flickr.com/photos/irvin/13651957545" title="HKOSC - Mozilla Booth - 1 by Irvin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/14e244ff00e3531a.jpg" width="320" height="426" alt="HKOSC - Mozilla Booth - 1"></a><a href="https://www.flickr.com/photos/irvin/13652315334" title="HKOSC - Mozilla Booth - 3 by Irvin Chen, on Flickr"><img src="/assets/images/farm6.staticflickr.com/d0d0b14872243842.jpg" width="320" height="426" alt="HKOSC - Mozilla Booth - 3"></a>
+<a href="https://www.flickr.com/photos/105205172@N02/13866569164" title="DSC07038 by Orin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/917f053279ac23ec.jpg" width="640" height="480" alt="DSC07038"></a></p>
 
 <h2>Mozilla Session &amp; Forum</h2>
 
 <p>There is 2 session related to Mozilla on HKOSC, "<a href="http://opensource.hk/en/2014/david-and-goliah-from-firefox-browser-to-firefox-os">David and Goliah: from Firefox browser to Firefox OS</a>" by Taiwan paid-staff <a href="https://mozillians.org/zh-TW/u/mhung/">Michael Hung</a> and forum "<a href="http://opensource.hk/en/2014/mozilla-communities-in-chinese-speaking-regions">Mozilla communities in Chinese-speaking regions</a>" by all participated reps.</p>
 
-<p><a href="https://www.flickr.com/photos/irvin/13651970643" title="HKOSC - David and Goliah: from Firefox browser to Firefox OS by Michael Hung - 3 by Irvin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7225/13651970643_a9e2596620_z.jpg" width="640" height="279" alt="HKOSC - David and Goliah: from Firefox browser to Firefox OS by Michael Hung - 3"></a></p>
+<p><a href="https://www.flickr.com/photos/irvin/13651970643" title="HKOSC - David and Goliah: from Firefox browser to Firefox OS by Michael Hung - 3 by Irvin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/6d04b2e8a9742177.jpg" width="640" height="279" alt="HKOSC - David and Goliah: from Firefox browser to Firefox OS by Michael Hung - 3"></a></p>
 
 <p>The forum is hosting by Richard Lin*. we had featuring Mozilla Story, give a brief intro of Mozilla, each 3 region communities, their own events, how we cooperation across the region and with the local MoCos <a href="https://en.wikipedia.org/wiki/Mozilla_Taiwan">in Taiwan</a> and <a href="http://en.wikipedia.org/wiki/Mozilla_China">in China</a>, and introducing on the opportunity of contribute Mozilla.</p>
 
@@ -49,5 +49,5 @@ Guest: <a href="https://reps.mozilla.org/u/WongWeiZhen/">Wong Wei Zhen</a> from 
 </p>
 
 
-<p><a href="https://www.flickr.com/photos/irvin/13652026103" title="HKOSC - Mozilla communities in Chinese-speaking regions - 2 by Irvin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7306/13652026103_fe0c31599f_z.jpg" width="640" height="480" alt="HKOSC - Mozilla communities in Chinese-speaking regions - 2"></a>
-<a href="https://www.flickr.com/photos/irvin/13652020863" title="HKOSC - Mozilla communities in Chinese-speaking regions - 1 by Irvin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7108/13652020863_0b6a9634c1_z.jpg" width="640" height="480" alt="HKOSC - Mozilla communities in Chinese-speaking regions - 1"></a></p>
+<p><a href="https://www.flickr.com/photos/irvin/13652026103" title="HKOSC - Mozilla communities in Chinese-speaking regions - 2 by Irvin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/9eedd1b283deb9e7.jpg" width="640" height="480" alt="HKOSC - Mozilla communities in Chinese-speaking regions - 2"></a>
+<a href="https://www.flickr.com/photos/irvin/13652020863" title="HKOSC - Mozilla communities in Chinese-speaking regions - 1 by Irvin Chen, on Flickr"><img src="/assets/images/farm8.staticflickr.com/2d869a3085487437.jpg" width="640" height="480" alt="HKOSC - Mozilla communities in Chinese-speaking regions - 1"></a></p>

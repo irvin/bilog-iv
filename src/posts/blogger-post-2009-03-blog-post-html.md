@@ -14,4 +14,4 @@ excerpt: "這張名片代表了住在台南的趣味呀！ 晉昌印刷，創立
 
 <p>晉昌印刷，創立於民國34年……</p>
 
-<a href="http://www.flickr.com/photos/irvin/3341861102/" title="Flickr 上 Irvin Chen 的 創立於民國34年…"><img src="http://farm4.static.flickr.com/3545/3341861102_a30f1752a6.jpg" width="500" height="375" alt="創立於民國34年…" /></a>
+<a href="http://www.flickr.com/photos/irvin/3341861102/" title="Flickr 上 Irvin Chen 的 創立於民國34年…"><img src="/assets/images/farm4.static.flickr.com/aa84ec211e184ba6.jpg" width="500" height="375" alt="創立於民國34年…" /></a>

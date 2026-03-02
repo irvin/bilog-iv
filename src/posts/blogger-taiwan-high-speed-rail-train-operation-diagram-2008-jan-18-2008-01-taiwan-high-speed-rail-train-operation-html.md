@@ -11,7 +11,7 @@ excerpt: "THSR_Operation_Daigram_20080118.pdf 歷次改點運行圖： 2007-6-01
 ---
 
 <a href="
-http://hd.sto.tw/THSR/THSR_Operation_Daigram_20080118.pdf" title="Taiwan High Speed Rail Train Operation Diagram"><img src="http://static.flickr.com/2036/2181486692_dfda3cfb7c.jpg" width="500" alt=" " /><br />
+http://hd.sto.tw/THSR/THSR_Operation_Daigram_20080118.pdf" title="Taiwan High Speed Rail Train Operation Diagram"><img src="/assets/images/static.flickr.com/7db548fa7be6fc62.jpg" width="500" alt=" " /><br />
 THSR_Operation_Daigram_20080118.pdf</a>
 
 <p>歷次改點運行圖：<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070601.pdf">2007-6-01</a>、<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070727.pdf">2007-7-27</a>、<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070914.pdf">2007-9-14</a>、<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20071109_2.pdf">2007-11-09</a></p>

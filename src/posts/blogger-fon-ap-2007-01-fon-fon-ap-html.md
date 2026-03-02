@@ -14,22 +14,22 @@ excerpt: "昨天終於收到FON AP了。 雖然花費了許多心力才設定好
 雖然花費了許多心力才設定好讓他上線，但是感覺真的很不錯。<br />
 網路上已經有許多朋友分享使用心得，下面就不多說，看照片吧！<br />
 <br />
-<a href="http://static.flickr.com/156/345094888_5c3f60cfe7_o.jpg"><img src="http://static.flickr.com/156/345094888_5c3f60cfe7_m.jpg" /></a><br />
+<a href="http://static.flickr.com/156/345094888_5c3f60cfe7_o.jpg"><img src="/assets/images/static.flickr.com/03a7d9810ca0150c.jpg" /></a><br />
 小巧精緻的Fon AP<br />
 <div id="fullpost">
-<a href="http://static.flickr.com/61/345075355_abac9557f1_o.jpg"><img src="http://static.flickr.com/61/345075355_abac9557f1_m.jpg" /></a><br />
-<a href="http://static.flickr.com/127/345075455_f61fb42d6c_o.jpg"><img src="http://static.flickr.com/127/345075455_f61fb42d6c_m.jpg" /></a><br />
-<a href="http://static.flickr.com/151/345075823_ecdfd55e07_o.jpg"><img src="http://static.flickr.com/151/345075823_ecdfd55e07_m.jpg" /></a><br />
-<a href="http://static.flickr.com/51/345075926_4fc7942e77_o.jpg"><img src="http://static.flickr.com/51/345075926_4fc7942e77_m.jpg" /></a><br />
-<a href="http://static.flickr.com/61/345075619_43f2dcea55_o.jpg"><img src="http://static.flickr.com/61/345075619_43f2dcea55_m.jpg" /></a><br />
+<a href="http://static.flickr.com/61/345075355_abac9557f1_o.jpg"><img src="/assets/images/static.flickr.com/e545dc70baadeafd.jpg" /></a><br />
+<a href="http://static.flickr.com/127/345075455_f61fb42d6c_o.jpg"><img src="/assets/images/static.flickr.com/6608f6ba1f4d13d4.jpg" /></a><br />
+<a href="http://static.flickr.com/151/345075823_ecdfd55e07_o.jpg"><img src="/assets/images/static.flickr.com/caad43efd5a4e0d1.jpg" /></a><br />
+<a href="http://static.flickr.com/51/345075926_4fc7942e77_o.jpg"><img src="/assets/images/static.flickr.com/78319c988e857eec.jpg" /></a><br />
+<a href="http://static.flickr.com/61/345075619_43f2dcea55_o.jpg"><img src="/assets/images/static.flickr.com/a935079a75aa9f38.jpg" /></a><br />
 附了三張可愛貼紙，現在小白貼的是右下角這張<br />
-<a href="http://static.flickr.com/161/345075540_2a882996d2_o.jpg"><img src="http://static.flickr.com/161/345075540_2a882996d2_m.jpg" /></a><br />
+<a href="http://static.flickr.com/161/345075540_2a882996d2_o.jpg"><img src="/assets/images/static.flickr.com/5520b792e2f72fd8.jpg" /></a><br />
 這一批出貨的Fon AP還多了中文說明書<br />
-<a href="http://static.flickr.com/155/345075730_32dd476f57_o.jpg"><img src="http://static.flickr.com/155/345075730_32dd476f57_m.jpg" /></a><br />
-<a href="http://static.flickr.com/156/345094965_de83ae6b40_o.jpg"><img src="http://static.flickr.com/156/345094965_de83ae6b40_m.jpg" /></a><br />
-<a href="http://static.flickr.com/147/345094778_321c1db290_o.jpg"><img src="http://static.flickr.com/147/345094778_321c1db290_m.jpg" /></a><br />
+<a href="http://static.flickr.com/155/345075730_32dd476f57_o.jpg"><img src="/assets/images/static.flickr.com/02006562f37fc2d8.jpg" /></a><br />
+<a href="http://static.flickr.com/156/345094965_de83ae6b40_o.jpg"><img src="/assets/images/static.flickr.com/bb804917dce90541.jpg" /></a><br />
+<a href="http://static.flickr.com/147/345094778_321c1db290_o.jpg"><img src="/assets/images/static.flickr.com/110c0b48766248a9.jpg" /></a><br />
 一整個跟小白很搭<br />
-<a href="http://static.flickr.com/126/345075986_e3e40a0044_o.png"><img src="http://static.flickr.com/126/345075986_e3e40a0044_m.jpg" /></a><br />
+<a href="http://static.flickr.com/126/345075986_e3e40a0044_o.png"><img src="/assets/images/static.flickr.com/4c10125aaa59465e.jpg" /></a><br />
 插上去就會自己抓到分享器分出來的IP了<br />
 <br />
 然後要來一點小小抱怨，FON官方網站的地圖完全沒有辦法正常使用嘛...<br />

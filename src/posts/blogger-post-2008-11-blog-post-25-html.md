@@ -10,7 +10,7 @@ tags: ["學運", "網站", "野草莓", "blogger"]
 excerpt: "（關於官網遭關閉事件，可先閱讀 11/24 早上文章： 台南野草莓官網無預警遭關閉說明 ） 昨天（24 日）早上約 10 點 台南區野草莓網站 被 Google Sites（Google 協作平台）無預警因違反使用條款理由關閉，現（25 日 3 點）已恢復，在此簡單說明如下。 昨天早上發現網站被關閉後，我立刻用 Google Sites 的回報功能回報，直到"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/3057018332/" title="Flickr 上 Irvin Chen 的 台南野草莓官網恢復"><img src="http://farm4.static.flickr.com/3006/3057018332_20d1b4a1dd.jpg" width="500" height="366" alt="台南野草莓官網恢復" /></a>
+<a href="http://www.flickr.com/photos/irvin/3057018332/" title="Flickr 上 Irvin Chen 的 台南野草莓官網恢復"><img src="/assets/images/farm4.static.flickr.com/3e676e8ccf2f303b.jpg" width="500" height="366" alt="台南野草莓官網恢復" /></a>
 
 <p>（關於官網遭關閉事件，可先閱讀 11/24 早上文章：<a href="/2008/11/blog-post_24.html">台南野草莓官網無預警遭關閉說明</a>）</p>
 

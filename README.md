@@ -21,14 +21,17 @@
 
 ```bash
 npm install
+npm run refresh-content
 npm run build
 ```
 
 常用指令：
 
 - `npm run import`：只做匯入（重建 `src/posts`）
-- `npm run build`：匯入 + 靜態建置到 `_site`
-- `npm run serve`：匯入 + 本機預覽
+- `npm run localize-images`：下載 Medium/Flickr 圖片到本地並改寫文章內圖片連結
+- `npm run refresh-content`：匯入 + 圖片在地化
+- `npm run build`：靜態建置到 `_site`
+- `npm run serve`：本機預覽（不重跑匯入）
 
 ## URL 保留策略
 
@@ -70,7 +73,7 @@ excerpt: "這是一篇手動新增的文章"
 3. 執行：
 
 ```bash
-npm run import
+npm run refresh-content
 npm run build
 ```
 

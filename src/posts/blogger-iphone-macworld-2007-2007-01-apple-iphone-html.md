@@ -10,7 +10,7 @@ tags: ["iphone", "Apple", "blogger"]
 excerpt: "怎麼說呢？雖然初睹iPhone覺得很驚豔，但是沈澱一會之後就比較沒有Amazing的感覺了。主要是大部分iPhone的功能事前都已經被預測到了吧？全觸控螢幕、雙指感應都是原有的技術，Apple這回只是把他們都兜了起來。當然能夠有這樣的產品是很贊，但是對於「手機的再發明」來說，還是言過其實了。 手機的功能是通話，iPhone目前所見的功能，在手機部份還是通話。"
 ---
 
-<a href="http://www.flickr.com/photos/irvin/351992444/" title="Photo Sharing"><img style="float:right; margin:0 0 10px 10px; width: 221px;" src="http://farm1.static.flickr.com/152/351992444_c5b53f6659_m.jpg" alt="" /></a>
+<a href="http://www.flickr.com/photos/irvin/351992444/" title="Photo Sharing"><img style="float:right; margin:0 0 10px 10px; width: 221px;" src="/assets/images/farm1.static.flickr.com/c9965b9d4542cc3c.jpg" alt="" /></a>
 
 怎麼說呢？雖然初睹iPhone覺得很驚豔，但是沈澱一會之後就比較沒有Amazing的感覺了。主要是大部分iPhone的功能事前都已經被預測到了吧？全觸控螢幕、雙指感應都是原有的技術，Apple這回只是把他們都兜了起來。當然能夠有這樣的產品是很贊，但是對於「手機的再發明」來說，還是言過其實了。<br />
 <div id="fullpost"><br />
