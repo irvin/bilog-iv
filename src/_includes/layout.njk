@@ -1,19 +1,26 @@
 <!doctype html>
-<html lang="zh-Hant">
+<html lang="{{ metadata.language or 'zh-Hant' }}">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{% if title %}{{ title }} | {% endif %}Irvin Blog Archive</title>
-    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <title>{% if title %}{{ title }} - {% endif %}{{ metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}" />
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
     <header class="site-header">
-      <h1><a href="/">Irvin Blog Archive</a></h1>
-      <p>完全靜態，保留原始文章網址結構</p>
+      <a href="/" class="home-link">{{ metadata.title }}</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+      </nav>
     </header>
-    <main>
+    <main id="main">
       {{ content | safe }}
     </main>
+    <footer class="site-footer">
+      <p>{{ metadata.description }}</p>
+    </footer>
   </body>
 </html>

@@ -1,16 +1,16 @@
 ---
 layout: layout.njk
-title: 首頁
-permalink: /index.html
+title: Archive
+permalink: /archive/index.html
 ---
 <section class="home-intro">
-  <h1>文章列表</h1>
-  <p>此站由 Markdown 編譯產生，內容來源為 Blogger 與 Medium 匯出備份。此頁僅顯示最近 20 篇文章，較舊內容請見 <a href="/archive/">Archive</a>。</p>
+  <h1>Archive</h1>
+  <p>這裡收錄除了首頁最近 20 篇之外的所有文章。</p>
 </section>
 
 <section>
   <ul class="post-list">
-    {% for post in collections.recentPosts %}
+    {% for post in collections.archivedPosts %}
       <li>
         <a href="{{ post.url }}" class="post-link">{{ post.data.title }}</a>
         <p class="post-list-meta">
