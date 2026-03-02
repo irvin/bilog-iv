@@ -10,7 +10,7 @@ tags: ["數位音樂", "網路銀行", "消費", "blogger"]
 excerpt: "這是先前說到的 HSBC Direct 與 Yahoo 音樂通 的後續狀況。 先談 HSBC Direct 的部份，簡單說就是我沒開到戶。 他們堅持要有「居住地地址的帳單一張」以核對地址資料，才能開戶。問題是我的帳單都是寄到郵局信箱，沒有任何有學校宿舍地址的帳單可核對；而戶籍地在高雄也不方便，因此就算了。只是很納悶，郵政信箱為啥不能開戶，何況他們專員說這個地"
 ---
 
-<p>這是先前說到的 <a href="http://irvin.sto.tw/2007/03/firefox-hsbc-direct.html">HSBC Direct</a> 與 <a href="http://irvin.sto.tw/2007/03/yahoo.html">Yahoo 音樂通</a> 的後續狀況。</p>
+<p>這是先前說到的 <a href="/2007/03/firefox-hsbc-direct.html">HSBC Direct</a> 與 <a href="/2007/03/yahoo.html">Yahoo 音樂通</a> 的後續狀況。</p>
 
 <p><a href="http://www.flickr.com/photos/60061298@N00/415477983"><img src="http://static.flickr.com/146/415477983_7cf0c95169.jpg" /></a><br />
 先談 HSBC Direct 的部份，簡單說就是我沒開到戶。</p>

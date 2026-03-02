@@ -14,7 +14,7 @@ excerpt: "As the Mozilla Taiwan office growing these years, more and more Mozill
 
 <p>So here is my personal suggestion places, for my friends to visit during your stay.</p>
 
-<p>look also <a href="https://irvinfly.medium.com/hot-springs-hotels-in-taipei-d4b275ab226d" target="_blank">Hot Springs hotels in Beitou Taipei</a>.</p>
+<p>look also <a href="/hot-springs-hotels-in-taipei-d4b275ab226d.html" target="_blank">Hot Springs hotels in Beitou Taipei</a>.</p>
 
 <p>I won't recommend places like <a href="http://www.npm.gov.tw/en/">Palace Museum</a> and observation desk of <a href="www.taipei-101.com.tw/">Taipei 101</a> in here, where I think every visitors would already known them, but local people seldom visit ;)</p>
 

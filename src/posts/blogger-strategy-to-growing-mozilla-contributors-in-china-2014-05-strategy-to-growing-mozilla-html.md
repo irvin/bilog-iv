@@ -12,7 +12,7 @@ excerpt: "Regional Reps meeting in Hong Kong, May 29 2014 During the HKOSC , we 
 
 <h2>Regional Reps meeting in Hong Kong, May 29 2014</h2>
 
-<p>During the <a href="http://irvin.sto.tw/2014/05/mozillians-in-hong-kong-open-source.html">HKOSC</a>, we reps managed to find some time in  and have a discussion on various topics, include the status of the community and volunteers in each region, the recruit and event effort, and the current status of cooperation between communities and each of local Mozilla offices.</p>
+<p>During the <a href="/2014/05/mozillians-in-hong-kong-open-source.html">HKOSC</a>, we reps managed to find some time in  and have a discussion on various topics, include the status of the community and volunteers in each region, the recruit and event effort, and the current status of cooperation between communities and each of local Mozilla offices.</p>
 
 <p><a href="https://www.flickr.com/photos/105205172@N02/13866183615" title="DSC07044 by Orin Chen, on Flickr"><img src="https://farm8.staticflickr.com/7321/13866183615_140086be0f_z.jpg" width="640" height="480" alt="DSC07044"></a></p>
 

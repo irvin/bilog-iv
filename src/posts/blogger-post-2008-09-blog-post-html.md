@@ -10,7 +10,7 @@ tags: ["mozilla", "網路銀行", "瀏覽器", "firefox", "blogger"]
 excerpt: "過去就曾經 幹繳 過國泰世華的 網路銀行 ，還因此跑去申請 HSBC Direct。 之前很多人推薦的國泰世華網路銀行，在非 IE 瀏覽器上，只有登入的第一頁可以看，當頁全部的連結都無效。很無法理解，既然做到「可以登入」了，為啥會在超連結上破功，真是白痴的錯誤；至於他的電子賬單，在非 IE 瀏覽器＋Gmail 上，也完全走樣。如果有那家的網路銀行是完全沒問題"
 ---
 
-<p>過去就曾經 <a href="http://irvin.sto.tw/2007/03/firefox-hsbc-direct.html">幹繳</a> 過國泰世華的 <a href="https://www.mybank.com.tw">網路銀行</a>，還因此跑去申請 HSBC Direct。</p>
+<p>過去就曾經 <a href="/2007/03/firefox-hsbc-direct.html">幹繳</a> 過國泰世華的 <a href="https://www.mybank.com.tw">網路銀行</a>，還因此跑去申請 HSBC Direct。</p>
 
 <blockquote>之前很多人推薦的國泰世華網路銀行，在非 IE 瀏覽器上，只有登入的第一頁可以看，當頁全部的連結都無效。很無法理解，既然做到「可以登入」了，為啥會在超連結上破功，真是白痴的錯誤；至於他的電子賬單，在非 IE 瀏覽器＋Gmail 上，也完全走樣。如果有那家的網路銀行是完全沒問題的，我會想把信用卡、帳戶等所有東西都轉過去，以備不久的未來，完全 M$ Out 時不會有相容性問題。</blockquote>
 

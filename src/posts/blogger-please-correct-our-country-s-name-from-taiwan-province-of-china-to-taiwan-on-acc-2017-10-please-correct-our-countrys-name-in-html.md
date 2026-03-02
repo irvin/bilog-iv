@@ -48,4 +48,4 @@ excerpt: "An open letter to Access Now Hi, I’m Irvin, Mozilla contributor from
 
 <p>Irvin Chen<br>Community Liaison,<br>MozTW (Mozilla Taiwan Community)</p>
 
-<p>(<a href="https://medium.com/@irvinfly/please-correct-our-countrys-name-in-access-now-s-campaign-page-from-taiwan-province-of-china-to-f7b251eb9b96">Medium link</a>)</p>
+<p>(<a href="/please-correct-our-countrys-name-in-access-now-s-campaign-page-from-taiwan-province-of-china-to-f7b251eb9b96.html">Medium link</a>)</p>

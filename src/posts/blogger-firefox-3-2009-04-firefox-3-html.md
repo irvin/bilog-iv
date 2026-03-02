@@ -10,7 +10,7 @@ tags: ["mozilla", "分享", "瀏覽器", "firefox", "blogger"]
 excerpt: "本文已更新，請看： Bilog II: Firefox 3 日漸肥大的收藏庫減肥法：最新版！ 只要用了 Firefox 3 幾個月，你一定會感覺到反應明顯遲鈍了起來，尤其是在開啟、關閉、跟檢視歷史紀錄等跟「收藏庫」有關的功能上。今天我們要透過簡單的幾個指令，幫 Firefox 3 日漸肥大的收藏庫減肥！ Firefox 3 會把你所有上過的網站、輸入過的網址"
 ---
 
-<p><span style="font-weight:bold;">本文已更新，請看：<a href="http://irvin.sto.tw/2009/08/firefox-3.html">Bilog II: Firefox 3 日漸肥大的收藏庫減肥法：最新版！</a></span></p>
+<p><span style="font-weight:bold;">本文已更新，請看：<a href="/2009/08/firefox-3.html">Bilog II: Firefox 3 日漸肥大的收藏庫減肥法：最新版！</a></span></p>
 
 <p>只要用了 Firefox 3 幾個月，你一定會感覺到反應明顯遲鈍了起來，尤其是在開啟、關閉、跟檢視歷史紀錄等跟「收藏庫」有關的功能上。今天我們要透過簡單的幾個指令，幫 Firefox 3 日漸肥大的收藏庫減肥！</p>
 
@@ -48,7 +48,7 @@ sqlite3 places.sqlite "DELETE FROM moz_favicons WHERE id NOT IN (SELECT favicon_
 <pre><code>sqlite3 places.sqlite "VACUUM;"
 </code></pre>
 
-<p><big>（2009/5/5 更新：請看本文的 <a href="http://irvin.sto.tw/2009/05/firefox-3-google-toolbar.html">續篇</a>，提供了更新的刪除指令）</big></p>
+<p><big>（2009/5/5 更新：請看本文的 <a href="/2009/05/firefox-3-google-toolbar.html">續篇</a>，提供了更新的刪除指令）</big></p>
 
 <p>完成之後，你的收藏庫就減肥完成啦。經過減肥之後，我的收藏庫居然從 414MB 降到只剩 40.2MB！</p>
 

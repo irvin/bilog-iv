@@ -230,6 +230,140 @@ function writePosts(posts) {
   }
 }
 
+function normalizePathname(pathname) {
+  if (!pathname) return '/';
+  if (pathname.length > 1 && pathname.endsWith('/')) {
+    return pathname.slice(0, -1);
+  }
+  return pathname;
+}
+
+function extractMediumPostIdFromPath(pathname) {
+  if (!pathname) return '';
+  const p = pathname.replace(/\/+$/, '');
+  const pMatch = p.match(/\/p\/([0-9a-f]{12})$/i);
+  if (pMatch) return pMatch[1].toLowerCase();
+  const tail = p.split('/').filter(Boolean).pop() || '';
+  const withNoExt = tail.replace(/\.html$/i, '');
+  const idMatch = withNoExt.match(/-([0-9a-f]{12})$/i);
+  return idMatch ? idMatch[1].toLowerCase() : '';
+}
+
+function buildInternalLinkMap(posts) {
+  const map = new Map();
+  const mediumIdMap = new Map();
+
+  function addAbsoluteUrlToMap(urlText, targetPermalink) {
+    if (!urlText || !targetPermalink) return;
+    let parsed;
+    try {
+      parsed = new URL(urlText);
+    } catch {
+      return;
+    }
+
+    const key = `${parsed.host.toLowerCase()}${normalizePathname(parsed.pathname)}`;
+    map.set(key, targetPermalink);
+  }
+
+  for (const post of posts) {
+    const target = post.permalink;
+    addAbsoluteUrlToMap(post.originalUrl, target);
+    addAbsoluteUrlToMap(post.canonicalUrl, target);
+
+    if (post.source === 'blogger' && target.startsWith('/')) {
+      const hosts = ['irvin.sto.tw', 'www.irvin.sto.tw', 'localhost:8080'];
+      for (const host of hosts) {
+        map.set(`${host}${normalizePathname(target)}`, target);
+      }
+    }
+
+    if (post.source === 'medium') {
+      const ids = [
+        extractMediumPostIdFromPath(target),
+        extractMediumPostIdFromPath((() => {
+          try {
+            return post.originalUrl ? new URL(post.originalUrl).pathname : '';
+          } catch {
+            return '';
+          }
+        })()),
+        extractMediumPostIdFromPath((() => {
+          try {
+            return post.canonicalUrl ? new URL(post.canonicalUrl).pathname : '';
+          } catch {
+            return '';
+          }
+        })())
+      ].filter(Boolean);
+
+      for (const id of ids) {
+        mediumIdMap.set(id, target);
+      }
+    }
+  }
+
+  return { map, mediumIdMap };
+}
+
+function rewriteInternalUrl(urlText, linkLookup) {
+  const { map, mediumIdMap } = linkLookup;
+  if (!urlText) return urlText;
+  if (
+    urlText.startsWith('#') ||
+    urlText.startsWith('mailto:') ||
+    urlText.startsWith('tel:') ||
+    urlText.startsWith('javascript:')
+  ) {
+    return urlText;
+  }
+  if (!urlText.startsWith('http://') && !urlText.startsWith('https://') && !urlText.startsWith('//')) {
+    return urlText;
+  }
+
+  let parsed;
+  try {
+    parsed = urlText.startsWith('//') ? new URL(`http:${urlText}`) : new URL(urlText);
+  } catch {
+    return urlText;
+  }
+
+  const key = `${parsed.host.toLowerCase()}${normalizePathname(parsed.pathname)}`;
+  const target = map.get(key);
+  if (target) return `${target}${parsed.search}${parsed.hash}`;
+
+  const mediumHosts = new Set(['medium.com', 'www.medium.com', 'irvinfly.medium.com']);
+  if (mediumHosts.has(parsed.host.toLowerCase())) {
+    const id = extractMediumPostIdFromPath(parsed.pathname);
+    const byIdTarget = id ? mediumIdMap.get(id) : '';
+    if (byIdTarget) {
+      return `${byIdTarget}${parsed.search}${parsed.hash}`;
+    }
+  }
+
+  if (!target) return urlText;
+  return `${target}${parsed.search}${parsed.hash}`;
+}
+
+function rewritePostInternalLinks(posts) {
+  const linkLookup = buildInternalLinkMap(posts);
+  const attrPattern = /(href|data-href)\s*=\s*("([^"]*)"|'([^']*)')/gi;
+
+  return posts.map((post) => {
+    const rewritten = post.contentHtml.replace(attrPattern, (full, attr, quoted, doubleValue, singleValue) => {
+      const rawUrl = doubleValue !== undefined ? doubleValue : singleValue;
+      const nextUrl = rewriteInternalUrl(rawUrl, linkLookup);
+      const quote = quoted[0] === "'" ? "'" : '"';
+      return `${attr}=${quote}${nextUrl}${quote}`;
+    });
+
+    return {
+      ...post,
+      contentHtml: rewritten
+    };
+  });
+}
+
 function main() {
   ensureDir(OUTPUT_DIR);
   clearDir(OUTPUT_DIR);
@@ -237,15 +371,16 @@ function main() {
   const bloggerPosts = extractBloggerPosts();
   const mediumPosts = extractMediumPosts();
   const allPosts = [...bloggerPosts, ...mediumPosts];
+  const rewrittenPosts = rewritePostInternalLinks(allPosts);
 
-  writePosts(allPosts);
+  writePosts(rewrittenPosts);
 
   const report = {
     generatedAt: new Date().toISOString(),
     counts: {
       blogger: bloggerPosts.length,
       medium: mediumPosts.length,
-      total: allPosts.length
+      total: rewrittenPosts.length
     },
     samples: {
       bloggerPermalinks: bloggerPosts.slice(0, 5).map((p) => p.permalink),

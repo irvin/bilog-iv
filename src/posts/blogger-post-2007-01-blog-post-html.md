@@ -31,4 +31,4 @@ excerpt: "（本文翻譯自： The Time Traveler's Wife Gets a Re-Write - Cinem
 原著小說：<a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010335742">博客來書籍館>時空旅人之妻</a><br />
 <a href="http://www.audreyniffenegger.com/">Audrey Niffenegger - Her Site</a><br />
 <br />
-本Blog延伸閱讀：<a href="http://irvin.sto.tw/2006/07/sf-time-travelers-wife.html">時空旅人之妻 The Time Traveler's Wife</a>
+本Blog延伸閱讀：<a href="/2006/07/sf-time-travelers-wife.html">時空旅人之妻 The Time Traveler's Wife</a>

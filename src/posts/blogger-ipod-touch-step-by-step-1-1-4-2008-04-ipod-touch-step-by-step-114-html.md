@@ -14,7 +14,7 @@ excerpt: "本方法不適用於目前市面上的 2 代 iPod touch 及一代 2.0
 
 <p><b>重要：本破解法適用於 1.1.4 版韌體，破解有損毀 iPod touch 的危險性，也可能破壞保固，請自行斟酌。</b></p>
 
-<p>本篇是〈<a href="http://irvin.sto.tw/2008/02/ipod-touch-step-by-step-113.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.3版)</a>〉的更新版，目前任何版本與任何容量的 iPod touch 都可回覆至最新版 1.1.4 軔體再進行破解。</p>
+<p>本篇是〈<a href="/2008/02/ipod-touch-step-by-step-113.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.3版)</a>〉的更新版，目前任何版本與任何容量的 iPod touch 都可回覆至最新版 1.1.4 軔體再進行破解。</p>
 
 <div id="fullpost"><p><span style="font-weight: bold; color: rgb(255, 255, 255);">第零步：準備</span></p>
 

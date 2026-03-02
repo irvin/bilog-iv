@@ -10,7 +10,7 @@ tags: ["Apple", "ipod", "iphone", "blogger"]
 excerpt: "繼昨晚的 PwnageTool 3.0 ，今天 iPhone 駭客團體 Dev-Team 再度公開 iPhone & iPod OS 3.0 的越獄破解工具 redsn0w。不同於 PwnageTool 3.0 僅有 Mac 版，redsn0w 在 Mac & Windows 雙平台皆可執行，更加便利眾多的使用者。 原始文章： Dev-Team Blog -"
 ---
 
-<p>繼昨晚的 <a href="http://irvin.sto.tw/2009/06/iphone-ipod-os-30-pwnagetool.html">PwnageTool 3.0</a>，今天 iPhone 駭客團體 Dev-Team 再度公開 iPhone & iPod OS 3.0 的越獄破解工具 redsn0w。不同於 PwnageTool 3.0 僅有 Mac 版，redsn0w 在 Mac & Windows 雙平台皆可執行，更加便利眾多的使用者。</p>
+<p>繼昨晚的 <a href="/2009/06/iphone-ipod-os-30-pwnagetool.html">PwnageTool 3.0</a>，今天 iPhone 駭客團體 Dev-Team 再度公開 iPhone & iPod OS 3.0 的越獄破解工具 redsn0w。不同於 PwnageTool 3.0 僅有 Mac 版，redsn0w 在 Mac & Windows 雙平台皆可執行，更加便利眾多的使用者。</p>
 
 <p>原始文章：<a href="http://blog.iphone-dev.org/post/126908912/redsn0w-in-june">Dev-Team Blog - redsn0w in june</a></p>
 
@@ -20,7 +20,7 @@ excerpt: "繼昨晚的 PwnageTool 3.0 ，今天 iPhone 駭客團體 Dev-Team 再
 
 <p>redsn0w 是一個操作簡單、跨平台、多裝置的越獄解鎖工具。適用於 iPhone、iPhone 3G 無鎖機版、iPod touch 一代及二代。redsn0w 有 Windows 及 Mac OS X（限 Intel Mac）雙平台的版本，功能類似過去的 QuickPWN 工具。</p>
 
-<p>如果想要更有彈性的軔體自定功能，請使用 Mac OS X 平台的 <a href="http://irvin.sto.tw/2009/06/iphone-ipod-os-30-pwnagetool.html">PwnageTool 3.0</a>。</p>
+<p>如果想要更有彈性的軔體自定功能，請使用 Mac OS X 平台的 <a href="/2009/06/iphone-ipod-os-30-pwnagetool.html">PwnageTool 3.0</a>。</p>
 
 <p>1. 最重要的，如果你使用需解鎖的 iPhone 3G（例如美國 AT&T 版），此工具不適用！用了會恢復鎖機狀態，使你無法講電話！請繼續等待即將公開的解鎖工具 UltraSn0w。初代 iPhone 鎖機版則可透過 redsn0w 完成解鎖。</p>
 

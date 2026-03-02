@@ -12,7 +12,7 @@ excerpt: "這是我 去年 自製的 Firefox 宅配追蹤搜索引擎（Search P
 
 <img src="https://addons.mozilla.org//en-US/firefox/images/p/32632/1243241506" title="screenshot" width="500px" />
 
-<p>這是我 <a href="http://irvin.sto.tw/2008/06/firefox.html">去年</a> 自製的 Firefox 宅配追蹤搜索引擎（Search Plugin），提供給常常查詢宅配、掛號進度的您使用！黑貓追蹤也可以在 IE7 中使用，另外兩個就沒有辦法了。</p>
+<p>這是我 <a href="/2008/06/firefox.html">去年</a> 自製的 Firefox 宅配追蹤搜索引擎（Search Plugin），提供給常常查詢宅配、掛號進度的您使用！黑貓追蹤也可以在 IE7 中使用，另外兩個就沒有辦法了。</p>
 
 <p>請點選以下連結，連到 Firefox 附加元件網站安裝。</p>
 

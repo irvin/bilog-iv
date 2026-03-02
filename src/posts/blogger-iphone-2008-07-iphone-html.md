@@ -19,4 +19,4 @@ excerpt: "iPhone 3G開賣前夕 HTC搭中華電先聲奪人 ZDNet記者馬培治
 
 <p>除非 HTC 跟 Windows Mobile 能真正拿出一個夠格跟 App Store 競爭的東西，並且獲得廣大開發者的支援，否則根本沒得比。Google 開發 Android 都知道花大錢辦比賽，硬體還不知道在那裡時軟體已經隨處可見。如果連史克威爾艾尼克斯都在 iPhone 上推出遊戲，你怎麼與其競爭？</p>
 
-Bilog 延伸閱讀：<a href="http://irvin.sto.tw/2007/01/apple-iphone.html">Bilog II: 我看 iPhone (Macworld 2007)</a>
+Bilog 延伸閱讀：<a href="/2007/01/apple-iphone.html">Bilog II: 我看 iPhone (Macworld 2007)</a>

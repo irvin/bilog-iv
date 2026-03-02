@@ -10,11 +10,11 @@ tags: ["Apple", "教學", "ipod", "blogger"]
 excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 破解 Step-by-step (1.1.4版) 重要：本破解法適用於 1.1.3 版以下韌體，目前1.1.3版Jailbreak尚不穩定，我自己遇到了數次無法正常開機的狀況，如果穩定使用1.1.2版中，目前建議不要升級。 本篇是〈 教學：圖解 iPod touch 破解 Step-by-ste"
 ---
 
-<p><b>本文內容已更新，請參閱新版：<a href="http://irvin.sto.tw/2008/04/ipod-touch-step-by-step-114.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.4版)</a></b></p>
+<p><b>本文內容已更新，請參閱新版：<a href="/2008/04/ipod-touch-step-by-step-114.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.4版)</a></b></p>
 
 <p><b>重要：本破解法適用於 1.1.3 版以下韌體，目前1.1.3版Jailbreak尚不穩定，我自己遇到了數次無法正常開機的狀況，如果穩定使用1.1.2版中，目前建議不要升級。</b></p>
 
-<p>本篇是〈<a href="http://irvin.sto.tw/2007/11/ipod-touch-step-by-step-112.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.2版。更新)</a>〉的更新版，目前已經可以透過降版再提昇的方式成功破解 1.1.3 版 iPod touch，1.1.2 版及 1.1.3 版 iPod touch 都沒有直接破解的方法，皆需降版成最初的 1.1.1 版韌體。</p>
+<p>本篇是〈<a href="/2007/11/ipod-touch-step-by-step-112.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.2版。更新)</a>〉的更新版，目前已經可以透過降版再提昇的方式成功破解 1.1.3 版 iPod touch，1.1.2 版及 1.1.3 版 iPod touch 都沒有直接破解的方法，皆需降版成最初的 1.1.1 版韌體。</p>
 
 <p><span style="font-weight: bold;">破解是破壞保固的行為，有損毀 touch 的危險性，也可能破壞保固，請自行斟酌。</span></p>
 

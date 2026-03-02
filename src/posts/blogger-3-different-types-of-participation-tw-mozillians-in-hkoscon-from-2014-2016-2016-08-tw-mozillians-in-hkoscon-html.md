@@ -37,7 +37,7 @@ excerpt: "Last month in 6/24-26, several MozTW community members flied to Hong K
 <p>Here is my debrief about our participation in HKOSCon 2014,</p>
 
 <ul>
-<li><a href="http://irvin.sto.tw/2014/05/mozillians-in-hong-kong-open-source.html">Mozillians in Hong Kong Open Source Conference (HKOSC)</a></li>
+<li><a href="/2014/05/mozillians-in-hong-kong-open-source.html">Mozillians in Hong Kong Open Source Conference (HKOSC)</a></li>
 </ul>
 
 <h2 id="toc_5">2015 - Involved more Taiwanese Mozillians</h2>
@@ -59,7 +59,7 @@ excerpt: "Last month in 6/24-26, several MozTW community members flied to Hong K
 <p>Here is my debrief about our participation in HKOSCon 2015, you can also find the link of articles from other participants inside.</p>
 
 <ul>
-<li><a href="http://irvin.sto.tw/2015/07/tw-mozillians-hkoscon-2015.html">Mozillians in Hong Kong Open Source Conference (HKOSC)</a></li>
+<li><a href="/2015/07/tw-mozillians-hkoscon-2015.html">Mozillians in Hong Kong Open Source Conference (HKOSC)</a></li>
 </ul>
 
 <h2 id="toc_8">2016 - Just focus on session</h2>

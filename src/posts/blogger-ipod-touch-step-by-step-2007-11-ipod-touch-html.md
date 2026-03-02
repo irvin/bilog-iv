@@ -10,7 +10,7 @@ tags: ["Apple", "教學", "ipod", "blogger"]
 excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 破解 Step-by-step (1.1.3版) 接續著上一篇「分享蘋果電腦上的無線網路給 iPod touch & iPhone 使用」，這一篇要來圖解 iPod touch 破解。這個方法是目前我知道最快的方法，半小時之內就可以完工。本方法適用於 touch 版本 1.1.1，版本不同請不要"
 ---
 
-<p><span style="font-weight:bold;">本文內容已更新，請參閱新版：<a href="http://irvin.sto.tw/2008/02/ipod-touch-step-by-step-113.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.3版)</a></span></p>
+<p><span style="font-weight:bold;">本文內容已更新，請參閱新版：<a href="/2008/02/ipod-touch-step-by-step-113.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.3版)</a></span></p>
 
 <p>接續著上一篇「分享蘋果電腦上的無線網路給 iPod touch & iPhone 使用」，這一篇要來圖解 iPod touch 破解。這個方法是目前我知道最快的方法，半小時之內就可以完工。本方法適用於 touch 版本 1.1.1，版本不同請不要輕舉妄動照著作喔…</p>
 

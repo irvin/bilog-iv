@@ -10,9 +10,9 @@ tags: ["Apple", "教學", "ipod", "blogger"]
 excerpt: "本文內容已更新，請參閱新版： 教學：圖解 iPod touch 破解 Step-by-step (1.1.3版) 本篇是〈 圖解 iPod touch 破解 Step-by-step 〉的續集，因為蘋果發佈了新版（1.1.2）韌體，因此破解時需要先降韌體，至於 1.1.1 版的破解請直接從本篇「第二步」的部份開始進行。 破解是破壞保固的行為，有損毀的危險性，"
 ---
 
-<p><span style="font-weight:bold;">本文內容已更新，請參閱新版：<a href="http://irvin.sto.tw/2008/02/ipod-touch-step-by-step-113.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.3版)</a></span></p>
+<p><span style="font-weight:bold;">本文內容已更新，請參閱新版：<a href="/2008/02/ipod-touch-step-by-step-113.html">教學：圖解 iPod touch 破解 Step-by-step (1.1.3版)</a></span></p>
 
-<p>本篇是〈<a href="http://irvin.sto.tw/2007/11/ipod-touch.html">圖解 iPod touch 破解 Step-by-step</a>〉的續集，因為蘋果發佈了新版（1.1.2）韌體，因此破解時需要先降韌體，至於 1.1.1 版的破解請直接從本篇「第二步」的部份開始進行。</p>
+<p>本篇是〈<a href="/2007/11/ipod-touch.html">圖解 iPod touch 破解 Step-by-step</a>〉的續集，因為蘋果發佈了新版（1.1.2）韌體，因此破解時需要先降韌體，至於 1.1.1 版的破解請直接從本篇「第二步」的部份開始進行。</p>
 
 <p><span style="font-weight:bold;">破解是破壞保固的行為，有損毀的危險性，請自行斟酌。</span></p>
 

@@ -21,7 +21,7 @@ THSR_Operation_Daigram_20080118.pdf</a>
 本圖為手工繪製，A3大小，採 <a href="http://creativecommons.org/licenses/by-nc-nd/2.5/tw/">創用CC 姓名標示-非商業性-禁止改作 2.5 台灣</a> 授權，意思是：您可以自由使用，但是不能涉及商業行為、不得修改內容、將圖上的授權圖像跟聯絡資料拿掉。<br />
 如果有發現錯誤或任何建議，請直接回應本文，謝謝。</p>
 
-<p>如果不了解運行圖怎麼用，可以參考此文：<a href="http://irvin.sto.tw/2007/11/blog-post.html">高鐵運行圖簡介與使用方式說明</a></p>
+<p>如果不了解運行圖怎麼用，可以參考此文：<a href="/2007/11/blog-post.html">高鐵運行圖簡介與使用方式說明</a></p>
 
 <p>This is the Train Operation Diagram of Taiwan High Speed Rail.<br /> 
 (the newest schedule since January 18, 2008)<br />

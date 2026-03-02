@@ -16,7 +16,7 @@ excerpt: "邊看轉播邊筆記…… 文字轉播 MacRumors.com iPod touch、iP
 <p>iPod touch、iPhone、Apple TV、Time Capsule<br />
 <br />
 iPod touch 的 Maps、Notes、Weather、Mail、Stock 官方補完包，要價 20 美元……囧。<br />
-建議直接參考 <a href="http://irvin.sto.tw/2007/12/ipod-touch-step-by-step-112.html">這篇</a> 自己裝回去吧。<br />
+建議直接參考 <a href="/2007/12/ipod-touch-step-by-step-112.html">這篇</a> 自己裝回去吧。<br />
 iPod touch、iPhone 新功能：歌詞顯示，我看這之前忘記寫的功能終於補回來了。<br />
 iTunes 開始提供電影租片；新週邊「時光膠囊」：一台無線的 Time Machine ＝ $300 元的內建 500G 硬碟 Airport。<br />
 Apple TV 升級：可租 HD+ 杜比 5.1 的影片、看 flickr、.Mac 的相片，直接線上購買 iTunes 音樂。此外降價，由 300 美金降價成 230 美金。<br />

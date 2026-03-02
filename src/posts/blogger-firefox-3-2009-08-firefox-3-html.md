@@ -10,7 +10,7 @@ tags: ["mozilla", "分享", "瀏覽器", "firefox", "blogger"]
 excerpt: "更新：經由 littlebtc 的協助，我們已經將減肥程序寫成套件，各位朋友可以測試看看： PlacesCleaner 收藏庫清潔工 很多人在使用 Firefox 3 幾個月後，都覺到反應明顯遲鈍了起來，尤其是在開啟、關閉、搜索、檢視歷史紀錄等跟「收藏庫」有關的功能上。Firefox 3 會把所有上過的網站、輸入過的網址通通一五一十的紀錄在 Profile"
 ---
 
-<p>更新：經由 littlebtc 的協助，我們已經將減肥程序寫成套件，各位朋友可以測試看看：   <a href="http://irvin.sto.tw/2009/08/firefox-placescleaner.html">PlacesCleaner 收藏庫清潔工</a></p>
+<p>更新：經由 littlebtc 的協助，我們已經將減肥程序寫成套件，各位朋友可以測試看看：   <a href="/2009/08/firefox-placescleaner.html">PlacesCleaner 收藏庫清潔工</a></p>
 
 <p>很多人在使用 Firefox 3 幾個月後，都覺到反應明顯遲鈍了起來，尤其是在開啟、關閉、搜索、檢視歷史紀錄等跟「收藏庫」有關的功能上。Firefox 3 會把所有上過的網站、輸入過的網址通通一五一十的紀錄在 Profile 目錄中的 places.sqlite 資料庫檔案裡，在此我們要透過簡單的幾個步驟，幫 Firefox 3 日漸肥大的收藏庫減肥！</p>
 

@@ -10,7 +10,7 @@ tags: ["mozilla", "教學", "瀏覽器", "分享", "firefox", "blogger"]
 excerpt: "經由 littlebtc 的協助，昨晚我們將 Firefox 減肥程序 寫成了「 PlacesCleaner 收藏庫清潔工 」套件，歡迎大家幫忙測試。 以下是簡單教學，如果使用上遇到任何狀況、意見或建議，歡迎 到 MozTW 論壇回文 。 安裝由此去 → 收藏庫清潔工 :: Firefox 附加元件 功能： 1. 清除瀏覽歷史中瀏覽次數不超過2次的紀錄（可自"
 ---
 
-<p>經由 littlebtc 的協助，昨晚我們將 <a href="http://irvin.sto.tw/2009/08/firefox-3.html">Firefox 減肥程序</a> 寫成了「<a href="https://addons.mozilla.org/zh-TW/firefox/addon/13860/">PlacesCleaner 收藏庫清潔工</a>」套件，歡迎大家幫忙測試。</p>
+<p>經由 littlebtc 的協助，昨晚我們將 <a href="/2009/08/firefox-3.html">Firefox 減肥程序</a> 寫成了「<a href="https://addons.mozilla.org/zh-TW/firefox/addon/13860/">PlacesCleaner 收藏庫清潔工</a>」套件，歡迎大家幫忙測試。</p>
 
 <p>以下是簡單教學，如果使用上遇到任何狀況、意見或建議，歡迎 <a href="http://forum.moztw.org/viewtopic.php?f=11&t=27767">到 MozTW 論壇回文</a>。</p>
 
