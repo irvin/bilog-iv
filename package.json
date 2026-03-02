@@ -10,6 +10,7 @@
     "images:retry": "node scripts/localize-images.js --retry-pending",
     "images:recover-flickr": "node scripts/recover-flickr-pending.js && npm run images:pending",
     "images:map": "node scripts/build-image-src-map.js",
+    "medium:filter-responses": "node scripts/filter-medium-responses.js --apply",
     "refresh-content": "npm run import && npm run localize-images",
     "build": "eleventy",
     "serve": "eleventy --serve"
