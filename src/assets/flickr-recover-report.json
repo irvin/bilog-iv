@@ -1,0 +1,187 @@
+{
+  "summary": {
+    "total": 23,
+    "recovered": 21,
+    "failed": 2,
+    "skipped": 0,
+    "changedFiles": 2
+  },
+  "results": [
+    {
+      "oldUrl": "http://static.flickr.com/2081/2063696352_f2e0683cd3.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2081/2063696352_166f6a9522_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2081/2063696352_166f6a9522_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/531b701773d688f9.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2089/2062902315_68b63a2374.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2089/2062902315_ee539a12ee_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2089/2062902315_ee539a12ee_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/5b18c419c5b95700.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2093/2062903677_c50c4ebbfa.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2093/2062903677_f161bb285d_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2093/2062903677_f161bb285d_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/fd8a30c1b82e08b4.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2110/2063696560_37f5338697.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2110/2063696560_1a74c6614b_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2110/2063696560_1a74c6614b_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/a96a6bebc64fb9bf.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://farm3.static.flickr.com/2187/2326232424_fb52973924.jpg",
+      "status": "fail-no-live-variants"
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2110/2063696774_dd5878d1f6.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2110/2063696774_8192529ab1_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2110/2063696774_8192529ab1_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/672bcc82c0925775.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://farm4.static.flickr.com/3150/2325196753_a7d7cb5249.jpg",
+      "status": "fail-no-live-variants"
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2161/2062904719_ec74c68d9a.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2161/2062904719_261bb8e9c0_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2161/2062904719_261bb8e9c0_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/fbaf3ece177e1115.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2190/2062904483_f82e729052.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2190/2062904483_52d18bff5c_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2190/2062904483_52d18bff5c_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/31dae7edaac8c8db.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2179/2062903203_a71fb05028.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2179/2062903203_078217e0e6_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2179/2062903203_078217e0e6_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/47f514e4983255f1.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2197/2063696878_5fff772a81.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2197/2063696878_e17c7ae014_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2197/2063696878_e17c7ae014_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/8bd440f996468572.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2226/2063695408_6aaf20b0b9.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2226/2063695408_86c7226b69_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2226/2063695408_86c7226b69_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/f02e59a11f1099fd.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2190/2062905505_a8d84aa55f.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2190/2062905505_76902ff4df_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2190/2062905505_76902ff4df_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/2f1cb79a88ce1328.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2247/2062902495_2a2ac42de0.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2247/2062902495_f7d414bbfb_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2247/2062902495_f7d414bbfb_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/542c0f430d9c7bca.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2278/2062901847_07e1f8f14b.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2278/2062901847_2f3f375f64_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2278/2062901847_2f3f375f64_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/60acc99b553f62b2.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2295/2063698446_71b259bf27.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2295/2063698446_ae8da48154_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2295/2063698446_ae8da48154_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/f136694afe14ec0f.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2305/2062902811_745e46e8ae.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2305/2062902811_baa0daa9e1_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2305/2062902811_baa0daa9e1_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/0a0eac6c01ec56b9.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2321/2063697000_2447f5489b.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2321/2063697000_cd7197cc63_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2321/2063697000_cd7197cc63_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/392d7513c5c8e8e1.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2324/2062902431_595b2a3c2c.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2324/2062902431_35b91c1542_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2324/2062902431_35b91c1542_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/86b4635fc7ca8ffc.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2346/2062902583_e98b28e4b1.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2346/2062902583_38dc22a0bb_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2346/2062902583_38dc22a0bb_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/312669967738dc3e.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2373/2062904795_c7f6d1ca6b.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2373/2062904795_04fe3a4029_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2373/2062904795_04fe3a4029_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/2c70c826ba560bb1.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2390/2063695548_68a1e15ffd.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2390/2063695548_0dccfa113f_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2390/2063695548_0dccfa113f_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/0f5681d30eab41ed.jpg",
+      "replacedPosts": 1
+    },
+    {
+      "oldUrl": "http://static.flickr.com/2351/1838621715_8fdd4c4f4a.jpg",
+      "status": "recovered",
+      "chosen": "https://live.staticflickr.com/2351/1838621715_496b220b8c_b.jpg",
+      "finalUrl": "https://live.staticflickr.com/2351/1838621715_496b220b8c_b.jpg",
+      "localUrl": "/assets/images/live.staticflickr.com/5a9124386fa8668b.jpg",
+      "replacedPosts": 2
+    }
+  ]
+}
