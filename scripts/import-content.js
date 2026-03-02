@@ -6,6 +6,21 @@ const BLOGGER_FEED = path.join(ROOT, 'backups', 'blogger-takeout', 'Blogger', 'B
 const MEDIUM_POSTS_DIR = path.join(ROOT, 'backups', 'medium-export', 'posts');
 const OUTPUT_DIR = path.join(ROOT, 'src', 'posts');
 const REPORT_PATH = path.join(ROOT, 'src', 'import-report.json');
+const SKIP_MEDIUM_POST_IDS = new Set([
+  '66311dff92c7',
+  '6ba331c77303',
+  '1b50cccff72a',
+  '8822823054d6',
+  'ddb3759747e9',
+  '7a4235a67b59',
+  '557daa258383',
+  '158864b58ba3',
+  'c527ef6b505e',
+  '22ed51ad6d60',
+  'b93b50122383',
+  'a259b74c3970',
+  'e8560b142a9d'
+]);
 
 function ensureDir(dirPath) {
   fs.mkdirSync(dirPath, { recursive: true });
@@ -40,6 +55,23 @@ function decodeXmlEntities(input) {
 
 function stripHtml(input) {
   return (input || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function isLikelyMediumResponsePost(contentHtml) {
+  const body = contentHtml || '';
+  const text = stripHtml(body);
+  const pCount = (body.match(/<p\b/gi) || []).length;
+  const headingCount = (body.match(/<h[1-6]\b/gi) || []).length;
+  const figureCount = (body.match(/<figure\b/gi) || []).length;
+  const mixtapeCount = (body.match(/mixtapeEmbed/gi) || []).length;
+
+  return (
+    text.length <= 120 &&
+    pCount <= 2 &&
+    headingCount === 0 &&
+    figureCount === 0 &&
+    mixtapeCount === 0
+  );
 }
 
 function safeYamlString(input) {
@@ -140,20 +172,47 @@ function deriveMediumSlug(canonicalUrl, filename) {
   return slugifyForFilename(withoutExt);
 }
 
-function normalizeMediumSlug(slug, canonicalUrl, filename) {
-  const encodedLength = encodeURIComponent(slug).length;
-  if (encodedLength <= 180) return slug;
+function decodeURIComponentSafe(input) {
+  try {
+    return decodeURIComponent(input);
+  } catch {
+    return input;
+  }
+}
+
+function normalizeHumanSlug(input) {
+  return String(input || '')
+    .replace(/[，。、！？：；（）「」『』【】《》〈〉'"`]/g, '-')
+    .replace(/[\s/\\?#&=]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function normalizeMediumSlug(slug, canonicalUrl, filename, title) {
+  const raw = String(slug || '').trim();
+  const decoded = decodeURIComponentSafe(raw);
+  const invalidPercent = /%(?![0-9A-Fa-f]{2})/.test(raw);
+
+  let normalized = normalizeHumanSlug(invalidPercent ? title : decoded);
+  if (!normalized) {
+    normalized = slugifyForFilename(title || 'post');
+  }
+
+  const encodedLength = encodeURIComponent(normalized).length;
+  if (encodedLength <= 180) return normalized;
 
   const fromCanonical = (canonicalUrl.match(/-([0-9a-f]{12})$/i) || [])[1];
   const fromFilename = (filename.match(/-([0-9a-f]{12})\\.html$/i) || [])[1];
   const id = (fromCanonical || fromFilename || '').toLowerCase();
-  const base = slug.slice(0, 80).replace(/-+$/g, '');
+  const base = normalized.slice(0, 80).replace(/-+$/g, '');
   return id ? `${base}-${id}` : base;
 }
 
 function extractMediumPosts() {
   const files = fs.readdirSync(MEDIUM_POSTS_DIR).filter((name) => name.endsWith('.html'));
   const posts = [];
+  const skippedResponses = [];
+  const skippedById = [];
 
   for (const file of files) {
     const fullPath = path.join(MEDIUM_POSTS_DIR, file);
@@ -162,8 +221,21 @@ function extractMediumPosts() {
     const title = decodeXmlEntities((html.match(/<title>([\s\S]*?)<\/title>/i) || [])[1] || 'Untitled');
     const published = (html.match(/<time class="dt-published" datetime="([^"]+)"/i) || [])[1] || '';
     const canonicalUrl = (html.match(/<a href="([^"]+)" class="p-canonical"/i) || [])[1] || '';
+    const canonicalPath = (() => {
+      try {
+        return canonicalUrl ? new URL(canonicalUrl).pathname : '';
+      } catch {
+        return '';
+      }
+    })();
+    const postId = extractMediumPostIdFromPath(canonicalPath) || extractMediumPostIdFromPath(file);
+    if (postId && SKIP_MEDIUM_POST_IDS.has(postId)) {
+      skippedById.push({ file, title, postId });
+      continue;
+    }
+
     const rawSlug = deriveMediumSlug(canonicalUrl, file);
-    const slug = normalizeMediumSlug(rawSlug, canonicalUrl, file);
+    const slug = normalizeMediumSlug(rawSlug, canonicalUrl, file, title);
     const bodyHtml = extractBetween(
       html,
       /<section data-field="body" class="e-content">/i,
@@ -172,6 +244,15 @@ function extractMediumPosts() {
 
     const permalink = `/${slug}.html`;
     const originalUrl = `https://irvinfly.medium.com/${slug}`;
+
+    if (isLikelyMediumResponsePost(bodyHtml)) {
+      skippedResponses.push({
+        file,
+        title,
+        permalink
+      });
+      continue;
+    }
 
     posts.push({
       source: 'medium',
@@ -187,7 +268,7 @@ function extractMediumPosts() {
     });
   }
 
-  return posts;
+  return { posts, skippedResponses, skippedById };
 }
 
 function serializePostToMarkdown(post) {
@@ -369,7 +450,8 @@ function main() {
   clearDir(OUTPUT_DIR);
 
   const bloggerPosts = extractBloggerPosts();
-  const mediumPosts = extractMediumPosts();
+  const mediumResult = extractMediumPosts();
+  const mediumPosts = mediumResult.posts;
   const allPosts = [...bloggerPosts, ...mediumPosts];
   const rewrittenPosts = rewritePostInternalLinks(allPosts);
 
@@ -380,6 +462,8 @@ function main() {
     counts: {
       blogger: bloggerPosts.length,
       medium: mediumPosts.length,
+      mediumSkippedResponses: mediumResult.skippedResponses.length,
+      mediumSkippedById: mediumResult.skippedById.length,
       total: rewrittenPosts.length
     },
     samples: {
@@ -390,7 +474,9 @@ function main() {
 
   fs.writeFileSync(REPORT_PATH, JSON.stringify(report, null, 2), 'utf8');
 
-  console.log(`Imported posts: ${allPosts.length} (blogger=${bloggerPosts.length}, medium=${mediumPosts.length})`);
+  console.log(
+    `Imported posts: ${allPosts.length} (blogger=${bloggerPosts.length}, medium=${mediumPosts.length}, medium_skipped_responses=${mediumResult.skippedResponses.length}, medium_skipped_by_id=${mediumResult.skippedById.length})`
+  );
 }
 
 main();

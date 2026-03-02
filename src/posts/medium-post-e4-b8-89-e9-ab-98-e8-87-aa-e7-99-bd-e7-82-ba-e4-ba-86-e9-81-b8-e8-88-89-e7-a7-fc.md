@@ -5,7 +5,7 @@ date: "2022-10-22T17:42:37.077Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/%E4%B8%89%E9%AB%98%E8%87%AA%E7%99%BD-%E7%82%BA%E4%BA%86%E9%81%B8%E8%88%89%E7%A7%-fce4f0a72ef7"
 canonical_url: "https://medium.com/@irvinfly/%E4%B8%89%E9%AB%98%E8%87%AA%E7%99%BD-%E7%82%BA%E4%BA%86%E9%81%B8%E8%88%89%E7%A7%81%E5%88%A9%E8%AA%A4%E5%B0%8E%E5%A4%A7%E7%9C%BE%E7%9A%84%E9%8C%AF%E5%81%87%E8%AC%A0%E8%A8%80-%E8%AE%93%E7%A4%BE%E6%9C%83%E5%9C%A8%E9%98%B2%E7%96%AB%E4%B8%8A%E6%90%8D%E5%A4%B1%E4%BA%86%E4%BB%80%E9%BA%BC-fce4f0a72ef7"
-permalink: "/%E4%B8%89%E9%AB%98%E8%87%AA%E7%99%BD-%E7%82%BA%E4%BA%86%E9%81%B8%E8%88%89%E7%A7%-fce4f0a72ef7.html"
+permalink: "/三高自白-為了選舉私利誤導大眾的錯假-fce4f0a72ef7.html"
 tags: ["medium"]
 excerpt: "三高自白 – 為了選舉私利誤導大眾的錯假謠言，讓社會在防疫上損失了什麼？ 我打三劑高端，也已經買好年底去日本的機票。到目前完全正常生活，也完全沒有確診過。 很多人打高端，並不是因為「黨意」，而是對另外兩種全新疫苗技術的疑慮。（mRNA 疫苗首次大規模在人體使用，才真正是拿自己的身體做實驗）。且也沒有必要承擔 mRNA 疫苗的副作用。 多組不同醫學大學做的科學"
 ---

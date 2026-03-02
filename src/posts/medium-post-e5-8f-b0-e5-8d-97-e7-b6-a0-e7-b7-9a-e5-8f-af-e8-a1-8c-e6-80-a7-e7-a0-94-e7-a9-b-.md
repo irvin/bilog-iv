@@ -5,7 +5,7 @@ date: "2025-03-21T08:48:24.316Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/%E5%8F%B0%E5%8D%97%E7%B6%A0%E7%B7%9A%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%A0%94%E7%A9%B-e867c6c0febf"
 canonical_url: "https://medium.com/@irvinfly/%E5%8F%B0%E5%8D%97%E7%B6%A0%E7%B7%9A%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%A0%94%E7%A9%B6%E5%9C%B0%E6%96%B9%E8%AA%AA%E6%98%8E%E6%9C%83-e867c6c0febf"
-permalink: "/%E5%8F%B0%E5%8D%97%E7%B6%A0%E7%B7%9A%E5%8F%AF%E8%A1%8C%E6%80%A7%E7%A0%94%E7%A9%B-e867c6c0febf.html"
+permalink: "/台南綠線可行性研究地方說明會-e867c6c0febf.html"
 tags: ["medium"]
 excerpt: "台南捷運綠線可行性研究地方說明會發言內容 台南單軌綠線應考慮上下行路線分流以深入城區 規劃應避免採效益不明的地下化方案 tl,dr 台南捷運十年前因城區路幅狹小而選擇高架跨座式單軌，但現規劃又改走地下化，導致建設風險升高，也不符單軌的優勢情境。交通局簡報中未說明地下化的成本效益。如實際問題受限於路幅與轉彎半徑，我建議維持高架並將上下行路線分流，如西行經中山、"
 ---

@@ -5,7 +5,7 @@ date: "2022-12-14T02:26:14.444Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/%E8%AA%8D%E7%9F%A5%E6%94%BB%E6%93%8A%E4%B8%8B%E6%8A%96%E9%9F%B3%E5%8C%96%E7%9A%8-6a10fa70c45e"
 canonical_url: "https://medium.com/@irvinfly/%E8%AA%8D%E7%9F%A5%E6%94%BB%E6%93%8A%E4%B8%8B%E6%8A%96%E9%9F%B3%E5%8C%96%E7%9A%84%E8%86%9D%E5%8F%8D%E5%B0%84%E5%85%AC%E6%B0%91%E7%A4%BE%E6%9C%83-6a10fa70c45e"
-permalink: "/%E8%AA%8D%E7%9F%A5%E6%94%BB%E6%93%8A%E4%B8%8B%E6%8A%96%E9%9F%B3%E5%8C%96%E7%9A%8-6a10fa70c45e.html"
+permalink: "/認知攻擊下抖音化的膝反射公民社會-6a10fa70c45e.html"
 tags: ["medium"]
 excerpt: "抖音化公民社會的政策宣傳 數發部雲市集 — 失焦政策宣傳的膝反射認知操作案例 tl;dr「廠商提供店家數位服務，政府出錢補助數位轉型」的計畫，失焦的宣傳進到抖音化社會的公民眼前，變成「數發部兩百億開發訂餐系統，跟熊貓 Uber 爭利，貪瀆圖利廠商」。 非常不幸的是，看來現在的政策宣傳，必須把受眾當做注意力只有三秒鐘的三歲小孩：「廠商提供發財系統，政府出錢補助"
 ---

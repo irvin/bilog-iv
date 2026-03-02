@@ -5,7 +5,7 @@ date: "2017-09-10T17:36:31.235Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/glam-%E6%A9%9F%E6%A7%8B%E9%96%8B%E6%BA%90%E8%88%87%E9%96%8B%E6%94%BE-%E8%AC%9B%E-56208c19b6a4"
 canonical_url: "https://medium.com/@irvinfly/glam-%E6%A9%9F%E6%A7%8B%E9%96%8B%E6%BA%90%E8%88%87%E9%96%8B%E6%94%BE-%E8%AC%9B%E5%BA%A7%E5%85%A7%E5%AE%B9-56208c19b6a4"
-permalink: "/glam-%E6%A9%9F%E6%A7%8B%E9%96%8B%E6%BA%90%E8%88%87%E9%96%8B%E6%94%BE-%E8%AC%9B%E-56208c19b6a4.html"
+permalink: "/glam-機構開源與開放-講座內容-56208c19b6a4.html"
 tags: ["medium"]
 excerpt: "館聯 (GLAM) 機構開源與開放 講座內容 ( Blogger 版連結 ) 應李梅樹紀念館的 邀請 ，我於上週末（9/3）準備了一場包含「開源與開放資料應用於 GLAM 機構」、「維基社群與 GLAM 的合作形式案例」（由 Reke 分享）、以及「博物館 IP 開發趨勢」三大方向的內訓講座。 以下分享當天內容（同步整理於 hackmd ），歡迎各位朋友分享"
 ---

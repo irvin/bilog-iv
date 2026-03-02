@@ -5,7 +5,7 @@ date: "2020-05-13T18:54:05.385Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/5-14-%E5%8F%B0%E6%AC%8A%E6%9C%83-%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89-%-f8a74d8b31fc"
 canonical_url: "https://medium.com/@irvinfly/5-14-%E5%8F%B0%E6%AC%8A%E6%9C%83-%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89-%E8%A8%98%E8%80%85%E6%9C%83-%E7%99%BC%E8%A8%80%E5%85%A7%E5%AE%B9-f8a74d8b31fc"
-permalink: "/5-14-%E5%8F%B0%E6%AC%8A%E6%9C%83-%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89-%-f8a74d8b31fc.html"
+permalink: "/5-14-台權會-數位身分證-記者會-發言內容-f8a74d8b31fc.html"
 tags: ["medium"]
 excerpt: "5/14 台權會「數位身分證」記者會 發言內容 photo credit: TAHR.org.tw 講稿 Mozilla 在去年甫發布〈數位身份白皮書〉（ Digital ID White Paper ），針對數位身份系統連結資料庫的大規模監控風險提出警示，認為如欲建構國家級數位身份系統，政府應秉持以下五種開放態度 – — 開放多重選擇 去中心化機制 公開課"
 ---

@@ -5,7 +5,7 @@ date: "2017-09-30T09:18:56.276Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/%E4%BB%A5%E4%BF%9D%E8%AD%B7%E6%99%BA%E8%B2%A1%E4%B9%8B%E5%90%8D%E4%B8%80%E7%9B%B-3261e96a2917"
 canonical_url: "https://medium.com/@irvinfly/%E4%BB%A5%E4%BF%9D%E8%AD%B7%E6%99%BA%E8%B2%A1%E4%B9%8B%E5%90%8D%E4%B8%80%E7%9B%B4%E4%BE%86%E4%B8%80%E7%9B%B4%E4%BE%86%E7%9A%84%E6%84%8F%E5%9C%96-%E8%AB%96%E9%84%AD%E9%81%8B%E9%B5%AC%E5%B0%81%E7%B6%B2%E8%8D%89%E6%A1%88-3261e96a2917"
-permalink: "/%E4%BB%A5%E4%BF%9D%E8%AD%B7%E6%99%BA%E8%B2%A1%E4%B9%8B%E5%90%8D%E4%B8%80%E7%9B%B-3261e96a2917.html"
+permalink: "/以保護智財之名一直來一直來的意圖-論-3261e96a2917.html"
 tags: ["medium"]
 excerpt: "以保護智財之名一直來一直來的意圖 — 論鄭運鵬封網草案 2013 年 MozTW 聲明反對智財局封網的 ERROR 451 活動頁面 更新：立委 鄭運鵬 已在本文發佈 18 小時後的週日（2017/10/1）午前 承諾撤案 。 我們必須一次又一次的讓立委知道，網路言論自由絕對不可侵犯；不論是提案或連署，簽名前請務必要多思考。 Irvin Chen 鄭運鵬封網"
 ---

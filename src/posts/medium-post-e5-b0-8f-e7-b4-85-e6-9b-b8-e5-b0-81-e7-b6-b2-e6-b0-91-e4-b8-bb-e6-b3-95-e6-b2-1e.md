@@ -5,7 +5,7 @@ date: "2025-12-05T19:30:46.225Z"
 source: "medium"
 original_url: "https://irvinfly.medium.com/%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%B0%81%E7%B6%B2-%E6%B0%91%E4%B8%BB%E6%B3%95%E6%B2%-1ebe62fdd8e5"
 canonical_url: "https://medium.com/@irvinfly/%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%B0%81%E7%B6%B2-%E6%B0%91%E4%B8%BB%E6%B3%95%E6%B2%BB%E8%88%87%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E7%9A%84%E5%85%A9%E9%9B%A3-1ebe62fdd8e5"
-permalink: "/%E5%B0%8F%E7%B4%85%E6%9B%B8%E5%B0%81%E7%B6%B2-%E6%B0%91%E4%B8%BB%E6%B3%95%E6%B2%-1ebe62fdd8e5.html"
+permalink: "/小紅書封網-民主法治與言論自由的兩難-1ebe62fdd8e5.html"
 tags: ["medium"]
 excerpt: "小紅書封網，民主法治與言論自由的兩難 網路詐騙橫行是台灣最大的民怨，已經在上次大選翻掉了整個立院，後續幹掉了一個不打詐的數位部長。 不處理網路上的犯罪問題，最終民怨（跟有心人士）就會藉此推倒整個政府。各國亦然。 現在的國際局勢是，堅持百分之百不受管制的網路，最後反而會換來百分之百不顧人權的政權。 所以最重視隱私跟人權的歐洲，這陣子也才會一直在討論數位安全法之"
 ---
