@@ -31,59 +31,59 @@ A：KKBOX提供128 Kbps高音質且完全合法的智慧型下載離線收聽功
 </blockquote>
 <a href="http://www.ezpeer.com/"><img src="/assets/images/static.flickr.com/46231acf0e7b21c8.jpg" height="77" width="98" /></a>
 <p>ezPeer 的平台模式目前跟 KKBOX 一模一樣，差別在於 ezPeer 所下載的音樂是含 DRM 的 wma 檔而非 KKBOX 的專有格式，官網已經預告將開放傳輸音樂到 MP3 隨身聽的進階會員功能，當然下載的歌曲也無法燒錄 CD。因此也被我從替選方案中淘汰掉。</p><blockquote>基本型：每月 149 元，會員期間所有 ezPeer+ 音樂無限線上播放，並且可以無限下載至電腦播放。
-豪華隨身型：會員期間除基本型會員功能外，可將音樂傳輸至支援ezPeer+的MP3 隨身聽無限播放。(目前封測中，即將開放公測，敬請期待。)</blockquote><p>有趣且白痴的是，ezPeer網站對於下載音樂使用方式的QA，跟KKBOX幾乎一模一樣，可見這東西可能是來自於同一個地方....</p><a href="http://static.flickr.com/148/329386149_51dc3787cf_o.png"><blockquote><img src="/assets/images/static.flickr.com/43d48cc4070dcad2.jpg" /></blockquote></a>
+豪華隨身型：會員期間除基本型會員功能外，可將音樂傳輸至支援ezPeer+的MP3 隨身聽無限播放。(目前封測中，即將開放公測，敬請期待。)</blockquote><p>有趣且白痴的是，ezPeer網站對於下載音樂使用方式的QA，跟KKBOX幾乎一模一樣，可見這東西可能是來自於同一個地方....</p><a href="https://flic.kr/p/v7c2x"><blockquote><img src="/assets/images/static.flickr.com/43d48cc4070dcad2.jpg" /></blockquote></a>
 
 
 
 <a href="http://www.kuro.com.tw/"><img src="/assets/images/static.flickr.com/8596f63844ad8f74.jpg" height="79" width="251" /></a>
 <p>kuro 的合法化平台還沒有開台，預計再過幾天（2007/1/1）就要開台了，不知道會不會玩出跟 ezpeer 與 KK 更不同的新花樣。</p>
-<a href="http://static.flickr.com/128/329393265_ff120f1290_o.png"><img src="/assets/images/static.flickr.com/c67dfe63f32ae347.jpg" /></a>
+<a href="https://flic.kr/p/v7e9e"><img src="/assets/images/static.flickr.com/c67dfe63f32ae347.jpg" /></a>
 
 
 
 
 <a href="http://tw.music.yahoo.com/"><img src="/assets/images/static.flickr.com/33dad90eb2722b4f.jpg" height="50" width="249" /></a><p></p>
 <p>最後就剩下 Yahoo!奇摩音樂了。Yahoo 最特別的是除了月費制聽到飽以外，還有單曲購買的機制。購買的單曲雖然一樣有DRM，但可以永久保存，不像 KKBOX 與 ezPeer 會有會員過期的問題。而看說明是可以燒錄 CD 五次，也可傳輸進支援 DRM 的 MP3 Player 中播放。</p>
-<a href="http://static.flickr.com/148/329399684_049b93798f_b.jpg"><img src="/assets/images/static.flickr.com/c29b0a2730e1b8f2.jpg" /></a>
+<a href="https://flic.kr/p/v7g3U"><img src="/assets/images/static.flickr.com/c29b0a2730e1b8f2.jpg" /></a>
 <p>對我來說，並不想要每個月花月費聽音樂，畢竟我也不會去追新歌，平常聽的都是那些，大部分也已經擁有 CD 了。因此 Yahoo 應該是比較適合我的音樂服務。就下載 Yahoo 的用戶端來試試看吧！</p><p>下載連結：<a href="http://tw.music.yahoo.com/download/index.html">http://tw.music.yahoo.com/download/index.html</a> </p><p>在下載之前，先搜索看看，確定有我要的《Find the Way》...</p>
-<a href="http://static.flickr.com/144/329405783_32effd8953_o.png"><img src="/assets/images/static.flickr.com/5122f1e7c2665307.jpg" /></a>
+<a href="https://flic.kr/p/v7hS4"><img src="/assets/images/static.flickr.com/5122f1e7c2665307.jpg" /></a>
 <p>安裝途中，會把瀏覽器首頁設成 Yahoo，還會安裝 Yahoo 捷徑列，記得要把他勾掉。</p>
-<a href="http://static.flickr.com/128/329411153_66ab2ed642_o.png"><img src="/assets/images/static.flickr.com/e750d21b1f56e851.jpg" /></a>
+<a href="https://flic.kr/p/v7jsD"><img src="/assets/images/static.flickr.com/e750d21b1f56e851.jpg" /></a>
 <p>還需要安裝 WMP10...</p>
-<a href="http://static.flickr.com/144/329411178_73c9ac200b_o.png"><img src="/assets/images/static.flickr.com/5064d50b18a281e9.jpg" height="56" width="240" /></a>
+<a href="https://flic.kr/p/v7jt5"><img src="/assets/images/static.flickr.com/5064d50b18a281e9.jpg" height="56" width="240" /></a>
 <p>或許是因為我沒有裝過 WMP10（從來就不用 WMP），安裝過程還蠻久的，還有一些天知道啥意思的對話框...</p>
-<a href="http://static.flickr.com/153/329411210_c1a79544c9_o.png"><img src="/assets/images/static.flickr.com/fccf16e894af90a4.jpg" height="46" width="240" /></a>
-<a href="http://static.flickr.com/145/329411271_2e6b2948aa_o.png"><img src="/assets/images/static.flickr.com/dbdddfcb69233612.jpg" height="135" width="240" /></a>
+<a href="https://flic.kr/p/v7jtC"><img src="/assets/images/static.flickr.com/fccf16e894af90a4.jpg" height="46" width="240" /></a>
+<a href="https://flic.kr/p/v7juF"><img src="/assets/images/static.flickr.com/dbdddfcb69233612.jpg" height="135" width="240" /></a>
 <p>最後安裝完成還要重開機...XP 上應用程式的通病...</p>
-<a href="http://static.flickr.com/134/329420559_cd8ddab145_o.png"><img src="/assets/images/static.flickr.com/3499678edd84a8ed.jpg" height="176" width="240" /></a>
+<a href="https://flic.kr/p/v7nfP"><img src="/assets/images/static.flickr.com/3499678edd84a8ed.jpg" height="176" width="240" /></a>
 <p>安裝完畢之後 Yahoo!奇摩音樂通會常駐一個前導的捷徑在系統列，單點一下就可以開啟。其實我很不喜歡這樣的作法，畢竟音樂下載不是需要常駐的程式，安裝程式建立桌面捷徑應該就很夠了。</p>
 <a href="http://www.flickr.com/photos/60061298@N00/329519882"><img src="/assets/images/static.flickr.com/4a7bfa241f95afaa.jpg" /></a>
-<a href="http://static.flickr.com/156/329519906_04552df2d7_o.png"><img src="/assets/images/static.flickr.com/a0d917ddb02f7e0c.jpg" height="82" width="74" /></a>
+<a href="https://flic.kr/p/v7SMG"><img src="/assets/images/static.flickr.com/a0d917ddb02f7e0c.jpg" height="82" width="74" /></a>
 <a href="http://www.flickr.com/photos/60061298@N00/329519940"><img src="/assets/images/static.flickr.com/dde2ad010e0e43b2.jpg" /></a>
 <p>程式第一次開啟，會自動進入設定畫面，這裡可以決定要不要讓音樂通掃描硬碟裡的音樂檔。因為我把音樂通當作純粹的音樂下載程式，因此選擇不掃描，接著就可以進入音樂通的主畫面了。使用 Yahoo 帳號登入之後，需要編輯基本資料，包含暱稱、喜歡的曲風與歌單偏好等。其中「音樂敘述」這項規定一定要填寫，是個非常沒有意義的設定。設定完成之後，會開啟三天試用期，就可以開始瀏覽音樂通的資料庫啦。</p>
-<a href="http://static.flickr.com/146/329519962_3c83799bc6_o.png"><img style="" src="/assets/images/static.flickr.com/17bc1ac3192cd27d.jpg" height="179" width="240" /></a>
-<a href="http://static.flickr.com/156/329520014_3140fabc88_o.png"><img src="/assets/images/static.flickr.com/b4f4bc1e95125035.jpg" height="240" width="200" /></a>
-<a href="http://static.flickr.com/159/329520083_e976194ffa_o.png"><img src="/assets/images/static.flickr.com/0f63aa0a2d3ff5ad.jpg" height="69" width="240" /></a>
-<a href="http://static.flickr.com/152/329520041_f9b6005767_o.png"><img style="" src="/assets/images/static.flickr.com/a698ffdae6f045e4.jpg" height="179" width="240" /></a>
+<a href="https://flic.kr/p/v7SNE"><img style="" src="/assets/images/static.flickr.com/17bc1ac3192cd27d.jpg" height="179" width="240" /></a>
+<a href="https://flic.kr/p/v7SPy"><img src="/assets/images/static.flickr.com/b4f4bc1e95125035.jpg" height="240" width="200" /></a>
+<a href="https://flic.kr/p/v7SQK"><img src="/assets/images/static.flickr.com/0f63aa0a2d3ff5ad.jpg" height="69" width="240" /></a>
+<a href="https://flic.kr/p/v7SQ2"><img style="" src="/assets/images/static.flickr.com/a698ffdae6f045e4.jpg" height="179" width="240" /></a>
 <p>音樂通的主要介面跟 iTunes 很像，這年頭哪套音樂軟體 UI 不是跟 iTunes 很像的？大概是巧合吧 XD 音樂通正上角有個搜索欄，經過這麼多麻煩的手續，我當然是直接把《Find the Way》 打進去搜索。很快的就搜索到了。</p>
-<a href="http://static.flickr.com/125/329520120_93aeeb38cf_o.png"><img src="/assets/images/static.flickr.com/c9b606c8fcd317bf.jpg" height="175" width="240" /></a>
+<a href="https://flic.kr/p/v7SRo"><img src="/assets/images/static.flickr.com/c9b606c8fcd317bf.jpg" height="175" width="240" /></a>
 <p>這時，當然是先點播放，享受一下 3 天 VIP 的權利！點選曲名旁邊的向下按鈕，可以把歌曲加入音樂庫、歌單、或是購買。在月費制的狀態下，加入音樂庫的 CD 是不能燒錄的，這時，當然是點選購買了。</p>
-<a href="http://static.flickr.com/142/329520158_688332f786_o.png"><img src="/assets/images/static.flickr.com/e5e2e19145e1e99d.jpg" height="22" width="240" /></a>
+<a href="https://flic.kr/p/v7SS3"><img src="/assets/images/static.flickr.com/e5e2e19145e1e99d.jpg" height="22" width="240" /></a>
 <p>單曲 35 塊，我覺得是個很合理的價格。付費方式有兩個，Yahoo!奇摩預付點與 Yahoo!奇摩優惠點，我還真不知道差在哪裡...隨便點一個進去，都會顯示無餘額，要加購預付點。預付點有一百到三千不等的項目，不過多買也沒有多折扣...那就先買個一百點吧。</p>
-<a href="http://static.flickr.com/126/329520179_e42c969a21_o.png"><img src="/assets/images/static.flickr.com/bff9162ee8d5c2d0.jpg" height="189" width="240" /></a>
+<a href="https://flic.kr/p/v7SSp"><img src="/assets/images/static.flickr.com/bff9162ee8d5c2d0.jpg" height="189" width="240" /></a>
 <p>沒有辦法一次只付35塊買單曲，有點坑人XD
 付款方式有信用卡、7 代收、ATM / 網路 ATM，直接刷卡下去吧。要填的東西有點多，有點麻煩。如果能像iTMS一樣直接支援paypal會更方便。預付點購買完成之後，會回到 Yahoo 首頁....</p>
-<a href="http://static.flickr.com/125/329520216_836bf8f12f_o.png"><img src="/assets/images/static.flickr.com/6667652c4a93e4b3.jpg" height="174" width="240" /></a>
+<a href="https://flic.kr/p/v7ST3"><img src="/assets/images/static.flickr.com/6667652c4a93e4b3.jpg" height="174" width="240" /></a>
 <p>啊是不會直接讓我回到購買歌曲的頁面嗎STO
 再重新搜索歌曲、點選購買、選擇預付點...台灣 Yahoo 請學學同公司的 flickr 吧！flickr 付款機制做的多順暢，昨晚一不小心手滑就刷了一年 pro XD
 經過一大堆確定，扣點完成之後，音樂終於開始下載了。</p><p>下載完畢之後，點選左邊的下載中心...裡面是空的，囧。再點選音樂庫...原來下載完畢的歌也是在這邊。歌曲的狀態已經成為已購買，也顯示出可燒錄了。立刻拿一片 CD 燒燒看。</p>
-<a href="http://static.flickr.com/152/329520270_c8c7a16e35_o.png"><img src="/assets/images/static.flickr.com/541e03942274e430.jpg" height="13" width="240" /></a>
+<a href="https://flic.kr/p/v7STY"><img src="/assets/images/static.flickr.com/541e03942274e430.jpg" height="13" width="240" /></a>
 <p>啊勒，是要怎麼燒？沒有燒CD的按鈕。找了一下，看來是跟 iTunes 一樣的方法，先建立歌單，把歌拉進去，就可以按下方的燒錄鈕。連燒錄鈕都做的跟 iTunes 同樣位置，Yahoo 真是貼心 XD
 
 燒錄完後，CD會自動退出。</p><p>這時，音樂通的使命已經結束，可以關掉了。把 CD 退出在重新插入電腦中，就可以把歌輸入 iTunes 資料庫啦。可惜的是，用音樂通燒出來的 CD，在輸入 iTunes 時還是得手動鍵入 id3tag，而且專輯封面也要自己找來抓進去。（其實我覺得偷 KKBOX 的 300*300 專輯封面才是最棒的）</p>
-<a href="http://static.flickr.com/152/329570379_996bbaead7_o.png"><img src="/assets/images/static.flickr.com/6cf2656bdc7e7090.jpg" height="168" width="240" /></a>
+<a href="https://flic.kr/p/v88MV"><img src="/assets/images/static.flickr.com/6cf2656bdc7e7090.jpg" height="168" width="240" /></a>
 <p>另外還有一點是，Yahoo 音樂付費下載單曲的音質是 192K WMA 檔，燒出 CD 音質還是差了一點。WMA 檔有 DRM，無法直接轉檔或使用，只好透過燒 CD來規避保護，其實也算是遊走法律邊緣的作法。</p><p>還是希望國內的線上音樂服務能夠更完善、更便利、更貼心。2006 年底，我們終於有了合法的線上單曲購買機制，希望IFPI或是什麼有權利的大頭，能更快清醒。面對數位音樂下載，重重保護絕對不是好的方法。保護越多使用起來越麻煩，越會驅使消費者轉向非法卻方便的管道下載音樂。</p><p>目前就算是 iTMS 所售的音樂也有DRM。希望未來會有一天有機會，可以簡單便利的在線上購買任何一首歌，快速下載無損壓縮的檔案，方便的燒成 CD / 存入任何 MP3 隨身聽 / 使用喜歡的播放程式播放。這樣才是愛樂者、消費者之福吧！</p>
-<a href="http://static.flickr.com/126/329570309_8c95127525_o.png"><img src="/assets/images/static.flickr.com/5e6c9cd138310a9b.jpg" height="170" width="240" /></a>
+<a href="https://flic.kr/p/v88LH"><img src="/assets/images/static.flickr.com/5e6c9cd138310a9b.jpg" height="170" width="240" /></a>
 <blockquote>中島美嘉 - Find The Way
 
 <a href="http://www.kkbox.com.tw/funky/web_info/VNSYPnGlAwBGYEB00JME008l.html">KKBOX</a>  　<a href="http://tw.music.yahoo.com/music/album.html?ID=21414">Yahoo音樂</a>

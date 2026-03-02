@@ -11,7 +11,7 @@ excerpt: "今天在蘋果日報上面看到這則消息，剛剛逛Blog時也看
 ---
 
 今天在蘋果日報上面看到這則消息，剛剛逛Blog時也看到udn報出來。<br />
-<blockquote>中正大學發表Web3.0 最快明年3月上市‧聯合新聞網 2006/12/28 (<a href="http://static.flickr.com/126/336330346_03166d8c6f_m.jpg">報導抓圖</a>)<br />
+<blockquote>中正大學發表Web3.0 最快明年3月上市‧聯合新聞網 2006/12/28 (<a href="https://flic.kr/p/vHMi5">報導抓圖</a>)<br />
 <a href="http://mag.udn.com/mag/it/storypage.jsp?f_ART_ID=55294">http://mag.udn.com/mag/it/storypage.jsp?f_ART_ID=55294</a><br />
 最近一兩年網路颳起Web 2.0的旋風，但在台灣媒體與網路界還正在熱切的討論與「擁抱」Web 2.0的時候，國立中正大學今天發表網路資訊系統Web 3.0計劃，強調將提供一個網路民主、均富、平權的時代，預定最快明年三月上市。</blockquote><br />
 所以，這個web 3.0到底是什麼東西？因為 <a href="http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html">O'Relly</a> 也還沒辦法告訴我什麼是Web 3.0，我只好去問<a href="http://www.hemidemi.com/search/bookmark?keyword=web+3.0">黑米大神</a>...<br />
