@@ -1,15 +1,39 @@
-# Irvin Blog (11ty + GitHub Pages)
+# Irvin Blog（11ty + GitHub Pages）
 
-此專案會把你手動匯出的 Blogger 與 Medium 備份，轉成 Markdown 後交給 [11ty](https://www.11ty.dev/) 產生完全靜態網站，並由 GitHub Pages 自動部署。
+此專案將 Blogger 與 Medium 匯出資料轉成 Markdown，再由 [11ty](https://www.11ty.dev/) 產生完全靜態網站，部署到 GitHub Pages。
+
+## 目標與目前已實作功能
+
+- 完全靜態頁面輸出（無後端）
+- 保留舊站 URL 結構
+- 匯入時自動改寫文內舊站連結為本站連結
+- Medium 回應型短文自動篩除
+- 特定 Medium 文章 ID 黑名單篩除
+- `女人迷精選` 文章保留 md，但不編譯成頁面
+- Medium/Flickr/Blogger 圖片下載到本地
+- 圖片補抓流程（pending/retry/recover）
+- 圖片原始網址與最終本地網址對照表輸出
+- Flickr 外連格式正規化：`<a href="flickr 頁"> <img src="本地圖">`
 
 ## 專案結構
 
 - `backups/blogger-takeout/.../feed.atom`：Blogger 匯出來源
 - `backups/medium-export/posts/*.html`：Medium 匯出來源
-- `scripts/import-content.js`：匯入轉換腳本（會重建 `src/posts`）
-- `src/posts/*.md`：由匯入腳本自動產生的文章
-- `src/_includes/`：11ty 版型
-- `src/import-report.json`：每次匯入後的統計結果
+- `scripts/import-content.js`：匯入與連結改寫主流程（會重建 `src/posts`）
+- `scripts/localize-images.js`：圖片本地化主流程
+- `scripts/recover-flickr-pending.js`：從 Flickr 頁面補抓 pending 圖片
+- `scripts/repair-tiny-images.js`：針對過小圖片嘗試換大圖
+- `scripts/normalize-flickr-links.js`：把 Flickr 圖片直連外部連結改成 Flickr 作品頁
+- `scripts/build-image-src-map.js`：更新圖片對照表 CSV
+- `scripts/filter-medium-responses.js`：用規則找出/刪除 Medium 回應文
+- `src/posts/*.md`：匯入後文章（`import` 會重建）
+- `src/assets/images/`：本地圖片
+- `src/assets/image-manifest.json`：圖片處理結果（成功/失敗/重用）
+- `src/assets/image-pending.txt`：尚未抓到的圖片清單
+- `src/assets/image-src-map-complete.csv`：圖片原始與最終對照表
+- `src/assets/medium-response-filter-report.json`：回應文篩除報告
+- `src/import-report.json`：匯入統計
+- `.eleventyignore`：保留 md 但不參與編譯的檔案
 - `_site/`：11ty 輸出（部署內容）
 
 ## 環境需求
@@ -17,7 +41,7 @@
 - Node.js 22（建議）
 - npm
 
-## 本機使用流程
+## 安裝與基本流程
 
 ```bash
 npm install
@@ -27,30 +51,116 @@ npm run build
 
 常用指令：
 
-- `npm run import`：只做匯入（重建 `src/posts`）
-- `npm run localize-images`：下載 Medium/Flickr 圖片到本地並改寫文章內圖片連結
-- `npm run refresh-content`：匯入 + 圖片在地化
-- `npm run build`：靜態建置到 `_site`
-- `npm run serve`：本機預覽（不重跑匯入）
+- `npm run import`：重新匯入（清空並重建 `src/posts`）
+- `npm run localize-images`：圖片本地化
+- `npm run images:pending`：只產生/檢視 pending 圖片清單
+- `npm run images:retry`：只重試 pending 圖片
+- `npm run images:recover-flickr`：針對 Flickr pending 補抓，再更新 pending
+- `npm run images:map`：更新 `image-src-map-complete.csv`
+- `npm run medium:filter-responses`：執行回應文篩除（`--apply` 模式已寫在 script）
+- `npm run refresh-content`：`import` + `localize-images`
+- `npm run build`：建置 `_site`
+- `npm run serve`：本機預覽
 
-## URL 保留策略
+## URL 與連結策略
 
-- Blogger：使用 `blogger:filename`，保留原本 `/YYYY/MM/slug.html`
-- Medium：根據 canonical URL 解析 slug，輸出 `/{slug}.html`
-- 若 Medium slug 過長（檔案系統限制），會自動改為較短 fallback（附上文章 ID），避免建置失敗
-- 文章內若連到舊站（如 `irvin.sto.tw`、`localhost:8080`）或舊 Medium 文章，匯入時會盡量自動改寫成本站內部連結
+### 1. 文章 permalink 保留
 
-## 如何新增文章（新的手動文章）
+- Blogger：使用 `blogger:filename`，維持 `/YYYY/MM/slug.html`
+- Medium：由 canonical URL 推導 slug，輸出 `/{slug}.html`
+- Medium slug 過長時，自動縮短並保留文章 ID 尾碼，避免檔名/URL 長度問題
 
-重要：`npm run import` 會先清空 `src/posts` 再重建，所以**不要**把手寫文章放在 `src/posts/`。
+### 2. 文內舊連結改寫為本站連結
 
-建議做法：
+`scripts/import-content.js` 會改寫 `href` 與 `data-href`：
 
-1. 建立資料夾 `src/manual/`
-2. 把手寫文章放在 `src/manual/*.md`
-3. 每篇文章都加上 frontmatter（至少含 `layout`、`title`、`date`、`permalink`）
+- Blogger 舊網域：`irvin.sto.tw`、`www.irvin.sto.tw`
+- 本機測試網域：`localhost:8080`
+- Medium 網域：`medium.com`、`www.medium.com`、`irvinfly.medium.com`
 
-範例：
+Medium 連結會再用 post ID 對應，盡量避免因標題 slug 變形而失配。
+
+## Medium 文章篩除策略
+
+### 1. 匯入時先篩掉
+
+`scripts/import-content.js` 內建兩層：
+
+- `SKIP_MEDIUM_POST_IDS`：已知不需要的文章 ID 黑名單
+- `isLikelyMediumResponsePost(...)`：以內容長度與結構（段落/標題/圖片數）判斷回應文
+
+匯入統計會寫入 `src/import-report.json`：
+
+- `counts.mediumSkippedResponses`
+- `counts.mediumSkippedById`
+
+### 2. 匯入後再清一次（可選）
+
+`scripts/filter-medium-responses.js` 可再掃描一次 `src/posts` 中 Medium 文章：
+
+- 產生 `src/assets/medium-response-filter-report.json`
+- 以 `--apply` 模式刪除判定為回應文的 md（`npm run medium:filter-responses` 已帶 `--apply`）
+
+### 3. 女人迷精選：保留 md，不編譯
+
+已將指定女人迷文章加到 `.eleventyignore`：
+
+- md 檔案會保留在 `src/posts`
+- 11ty build 不會輸出對應 HTML
+
+## 圖片處理流程（Medium + Flickr + Blogger）
+
+### 1. 本地化主流程
+
+`scripts/localize-images.js` 會：
+
+- 掃描 `src/posts` 所有 `<img src="">`
+- 挑出 Medium/Flickr/Blogger 圖源
+- 依來源產生「優先抓大圖」候選 URL（例如 Medium `v2`、Flickr `_o/_k/_h/_b`、Blogger `s0`）
+- 下載成功後存到 `src/assets/images/<host>/<hash>.<ext>`
+- 改寫文章中的 `img src` 為本站本地路徑
+- 輸出 `image-manifest.json` 與 `image-pending.txt`
+
+### 2. 增量與重試
+
+- `npm run images:pending`：列出目前待抓清單
+- `npm run images:retry`：只重試 pending，不重跑全部
+
+### 3. Flickr pending 補抓
+
+`npm run images:recover-flickr` 會：
+
+- 從文章內 Flickr 頁面線索找 photo page
+- 解析 `live.staticflickr.com` 變體
+- 優先嘗試大尺寸後綴
+- 成功後寫回 md 並更新報告 `flickr-recover-report.json`
+
+### 4. 過小圖片修復
+
+`scripts/repair-tiny-images.js` 會找長邊過小圖片，嘗試用替代來源下載更大版本，結果寫到 `repair-tiny-report.json`。
+
+### 5. 圖片對照表
+
+`npm run images:map` 會更新 `src/assets/image-src-map-complete.csv`：
+
+- `original_src`：原始圖片網址
+- `current_src`：目前文章內圖片網址（通常是本地路徑）
+- 可逐筆追蹤每張圖轉換結果
+
+## Flickr 連結格式正規化
+
+需求是：
+
+- `<a href="flickr 作品頁">`
+- `<img src="本地圖片">`
+
+`scripts/normalize-flickr-links.js` 可把「包住 `<img>` 的 `<a>` 且 `href` 仍是 Flickr 直連圖片」改成 Flickr 作品頁（`flic.kr/p/...`）。
+
+## 新增手動文章建議
+
+`npm run import` 會清空 `src/posts`，所以手動文章不要放在 `src/posts`。
+
+建議放在 `src/manual/*.md`，範例 front matter：
 
 ```md
 ---
@@ -62,36 +172,32 @@ permalink: "/2026/03/my-new-post.html"
 tags: ["manual"]
 excerpt: "這是一篇手動新增的文章"
 ---
-
-這裡是文章內容（Markdown 或 HTML 都可以）。
 ```
 
-## 如何更新新的 Medium 文章
+## 更新 Medium 內容的建議 SOP
 
-1. 手動從 Medium 匯出最新備份
-2. 把匯出後的 HTML 檔放到 `backups/medium-export/posts/`
-3. 執行：
-
-```bash
-npm run refresh-content
-npm run build
-```
-
-4. 檢查 `src/import-report.json`：
-   - `counts.medium` 是否符合預期
-   - `samples.mediumPermalinks` 是否合理
-5. 本機預覽確認內容後 commit / push
+1. 放入最新匯出檔到 `backups/medium-export/posts/`
+2. 執行 `npm run import`
+3. 執行 `npm run localize-images`
+4. 需要時執行 `npm run images:retry`、`npm run images:recover-flickr`
+5. 執行 `npm run images:map`
+6. 執行 `npm run build`
+7. 檢查：
+- `src/import-report.json`
+- `src/assets/image-manifest.json`
+- `src/assets/image-pending.txt`
+- `src/assets/image-src-map-complete.csv`
 
 ## GitHub Pages 部署
 
-已配置 workflow：[`/Users/Irvin/Sites/blog/.github/workflows/pages.yml`](/Users/Irvin/Sites/blog/.github/workflows/pages.yml)
+Workflow：[`pages.yml`](/Users/Irvin/Sites/blog/.github/workflows/pages.yml)
 
-- push 到 `main` 時會自動：
-  1. `npm ci`
-  2. `npm run build`
-  3. 部署 `_site` 到 GitHub Pages
+- push `main` 後自動執行：
+- `npm ci`
+- `npm run build`
+- deploy `_site`
 
-首次使用請確認 GitHub Repository 設定：
+Repository 設定需選：
 
-1. `Settings` -> `Pages`
-2. `Build and deployment` 選 `GitHub Actions`
+- `Settings` -> `Pages`
+- `Build and deployment` -> `GitHub Actions`
