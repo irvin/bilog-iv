@@ -3,7 +3,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets' });
 
   eleventyConfig.addCollection('postsByDate', function (collectionApi) {
-    return collectionApi.getFilteredByGlob('src/posts/*.md').sort((a, b) => b.date - a.date);
+    return collectionApi
+      .getFilteredByGlob('src/posts/*.md')
+      .filter((item) => item.data.permalink !== false && item.data.eleventyExcludeFromCollections !== true)
+      .sort((a, b) => b.date - a.date);
   });
 
   return {
