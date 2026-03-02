@@ -29,6 +29,6 @@ excerpt: "人民作主運動 是由核四公投促進會，針對公投法補正
 
 <p>苦行時，隊伍要求行進時維持靜默、且排列整齊，我想從中所傳達出的信念，應該是很清楚且沈重的，一股無聲的力量。</p>
 
-<a href="https://docs.google.com/fileview?id=0BxJonOlYaB0KYzlhNGFjYWItZDkxOS00Y2U5LWE3NGEtZDA5MjEzYjkxZTRl&amp;hl=zh_TW"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-lyQtPbdXaDz10BCYKP03jgj-ae7UWTtJa73WgnoOH145qr3MHsOWza2dwCPFF_51a7BU0s0q-7MZmCszT_papdFLLmoNqmsavRxKwX-PLsJ4UFww9Z4h6AaCR3-bHfR8UNDDw/s640/gview.png" /></a>
+<a href="https://docs.google.com/fileview?id=0BxJonOlYaB0KYzlhNGFjYWItZDkxOS00Y2U5LWE3NGEtZDA5MjEzYjkxZTRl&amp;hl=zh_TW"><img src="/assets/images/blogger.googleusercontent.com/7457158dd1fe02a1.png" /></a>
 
 <p>因為 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSupJ8ZQxrvKKMPPohRBAPDecESqyjDs5sV6fycRD65cYKne1EFoAMIfd9O6vt1ttP9_77hDy99WocLEUaTGIo8EhQZXw5sQalgaJJ17yWn7BMGgMzNg93gcZMpXPBemwN0Yp9CA/s1600-h/Page+Capture+2.png">大環境不好</a>，他們仍持續的走下去……</p>

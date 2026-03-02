@@ -12,28 +12,28 @@ excerpt: "前天剛看完日劇《特急田中3號》，覺得非常喜愛，在
 
 <p>前天剛看完日劇《特急田中3號》，覺得非常喜愛，在此推薦給各位朋友們。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2039505933"><img src="http://static.flickr.com/2309/2039505933_4f11ab041c.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2039505933"><img src="/assets/images/live.staticflickr.com/9e4570679624db70.jpg" /></a>
 
 <p>這部日劇是日本TBS電視台今年（2007）四月時播映的日劇，共11話，主題是鐵道迷的活力愛情故事。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2040304106"><img src="http://static.flickr.com/2153/2040304106_8622e7c756.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2040304106"><img src="/assets/images/live.staticflickr.com/2575bcddacbdfb03.jpg" /></a>
 
 <p>這是本片的男主角：花形 圭（塚本 高史）、田中 一郎（田中 聖）、桃山 誠志（秋山 竜次）。花形與桃山是兩個鐵道迷，花形喜愛鐵道模型，而桃山則是將時刻表全記憶在腦裡。田中在進入大學之後與這兩人相遇，慢慢的愛上鐵道。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2040302402"><img src="http://static.flickr.com/2259/2040302402_fdc6781686.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2040302402"><img src="/assets/images/live.staticflickr.com/22995cc6bf35d051.jpg" /></a>
 
 <p>本片的女主角渋谷琴音（加藤 ローサ）、小島理子（平岩 紙）、目黒照美（栗山 千明），他們正以派遣人員的OL身份，在一家公司努力工作中。</p>
 
-<div id="fullpost"><a href="http://www.flickr.com/photos/60061298@N00/2039507897"><img src="http://static.flickr.com/2195/2039507897_11a5f416cb.jpg" /></a>
+<div id="fullpost"><a href="http://www.flickr.com/photos/60061298@N00/2039507897"><img src="/assets/images/live.staticflickr.com/6b533aa0c858b5f0.jpg" /></a>
 
 <p>無厘頭的主角田中，在第一集對照美一見鍾情。田中是個莽撞、愛說大話、熱血、卻對朋友及家人溫柔的人。田中三人追求女主角們的過程中，各自經歷了許多困難與成長，並找到努力的方向。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2039508233"><img src="http://static.flickr.com/2377/2039508233_9c2cbf5695.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2039508233"><img src="/assets/images/live.staticflickr.com/f3161050cab4df1e.jpg" /></a>
 
 <p>而本片的一大特色，當然是許多關於鐵道的場景啦。不論主角們聚會的鐵道餐廳、桃山的家，都充滿許多鐵道收藏。例如站名牌、時刻表、許多的模型，桃山家還有一台電車 GO Pro 3 的大型機台，劇中的每一個場景，常常會讓人感到驚喜。</p>
 
-<a href="http://www.flickr.com/photos/60061298@N00/2040303024"><img src="http://static.flickr.com/2320/2040303024_a69131c937.jpg" /></a><br />
-<a href="http://www.flickr.com/photos/60061298@N00/2040301946"><img src="http://static.flickr.com/2300/2040301946_7f8d0495eb.jpg" /></a>
+<a href="http://www.flickr.com/photos/60061298@N00/2040303024"><img src="/assets/images/live.staticflickr.com/d27ea6f56f16d74b.jpg" /></a><br />
+<a href="http://www.flickr.com/photos/60061298@N00/2040301946"><img src="/assets/images/live.staticflickr.com/0cb078969f99d61f.jpg" /></a>
 
 <p>另外劇中出現許多有特色的鐵道路線、車輛與迷人景色，在看完之後，也會忍不住想要來一趟鐵道之旅（圖為第一集出現的都電荒川線及第二集的小湊鉄道線）。每次看完，總會讓我期待著接下來會出現的鐵道路線。這是本劇的獨特樂趣啊！</p>
 

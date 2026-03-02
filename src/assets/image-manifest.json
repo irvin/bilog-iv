@@ -1,47 +1,20 @@
 {
-  "generatedAt": "2026-03-02T10:09:34.422Z",
+  "generatedAt": "2026-03-02T10:34:44.045Z",
+  "mode": "normal",
   "totals": {
     "found": 944,
-    "target": 343,
-    "downloaded": 0,
-    "failed": 343,
+    "target": 153,
+    "downloaded": 94,
+    "failed": 59,
     "reused": 0
   },
   "items": [
     {
-      "originalUrl": "http://static.flickr.com/2309/2039505933_4f11ab041c.jpg",
+      "originalUrl": "http://farm2.static.flickr.com/1046/1333018723_fbf6f3a013_o.png",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2153/2040304106_8622e7c756.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2259/2040302402_fdc6781686.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2195/2039507897_11a5f416cb.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2377/2039508233_9c2cbf5695.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2320/2040303024_a69131c937.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2300/2040301946_7f8d0495eb.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://farm3.static.flickr.com/2187/2326232424_fb52973924.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://farm4.static.flickr.com/3150/2325196753_a7d7cb5249.jpg",
+      "originalUrl": "http://farm2.static.flickr.com/1308/960993267_2b3e6f4d98_o.png",
       "status": "failed-cached"
     },
     {
@@ -49,67 +22,15 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2278/2062901847_07e1f8f14b.jpg",
+      "originalUrl": "http://farm3.static.flickr.com/2187/2326232424_fb52973924.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2226/2063695408_6aaf20b0b9.jpg",
+      "originalUrl": "http://farm4.static.flickr.com/3048/2635231911_fc4a071e58.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2390/2063695548_68a1e15ffd.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2089/2062902315_68b63a2374.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2324/2062902431_595b2a3c2c.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2247/2062902495_2a2ac42de0.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2346/2062902583_e98b28e4b1.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2305/2062902811_745e46e8ae.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2093/2062903677_c50c4ebbfa.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2081/2063696352_f2e0683cd3.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2110/2063696560_37f5338697.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2190/2062904483_f82e729052.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2321/2063697000_2447f5489b.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2179/2062903203_a71fb05028.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2110/2063696774_dd5878d1f6.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2197/2063696878_5fff772a81.jpg",
+      "originalUrl": "http://farm4.static.flickr.com/3150/2325196753_a7d7cb5249.jpg",
       "status": "failed-cached"
     },
     {
@@ -117,27 +38,43 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2269/2063699560_02a08042b5.jpg",
+      "originalUrl": "http://static.flickr.com/2021/2093200808_9950bc48d8.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2295/2063698446_71b259bf27.jpg",
+      "originalUrl": "http://static.flickr.com/2043/1839444596_b8e32554ab.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2161/2062904719_ec74c68d9a.jpg",
+      "originalUrl": "http://static.flickr.com/2081/2063696352_f2e0683cd3.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2373/2062904795_c7f6d1ca6b.jpg",
+      "originalUrl": "http://static.flickr.com/2089/2062902315_68b63a2374.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2351/1838621715_8fdd4c4f4a.jpg",
+      "originalUrl": "http://static.flickr.com/2093/2062903677_c50c4ebbfa.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2190/2062905505_a8d84aa55f.jpg",
+      "originalUrl": "http://static.flickr.com/2095/2093201120_5d61e7684f.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2096/1838619279_bef708935d.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2110/2063696560_37f5338697.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2110/2063696774_dd5878d1f6.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2111/1838621181_e5c7853bda.jpg",
       "status": "failed-cached"
     },
     {
@@ -145,7 +82,39 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2021/2093200808_9950bc48d8.jpg",
+      "originalUrl": "http://static.flickr.com/2146/2093200884_66827afa83.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2153/2040304106_8622e7c756.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2161/2062904719_ec74c68d9a.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2169/1839440978_04b3b5a5be.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2179/2062903203_a71fb05028.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2190/2062904483_f82e729052.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2190/2062905505_a8d84aa55f.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2195/2039507897_11a5f416cb.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2197/2063696878_5fff772a81.jpg",
       "status": "failed-cached"
     },
     {
@@ -153,7 +122,99 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2146/2093200884_66827afa83.jpg",
+      "originalUrl": "http://static.flickr.com/2226/2063695408_6aaf20b0b9.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2247/2062902495_2a2ac42de0.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2259/2040302402_fdc6781686.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2269/2063699560_02a08042b5.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2272/1838613479_685cec49f4.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2278/2062901847_07e1f8f14b.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2294/1839442814_4432a1ff29.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2295/2063698446_71b259bf27.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2300/2040301946_7f8d0495eb.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2305/2062902811_745e46e8ae.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2307/1839446230_434bd4636d.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2309/2039505933_4f11ab041c.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2316/1838617727_7156a68f59.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2320/2040303024_a69131c937.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2321/2063697000_2447f5489b.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2324/2062902431_595b2a3c2c.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2340/1839437908_125041eb10_m.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2346/2062902583_e98b28e4b1.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2351/1838621715_8fdd4c4f4a.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2356/1838620563_46a70b010d.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2362/2093201200_0877d85bfd.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2373/2062904795_c7f6d1ca6b.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2377/1838615535_6734afabae.jpg",
+      "status": "failed-cached"
+    },
+    {
+      "originalUrl": "http://static.flickr.com/2377/2039508233_9c2cbf5695.jpg",
       "status": "failed-cached"
     },
     {
@@ -165,55 +226,7 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2418/2093201056_352118b4ca.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2095/2093201120_5d61e7684f.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2362/2093201200_0877d85bfd.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2340/1839437908_125041eb10_m.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2415/1839438904_81abaa7295_m.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2272/1838613479_685cec49f4.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2169/1839440978_04b3b5a5be.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2377/1838615535_6734afabae.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2294/1839442814_4432a1ff29.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2111/1838621181_e5c7853bda.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2316/1838617727_7156a68f59.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2096/1838619279_bef708935d.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://static.flickr.com/2307/1839446230_434bd4636d.jpg",
+      "originalUrl": "http://static.flickr.com/2390/2063695548_68a1e15ffd.jpg",
       "status": "failed-cached"
     },
     {
@@ -221,11 +234,11 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2043/1839444596_b8e32554ab.jpg",
+      "originalUrl": "http://static.flickr.com/2415/1839438904_81abaa7295_m.jpg",
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://static.flickr.com/2356/1838620563_46a70b010d.jpg",
+      "originalUrl": "http://static.flickr.com/2418/2093201056_352118b4ca.jpg",
       "status": "failed-cached"
     },
     {
@@ -233,1152 +246,850 @@
       "status": "failed-cached"
     },
     {
-      "originalUrl": "http://farm2.static.flickr.com/1308/960993267_2b3e6f4d98_o.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://farm4.static.flickr.com/3048/2635231911_fc4a071e58.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "http://farm2.static.flickr.com/1046/1333018723_fbf6f3a013_o.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*p6o54rK3oXPMGU17xFMjmw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*4RqFBUHOb6n0gv8TQsMKsw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*JIc_a3WmzYCj4wBOeZE_xw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*xnvUFSANV4Y2a0U5dhI1lw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*Azm0AQ5yHUwc_c2a1k6EEA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*yK9Qp0EVnPSR0H5htTiqmw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*mCTByTvXBEbLVaG78LwhgQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*OMfgbsSsUnC5IsoLh-zBLA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*DZzivkuMZbcyiYZVG3wz_A.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*r_ttWm8fRfgfDuJA_iCRuA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*vA1gE55F46J1On3UUxG72g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*7lBQgvPxr-B2QdZI3NyUTg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*a_ymZRqjEq5aNRvbqEpaWQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*PU1ZyYK9LmO3Xup3dkXUAw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/0*fuJpRVCdK0PGuiWu.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/0*BhZwyEWJ430BNDSA.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/0*c9iLP0oB_ZIaifsi.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/0*Hq42G74zON6K0_Mp.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/0*Dpm3iq9zfS4qhIP2.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Bimw9GV-SEet7CvUpPJvlQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*mkSYCgOyw03tW_uv4NO1Xw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*qhktcOfeYX5XsSfTIZESWg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*wALKgzfKv_SADuy70dYVUw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*BEn-wS3bhSjjzlbX.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*uZxoo5Gk0ih51KJV.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*87yN-jqbkBDcRprLUk6CNg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*0o-EYktMcwXq6PiyT11Rmg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*KSN7A86Uhl0O8K0NM9O72Q.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*4v_DLXDU7itsozd2yQ360w.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*fvVRVzQ3S8PhrC0jH8Miyg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*sIofRWJHbmjpPmMmK7HzGw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*A6TPAAb0IlPCW7iQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*scgcJGM38uIvbdBQyzU8zw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*KLiSB1UDxC1KCiyRgS0wdQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*wKHRX62QAlqhR53aNhXLRA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*uR5v3Jj0uAAC8_WHsP2Prw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*IGeo9cUUu_BJPG2td-p6DA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*ywEpZpM-gfy0gU5JUQRdNQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*zd5gbsUXxd0DLx_7Dy_QGA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*m7ShFTWORRXI6KL6kZHDjw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*kCEKdwvdrWcC_m585HIG1A.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*3xmkeQ3bBKSpVC5laLcHwA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*6aQmpavJjRcYKx49Aroz-Q.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*3eUmxOD0mrtoCt0Luu93Vg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*JGcGpbtRWF9AV6zPcJH1Iw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Cc3gUZkH-6UZrD5L_1I7gg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*IBU_05StuKoSL2tJEH63SQ@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*6Bb-7ilDkpfDHGhEix4cEA@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*ZOIMCdJmBSwC5YHx8pYHGA@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*ulqeSA9IN20gWr5BAl1HCA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*Zojz6_mwr_S4F8nCI8dpWg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*59fhy6sKRkXAfvpLgYNgJA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*vwhHPFij5TnR5D2Qvey2pg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*do3km82qgJtCvZBZn0ZqEw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*i2kSRBVNNsk6yv0GvbUfSw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*4Z6Pv5bBijfFD93AWgI91Q.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*r1twSSfVAr_HRoAcCuSmmQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*i6b_i9uWF3cZNtcVQBqldg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*spVQb_H6wVsn3570Kh8KLQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*YE01OrSJgpvFNrpXLsWevA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*9V3TfXKfXoGoNKGYdwTPpA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*aQePA73Oi9Xre_8AZFbhXw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*CoCqqyjXWq_INSyR_-qvoQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*AM2U0tLycjam0P1NbG2wxQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*GyXSWp1AbViB4Laxl6cNaA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*lPsXoR7x5CPo0cVRUnTrOw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*dzB2EGhQxKnZMIYKIXNB-Q.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*7VTdrmvs42mfM8O1dnEy9w.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*owttu22cGDo1UHJjqCY9Bw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*mi_X86Zh1rGrj2Jww-gbxA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*oSKTaoO724CwQfOIj5dzJQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*tqa5g3KQ0LfKruc8kzFspg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*qMBQdEe_Zpe-tzJOWLvgVw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*XTeG7hJj9eYPYa1fMptefQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*5NcOlP9k6ULnyxeNVyAmAw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*-DTAJxhUdBWW4OnhB8gQCg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*cv-x7wNjNrocErVTHQyEPQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*uq63MU0KigRPQTg5MUEq2w.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*i4OXxyLMU3WIkok51jbYGQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*4gPO7Fwcu0x5ts_kTxwEMQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*7-FzjpfcUj-XwW9dGYOuBg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*YJWMwfStSDRRYn3QCXcBxg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*PFxTCE1qHEnVEwoTgO2nIA@2x.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*oMNbhxce8Dejp6BnVlYPvQ@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*HuIvcNCRTOtJ-jP40GYAfQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*ugpFR1AwLKgmP1xSTScybg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*52zFVP2Wl2Vo3JaUEthmPg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*hy1Rz9xNs-YojPZG9-u6_Q.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*47gaPjpwsvhiKb40uJ-nTA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*qNVmKuFNqeRPqENP.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*KLEslI4H4_x52BrbN8x4Xw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*4t_2q7enc7WQPTkQxRT24g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*3XglDYNH6OH6CRepAyQNRA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*oL9tEaVuzruABuG25LQgnw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*klmm2SG-94NvUDYqC3qQdQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*impBx_fmK8iqQYFPVjFaVw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*eEN-F_1GwRdIMYSE7EpmAg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*Me7ofoTZFG43Qe8VQ7m0rA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*1Bypag2Uzxms6OnU1zr9Gw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*j2WJ9e12zztDMzS-rgMzlQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*MSTXxtEvH55LPw6r_7-_xA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*3Cumjqlyn3sHewSFgLjo8A.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*x2GY2Cbco6IEIZJTh2T0cA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*2MGw0fgE0OONGzMdFov2pA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*rLO4dJftiMSCvUDrFsrcJA@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*4CWnIDt-FCD3EqQxwYQUaw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*NKVY8lEhrcxhS_Ry6E_QIA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*niWCZIWqWRV_vfzr.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/0*v3xEH0n7TTYvA-UE.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*5tJIfmiFBScE7KrI.jpg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*kbwtsWVz84w3-e9J.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/0*tQpu5cBSHFcl41AA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*g4jsWmP3viReHeUkbk4koQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*vaaBq9El-M1FCsniIoH-JQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*s6E_XLMkPiOEDZt_LeL7TQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*y0KEN656z9UqtufUXLoNLw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*EYucAXThbjxHzO_pVWxE2Q.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*n1a--f5Sh2pWOa1gWFTf3g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*POdOe-iIKYIMv9uLACYKwg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*ZY58Xi0Tij50PDgEyB10ig.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*_hm4wAPZbYEqFFYtdyOgvA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*zVdV0GsjEFWI_A4haNNzug.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*u-N2xyKlOzsQkN0jEY6ssQ@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*6zBSKHNqHLQbvuN_9iGnQg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*fwCzJTjPufvVwYa5KhQ2FA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*zL4e6J9Ec-g3lRJnoINSfg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*9NQcEUL4LQD1sDJwftEQ5Q.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*8ohdWdYrEnJ54DhDRE-5HA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*qb-DnvSCdRNaNv4zXIY-yg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*kOFK6zOSkO9eZywqwENUOQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*iTx6gLn8vUbOemRn97BaWQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*J8GEzRWyChLDyLePEEzoaA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*SJIupNoVYBFky0hHpkSF5Q.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*asrr0DK8Vxz86DT6MWQvtA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*pnMfpwDEMsy8VnCmHRHiWw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*DCzZT7CF_7PXuQpfuEfF1w.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*jwZcEWvzZuqoANz05WXvpg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*2uwANYFAu-c_-epnxpkjig.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*LMv0uscuXP9WplYBGwCx8g.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*_aBmiBMQ4WjE7eE26qP-eg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*n092nkPhHghugI_mUmG6GA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*iboz3FOwhfcG4_08gHiCGg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*WUZKwOUEQK7U22NSiUN6gg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*RPjYZTUMWn-UdrQPhutmbw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*3p7MumHTV_nwNr_x_dZP2A.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*RdtUTjEF1zXiWOHuHKiTBw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*OyHIdxohnqXsE2Oel01SZw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*4SP_pVjWR5Ojxc5eaeXZog.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*AxQ26MfGNjRlNXoAWdH1yw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*I3qA5t7kkbWJZ6gWfHYUOw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*AAQr9q83ccheJgzhxDnuig.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Nj7RoPrpwwn3mwviBh6F8A.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*z1B5lLJcMF-S_kbINCRzew.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*UlbIzs1lQ5OKsFJ16Q51og.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*jnrDz_E5pys7JORG1Ypq_g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*gqJY7DpcQdMQ-Y-JZFj6XQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*ZyEZKezh0gGhLkFzELDCvg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*DbkWopgNHUbagx_jD0uC6A.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*BSYv_lQQG6vmlj_IODujiA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*Y-pLSOHqS5WMg1cdXKYTug.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*ooPe7fSnQHVJqPY5EoxVkA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*2xqnrcMp4zo3JjfifcppOw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Kc8j0COy7mR13cGy63oBFg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*1150JKKs-UBfjhzIgrDXxA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Q-zqW5N_qja6iYEjACQR0w.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*ee4KubuAdsrQxtUIT2xYvg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*O53MC4wSnMyxEUtnPiZ2Iw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*HfT6Tah0M0g8mf5X090aWg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*fgiFTAbf4JW0A4Atv89ZyA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*cHIHnaiMl7ODlcHIpMQozQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*yrEH8fsEBDRI3UbJnXIEmQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*7c0dwNxCSf_-WoPFUeja7g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*8HD7yE8HJDYei9al77d-mQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Mow6HntLOEYQ4JPcUK2Yow.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*ndQEMmf6sGTA2jcaFufi9A.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*OMEHtXB06dktH6l3uHCwaQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*Hefdj5YdcrvDLrER5JOEdg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*EOcVrVtaOdhwWj-WtZBosQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*4lVeXG2eOUR8y56F0l-jyg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*xr3S94Y-q9qyvuOJmELbkg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*wu7X6kmYHvjd5UHjgZsmkQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*ZTft6c21TJrnguGSwHE0rg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*J9rjslkcI-kKaI50wEypVQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*8-KIxbpy9Av7WKDaVCKtiA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Qzhf185vhgc-NtMs4K2RIg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*uTsto35WbcsynD5jQpa4aw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Vzh53lBGrCSwmxAUkLIRpw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*NYEpH_q-BDMri-D2MXTYdA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*IF7ujA362sM9dqYjbvRP9g.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*IewBkrO8Nm6edJSX7LHbSQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*svBWy9OcQZ_V_0Y1PdR9pg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*m1FDhe9jGL_k0T7P9oOFcQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1000/1*9oI2MObfXELgPD1sdLb7Ug.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*wJ8VQVtujxx3g-7geXmGIQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*eUpgfnk5ZBGfcjfvmVKARA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*niC8S0r55koH08dHwjFmbg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*tPCgo7UlbvpxbIqTAHNY8g.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*dryBakm_rcY9v0wDf-qM4A.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*WPDpvi4dX8OuisY_3JKHAw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*uVcbv4Z8jRUxI1MCPaJFKg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*6H7DrQzbeOiaiHqG_38WVA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*jjXRvltHcuUa5feKsCmUQw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*2H3QcuIz-h_AepyMkg-dig.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/400/1*ZcrYharrk7FR_A-IrLIWkw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1000/1*1jMr-n7jTPmMJreOirzGcg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*B-0wWGYi9T9t0w6VNmRQ4A.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*TmQYTTKPGi8IFZ-c0zSC7Q.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*UpssFVyFeRb_brzpspCCAg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*BTN9DmSa0p6nk44ALc3OXQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*8bbvmNm1MdURUVlTmUr6IA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*QNFFklpOCM0Wo13Qg4duIQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*dauxEBpKbAbvp5Ano6uDEw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*Zg_H0yKW_Ffv3PgXlR71HQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*PkCQREFawuTjnhJ0V0qJhQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*StdUdNb-V39FIKY17H5L6w.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*_DogHQCR8MCzjMaq2KvLMQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*qKR-v9WEIxWhW2YwquwHoA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*20lSqtsS-TH6eWv35Hjx_g.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*fnvgWuW6kvsY6Jicj9m1YA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*YiE4c_mQTqwa8TOM3t0mEA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*m5IdJAVzqC86T7_GsckCsg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*3qOj7rHyPWb5bI0it-NONw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*DbkWopgNHUbagx_jD0uC6A.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*jGI04Zvtg9WHBh2aylhNNA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*p-3nqvifY4YCOMkqVqqzqQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*PlQTDjk3agxLlPgOc3dJPg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*v_7v3X-DKxflVAiGUgHqqA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*Ae-p3i8yahpbjQgti26q5w.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*hovq_nRPHAThXGndIyFLcA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*LKJSYBsdef89xNYDhzxmSA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*sMPN1lKbrCDvMdKHZP9tSQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*ps67AnW_JzUfh9MupUCMpQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*h6UE5aCa041pAypNh4SXmA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*-tcf0mpqrp3b70ty6ZlQYQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*5hyy0un_jGd9EysLeLl5yA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*c60zmCEPBZFWDMnPiqm1xg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*o79BISyjWNNyybIXaUSDow.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*2myGBjQCkSGUTb5t7vk2xQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*2NrLYmrl1GZ-iiATYObe7A.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*vJclsPc9TDx28F90qkNhXg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*GXwjsSalMryQlwr6jB0faQ.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*NaMloeWRzRKbnDJQGBLIqQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*veMVpNNQMVafGD6QWBlpcw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*u3pIdeUx58l-B_h1uf1cpA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*IJb_wOJyIyddh0G6oCJj3Q.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*9mjhMIXZuEZpHxyRppoQJQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*rsNvibSuyVzZGX_sfRYJrg.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*UClkargoNC_tSKqRJzIKkw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*5htHPnDmbjfcBriHpxsPnw.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*RW_lj-y94YZQtre64bYY4g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*3KEZFndtvySOlY5-2Za6JA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*s3RCBhGuaQKZdZrVnl3yLA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*9GmZRl6k47EuGbl90fJnHg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*9emZUrs8D0QFRwzLtWN4AA.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*q_dYUkvVy6SQBlDYbzFm6g.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*FQrvfp2MblClgf26zt2U3w.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*fquPw-J8OkYJZVocisvtwQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*mJbSkTQ2KD_x46ccN0qllg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*AEx2LDB3BC7CEOZmbFMu5Q.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*_SSg-JZ4q4hrVctaCGjOkw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*bquX5iwKDkRDytzSzUZy-A.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*CzyEjq9TVuKvpK81XB4quQ@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*y7826uOQ8sMlIqbLZp7uPA@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*HyGIWEhpIPFH2rqEozgIew.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*BhDbKMpvL8PH8opxtiPAfA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*OTQW_G-0proSKua2yxskWA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*LW9bIXcrXv5KehsT1Wnpkw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*leQAnWuHYrMAZo4k5fiahg@2x.jpeg",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*VMaRDKI7DokjkmNANHmqXA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*e-NIWDnNMpWOQ0_G6Z-7Uw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*GT1UyyC2sjSVfhcytnK1Bw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*xUFMc2tdhf63Phj3I02O3g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*MsTCZCMWg-2-fTUqPOPbDQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/1200/1*AanqXQnQUDxpvJ5iNWVJGw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*DwRvDc24dzMTtXSCglMZmg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*GId3t30ezVN3JeWV2aGkDg.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*tCEKEKvOUDB-w-1hf01DbA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*k8HYnjjswpCaemqgQltzhA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/800/1*xmfDImVVkrDxH-9Claht3g.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*lZP8Dnx_5H6xMObXxv74Qw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*LDELxPviRrZnSP1CaJxqzw.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*6dyZdcOM8uACat9S4kpuAQ.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/600/1*IUd2XcSptxSS_E-6aFo_ZA.png",
-      "status": "failed-cached"
-    },
-    {
-      "originalUrl": "https://cdn-images-1.medium.com/max/2560/1*1wJ1x31j_mK2oUBqN1LE8g.png",
-      "status": "failed-cached"
+      "originalUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjlHDbp0y3llmwquBaiqg_WJVnf3ppBbjKmWqhjKbvRkLTGgd7h4Etp5z4jyxS_NSF6OL4AsPvdi0w2kFSA1wi4bRBMfDwQJqXoopdllN64YrYnFh8AniYmDFgIHS0MmJX8hnDZSzaoJNMCfacfqMrQVMrOidbxOkZtOd5WErjFwiDfe4ZzDwE=w320-h243",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/a/AVvXsEjlHDbp0y3llmwquBaiqg_WJVnf3ppBbjKmWqhjKbvRkLTGgd7h4Etp5z4jyxS_NSF6OL4AsPvdi0w2kFSA1wi4bRBMfDwQJqXoopdllN64YrYnFh8AniYmDFgIHS0MmJX8hnDZSzaoJNMCfacfqMrQVMrOidbxOkZtOd5WErjFwiDfe4ZzDwE=w320-h243",
+      "finalUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjlHDbp0y3llmwquBaiqg_WJVnf3ppBbjKmWqhjKbvRkLTGgd7h4Etp5z4jyxS_NSF6OL4AsPvdi0w2kFSA1wi4bRBMfDwQJqXoopdllN64YrYnFh8AniYmDFgIHS0MmJX8hnDZSzaoJNMCfacfqMrQVMrOidbxOkZtOd5WErjFwiDfe4ZzDwE=w320-h243",
+      "bytes": 41983,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/bcd52b3466166a55.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s400/MozSpaces+-+Stream+2+-+The+River+of+Space.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s400/MozSpaces+-+Stream+2+-+The+River+of+Space.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s400/MozSpaces+-+Stream+2+-+The+River+of+Space.png",
+      "bytes": 226545,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/8d1d7c71bbde9bc2.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpNkMco2s4N8FOus0SFawxCP9RcdH152tyiTGjfMClAmmP5zieZCG5wMecL4_-nOYS8y7a_RXP25AVm7_DJmpI9tObgQPnmR2mlP2WqoifyLA1XgdIwCoKa5RxrmOQGF3vIsaEw/s1600/21367058_1190062407765304_8342412615323831278_o.jpg",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpNkMco2s4N8FOus0SFawxCP9RcdH152tyiTGjfMClAmmP5zieZCG5wMecL4_-nOYS8y7a_RXP25AVm7_DJmpI9tObgQPnmR2mlP2WqoifyLA1XgdIwCoKa5RxrmOQGF3vIsaEw/s1600/21367058_1190062407765304_8342412615323831278_o.jpg",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpNkMco2s4N8FOus0SFawxCP9RcdH152tyiTGjfMClAmmP5zieZCG5wMecL4_-nOYS8y7a_RXP25AVm7_DJmpI9tObgQPnmR2mlP2WqoifyLA1XgdIwCoKa5RxrmOQGF3vIsaEw/s1600/21367058_1190062407765304_8342412615323831278_o.jpg",
+      "bytes": 112333,
+      "contentType": "image/jpeg",
+      "localPath": "/assets/images/blogger.googleusercontent.com/c326bdf3d3bc9333.jpg",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vJL-6EwpZjFz_KyFJVlt41ePZ1TKoDcbVkRACav_DT2ElRQMopGtraIfYNPDzmA7pxbNNMmWteS6MRKV0J2wu3B-OPiwqLpXKf9cjWJpOe34ZyzRQM9zAsJHQXXaUV_tJ4tdug/s320/_%25E8%25B4%258A%25E5%258A%25A9%25E6%2596%25B9%25E6%25A1%2588.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vJL-6EwpZjFz_KyFJVlt41ePZ1TKoDcbVkRACav_DT2ElRQMopGtraIfYNPDzmA7pxbNNMmWteS6MRKV0J2wu3B-OPiwqLpXKf9cjWJpOe34ZyzRQM9zAsJHQXXaUV_tJ4tdug/s320/_%25E8%25B4%258A%25E5%258A%25A9%25E6%2596%25B9%25E6%25A1%2588.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vJL-6EwpZjFz_KyFJVlt41ePZ1TKoDcbVkRACav_DT2ElRQMopGtraIfYNPDzmA7pxbNNMmWteS6MRKV0J2wu3B-OPiwqLpXKf9cjWJpOe34ZyzRQM9zAsJHQXXaUV_tJ4tdug/s320/_%25E8%25B4%258A%25E5%258A%25A9%25E6%2596%25B9%25E6%25A1%2588.png",
+      "bytes": 41540,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/57ab5f7d60235656.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-EuBj3VwtXNqvUTo5ksVS0M9aVO7OCZPGufeuv5v6sYQTh9JgVVJSooVCTwFSRWP-JgGFgoi1JlzX8zrVapifOHuMGoTTVTncv0vu4sHw1BUlmehYMMY5OUjoG9Tv54iSq0xwg/s640/MozTW+Firefox+4+%2540+Win7.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-EuBj3VwtXNqvUTo5ksVS0M9aVO7OCZPGufeuv5v6sYQTh9JgVVJSooVCTwFSRWP-JgGFgoi1JlzX8zrVapifOHuMGoTTVTncv0vu4sHw1BUlmehYMMY5OUjoG9Tv54iSq0xwg/s640/MozTW+Firefox+4+%2540+Win7.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-EuBj3VwtXNqvUTo5ksVS0M9aVO7OCZPGufeuv5v6sYQTh9JgVVJSooVCTwFSRWP-JgGFgoi1JlzX8zrVapifOHuMGoTTVTncv0vu4sHw1BUlmehYMMY5OUjoG9Tv54iSq0xwg/s640/MozTW+Firefox+4+%2540+Win7.png",
+      "bytes": 221065,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/b41eac8884b969b4.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4p8rcRjEuZAdOO5kXAohM3iAo5Hd93siZZKpIKUyxMgtmE4V7e2k67nv4CrJQlDijv3-rqkiArkUM2GESxutwCwWnT6CT5xOHwmT9Hsrs0nc7jLTWrIuQ7dFq1CBSg8UQ_4OYXw/s640/MozTW+Firefox+4+%2540+Mac.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4p8rcRjEuZAdOO5kXAohM3iAo5Hd93siZZKpIKUyxMgtmE4V7e2k67nv4CrJQlDijv3-rqkiArkUM2GESxutwCwWnT6CT5xOHwmT9Hsrs0nc7jLTWrIuQ7dFq1CBSg8UQ_4OYXw/s640/MozTW+Firefox+4+%2540+Mac.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4p8rcRjEuZAdOO5kXAohM3iAo5Hd93siZZKpIKUyxMgtmE4V7e2k67nv4CrJQlDijv3-rqkiArkUM2GESxutwCwWnT6CT5xOHwmT9Hsrs0nc7jLTWrIuQ7dFq1CBSg8UQ_4OYXw/s640/MozTW+Firefox+4+%2540+Mac.png",
+      "bytes": 221450,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/f2890e8b8d5ff611.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3dqQr8pT1mDJYN_bliSDE6AH8ym1LbBzB-mTIOorMjvORe7SSFNXMu0rJp0GafGBDeaNIaWYww_FgBzy0VJq36kZQw8ZN50jHeORU8d32fzRBSSCYHpWPYSM_W-Uyc8BNFZOJXw/",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3dqQr8pT1mDJYN_bliSDE6AH8ym1LbBzB-mTIOorMjvORe7SSFNXMu0rJp0GafGBDeaNIaWYww_FgBzy0VJq36kZQw8ZN50jHeORU8d32fzRBSSCYHpWPYSM_W-Uyc8BNFZOJXw/",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3dqQr8pT1mDJYN_bliSDE6AH8ym1LbBzB-mTIOorMjvORe7SSFNXMu0rJp0GafGBDeaNIaWYww_FgBzy0VJq36kZQw8ZN50jHeORU8d32fzRBSSCYHpWPYSM_W-Uyc8BNFZOJXw/",
+      "bytes": 27012,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/30815331e95b25be.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yYTxY5PPU4qPIv-nkcJTaHfu0pHbpkqkovNzkzN2C8M54u0SxUY0pioTznZ2q7SPe5APSaKrMp1AmUOPlclFh59b_gUDqRI-H84Sk18-S3rKencPSb9840BhlYtzii-UrB8YxA/s9999/1489248925.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yYTxY5PPU4qPIv-nkcJTaHfu0pHbpkqkovNzkzN2C8M54u0SxUY0pioTznZ2q7SPe5APSaKrMp1AmUOPlclFh59b_gUDqRI-H84Sk18-S3rKencPSb9840BhlYtzii-UrB8YxA/s9999/1489248925.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_yYTxY5PPU4qPIv-nkcJTaHfu0pHbpkqkovNzkzN2C8M54u0SxUY0pioTznZ2q7SPe5APSaKrMp1AmUOPlclFh59b_gUDqRI-H84Sk18-S3rKencPSb9840BhlYtzii-UrB8YxA/s9999/1489248925.png",
+      "bytes": 848728,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/6909f7e8460b63a8.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjKpIJv2Gk6yHGgMpJeHr-zf5bEiJ6Lokyrprg_AvLKyufJ92wYfUDTG7Es-6fnEX60ZcOq27cbGTpl9iq-tgan_SGYRmWqeE2GY0MGP66RRmOwINFgZPz9rueQQOIN4Egw8tKg/s640/social-0.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjKpIJv2Gk6yHGgMpJeHr-zf5bEiJ6Lokyrprg_AvLKyufJ92wYfUDTG7Es-6fnEX60ZcOq27cbGTpl9iq-tgan_SGYRmWqeE2GY0MGP66RRmOwINFgZPz9rueQQOIN4Egw8tKg/s640/social-0.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjKpIJv2Gk6yHGgMpJeHr-zf5bEiJ6Lokyrprg_AvLKyufJ92wYfUDTG7Es-6fnEX60ZcOq27cbGTpl9iq-tgan_SGYRmWqeE2GY0MGP66RRmOwINFgZPz9rueQQOIN4Egw8tKg/s640/social-0.png",
+      "bytes": 223443,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/31ad00c8c1863170.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFrkA65jpPWJxLnNWvFBHbWY_xl1Rb0-yXkvNWgmnnvUjj_Slp5go3eZxBxXVMKTxesASd9syr0vHCL5A1jg7SV6W0K1SWuqso6YoPlRbpKoBQFSfCr2hnymaLBaAy5KUWpZ-GoA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_12.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFrkA65jpPWJxLnNWvFBHbWY_xl1Rb0-yXkvNWgmnnvUjj_Slp5go3eZxBxXVMKTxesASd9syr0vHCL5A1jg7SV6W0K1SWuqso6YoPlRbpKoBQFSfCr2hnymaLBaAy5KUWpZ-GoA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_12.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFrkA65jpPWJxLnNWvFBHbWY_xl1Rb0-yXkvNWgmnnvUjj_Slp5go3eZxBxXVMKTxesASd9syr0vHCL5A1jg7SV6W0K1SWuqso6YoPlRbpKoBQFSfCr2hnymaLBaAy5KUWpZ-GoA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_12.png",
+      "bytes": 384626,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/87cfb0773cb7367b.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpOUNmH_ycU0VlITPWXQKUSN_7KfjsQjU_U9j5HnV3rzNg2SVJYMnb3-A3ErOI-I5DeCL5_cO82mS4iOlTTgA_jYZIQdC7xwDEqjdsFM-mWwxWk-tlALQRf5uZUQmOxfzGPWdmQ/",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpOUNmH_ycU0VlITPWXQKUSN_7KfjsQjU_U9j5HnV3rzNg2SVJYMnb3-A3ErOI-I5DeCL5_cO82mS4iOlTTgA_jYZIQdC7xwDEqjdsFM-mWwxWk-tlALQRf5uZUQmOxfzGPWdmQ/",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpOUNmH_ycU0VlITPWXQKUSN_7KfjsQjU_U9j5HnV3rzNg2SVJYMnb3-A3ErOI-I5DeCL5_cO82mS4iOlTTgA_jYZIQdC7xwDEqjdsFM-mWwxWk-tlALQRf5uZUQmOxfzGPWdmQ/",
+      "bytes": 29180,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/282199644227d3ec.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPp00KwnVF6w36vODaA6ilGtmS7zuQfKMHK3plPRzDV6fgA9fsX8hVfwrPzMZevjchX9OgZWfHoUpucpeEJ1w5Cv7DZfc2ptnK8IINcQqrz_tXcRZz2c3FGVWaeukinjs4I8LOQ/s400/jetplurk+021+screenshot+-+2.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPp00KwnVF6w36vODaA6ilGtmS7zuQfKMHK3plPRzDV6fgA9fsX8hVfwrPzMZevjchX9OgZWfHoUpucpeEJ1w5Cv7DZfc2ptnK8IINcQqrz_tXcRZz2c3FGVWaeukinjs4I8LOQ/s400/jetplurk+021+screenshot+-+2.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPp00KwnVF6w36vODaA6ilGtmS7zuQfKMHK3plPRzDV6fgA9fsX8hVfwrPzMZevjchX9OgZWfHoUpucpeEJ1w5Cv7DZfc2ptnK8IINcQqrz_tXcRZz2c3FGVWaeukinjs4I8LOQ/s400/jetplurk+021+screenshot+-+2.png",
+      "bytes": 88928,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/24c9c7ee5fae0d3c.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOATmlStXc7keGhXj3pLaD_6E9iGVJDzFTEd6xvmrYvaVd2rzd7y9ebdWeE3N6PEk-RD6UaotZYdgXJ7VgdAiVFbpoAgnb7B-eznkHy67ZYIvpzPAKUTVLqRyWniQrl1oYMbt7jg/s9999/1489249058.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOATmlStXc7keGhXj3pLaD_6E9iGVJDzFTEd6xvmrYvaVd2rzd7y9ebdWeE3N6PEk-RD6UaotZYdgXJ7VgdAiVFbpoAgnb7B-eznkHy67ZYIvpzPAKUTVLqRyWniQrl1oYMbt7jg/s9999/1489249058.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOATmlStXc7keGhXj3pLaD_6E9iGVJDzFTEd6xvmrYvaVd2rzd7y9ebdWeE3N6PEk-RD6UaotZYdgXJ7VgdAiVFbpoAgnb7B-eznkHy67ZYIvpzPAKUTVLqRyWniQrl1oYMbt7jg/s9999/1489249058.png",
+      "bytes": 911790,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/3a50f741b4c67f01.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmDY38aQhQGxdyYI0Uca6nYBQauHe7HmODppHrEpVZ59jYzb5EU0oh27yXaDkzs-zYCJTo0DE_J1Qh0ID_IukfKq64aLLy-__QXXfFE6auXwpEgL1hPZQ2l9Uw6mmxf3PnTIxXxA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_04.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmDY38aQhQGxdyYI0Uca6nYBQauHe7HmODppHrEpVZ59jYzb5EU0oh27yXaDkzs-zYCJTo0DE_J1Qh0ID_IukfKq64aLLy-__QXXfFE6auXwpEgL1hPZQ2l9Uw6mmxf3PnTIxXxA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_04.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmDY38aQhQGxdyYI0Uca6nYBQauHe7HmODppHrEpVZ59jYzb5EU0oh27yXaDkzs-zYCJTo0DE_J1Qh0ID_IukfKq64aLLy-__QXXfFE6auXwpEgL1hPZQ2l9Uw6mmxf3PnTIxXxA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_04.png",
+      "bytes": 385578,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/aae385474035c910.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKHppFTdzE9fJ0-NLWAeeaU07j27beLh0Ciu0SJN4UI5TqIYBFUXyGSozcLWfQb29YooiZvqQ4m2gKKOvDoO5dyxtF33b4gy4N_bWjfdjnQY187ZBtvhBNTSyRaZ5U-0xCN9IowA/s9999/1489248903.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKHppFTdzE9fJ0-NLWAeeaU07j27beLh0Ciu0SJN4UI5TqIYBFUXyGSozcLWfQb29YooiZvqQ4m2gKKOvDoO5dyxtF33b4gy4N_bWjfdjnQY187ZBtvhBNTSyRaZ5U-0xCN9IowA/s9999/1489248903.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKHppFTdzE9fJ0-NLWAeeaU07j27beLh0Ciu0SJN4UI5TqIYBFUXyGSozcLWfQb29YooiZvqQ4m2gKKOvDoO5dyxtF33b4gy4N_bWjfdjnQY187ZBtvhBNTSyRaZ5U-0xCN9IowA/s9999/1489248903.png",
+      "bytes": 975771,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/6757a6ce777e5e8a.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUVERWulz5o1JQK-iAswRFzcwcML6nrI9jEjLQK8e1q8OjClgu0r0SmKn_zZf3yK7dxqd5NYHnubWBPtQOQOEyOD2aqRTM8ZuSoQhdTKeAFZEzw-uErO8F-zZWpw8DlkTv5qBx9Q/s400/social-4.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUVERWulz5o1JQK-iAswRFzcwcML6nrI9jEjLQK8e1q8OjClgu0r0SmKn_zZf3yK7dxqd5NYHnubWBPtQOQOEyOD2aqRTM8ZuSoQhdTKeAFZEzw-uErO8F-zZWpw8DlkTv5qBx9Q/s400/social-4.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUVERWulz5o1JQK-iAswRFzcwcML6nrI9jEjLQK8e1q8OjClgu0r0SmKn_zZf3yK7dxqd5NYHnubWBPtQOQOEyOD2aqRTM8ZuSoQhdTKeAFZEzw-uErO8F-zZWpw8DlkTv5qBx9Q/s400/social-4.png",
+      "bytes": 31424,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/8977daddf202d9df.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61XDegSTQf-zpzBTjZOmLiG2kdWH5Zd81VOjK3cXxtc6NRJo0Nq3FEWpeVs6kJ3uH1VR4gEG0sNXVf8Xn8Zu5JrmWWW7-7Cbgye57p8IRtC6IcfkNvhPhAtjbmHv6WLKk2wzsbA/s640/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2017-10-29+21.14.04.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61XDegSTQf-zpzBTjZOmLiG2kdWH5Zd81VOjK3cXxtc6NRJo0Nq3FEWpeVs6kJ3uH1VR4gEG0sNXVf8Xn8Zu5JrmWWW7-7Cbgye57p8IRtC6IcfkNvhPhAtjbmHv6WLKk2wzsbA/s640/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2017-10-29+21.14.04.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61XDegSTQf-zpzBTjZOmLiG2kdWH5Zd81VOjK3cXxtc6NRJo0Nq3FEWpeVs6kJ3uH1VR4gEG0sNXVf8Xn8Zu5JrmWWW7-7Cbgye57p8IRtC6IcfkNvhPhAtjbmHv6WLKk2wzsbA/s640/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2017-10-29+21.14.04.png",
+      "bytes": 125733,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/6f5c2598ec0cd880.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSDdzHF-wPZ_N-MjXZBOx5fu85yVJyl0byB0doVWMMb5YUXJcMulXrrsyrOEtkVQLjS9dbsb63mVNXeAwhO0-HGNrh5jR42yY_nPaeJcucWo8VKkG6u63NTfxXUkdI83vWsjMmsg/s9999/1489249081.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSDdzHF-wPZ_N-MjXZBOx5fu85yVJyl0byB0doVWMMb5YUXJcMulXrrsyrOEtkVQLjS9dbsb63mVNXeAwhO0-HGNrh5jR42yY_nPaeJcucWo8VKkG6u63NTfxXUkdI83vWsjMmsg/s9999/1489249081.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSDdzHF-wPZ_N-MjXZBOx5fu85yVJyl0byB0doVWMMb5YUXJcMulXrrsyrOEtkVQLjS9dbsb63mVNXeAwhO0-HGNrh5jR42yY_nPaeJcucWo8VKkG6u63NTfxXUkdI83vWsjMmsg/s9999/1489249081.png",
+      "bytes": 1103795,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9f384fb5b06a07f8.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mrET2unRIiy7OvrVrQHWk_ulTqPEUi85QxXo5ruQKapdiVYZtx9cS5rdKonwv6pK4dA0CxXpH4bd39G5sBLxmk1Iklv-WNDFTV_tQPSS6bMfvLtkxSDnuWqncMJIuOiRYOoEKg/s1600/2012-02-26+00.25.51.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mrET2unRIiy7OvrVrQHWk_ulTqPEUi85QxXo5ruQKapdiVYZtx9cS5rdKonwv6pK4dA0CxXpH4bd39G5sBLxmk1Iklv-WNDFTV_tQPSS6bMfvLtkxSDnuWqncMJIuOiRYOoEKg/s1600/2012-02-26+00.25.51.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mrET2unRIiy7OvrVrQHWk_ulTqPEUi85QxXo5ruQKapdiVYZtx9cS5rdKonwv6pK4dA0CxXpH4bd39G5sBLxmk1Iklv-WNDFTV_tQPSS6bMfvLtkxSDnuWqncMJIuOiRYOoEKg/s1600/2012-02-26+00.25.51.png",
+      "bytes": 51153,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/979229065df563e8.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_lTJ0vrwEPL2mMHSh1D3ex1-M7YDjPTqqXJzhfmIxdfuXfB3UJaz_3DjvhPWAvwfb5eFefpTsG69WE9XsYDNs1MPhNhza1ZycNA7vpVnuNOqtVCdntkDQXSZgELxvZy2BydwGow/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_16.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_lTJ0vrwEPL2mMHSh1D3ex1-M7YDjPTqqXJzhfmIxdfuXfB3UJaz_3DjvhPWAvwfb5eFefpTsG69WE9XsYDNs1MPhNhza1ZycNA7vpVnuNOqtVCdntkDQXSZgELxvZy2BydwGow/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_16.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_lTJ0vrwEPL2mMHSh1D3ex1-M7YDjPTqqXJzhfmIxdfuXfB3UJaz_3DjvhPWAvwfb5eFefpTsG69WE9XsYDNs1MPhNhza1ZycNA7vpVnuNOqtVCdntkDQXSZgELxvZy2BydwGow/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_16.png",
+      "bytes": 408415,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/7d3b2b0ac760aca8.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4M_TAegAvuhFjKDDRytBSj4sfW1SzkvSr8JZIOyXUOo2yVmdp7kNByUhbtvjirFDfjh2uZqsDkm0MdQYHW4N3xoOPGaOC81It9hVQ9JZUpVKP-konlt8fwkDVq8BkyXjh4GA1Lg/s1600/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4M_TAegAvuhFjKDDRytBSj4sfW1SzkvSr8JZIOyXUOo2yVmdp7kNByUhbtvjirFDfjh2uZqsDkm0MdQYHW4N3xoOPGaOC81It9hVQ9JZUpVKP-konlt8fwkDVq8BkyXjh4GA1Lg/s1600/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4M_TAegAvuhFjKDDRytBSj4sfW1SzkvSr8JZIOyXUOo2yVmdp7kNByUhbtvjirFDfjh2uZqsDkm0MdQYHW4N3xoOPGaOC81It9hVQ9JZUpVKP-konlt8fwkDVq8BkyXjh4GA1Lg/s1600/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png",
+      "bytes": 164442,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/c831367fecffcb58.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40Zl0EEFNEOSirStasg41kpcJVpaCPQlcRDyo1eK2FJi1TW_WRBqaku8QnDGgWtdNTJhyphenhyphenEXmW8q8aEvYMAMzgqXpqTDh8OM8l4vpqilOkBpAnAkuVznAlZzb_apoYhdIj-TGbwA/s400/MozTW+Firefox+4+%2540+iPhone+-+1.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40Zl0EEFNEOSirStasg41kpcJVpaCPQlcRDyo1eK2FJi1TW_WRBqaku8QnDGgWtdNTJhyphenhyphenEXmW8q8aEvYMAMzgqXpqTDh8OM8l4vpqilOkBpAnAkuVznAlZzb_apoYhdIj-TGbwA/s400/MozTW+Firefox+4+%2540+iPhone+-+1.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40Zl0EEFNEOSirStasg41kpcJVpaCPQlcRDyo1eK2FJi1TW_WRBqaku8QnDGgWtdNTJhyphenhyphenEXmW8q8aEvYMAMzgqXpqTDh8OM8l4vpqilOkBpAnAkuVznAlZzb_apoYhdIj-TGbwA/s400/MozTW+Firefox+4+%2540+iPhone+-+1.png",
+      "bytes": 58402,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/e7f2dbdec6a2a171.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh326zuCGwQKFngkPlq7ETR6jr9BIMH_oBNxkBsY-6G3Y6NJHl_WHd7cV_JcnKtxTQvEYkDqg4Tu_4dqaTPzbpYYsRU2Op4FEnOVoNRxOOxobBDJsdqoybdkwWhOcwKckrw2bbqdw/s9999/1489248627.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh326zuCGwQKFngkPlq7ETR6jr9BIMH_oBNxkBsY-6G3Y6NJHl_WHd7cV_JcnKtxTQvEYkDqg4Tu_4dqaTPzbpYYsRU2Op4FEnOVoNRxOOxobBDJsdqoybdkwWhOcwKckrw2bbqdw/s9999/1489248627.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh326zuCGwQKFngkPlq7ETR6jr9BIMH_oBNxkBsY-6G3Y6NJHl_WHd7cV_JcnKtxTQvEYkDqg4Tu_4dqaTPzbpYYsRU2Op4FEnOVoNRxOOxobBDJsdqoybdkwWhOcwKckrw2bbqdw/s9999/1489248627.png",
+      "bytes": 995447,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/6d561b333cc65113.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh83xkoL58KNWdCQNAe3jh3PRDwHOoUwi1YjOapDsqSWVQ-UTMf5tsghW0LNXQPJDcKhyphenhyphenqR8x56LSaoQaHOmD7zUc_ha_C9uqL5cxfgfdr6ZJbOR95pb9kB_20vSfQgdVnMm1F7tQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_19.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh83xkoL58KNWdCQNAe3jh3PRDwHOoUwi1YjOapDsqSWVQ-UTMf5tsghW0LNXQPJDcKhyphenhyphenqR8x56LSaoQaHOmD7zUc_ha_C9uqL5cxfgfdr6ZJbOR95pb9kB_20vSfQgdVnMm1F7tQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_19.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh83xkoL58KNWdCQNAe3jh3PRDwHOoUwi1YjOapDsqSWVQ-UTMf5tsghW0LNXQPJDcKhyphenhyphenqR8x56LSaoQaHOmD7zUc_ha_C9uqL5cxfgfdr6ZJbOR95pb9kB_20vSfQgdVnMm1F7tQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_19.png",
+      "bytes": 318768,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/36f516d17c05eb20.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8QWIBAbISlm1zqaWfhTgsi5MnVhRa4NYTk6oSHl-eerM_Repj2yCHDd2Snqpbse666zkSxUjG1HrQzR8CakX6MvdgvZRs66GUx0c99pCkBf5_nmasBtXevHloc4Kk-sXPq0Tqrg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_14.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8QWIBAbISlm1zqaWfhTgsi5MnVhRa4NYTk6oSHl-eerM_Repj2yCHDd2Snqpbse666zkSxUjG1HrQzR8CakX6MvdgvZRs66GUx0c99pCkBf5_nmasBtXevHloc4Kk-sXPq0Tqrg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_14.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8QWIBAbISlm1zqaWfhTgsi5MnVhRa4NYTk6oSHl-eerM_Repj2yCHDd2Snqpbse666zkSxUjG1HrQzR8CakX6MvdgvZRs66GUx0c99pCkBf5_nmasBtXevHloc4Kk-sXPq0Tqrg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_14.png",
+      "bytes": 371353,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/54580b2f35c62ea5.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-E_TcCXmlqnGwuL6mhgZrHMI4d-0BuFteh4NAA-on3SE6H8Ikr3IoCBOv5VEN9P7X_jB3kBCE0CZ4rEYCr6b6uUdDuabAQiE43rIA7jvx31piKDSBsC-lyeRkAvj23fJOmC1dA/s640/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E6%25B2%2592%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-E_TcCXmlqnGwuL6mhgZrHMI4d-0BuFteh4NAA-on3SE6H8Ikr3IoCBOv5VEN9P7X_jB3kBCE0CZ4rEYCr6b6uUdDuabAQiE43rIA7jvx31piKDSBsC-lyeRkAvj23fJOmC1dA/s640/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E6%25B2%2592%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-E_TcCXmlqnGwuL6mhgZrHMI4d-0BuFteh4NAA-on3SE6H8Ikr3IoCBOv5VEN9P7X_jB3kBCE0CZ4rEYCr6b6uUdDuabAQiE43rIA7jvx31piKDSBsC-lyeRkAvj23fJOmC1dA/s640/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E6%25B2%2592%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png",
+      "bytes": 107735,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/4d087694a644cfa5.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY-0gJWYGn5Up2Fjlb8P21hjVpaidoXo05BX7EMGtIIXLfpgNrGySBoxHjW3cHBWgSzUrMLcefkmW_Iaj3yHFArkJIo0aoMHf_pl-hynCtspZX4zYV8zetfSC7miKz-DsXc5sZA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_18.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY-0gJWYGn5Up2Fjlb8P21hjVpaidoXo05BX7EMGtIIXLfpgNrGySBoxHjW3cHBWgSzUrMLcefkmW_Iaj3yHFArkJIo0aoMHf_pl-hynCtspZX4zYV8zetfSC7miKz-DsXc5sZA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_18.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY-0gJWYGn5Up2Fjlb8P21hjVpaidoXo05BX7EMGtIIXLfpgNrGySBoxHjW3cHBWgSzUrMLcefkmW_Iaj3yHFArkJIo0aoMHf_pl-hynCtspZX4zYV8zetfSC7miKz-DsXc5sZA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_18.png",
+      "bytes": 337310,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/28ae49db397675c9.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD6gulXCws10MN4rTKZCggYSgrdfy4439jbNCsfr_AqHjpQ_euy072KOSbvI5p2zlmsHK_EYt0cgsB3E1gVY_Rotud5ucgl-7kV_RMgTl2puK4rYgDCbqvYGJ4HOegNDLRvXOVw/s400/2012-02-26+03.36.48.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD6gulXCws10MN4rTKZCggYSgrdfy4439jbNCsfr_AqHjpQ_euy072KOSbvI5p2zlmsHK_EYt0cgsB3E1gVY_Rotud5ucgl-7kV_RMgTl2puK4rYgDCbqvYGJ4HOegNDLRvXOVw/s400/2012-02-26+03.36.48.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD6gulXCws10MN4rTKZCggYSgrdfy4439jbNCsfr_AqHjpQ_euy072KOSbvI5p2zlmsHK_EYt0cgsB3E1gVY_Rotud5ucgl-7kV_RMgTl2puK4rYgDCbqvYGJ4HOegNDLRvXOVw/s400/2012-02-26+03.36.48.png",
+      "bytes": 94927,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/51b238335a2e15ac.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8m9XNb72_CjK5CKmuTPW30AQ-WF-h6EGgfvYidDSQsYPBX_FKQ_fkkeQspzX-YRIWPWEoJzAoRB_YeTpl1o3mjzbG0OqclKJcWlUBgT0qSi9sCLTR5tetvlfhzlbT-RqBTOzf7g/s9999/1489248915.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8m9XNb72_CjK5CKmuTPW30AQ-WF-h6EGgfvYidDSQsYPBX_FKQ_fkkeQspzX-YRIWPWEoJzAoRB_YeTpl1o3mjzbG0OqclKJcWlUBgT0qSi9sCLTR5tetvlfhzlbT-RqBTOzf7g/s9999/1489248915.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8m9XNb72_CjK5CKmuTPW30AQ-WF-h6EGgfvYidDSQsYPBX_FKQ_fkkeQspzX-YRIWPWEoJzAoRB_YeTpl1o3mjzbG0OqclKJcWlUBgT0qSi9sCLTR5tetvlfhzlbT-RqBTOzf7g/s9999/1489248915.png",
+      "bytes": 1130752,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/aee233ec1a3639e3.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbEg1d4CYjnsdVSO0qpp_DUPeV4nOyem4-jYy-f9aQVE5DDXqjNiCJH4AKj6nJQeCK5RHMXuzoOv6k7kq0K9oPSh86ozf5-Aakooant4JKx_wzGaY77GMIua4IUXU6d6Ro0JLLmg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_23.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbEg1d4CYjnsdVSO0qpp_DUPeV4nOyem4-jYy-f9aQVE5DDXqjNiCJH4AKj6nJQeCK5RHMXuzoOv6k7kq0K9oPSh86ozf5-Aakooant4JKx_wzGaY77GMIua4IUXU6d6Ro0JLLmg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_23.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbEg1d4CYjnsdVSO0qpp_DUPeV4nOyem4-jYy-f9aQVE5DDXqjNiCJH4AKj6nJQeCK5RHMXuzoOv6k7kq0K9oPSh86ozf5-Aakooant4JKx_wzGaY77GMIua4IUXU6d6Ro0JLLmg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_23.png",
+      "bytes": 355005,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/e3d95514df2ba387.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdo3Wbp8u1mjA0KFSrNV6imf900tyvVSPUZmTCl6yqJaZz4YdvXYobfwugHctmZCRuMhqlTdsNxFjySn8H8wNwi3olLiAk-Zwtzh11MaBi9muAsYVp_htRW5_zw3nfkDScBjFGDQ/s320/design_threequarter_20091020.jpg",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdo3Wbp8u1mjA0KFSrNV6imf900tyvVSPUZmTCl6yqJaZz4YdvXYobfwugHctmZCRuMhqlTdsNxFjySn8H8wNwi3olLiAk-Zwtzh11MaBi9muAsYVp_htRW5_zw3nfkDScBjFGDQ/s320/design_threequarter_20091020.jpg",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdo3Wbp8u1mjA0KFSrNV6imf900tyvVSPUZmTCl6yqJaZz4YdvXYobfwugHctmZCRuMhqlTdsNxFjySn8H8wNwi3olLiAk-Zwtzh11MaBi9muAsYVp_htRW5_zw3nfkDScBjFGDQ/s320/design_threequarter_20091020.jpg",
+      "bytes": 7433,
+      "contentType": "image/jpeg",
+      "localPath": "/assets/images/blogger.googleusercontent.com/ef54b378303d882d.jpg",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGg9Cz2qzCL7ptsXU6rcuovdovlxqO7qrQ15TYXvgMdKPW4r4SM9eFbJnKUNH2Xc3SzhRq8a3im-YikZs4sW7h85l4zsoNJKOM3tSAvJILG092ljnUzhuuiTe5-pjVZJPrmOEvg/s640/2012-07-11+01.18.34.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGg9Cz2qzCL7ptsXU6rcuovdovlxqO7qrQ15TYXvgMdKPW4r4SM9eFbJnKUNH2Xc3SzhRq8a3im-YikZs4sW7h85l4zsoNJKOM3tSAvJILG092ljnUzhuuiTe5-pjVZJPrmOEvg/s640/2012-07-11+01.18.34.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGg9Cz2qzCL7ptsXU6rcuovdovlxqO7qrQ15TYXvgMdKPW4r4SM9eFbJnKUNH2Xc3SzhRq8a3im-YikZs4sW7h85l4zsoNJKOM3tSAvJILG092ljnUzhuuiTe5-pjVZJPrmOEvg/s640/2012-07-11+01.18.34.png",
+      "bytes": 125641,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/4dfd82062d86d983.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI672z86dnACTE95eVb4YAs3MgbE6ajbMYSE_X3PeXp7nY__w1rbVLFJ0u-7o93Y_zJvlwDaWSZuMzNTWp89sriIGiPxv8mEdtA1rwMCOlaMvUXLNR1eqCydkS0YzLr965b2Lnkg/s1600/1*9V3TfXKfXoGoNKGYdwTPpA.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI672z86dnACTE95eVb4YAs3MgbE6ajbMYSE_X3PeXp7nY__w1rbVLFJ0u-7o93Y_zJvlwDaWSZuMzNTWp89sriIGiPxv8mEdtA1rwMCOlaMvUXLNR1eqCydkS0YzLr965b2Lnkg/s1600/1*9V3TfXKfXoGoNKGYdwTPpA.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI672z86dnACTE95eVb4YAs3MgbE6ajbMYSE_X3PeXp7nY__w1rbVLFJ0u-7o93Y_zJvlwDaWSZuMzNTWp89sriIGiPxv8mEdtA1rwMCOlaMvUXLNR1eqCydkS0YzLr965b2Lnkg/s1600/1*9V3TfXKfXoGoNKGYdwTPpA.png",
+      "bytes": 31751,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9a8472a266ae1c24.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiuB3G0nD-s3yfX5pdsDQFbXs4tu2EfSvy0KKj6CyRRILeyb53Zi4aU1qYXYcuNKZ_VR1dsWUt4hMAdx4a70GMnroSUCQUd4De6J5DlBlxC6XdFIL13JALM8oIUSj3q5-m-mELQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_08.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiuB3G0nD-s3yfX5pdsDQFbXs4tu2EfSvy0KKj6CyRRILeyb53Zi4aU1qYXYcuNKZ_VR1dsWUt4hMAdx4a70GMnroSUCQUd4De6J5DlBlxC6XdFIL13JALM8oIUSj3q5-m-mELQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_08.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheiuB3G0nD-s3yfX5pdsDQFbXs4tu2EfSvy0KKj6CyRRILeyb53Zi4aU1qYXYcuNKZ_VR1dsWUt4hMAdx4a70GMnroSUCQUd4De6J5DlBlxC6XdFIL13JALM8oIUSj3q5-m-mELQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_08.png",
+      "bytes": 368185,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/fe0ad1881a941c55.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPKvT7SazYj3BE-gKE27kNJDaDuw-JRhhLmfuW7W8SRAzFPEzCr8H47JUJ23qXF_chkn9Xi544xnKMACcmaDl_ugbEouHN03T2WVqrauNEC9lgNrwb8HG2L-W9eY4GO-IaB5cJQ/s9999/1489249111.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPKvT7SazYj3BE-gKE27kNJDaDuw-JRhhLmfuW7W8SRAzFPEzCr8H47JUJ23qXF_chkn9Xi544xnKMACcmaDl_ugbEouHN03T2WVqrauNEC9lgNrwb8HG2L-W9eY4GO-IaB5cJQ/s9999/1489249111.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPKvT7SazYj3BE-gKE27kNJDaDuw-JRhhLmfuW7W8SRAzFPEzCr8H47JUJ23qXF_chkn9Xi544xnKMACcmaDl_ugbEouHN03T2WVqrauNEC9lgNrwb8HG2L-W9eY4GO-IaB5cJQ/s9999/1489249111.png",
+      "bytes": 1113730,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/4d82ca2218c30327.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBQLLJc3agaCd7LlAxBDHZZhh9zC686CvJPJlFmC69t6JVi-jehbkTjclX-1DBFBzmKZuJKU2y6DoNszlENp8AkL-6s63Fh7sUagYNInth-NoCU968ETCFXTRb8cUV4Fv64x5rA/s9999/1489248604.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBQLLJc3agaCd7LlAxBDHZZhh9zC686CvJPJlFmC69t6JVi-jehbkTjclX-1DBFBzmKZuJKU2y6DoNszlENp8AkL-6s63Fh7sUagYNInth-NoCU968ETCFXTRb8cUV4Fv64x5rA/s9999/1489248604.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBQLLJc3agaCd7LlAxBDHZZhh9zC686CvJPJlFmC69t6JVi-jehbkTjclX-1DBFBzmKZuJKU2y6DoNszlENp8AkL-6s63Fh7sUagYNInth-NoCU968ETCFXTRb8cUV4Fv64x5rA/s9999/1489248604.png",
+      "bytes": 1039327,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/766c6ca7e59e5708.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOAHx-VsDyfwHtbEG9eK6-0p5cTriLIikUYR3YbXfWhnYXWi7veELaL83J0xjLLmWpUOipv1tROItgR3yn9JNJ6M03ymW8GBMVjXVWhM1apJWZhq18XpLyUeM0QKZc9-_Ubf2Mw/s9999/1489249132.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOAHx-VsDyfwHtbEG9eK6-0p5cTriLIikUYR3YbXfWhnYXWi7veELaL83J0xjLLmWpUOipv1tROItgR3yn9JNJ6M03ymW8GBMVjXVWhM1apJWZhq18XpLyUeM0QKZc9-_Ubf2Mw/s9999/1489249132.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOAHx-VsDyfwHtbEG9eK6-0p5cTriLIikUYR3YbXfWhnYXWi7veELaL83J0xjLLmWpUOipv1tROItgR3yn9JNJ6M03ymW8GBMVjXVWhM1apJWZhq18XpLyUeM0QKZc9-_Ubf2Mw/s9999/1489249132.png",
+      "bytes": 1322277,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/47ce845a67657509.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMFItkoCxmtA4sxfFd8wBrUWjDulZel0ArGdW-VnqXT71bOeSqPjy4NHWBZE-dTpWuHWWdfY67KVJJLsj4xa5iJSYmdPUS04Uf9Rc7tvjFTqStT0EOkvRncs7mlLAPO4sRSThFgw/s640/2011-12-27+11.41.03.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMFItkoCxmtA4sxfFd8wBrUWjDulZel0ArGdW-VnqXT71bOeSqPjy4NHWBZE-dTpWuHWWdfY67KVJJLsj4xa5iJSYmdPUS04Uf9Rc7tvjFTqStT0EOkvRncs7mlLAPO4sRSThFgw/s640/2011-12-27+11.41.03.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMFItkoCxmtA4sxfFd8wBrUWjDulZel0ArGdW-VnqXT71bOeSqPjy4NHWBZE-dTpWuHWWdfY67KVJJLsj4xa5iJSYmdPUS04Uf9Rc7tvjFTqStT0EOkvRncs7mlLAPO4sRSThFgw/s640/2011-12-27+11.41.03.png",
+      "bytes": 414666,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/169f51744832cbfc.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6KrGRP3ysytaABSPyvPnaX3pMLnprcFJi0F_liBG7X9QWfQw6v9jHENGHHemMrQ-7A1-a-L1BHGqdoPWyJKQda5c1ZBAQViYK7r-IOBMI7NDsRcjwFIj8j1Cgfn_uSmOY3gOQA/s400/android.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6KrGRP3ysytaABSPyvPnaX3pMLnprcFJi0F_liBG7X9QWfQw6v9jHENGHHemMrQ-7A1-a-L1BHGqdoPWyJKQda5c1ZBAQViYK7r-IOBMI7NDsRcjwFIj8j1Cgfn_uSmOY3gOQA/s400/android.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6KrGRP3ysytaABSPyvPnaX3pMLnprcFJi0F_liBG7X9QWfQw6v9jHENGHHemMrQ-7A1-a-L1BHGqdoPWyJKQda5c1ZBAQViYK7r-IOBMI7NDsRcjwFIj8j1Cgfn_uSmOY3gOQA/s400/android.png",
+      "bytes": 28099,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/e9e284a0e6e78989.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoOGuDul8t7PeX1nSJrUEyCjYU8ZOPIZkSL0yt3BxtcKbhNev5T6K0Af3YGH-p138QTjKz-OFsk9ERYSOFSyFgtEIgoiJFXbBp1Rktsq6u0KQ5IQuB8vlHgFrF7J2QogngzpVRrg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_21.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoOGuDul8t7PeX1nSJrUEyCjYU8ZOPIZkSL0yt3BxtcKbhNev5T6K0Af3YGH-p138QTjKz-OFsk9ERYSOFSyFgtEIgoiJFXbBp1Rktsq6u0KQ5IQuB8vlHgFrF7J2QogngzpVRrg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_21.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoOGuDul8t7PeX1nSJrUEyCjYU8ZOPIZkSL0yt3BxtcKbhNev5T6K0Af3YGH-p138QTjKz-OFsk9ERYSOFSyFgtEIgoiJFXbBp1Rktsq6u0KQ5IQuB8vlHgFrF7J2QogngzpVRrg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_21.png",
+      "bytes": 520604,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/7a44233cad740f0b.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcUP85pMN5p2ZCQW6tardhELsjJSyWX7jmpaP6ec6dhHM4pkks5dJgJtFKrungmfmJxxJDzrTm4ai9MKt8B8EUiP9K4GtyDHksvLL-8sT3vkrWKbBbgg-maEhyOXRWugU0JREPQ/s400/screenshot.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcUP85pMN5p2ZCQW6tardhELsjJSyWX7jmpaP6ec6dhHM4pkks5dJgJtFKrungmfmJxxJDzrTm4ai9MKt8B8EUiP9K4GtyDHksvLL-8sT3vkrWKbBbgg-maEhyOXRWugU0JREPQ/s400/screenshot.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcUP85pMN5p2ZCQW6tardhELsjJSyWX7jmpaP6ec6dhHM4pkks5dJgJtFKrungmfmJxxJDzrTm4ai9MKt8B8EUiP9K4GtyDHksvLL-8sT3vkrWKbBbgg-maEhyOXRWugU0JREPQ/s400/screenshot.png",
+      "bytes": 65644,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/abfd58dc58998409.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHcDyfzawW5_Ls63JFuVX9HR95b4MzR7sNrUNZJrBiN32XEzClSzdoTUPUs_Bsp_vrtrX3lhme2KkCaQgsT9p5-U6qNcfW82YVfzafGIXyWh1Cg1op7DqbDWyqGSgps3JDvu0Cw/s640/screen-capture.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHcDyfzawW5_Ls63JFuVX9HR95b4MzR7sNrUNZJrBiN32XEzClSzdoTUPUs_Bsp_vrtrX3lhme2KkCaQgsT9p5-U6qNcfW82YVfzafGIXyWh1Cg1op7DqbDWyqGSgps3JDvu0Cw/s640/screen-capture.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHcDyfzawW5_Ls63JFuVX9HR95b4MzR7sNrUNZJrBiN32XEzClSzdoTUPUs_Bsp_vrtrX3lhme2KkCaQgsT9p5-U6qNcfW82YVfzafGIXyWh1Cg1op7DqbDWyqGSgps3JDvu0Cw/s640/screen-capture.png",
+      "bytes": 120910,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/268ad875cb7471e9.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV0223oLpK151mbZp-YrrLrzIVfSHVPLKEYYCAgvPjxxqo0xsqwi-y2HMvlgrnsJiO_xNPaBk6XOk3iSKPeuvNcLpakSoQNqa2aYgSvqIRQ59uEGFGmBSSdQZX4CKerCqFaYrs0w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_11.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV0223oLpK151mbZp-YrrLrzIVfSHVPLKEYYCAgvPjxxqo0xsqwi-y2HMvlgrnsJiO_xNPaBk6XOk3iSKPeuvNcLpakSoQNqa2aYgSvqIRQ59uEGFGmBSSdQZX4CKerCqFaYrs0w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_11.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV0223oLpK151mbZp-YrrLrzIVfSHVPLKEYYCAgvPjxxqo0xsqwi-y2HMvlgrnsJiO_xNPaBk6XOk3iSKPeuvNcLpakSoQNqa2aYgSvqIRQ59uEGFGmBSSdQZX4CKerCqFaYrs0w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_11.png",
+      "bytes": 391409,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9679584e209cb055.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXGikqkuZsEKbj_qmWoEbWE4-Jn5llfOODmLFTY34dUnN4wLYHsBnyflsCMqoMcMMexUBisTBWWf6FLJgHhEH3n9LDJUXz98WPxlAJcnx6vNYZWcr9OXDrhKhMEDt3sHB3JPkGg/s400/screenshot+%25281%2529%25282%2529.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXGikqkuZsEKbj_qmWoEbWE4-Jn5llfOODmLFTY34dUnN4wLYHsBnyflsCMqoMcMMexUBisTBWWf6FLJgHhEH3n9LDJUXz98WPxlAJcnx6vNYZWcr9OXDrhKhMEDt3sHB3JPkGg/s400/screenshot+%25281%2529%25282%2529.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXGikqkuZsEKbj_qmWoEbWE4-Jn5llfOODmLFTY34dUnN4wLYHsBnyflsCMqoMcMMexUBisTBWWf6FLJgHhEH3n9LDJUXz98WPxlAJcnx6vNYZWcr9OXDrhKhMEDt3sHB3JPkGg/s400/screenshot+%25281%2529%25282%2529.png",
+      "bytes": 62980,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/6d2dd4b45a687700.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwW0jOx-amYd_ijhOVvdYy8TrvFlp_YfInY4WyV-EOOovHdquMaxgJvVP31OFXHW20jaVJtWVNuu4qQOLZNZgqQoUiJ7ifdMaUAGrzScpn84MJueNCNr8iNZQmxCc2WMvOFBwSA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_17.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwW0jOx-amYd_ijhOVvdYy8TrvFlp_YfInY4WyV-EOOovHdquMaxgJvVP31OFXHW20jaVJtWVNuu4qQOLZNZgqQoUiJ7ifdMaUAGrzScpn84MJueNCNr8iNZQmxCc2WMvOFBwSA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_17.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwW0jOx-amYd_ijhOVvdYy8TrvFlp_YfInY4WyV-EOOovHdquMaxgJvVP31OFXHW20jaVJtWVNuu4qQOLZNZgqQoUiJ7ifdMaUAGrzScpn84MJueNCNr8iNZQmxCc2WMvOFBwSA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_17.png",
+      "bytes": 438694,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/a8a38b1780ab0f1d.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1cPGVzlacigoEiNFtARanwro6376jNry32x_AhyphenhyphenEVbVjcfyz-BbaApPnYszCY7Yq-vPXICs_80yvZZ31YYKv0ZSbpNBbUEqnXXG01bVdz6VASZhP6cJFxhyphenhyphenNMGCKPbbLb15bRJQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_22.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1cPGVzlacigoEiNFtARanwro6376jNry32x_AhyphenhyphenEVbVjcfyz-BbaApPnYszCY7Yq-vPXICs_80yvZZ31YYKv0ZSbpNBbUEqnXXG01bVdz6VASZhP6cJFxhyphenhyphenNMGCKPbbLb15bRJQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_22.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1cPGVzlacigoEiNFtARanwro6376jNry32x_AhyphenhyphenEVbVjcfyz-BbaApPnYszCY7Yq-vPXICs_80yvZZ31YYKv0ZSbpNBbUEqnXXG01bVdz6VASZhP6cJFxhyphenhyphenNMGCKPbbLb15bRJQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_22.png",
+      "bytes": 373456,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/233dcbaba8a143a7.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Gpnyxf9AvXrSRbNW1iG9uO5EB_lrN1jaz5r7y9oSvFgz9mDBizSoE268MgYDh2V7PKWSJ4_vKJG8nEXDxP9lAh0O_8W_SUC58H5k2IERUj-gZOjKwoVbpkD6aL2DetdTAs7o3w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_09.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Gpnyxf9AvXrSRbNW1iG9uO5EB_lrN1jaz5r7y9oSvFgz9mDBizSoE268MgYDh2V7PKWSJ4_vKJG8nEXDxP9lAh0O_8W_SUC58H5k2IERUj-gZOjKwoVbpkD6aL2DetdTAs7o3w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_09.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Gpnyxf9AvXrSRbNW1iG9uO5EB_lrN1jaz5r7y9oSvFgz9mDBizSoE268MgYDh2V7PKWSJ4_vKJG8nEXDxP9lAh0O_8W_SUC58H5k2IERUj-gZOjKwoVbpkD6aL2DetdTAs7o3w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_09.png",
+      "bytes": 375851,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/fd79a93f4d28d500.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvLDE3BVWFO4k4RzH5PshbPO5HSEnpfgya7FmPuh5m8ZBMICLwLjXjQ0wNTOG_4Ug89YIi7LzVSJP67b_452Lhx4xqkmgLlrD6xuGcrYzroAt0H5K8Wf4k-2d2xu4wyQd-bLHaA/s9999/1489249162.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvLDE3BVWFO4k4RzH5PshbPO5HSEnpfgya7FmPuh5m8ZBMICLwLjXjQ0wNTOG_4Ug89YIi7LzVSJP67b_452Lhx4xqkmgLlrD6xuGcrYzroAt0H5K8Wf4k-2d2xu4wyQd-bLHaA/s9999/1489249162.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvLDE3BVWFO4k4RzH5PshbPO5HSEnpfgya7FmPuh5m8ZBMICLwLjXjQ0wNTOG_4Ug89YIi7LzVSJP67b_452Lhx4xqkmgLlrD6xuGcrYzroAt0H5K8Wf4k-2d2xu4wyQd-bLHaA/s9999/1489249162.png",
+      "bytes": 1008972,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/c284ade9b55f8e35.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6E1e1J9rq9TKIBu1ey1pH33g0-ao-mRRDx2C8RS-bt6DuJmtaR4WfJKhX4iWsA3PKNgOHPds-CfY9p2qRbF-azrvcmx8ogQRhlPXu-qI2dlDH9bhZbHT79GYEKEXCavgzER5KQ/s640/MozTW+Firefox+4+%2540+Ubuntu.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6E1e1J9rq9TKIBu1ey1pH33g0-ao-mRRDx2C8RS-bt6DuJmtaR4WfJKhX4iWsA3PKNgOHPds-CfY9p2qRbF-azrvcmx8ogQRhlPXu-qI2dlDH9bhZbHT79GYEKEXCavgzER5KQ/s640/MozTW+Firefox+4+%2540+Ubuntu.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6E1e1J9rq9TKIBu1ey1pH33g0-ao-mRRDx2C8RS-bt6DuJmtaR4WfJKhX4iWsA3PKNgOHPds-CfY9p2qRbF-azrvcmx8ogQRhlPXu-qI2dlDH9bhZbHT79GYEKEXCavgzER5KQ/s640/MozTW+Firefox+4+%2540+Ubuntu.png",
+      "bytes": 190759,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/2b7cba92eba008aa.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi62vL85JPGkaKlAQM06CGu2-_GAJs1siiXhx4hHG_Zn4OR9r2yfVFJTEjihJ5osTuxCfiafhaHterwzmWv1sO2QFBT62DYZbu5WNrmJ2NRvIHZYSc-jy7oEPs5XGzofwuSZX1l8Q/s640/2012-07-11+00.59.44.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi62vL85JPGkaKlAQM06CGu2-_GAJs1siiXhx4hHG_Zn4OR9r2yfVFJTEjihJ5osTuxCfiafhaHterwzmWv1sO2QFBT62DYZbu5WNrmJ2NRvIHZYSc-jy7oEPs5XGzofwuSZX1l8Q/s640/2012-07-11+00.59.44.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi62vL85JPGkaKlAQM06CGu2-_GAJs1siiXhx4hHG_Zn4OR9r2yfVFJTEjihJ5osTuxCfiafhaHterwzmWv1sO2QFBT62DYZbu5WNrmJ2NRvIHZYSc-jy7oEPs5XGzofwuSZX1l8Q/s640/2012-07-11+00.59.44.png",
+      "bytes": 164031,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/4425aca82b802b60.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB3SNaH16PsDUBqYdMna1kSgGNBkmTQhUEmGDEDEbXsXRslqiN8K8xtxFOUwrnMnax5xrXgAcjmKd5sxGVtR4gUQw3ACLTUuCGhgzmS6Y8FSiuLyhrHXlWS7XRaSKJ7ZxojEBajw/s1600/screen-capture.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB3SNaH16PsDUBqYdMna1kSgGNBkmTQhUEmGDEDEbXsXRslqiN8K8xtxFOUwrnMnax5xrXgAcjmKd5sxGVtR4gUQw3ACLTUuCGhgzmS6Y8FSiuLyhrHXlWS7XRaSKJ7ZxojEBajw/s1600/screen-capture.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB3SNaH16PsDUBqYdMna1kSgGNBkmTQhUEmGDEDEbXsXRslqiN8K8xtxFOUwrnMnax5xrXgAcjmKd5sxGVtR4gUQw3ACLTUuCGhgzmS6Y8FSiuLyhrHXlWS7XRaSKJ7ZxojEBajw/s1600/screen-capture.png",
+      "bytes": 19246,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/b6a430fa6a7099c6.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Il0O1TVp_JQjNTp34Bk59SOyXddz33ht3HsPYP3WMETypLGIU0vi0Ia1spyN7hZ69dtS4-Wy6UcBZ3UqE2E5nKtbdYA46qif8shdqlgBpEPasWxi8UHo1o1-r_JMHlU-AigdyQ/s9999/1489248884.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Il0O1TVp_JQjNTp34Bk59SOyXddz33ht3HsPYP3WMETypLGIU0vi0Ia1spyN7hZ69dtS4-Wy6UcBZ3UqE2E5nKtbdYA46qif8shdqlgBpEPasWxi8UHo1o1-r_JMHlU-AigdyQ/s9999/1489248884.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Il0O1TVp_JQjNTp34Bk59SOyXddz33ht3HsPYP3WMETypLGIU0vi0Ia1spyN7hZ69dtS4-Wy6UcBZ3UqE2E5nKtbdYA46qif8shdqlgBpEPasWxi8UHo1o1-r_JMHlU-AigdyQ/s9999/1489248884.png",
+      "bytes": 867786,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9229827a5cc1b2fc.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWEmQsaoiFui9LlZQfco05YC3J6OZlhty77YCxf5IBgEjktKTdxl4IBfy-wjRejEjpq6vbnivi13yKIjjxdRZry033ozoCF4SCQ0TqvACgMrJ0ZYMjuW4UrxOHDrnKrSdgc5v1g/s640/2012-02-25+23.59.34.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWEmQsaoiFui9LlZQfco05YC3J6OZlhty77YCxf5IBgEjktKTdxl4IBfy-wjRejEjpq6vbnivi13yKIjjxdRZry033ozoCF4SCQ0TqvACgMrJ0ZYMjuW4UrxOHDrnKrSdgc5v1g/s640/2012-02-25+23.59.34.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWEmQsaoiFui9LlZQfco05YC3J6OZlhty77YCxf5IBgEjktKTdxl4IBfy-wjRejEjpq6vbnivi13yKIjjxdRZry033ozoCF4SCQ0TqvACgMrJ0ZYMjuW4UrxOHDrnKrSdgc5v1g/s640/2012-02-25+23.59.34.png",
+      "bytes": 57151,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/75643719e6e2c1ed.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpkazRIqQBStxHTCu4xMeRyY3hyphenhyphenjOueJwUcSmZnYpvC3rLZl4u2c-IaaKbsmmKfsSMI-To8ezK1a6qCdVkXVDe0sIOKtxCE9VktaNQLSocyMXjR3cPpDO-kul0jDhReKQnBEqlg/s320/screen-capture-1.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpkazRIqQBStxHTCu4xMeRyY3hyphenhyphenjOueJwUcSmZnYpvC3rLZl4u2c-IaaKbsmmKfsSMI-To8ezK1a6qCdVkXVDe0sIOKtxCE9VktaNQLSocyMXjR3cPpDO-kul0jDhReKQnBEqlg/s320/screen-capture-1.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEpkazRIqQBStxHTCu4xMeRyY3hyphenhyphenjOueJwUcSmZnYpvC3rLZl4u2c-IaaKbsmmKfsSMI-To8ezK1a6qCdVkXVDe0sIOKtxCE9VktaNQLSocyMXjR3cPpDO-kul0jDhReKQnBEqlg/s320/screen-capture-1.png",
+      "bytes": 100704,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/295c758d25d69fec.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCfkGgrCBpt0X2oVD5Mie-o1vgM27X7720ugYuenhW8jzzi-7sYEqECBm_ETGDC8IH5ZK8_-xnZ_fJLBhJf0boRmuziXJueLT6yM3w7m2kmUrOJ2CNAUoTEmDeBCur1aeeHVl5Q/s640/2012-02-26+00.01.32.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCfkGgrCBpt0X2oVD5Mie-o1vgM27X7720ugYuenhW8jzzi-7sYEqECBm_ETGDC8IH5ZK8_-xnZ_fJLBhJf0boRmuziXJueLT6yM3w7m2kmUrOJ2CNAUoTEmDeBCur1aeeHVl5Q/s640/2012-02-26+00.01.32.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCfkGgrCBpt0X2oVD5Mie-o1vgM27X7720ugYuenhW8jzzi-7sYEqECBm_ETGDC8IH5ZK8_-xnZ_fJLBhJf0boRmuziXJueLT6yM3w7m2kmUrOJ2CNAUoTEmDeBCur1aeeHVl5Q/s640/2012-02-26+00.01.32.png",
+      "bytes": 126489,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/13978d36c92773a9.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9d0ANkeR6kpZMJ192Agv-sGaNCzs2Obih3yQR3JbtbU-PtvEs0pFe9LgKSMPQarHW25Oz4B4TJDgoKMfUi92_HCDRBqboXtzzugYd8Ddjbj-MHQ7AyCwhlvBirD2nO8DjQ-FuQ/s9999/1511009605.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9d0ANkeR6kpZMJ192Agv-sGaNCzs2Obih3yQR3JbtbU-PtvEs0pFe9LgKSMPQarHW25Oz4B4TJDgoKMfUi92_HCDRBqboXtzzugYd8Ddjbj-MHQ7AyCwhlvBirD2nO8DjQ-FuQ/s9999/1511009605.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL9d0ANkeR6kpZMJ192Agv-sGaNCzs2Obih3yQR3JbtbU-PtvEs0pFe9LgKSMPQarHW25Oz4B4TJDgoKMfUi92_HCDRBqboXtzzugYd8Ddjbj-MHQ7AyCwhlvBirD2nO8DjQ-FuQ/s9999/1511009605.png",
+      "bytes": 572462,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/2d964499e51225c4.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEDb7KMDeTwk9N8c0hruCrT8QuyQ5rVGO0LoalVXgVc3TZ6L0vbp4SgrLC6Ai37QYbCb5xBtToVC0qmMZzj6aF7ofPCxYlW4Yar_W4EbSX4taJNkMDHQGTmpWy6NgGtt2g2aOMGQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_15.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEDb7KMDeTwk9N8c0hruCrT8QuyQ5rVGO0LoalVXgVc3TZ6L0vbp4SgrLC6Ai37QYbCb5xBtToVC0qmMZzj6aF7ofPCxYlW4Yar_W4EbSX4taJNkMDHQGTmpWy6NgGtt2g2aOMGQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_15.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEDb7KMDeTwk9N8c0hruCrT8QuyQ5rVGO0LoalVXgVc3TZ6L0vbp4SgrLC6Ai37QYbCb5xBtToVC0qmMZzj6aF7ofPCxYlW4Yar_W4EbSX4taJNkMDHQGTmpWy6NgGtt2g2aOMGQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_15.png",
+      "bytes": 392425,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/adb7b2dc0fb252d5.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s640/mozlondon_community_space.gif",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s640/mozlondon_community_space.gif",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s640/mozlondon_community_space.gif",
+      "bytes": 541096,
+      "contentType": "image/gif",
+      "localPath": "/assets/images/blogger.googleusercontent.com/1a66664bc5ec3f48.gif",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiQGykzgpyVXqcU8Q8bnl91WhFzrEYoHNkMcmKfG1H97Nn16SMvCJp17XjgEUvH_TSwBVg4WBruTzDiSCCgsPUwYN45htTvkcv8NEAMjzWQRdCh769nhCrDCo4nsP20Fo9cty6gw/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_13.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiQGykzgpyVXqcU8Q8bnl91WhFzrEYoHNkMcmKfG1H97Nn16SMvCJp17XjgEUvH_TSwBVg4WBruTzDiSCCgsPUwYN45htTvkcv8NEAMjzWQRdCh769nhCrDCo4nsP20Fo9cty6gw/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_13.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiQGykzgpyVXqcU8Q8bnl91WhFzrEYoHNkMcmKfG1H97Nn16SMvCJp17XjgEUvH_TSwBVg4WBruTzDiSCCgsPUwYN45htTvkcv8NEAMjzWQRdCh769nhCrDCo4nsP20Fo9cty6gw/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_13.png",
+      "bytes": 402932,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/abc1d5abab254d5b.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK2VMVtQiFnV8YTT7wmRr_xuAPMh2KYQ9aBXzEV2RRv4BCJwj_bGRbGxC0bBZBxiYxfr2i9sXCYoXQ-PfowVUscoJTIQv0QDP47Wm-vPkAbHxDaDUndfLT98w54UQVD_cA_agn0Q/s320/overview_hero1_20091020.jpg",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK2VMVtQiFnV8YTT7wmRr_xuAPMh2KYQ9aBXzEV2RRv4BCJwj_bGRbGxC0bBZBxiYxfr2i9sXCYoXQ-PfowVUscoJTIQv0QDP47Wm-vPkAbHxDaDUndfLT98w54UQVD_cA_agn0Q/s320/overview_hero1_20091020.jpg",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK2VMVtQiFnV8YTT7wmRr_xuAPMh2KYQ9aBXzEV2RRv4BCJwj_bGRbGxC0bBZBxiYxfr2i9sXCYoXQ-PfowVUscoJTIQv0QDP47Wm-vPkAbHxDaDUndfLT98w54UQVD_cA_agn0Q/s320/overview_hero1_20091020.jpg",
+      "bytes": 13180,
+      "contentType": "image/jpeg",
+      "localPath": "/assets/images/blogger.googleusercontent.com/665143bb7c019c5e.jpg",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinlRB4t_8_pSZG8C9hHylH5rcM5rlNViwjN1uoRAUqSyrKZQc1rG73K6UI-6pfAfb1FAN2CrMjL4LBjZx7n6wLPx8jphJlg87k1qn7aoLJaW3souHd9tyyQM2krWM8lun-v5sCjw/s320/screen-capture-2.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinlRB4t_8_pSZG8C9hHylH5rcM5rlNViwjN1uoRAUqSyrKZQc1rG73K6UI-6pfAfb1FAN2CrMjL4LBjZx7n6wLPx8jphJlg87k1qn7aoLJaW3souHd9tyyQM2krWM8lun-v5sCjw/s320/screen-capture-2.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinlRB4t_8_pSZG8C9hHylH5rcM5rlNViwjN1uoRAUqSyrKZQc1rG73K6UI-6pfAfb1FAN2CrMjL4LBjZx7n6wLPx8jphJlg87k1qn7aoLJaW3souHd9tyyQM2krWM8lun-v5sCjw/s320/screen-capture-2.png",
+      "bytes": 18201,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/03d23c38b7ce8f11.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPj0IB48dgNb3i2gZOP2MntbdvqSxCRBKdk_9F-zbTvfKqOQ_1EGCtCaZNjWMFkaDYzdQmPbAPsVP_BNdHyEOxZpcRRd_xvDGXedMpGUqYlCcN3SQ66i7MLhBCPeDA_jY5b-5PeA/s1600/2012-02-26+02.44.55.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPj0IB48dgNb3i2gZOP2MntbdvqSxCRBKdk_9F-zbTvfKqOQ_1EGCtCaZNjWMFkaDYzdQmPbAPsVP_BNdHyEOxZpcRRd_xvDGXedMpGUqYlCcN3SQ66i7MLhBCPeDA_jY5b-5PeA/s1600/2012-02-26+02.44.55.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPj0IB48dgNb3i2gZOP2MntbdvqSxCRBKdk_9F-zbTvfKqOQ_1EGCtCaZNjWMFkaDYzdQmPbAPsVP_BNdHyEOxZpcRRd_xvDGXedMpGUqYlCcN3SQ66i7MLhBCPeDA_jY5b-5PeA/s1600/2012-02-26+02.44.55.png",
+      "bytes": 6843,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/d734bd48d39f5dd7.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6pk9sF9ZZhohPTc_mbQ7k4eBLQ0ERxe1YIehToL0O27Hg9kjZOjkz-d82LPVyajDFQLerU3pS4Gpsb6ZTKM-KXrHHLw3oNk9Mad7rDTC-scVrq1P4fdWN8Ry65iHtr4AKyj_BA/s320/tttw.jpg",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6pk9sF9ZZhohPTc_mbQ7k4eBLQ0ERxe1YIehToL0O27Hg9kjZOjkz-d82LPVyajDFQLerU3pS4Gpsb6ZTKM-KXrHHLw3oNk9Mad7rDTC-scVrq1P4fdWN8Ry65iHtr4AKyj_BA/s320/tttw.jpg",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6pk9sF9ZZhohPTc_mbQ7k4eBLQ0ERxe1YIehToL0O27Hg9kjZOjkz-d82LPVyajDFQLerU3pS4Gpsb6ZTKM-KXrHHLw3oNk9Mad7rDTC-scVrq1P4fdWN8Ry65iHtr4AKyj_BA/s320/tttw.jpg",
+      "bytes": 36019,
+      "contentType": "image/jpeg",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9b460d8cb6134a1f.jpg",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPz9ooE_KKYhwbIuiN34yyzTDOv4jEjYrut3PQEBCqfHrqqMalx7zVWNOlrpsMiQJ7udJUzQB0F39SrP1o7gttxx7qdWISZ5x7UIlzItmc_l3lh-VpoXCdPEiMIYXcGpSdGdIHQ/s400/a.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPz9ooE_KKYhwbIuiN34yyzTDOv4jEjYrut3PQEBCqfHrqqMalx7zVWNOlrpsMiQJ7udJUzQB0F39SrP1o7gttxx7qdWISZ5x7UIlzItmc_l3lh-VpoXCdPEiMIYXcGpSdGdIHQ/s400/a.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPz9ooE_KKYhwbIuiN34yyzTDOv4jEjYrut3PQEBCqfHrqqMalx7zVWNOlrpsMiQJ7udJUzQB0F39SrP1o7gttxx7qdWISZ5x7UIlzItmc_l3lh-VpoXCdPEiMIYXcGpSdGdIHQ/s400/a.png",
+      "bytes": 59171,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/118c7bfa846e4fac.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt3TMxxUk_7NrTBaEKDQkawYy-S_HD7x_TuB2zzTrt6Dy-U5S8eZGEzVL6257PQb22QGyPdnEoRSMJXNpJAr0J8TWf1aVTzLnRsQsvPm9ckWgKtHLDcYBCRXZiwEWwsLQO4hezw/s640/MozTW+Firefox+4+%2540+iPad.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt3TMxxUk_7NrTBaEKDQkawYy-S_HD7x_TuB2zzTrt6Dy-U5S8eZGEzVL6257PQb22QGyPdnEoRSMJXNpJAr0J8TWf1aVTzLnRsQsvPm9ckWgKtHLDcYBCRXZiwEWwsLQO4hezw/s640/MozTW+Firefox+4+%2540+iPad.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt3TMxxUk_7NrTBaEKDQkawYy-S_HD7x_TuB2zzTrt6Dy-U5S8eZGEzVL6257PQb22QGyPdnEoRSMJXNpJAr0J8TWf1aVTzLnRsQsvPm9ckWgKtHLDcYBCRXZiwEWwsLQO4hezw/s640/MozTW+Firefox+4+%2540+iPad.png",
+      "bytes": 197237,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/474ef852b7974210.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivyq_8Wp-wmrGdhWrTA-890ouYWx-hqVJZOfi6WtwlvkWv9aIb8_EX0J9ZSrtuazqyZDO4bVXzTwa0xgxjttf9xeB0c8_25MnqkP2qaR_-DhU1FJzs8zvfcQwPDV2gFUmGpZaixg/s400/social-2.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivyq_8Wp-wmrGdhWrTA-890ouYWx-hqVJZOfi6WtwlvkWv9aIb8_EX0J9ZSrtuazqyZDO4bVXzTwa0xgxjttf9xeB0c8_25MnqkP2qaR_-DhU1FJzs8zvfcQwPDV2gFUmGpZaixg/s400/social-2.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivyq_8Wp-wmrGdhWrTA-890ouYWx-hqVJZOfi6WtwlvkWv9aIb8_EX0J9ZSrtuazqyZDO4bVXzTwa0xgxjttf9xeB0c8_25MnqkP2qaR_-DhU1FJzs8zvfcQwPDV2gFUmGpZaixg/s400/social-2.png",
+      "bytes": 35757,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/d8ee07f88320923b.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZrhTPk_jaX6lbmby-BiLlII4tm_U3UtTaZrpdORBukVCVAY0EpHbme3vRkO1o6KwADUk-z47AghD7a6tnOa2bHniMgiCrMHjPhtQvZLDqV3AMFi0GPgSMvSAjoTSflRXkJNWWg/s400/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZrhTPk_jaX6lbmby-BiLlII4tm_U3UtTaZrpdORBukVCVAY0EpHbme3vRkO1o6KwADUk-z47AghD7a6tnOa2bHniMgiCrMHjPhtQvZLDqV3AMFi0GPgSMvSAjoTSflRXkJNWWg/s400/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZrhTPk_jaX6lbmby-BiLlII4tm_U3UtTaZrpdORBukVCVAY0EpHbme3vRkO1o6KwADUk-z47AghD7a6tnOa2bHniMgiCrMHjPhtQvZLDqV3AMFi0GPgSMvSAjoTSflRXkJNWWg/s400/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png",
+      "bytes": 45999,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/3ad66661621a7ecc.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix7lIQ5y8C0KqLQTlkp5WPIcolY662FqOTFNsn_32im-vny7dyMTJG2aijfSS_yHxip1cXcjw4ec7WyKwBf45df-xChgwbybsnIDkSp6cDN6o54KDnWWfMR5ytL6ZO7Ss4xzrtiw/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_06.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix7lIQ5y8C0KqLQTlkp5WPIcolY662FqOTFNsn_32im-vny7dyMTJG2aijfSS_yHxip1cXcjw4ec7WyKwBf45df-xChgwbybsnIDkSp6cDN6o54KDnWWfMR5ytL6ZO7Ss4xzrtiw/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_06.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix7lIQ5y8C0KqLQTlkp5WPIcolY662FqOTFNsn_32im-vny7dyMTJG2aijfSS_yHxip1cXcjw4ec7WyKwBf45df-xChgwbybsnIDkSp6cDN6o54KDnWWfMR5ytL6ZO7Ss4xzrtiw/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_06.png",
+      "bytes": 450988,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/df3514dcf5017be0.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUII9NSTgI_fB3CSDVFuxG5jB83XvT1RpleBUeUbOxVtLO2avKJhB7oZt19rYexEYE64-Pn7xHo5zKZj1dWuNEWLmx7lP79AuorgvKJdJP1AxBeCB5uiH8PX6I0g2VF2zyjOp9bQ/s400/1200px-Wikimania-2013-PolyU-Maps.jpg",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUII9NSTgI_fB3CSDVFuxG5jB83XvT1RpleBUeUbOxVtLO2avKJhB7oZt19rYexEYE64-Pn7xHo5zKZj1dWuNEWLmx7lP79AuorgvKJdJP1AxBeCB5uiH8PX6I0g2VF2zyjOp9bQ/s400/1200px-Wikimania-2013-PolyU-Maps.jpg",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUII9NSTgI_fB3CSDVFuxG5jB83XvT1RpleBUeUbOxVtLO2avKJhB7oZt19rYexEYE64-Pn7xHo5zKZj1dWuNEWLmx7lP79AuorgvKJdJP1AxBeCB5uiH8PX6I0g2VF2zyjOp9bQ/s400/1200px-Wikimania-2013-PolyU-Maps.jpg",
+      "bytes": 42239,
+      "contentType": "image/jpeg",
+      "localPath": "/assets/images/blogger.googleusercontent.com/7d5744c9411955ce.jpg",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L1yifZnCb0wCaVJszg1h_gR7jXTX2UU_MQXWe9q1H0iE8Ag-iiNseRGBvwUiRV3SM4H4o6JM60wtl7IU60oChI2_sRJ59qBKY1p0o3UQxrBpvYBzYEdqDPDfLd_5KcC9nrNS5A/s400/MozTW+Firefox+4+%2540+iPhone+-+2.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L1yifZnCb0wCaVJszg1h_gR7jXTX2UU_MQXWe9q1H0iE8Ag-iiNseRGBvwUiRV3SM4H4o6JM60wtl7IU60oChI2_sRJ59qBKY1p0o3UQxrBpvYBzYEdqDPDfLd_5KcC9nrNS5A/s400/MozTW+Firefox+4+%2540+iPhone+-+2.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L1yifZnCb0wCaVJszg1h_gR7jXTX2UU_MQXWe9q1H0iE8Ag-iiNseRGBvwUiRV3SM4H4o6JM60wtl7IU60oChI2_sRJ59qBKY1p0o3UQxrBpvYBzYEdqDPDfLd_5KcC9nrNS5A/s400/MozTW+Firefox+4+%2540+iPhone+-+2.png",
+      "bytes": 72692,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/53e2e78133d2aa46.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnjV45vhkixznkjPP6HhAtnVK8bQpSROHsNL-InwxndpxCWGOFZQvzLUFJXjBwQghj-SaC-4A31VKyR72PDuuYRHZQdNsAGSZlDGyJreJjbSCt9lO4rf6pF0nZZsZOSdFuu80Sg/s640/2012-07-11+01.39.26.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnjV45vhkixznkjPP6HhAtnVK8bQpSROHsNL-InwxndpxCWGOFZQvzLUFJXjBwQghj-SaC-4A31VKyR72PDuuYRHZQdNsAGSZlDGyJreJjbSCt9lO4rf6pF0nZZsZOSdFuu80Sg/s640/2012-07-11+01.39.26.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnjV45vhkixznkjPP6HhAtnVK8bQpSROHsNL-InwxndpxCWGOFZQvzLUFJXjBwQghj-SaC-4A31VKyR72PDuuYRHZQdNsAGSZlDGyJreJjbSCt9lO4rf6pF0nZZsZOSdFuu80Sg/s640/2012-07-11+01.39.26.png",
+      "bytes": 167423,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/604f6ed29796e3d2.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZEixun2A190DcXkQbHtuo0jmm6CRNaoWdtWsP8uJ9i63cj3pmRLQTAQXe_QkD-4RLicIrI1Ey75fOSY_5x5O8h17KY_ihjWmsjmP774QELrRAYJQioSZvi9MSstYpaGc1QstkoQ/s640/social-6.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZEixun2A190DcXkQbHtuo0jmm6CRNaoWdtWsP8uJ9i63cj3pmRLQTAQXe_QkD-4RLicIrI1Ey75fOSY_5x5O8h17KY_ihjWmsjmP774QELrRAYJQioSZvi9MSstYpaGc1QstkoQ/s640/social-6.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZEixun2A190DcXkQbHtuo0jmm6CRNaoWdtWsP8uJ9i63cj3pmRLQTAQXe_QkD-4RLicIrI1Ey75fOSY_5x5O8h17KY_ihjWmsjmP774QELrRAYJQioSZvi9MSstYpaGc1QstkoQ/s640/social-6.png",
+      "bytes": 353987,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/7ff410150786fce4.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpsL4efvPS6UFUCUY9YihW7XpIBScoNF_Bo-9HYmYx6xuCjXfrGL-yY3kVwtF5pawAjpAnCN_w5zZ-M5l7VFwsmALY8xis1KvZooz9vqIa_kirQ1mEJPZNo-tVvT7gy3ztNHMtw/s640/social-5.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpsL4efvPS6UFUCUY9YihW7XpIBScoNF_Bo-9HYmYx6xuCjXfrGL-yY3kVwtF5pawAjpAnCN_w5zZ-M5l7VFwsmALY8xis1KvZooz9vqIa_kirQ1mEJPZNo-tVvT7gy3ztNHMtw/s640/social-5.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpsL4efvPS6UFUCUY9YihW7XpIBScoNF_Bo-9HYmYx6xuCjXfrGL-yY3kVwtF5pawAjpAnCN_w5zZ-M5l7VFwsmALY8xis1KvZooz9vqIa_kirQ1mEJPZNo-tVvT7gy3ztNHMtw/s640/social-5.png",
+      "bytes": 378716,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/32eded44d97870c8.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0XmmN7xaSLVup1Ttv-GLDBtekyrkoO6lN6k6jYqLWIErMq7btzER3Wc4ORSY7eFjPyjHe1Naxkc2pv4SM9k3OrnPXtiH3_yWTYMprWqswWZSG3_10epSPuoHjYCQ6nAdOXRw1ow/s200/home.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0XmmN7xaSLVup1Ttv-GLDBtekyrkoO6lN6k6jYqLWIErMq7btzER3Wc4ORSY7eFjPyjHe1Naxkc2pv4SM9k3OrnPXtiH3_yWTYMprWqswWZSG3_10epSPuoHjYCQ6nAdOXRw1ow/s200/home.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0XmmN7xaSLVup1Ttv-GLDBtekyrkoO6lN6k6jYqLWIErMq7btzER3Wc4ORSY7eFjPyjHe1Naxkc2pv4SM9k3OrnPXtiH3_yWTYMprWqswWZSG3_10epSPuoHjYCQ6nAdOXRw1ow/s200/home.png",
+      "bytes": 34803,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/5547e01503aea79b.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9aP4xhiLAOlT2-uVqTzQtWBfJ3C9QiM_pTLlz5CzLx6ZKohu2ZjWt4xsp1QGxIDTtjYCGARjGwFMqvvyG71AkTky4O4Hc6F4keJmUEw850Qe43revCp2F4fvQ1ReYDahr_Gp2zg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_20.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9aP4xhiLAOlT2-uVqTzQtWBfJ3C9QiM_pTLlz5CzLx6ZKohu2ZjWt4xsp1QGxIDTtjYCGARjGwFMqvvyG71AkTky4O4Hc6F4keJmUEw850Qe43revCp2F4fvQ1ReYDahr_Gp2zg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_20.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9aP4xhiLAOlT2-uVqTzQtWBfJ3C9QiM_pTLlz5CzLx6ZKohu2ZjWt4xsp1QGxIDTtjYCGARjGwFMqvvyG71AkTky4O4Hc6F4keJmUEw850Qe43revCp2F4fvQ1ReYDahr_Gp2zg/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_20.png",
+      "bytes": 440974,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9affdafd9e70da5b.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBIJMG7yynDpr3WJlRiBEOWYVy7xqYHGdKqIolFIRtmjMcMiJXnpfnLwpFEgo6B-UyWPbMvS0IAhe3cl0v0OrYqwRY5CA9sStWXXZvboZtYfbs_Frt5nnEPs6KRLwFZM0KI515og/s640/2012-07-11+01.00.29.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBIJMG7yynDpr3WJlRiBEOWYVy7xqYHGdKqIolFIRtmjMcMiJXnpfnLwpFEgo6B-UyWPbMvS0IAhe3cl0v0OrYqwRY5CA9sStWXXZvboZtYfbs_Frt5nnEPs6KRLwFZM0KI515og/s640/2012-07-11+01.00.29.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBIJMG7yynDpr3WJlRiBEOWYVy7xqYHGdKqIolFIRtmjMcMiJXnpfnLwpFEgo6B-UyWPbMvS0IAhe3cl0v0OrYqwRY5CA9sStWXXZvboZtYfbs_Frt5nnEPs6KRLwFZM0KI515og/s640/2012-07-11+01.00.29.png",
+      "bytes": 110315,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/4a31ca83069f9d32.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ThzlcLA0sbAONOTp70iB3-WTTpEa-L6MPK6WDDAZYUNkWq1mMryKwqFZMr4CjNIpA5Db0EZj4KGBKvq5AYNZ6u3oDffgBNqBFxUwhzAhUDsh-Uy7JLKabqeXtm_KUqtDhraLUA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_10.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ThzlcLA0sbAONOTp70iB3-WTTpEa-L6MPK6WDDAZYUNkWq1mMryKwqFZMr4CjNIpA5Db0EZj4KGBKvq5AYNZ6u3oDffgBNqBFxUwhzAhUDsh-Uy7JLKabqeXtm_KUqtDhraLUA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_10.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ThzlcLA0sbAONOTp70iB3-WTTpEa-L6MPK6WDDAZYUNkWq1mMryKwqFZMr4CjNIpA5Db0EZj4KGBKvq5AYNZ6u3oDffgBNqBFxUwhzAhUDsh-Uy7JLKabqeXtm_KUqtDhraLUA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_10.png",
+      "bytes": 383446,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/354283631bffb40e.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6KeGpAlOxPZADNM2LNp4TqhDR7-UKg3eMWzGkYzftZ__sE27srT8dYpL7zAASzZ0fISlfwEhqPI3Nqwgoljwbu4dQiPHIU_uhnbkalu0e1aTRTRPNUSCaDqHO8CFGAEO8mOknw/s1600/_%25E5%25B8%25B8%25E9%25A7%2590%25E7%25A8%258B%25E5%25BC%258F.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6KeGpAlOxPZADNM2LNp4TqhDR7-UKg3eMWzGkYzftZ__sE27srT8dYpL7zAASzZ0fISlfwEhqPI3Nqwgoljwbu4dQiPHIU_uhnbkalu0e1aTRTRPNUSCaDqHO8CFGAEO8mOknw/s1600/_%25E5%25B8%25B8%25E9%25A7%2590%25E7%25A8%258B%25E5%25BC%258F.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6KeGpAlOxPZADNM2LNp4TqhDR7-UKg3eMWzGkYzftZ__sE27srT8dYpL7zAASzZ0fISlfwEhqPI3Nqwgoljwbu4dQiPHIU_uhnbkalu0e1aTRTRPNUSCaDqHO8CFGAEO8mOknw/s1600/_%25E5%25B8%25B8%25E9%25A7%2590%25E7%25A8%258B%25E5%25BC%258F.png",
+      "bytes": 12346,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/278ade1e1aabda4e.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgulX71U4fEsbjIArxyqZ7KUcwNchNf9kdD6_BqRkUQ9tQkB-0xJgz5jMZhcUArDu0mvha-EFYa3hZuVNIIrgKK-rqOgZv15Ly5M4W4AaDD3Ux7isMvIu4gD9esz5ENz9VJtmeIw/s400/screen-capture1.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgulX71U4fEsbjIArxyqZ7KUcwNchNf9kdD6_BqRkUQ9tQkB-0xJgz5jMZhcUArDu0mvha-EFYa3hZuVNIIrgKK-rqOgZv15Ly5M4W4AaDD3Ux7isMvIu4gD9esz5ENz9VJtmeIw/s400/screen-capture1.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgulX71U4fEsbjIArxyqZ7KUcwNchNf9kdD6_BqRkUQ9tQkB-0xJgz5jMZhcUArDu0mvha-EFYa3hZuVNIIrgKK-rqOgZv15Ly5M4W4AaDD3Ux7isMvIu4gD9esz5ENz9VJtmeIw/s400/screen-capture1.png",
+      "bytes": 122903,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/5ec46474cabe4ada.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghOW4GUFaDt7PjYSz3JDVICeI10lfOe6kmLXUn669vfrluHc8eOc4P-NW-9R3yJdQqqp_6LN3dekL2vR9DzTCoExAyJ__5U0jp-ayLzT2W9UOiIq9brcNeXaqrlrILKMjOFb-vg/s9999/1489249134.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghOW4GUFaDt7PjYSz3JDVICeI10lfOe6kmLXUn669vfrluHc8eOc4P-NW-9R3yJdQqqp_6LN3dekL2vR9DzTCoExAyJ__5U0jp-ayLzT2W9UOiIq9brcNeXaqrlrILKMjOFb-vg/s9999/1489249134.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghOW4GUFaDt7PjYSz3JDVICeI10lfOe6kmLXUn669vfrluHc8eOc4P-NW-9R3yJdQqqp_6LN3dekL2vR9DzTCoExAyJ__5U0jp-ayLzT2W9UOiIq9brcNeXaqrlrILKMjOFb-vg/s9999/1489249134.png",
+      "bytes": 1295077,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/19bebcd7bd290113.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHWrdPrlmX4vBX041KyZxBSIUR99tgyTp9qeLmW6oxHWfQ0kDxat0-rcLvevG0eTHJLlz6HMXosmZMpqbXWY1X3I0R_DQBtqmFXCtNZuz1rlfrZ0bbcBWLmka1iJJmGTdhL6Z02w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_05.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHWrdPrlmX4vBX041KyZxBSIUR99tgyTp9qeLmW6oxHWfQ0kDxat0-rcLvevG0eTHJLlz6HMXosmZMpqbXWY1X3I0R_DQBtqmFXCtNZuz1rlfrZ0bbcBWLmka1iJJmGTdhL6Z02w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_05.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHWrdPrlmX4vBX041KyZxBSIUR99tgyTp9qeLmW6oxHWfQ0kDxat0-rcLvevG0eTHJLlz6HMXosmZMpqbXWY1X3I0R_DQBtqmFXCtNZuz1rlfrZ0bbcBWLmka1iJJmGTdhL6Z02w/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_05.png",
+      "bytes": 443713,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/e6c510a7c5105adf.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIcRlQBhY_oz6nf0Fk9VX2MzzuRitwBeQ7z9w5_78476IWElJeBdgW6y-62ZsET2B29KIprBSg-LoyElhj9HelUitV-r4uc8S3exCkHbrSXJ6SK9L2-nF1rDT-y_z6DjhzHFWfQ/s1600/2012-02-26+00.17.12.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIcRlQBhY_oz6nf0Fk9VX2MzzuRitwBeQ7z9w5_78476IWElJeBdgW6y-62ZsET2B29KIprBSg-LoyElhj9HelUitV-r4uc8S3exCkHbrSXJ6SK9L2-nF1rDT-y_z6DjhzHFWfQ/s1600/2012-02-26+00.17.12.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIcRlQBhY_oz6nf0Fk9VX2MzzuRitwBeQ7z9w5_78476IWElJeBdgW6y-62ZsET2B29KIprBSg-LoyElhj9HelUitV-r4uc8S3exCkHbrSXJ6SK9L2-nF1rDT-y_z6DjhzHFWfQ/s1600/2012-02-26+00.17.12.png",
+      "bytes": 11696,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/05d3e6e05b4a95aa.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s640/MozSpaces+-+Reinventing+MozSpaces+-+new.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s640/MozSpaces+-+Reinventing+MozSpaces+-+new.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s640/MozSpaces+-+Reinventing+MozSpaces+-+new.png",
+      "bytes": 418821,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/cd4e6734537af862.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjcB3Vb0eJwX3oHU0PdgRpI2rZEarBhjhwHS2tChXHCjo2ORVp9RwFhTuWgf7Ab7QJ8Pr9epogdXe7uAjoDJ3B3gc_OPhrbFDqpw5DlZhqAJdEeheeL9Ezjq0yTX5KJmy98p40UA/s400/social-3.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjcB3Vb0eJwX3oHU0PdgRpI2rZEarBhjhwHS2tChXHCjo2ORVp9RwFhTuWgf7Ab7QJ8Pr9epogdXe7uAjoDJ3B3gc_OPhrbFDqpw5DlZhqAJdEeheeL9Ezjq0yTX5KJmy98p40UA/s400/social-3.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjcB3Vb0eJwX3oHU0PdgRpI2rZEarBhjhwHS2tChXHCjo2ORVp9RwFhTuWgf7Ab7QJ8Pr9epogdXe7uAjoDJ3B3gc_OPhrbFDqpw5DlZhqAJdEeheeL9Ezjq0yTX5KJmy98p40UA/s400/social-3.png",
+      "bytes": 26230,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/8c2c161e41836a3a.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJJJCak0PTlZqivLhQU7jxTbunVEuEHD49dlHjIcKkwAx9xsAaSp3BQNGey0mErUt1R1_1qNe94yd2kbuKEafncfBd4cm_QwGArgbXhKjdl3YTTiypeYWaDQyYpKlNpviIA0A-LQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_02.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJJJCak0PTlZqivLhQU7jxTbunVEuEHD49dlHjIcKkwAx9xsAaSp3BQNGey0mErUt1R1_1qNe94yd2kbuKEafncfBd4cm_QwGArgbXhKjdl3YTTiypeYWaDQyYpKlNpviIA0A-LQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_02.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJJJCak0PTlZqivLhQU7jxTbunVEuEHD49dlHjIcKkwAx9xsAaSp3BQNGey0mErUt1R1_1qNe94yd2kbuKEafncfBd4cm_QwGArgbXhKjdl3YTTiypeYWaDQyYpKlNpviIA0A-LQ/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_02.png",
+      "bytes": 378427,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/707eca787ee5870d.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsx5im6cH3GAjItjPB6YezWiYdNgcJZUgMGTKQlWoohyphenhyphenpPQSmObFKzMKn2kPfpX28e1zzc6nSx4kSoO4EEZeXFhp8P9gKNdSJPdJ94uDTxVlqyDfboz-Bxp4ge9uGHoxSIVocDkg/s640/2012-02-26-00.22.20.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsx5im6cH3GAjItjPB6YezWiYdNgcJZUgMGTKQlWoohyphenhyphenpPQSmObFKzMKn2kPfpX28e1zzc6nSx4kSoO4EEZeXFhp8P9gKNdSJPdJ94uDTxVlqyDfboz-Bxp4ge9uGHoxSIVocDkg/s640/2012-02-26-00.22.20.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsx5im6cH3GAjItjPB6YezWiYdNgcJZUgMGTKQlWoohyphenhyphenpPQSmObFKzMKn2kPfpX28e1zzc6nSx4kSoO4EEZeXFhp8P9gKNdSJPdJ94uDTxVlqyDfboz-Bxp4ge9uGHoxSIVocDkg/s640/2012-02-26-00.22.20.png",
+      "bytes": 165880,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/7a9cbc65897760f9.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVlXc7aeu85a_l6H82mFaPt2462K6fTdLp4AyyvRupI70Q3sKbPZnjaD5oiFlcdwP3yu41QM993vbPTcbFWv0K6gEceuXd0-rnkeZmbbeeMKyp_PiRcAIOWH95_c96GN6k_qfyA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_07.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVlXc7aeu85a_l6H82mFaPt2462K6fTdLp4AyyvRupI70Q3sKbPZnjaD5oiFlcdwP3yu41QM993vbPTcbFWv0K6gEceuXd0-rnkeZmbbeeMKyp_PiRcAIOWH95_c96GN6k_qfyA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_07.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMVlXc7aeu85a_l6H82mFaPt2462K6fTdLp4AyyvRupI70Q3sKbPZnjaD5oiFlcdwP3yu41QM993vbPTcbFWv0K6gEceuXd0-rnkeZmbbeeMKyp_PiRcAIOWH95_c96GN6k_qfyA/s640/Events-of-Taiwan-community-evolution-challenges-and-survival-in-2012_Page_07.png",
+      "bytes": 404796,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/f1a9aae1fc7dde8e.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-lyQtPbdXaDz10BCYKP03jgj-ae7UWTtJa73WgnoOH145qr3MHsOWza2dwCPFF_51a7BU0s0q-7MZmCszT_papdFLLmoNqmsavRxKwX-PLsJ4UFww9Z4h6AaCR3-bHfR8UNDDw/s640/gview.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-lyQtPbdXaDz10BCYKP03jgj-ae7UWTtJa73WgnoOH145qr3MHsOWza2dwCPFF_51a7BU0s0q-7MZmCszT_papdFLLmoNqmsavRxKwX-PLsJ4UFww9Z4h6AaCR3-bHfR8UNDDw/s640/gview.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-lyQtPbdXaDz10BCYKP03jgj-ae7UWTtJa73WgnoOH145qr3MHsOWza2dwCPFF_51a7BU0s0q-7MZmCszT_papdFLLmoNqmsavRxKwX-PLsJ4UFww9Z4h6AaCR3-bHfR8UNDDw/s640/gview.png",
+      "bytes": 112789,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/7457158dd1fe02a1.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyPlnZeK6Ua3arSYyskQRfDbK9Nq7sU-RyWu0nJH2RcuFfCZMPy0EjHCi89eKJmnBkUNw2p5YY1piUMU9wvfwJckI8rWHKicMBytxSZ7ERSK2AVrTrMB0DKfj3vVzMxIWz27S_g/s288/%E3%80%8A%E4%B8%89%E9%AB%94%E3%80%8B%E6%AD%A3%E5%B0%81.jpg",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyPlnZeK6Ua3arSYyskQRfDbK9Nq7sU-RyWu0nJH2RcuFfCZMPy0EjHCi89eKJmnBkUNw2p5YY1piUMU9wvfwJckI8rWHKicMBytxSZ7ERSK2AVrTrMB0DKfj3vVzMxIWz27S_g/s288/%E3%80%8A%E4%B8%89%E9%AB%94%E3%80%8B%E6%AD%A3%E5%B0%81.jpg",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyPlnZeK6Ua3arSYyskQRfDbK9Nq7sU-RyWu0nJH2RcuFfCZMPy0EjHCi89eKJmnBkUNw2p5YY1piUMU9wvfwJckI8rWHKicMBytxSZ7ERSK2AVrTrMB0DKfj3vVzMxIWz27S_g/s288/%E3%80%8A%E4%B8%89%E9%AB%94%E3%80%8B%E6%AD%A3%E5%B0%81.jpg",
+      "bytes": 25708,
+      "contentType": "image/jpeg",
+      "localPath": "/assets/images/blogger.googleusercontent.com/d3fa53d15086a8bd.jpg",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPk7DUtDCU84zkMt0TBjqRTY-INTYFtjt5sh3sUPH67A-HV5FI2oSB_8OD3K7Aroev3rHt_oBlrBCQVFyWCbaayPQGej7cyCy3CG5_pQVnS4HrRFC7_OALZvoGVwdDeNTGost_WA/s9999/1489248841.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPk7DUtDCU84zkMt0TBjqRTY-INTYFtjt5sh3sUPH67A-HV5FI2oSB_8OD3K7Aroev3rHt_oBlrBCQVFyWCbaayPQGej7cyCy3CG5_pQVnS4HrRFC7_OALZvoGVwdDeNTGost_WA/s9999/1489248841.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPk7DUtDCU84zkMt0TBjqRTY-INTYFtjt5sh3sUPH67A-HV5FI2oSB_8OD3K7Aroev3rHt_oBlrBCQVFyWCbaayPQGej7cyCy3CG5_pQVnS4HrRFC7_OALZvoGVwdDeNTGost_WA/s9999/1489248841.png",
+      "bytes": 780509,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/9f80c7f76aa2dfc0.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSqSGiIiE3Mn-oH5uBJL5QdISpVHx9K-_Ffn9yFFqgBX28ZJguWdbLANCDJlVRcFACB9yVBPMkNUK-3irGXa0iuNLTJ0fLLiRQWSHu71nwEG4vApaePdV7N1EqASrg575LfdtKA/s9999/1489248863.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSqSGiIiE3Mn-oH5uBJL5QdISpVHx9K-_Ffn9yFFqgBX28ZJguWdbLANCDJlVRcFACB9yVBPMkNUK-3irGXa0iuNLTJ0fLLiRQWSHu71nwEG4vApaePdV7N1EqASrg575LfdtKA/s9999/1489248863.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSqSGiIiE3Mn-oH5uBJL5QdISpVHx9K-_Ffn9yFFqgBX28ZJguWdbLANCDJlVRcFACB9yVBPMkNUK-3irGXa0iuNLTJ0fLLiRQWSHu71nwEG4vApaePdV7N1EqASrg575LfdtKA/s9999/1489248863.png",
+      "bytes": 1031355,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/abac06312a18a12e.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCul52QygElwlB753EjjZRpOnONUrnKVMhD-WhJRyzOoThL81E-C5J_btTvl5u41G2h-UN1rJJOMsIQTy1YGvYUv8rWGbqOYIJo3TTusSQuiLHzxXAHOIukXOitPIYBRvYvSv-g/s320/screen-capture.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCul52QygElwlB753EjjZRpOnONUrnKVMhD-WhJRyzOoThL81E-C5J_btTvl5u41G2h-UN1rJJOMsIQTy1YGvYUv8rWGbqOYIJo3TTusSQuiLHzxXAHOIukXOitPIYBRvYvSv-g/s320/screen-capture.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCul52QygElwlB753EjjZRpOnONUrnKVMhD-WhJRyzOoThL81E-C5J_btTvl5u41G2h-UN1rJJOMsIQTy1YGvYUv8rWGbqOYIJo3TTusSQuiLHzxXAHOIukXOitPIYBRvYvSv-g/s320/screen-capture.png",
+      "bytes": 17851,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/1bb47e19022a1ca7.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzx_BFAbrJqWRex04kDrpOio8yIhY6-DRVgt7tnyK1_KBza33uMHCAkQ2pS9l6KvUZb_QbXcx-RMDR-7miBWRYgpMFyrvf8YEIQ2psLQy3qYjjuN6shjgVIa-GeLSWtv2axqY6sw/s640/2012-07-11+01.02.56.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzx_BFAbrJqWRex04kDrpOio8yIhY6-DRVgt7tnyK1_KBza33uMHCAkQ2pS9l6KvUZb_QbXcx-RMDR-7miBWRYgpMFyrvf8YEIQ2psLQy3qYjjuN6shjgVIa-GeLSWtv2axqY6sw/s640/2012-07-11+01.02.56.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzx_BFAbrJqWRex04kDrpOio8yIhY6-DRVgt7tnyK1_KBza33uMHCAkQ2pS9l6KvUZb_QbXcx-RMDR-7miBWRYgpMFyrvf8YEIQ2psLQy3qYjjuN6shjgVIa-GeLSWtv2axqY6sw/s640/2012-07-11+01.02.56.png",
+      "bytes": 130237,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/18b5006b52c2536d.png",
+      "status": "downloaded"
+    },
+    {
+      "originalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuzuD4ludo7j_iCPguq8Yd8mcGhhmTJ8xxOnJA5YfKZycJT48Tvl4C5QXA-lA3dbGhrlCd3gRcbfkE55kgbbw8zq2FSzlzyThOYXgYN-fP9moc1MjUt4_JvwtVZOGAb-epJ1emYw/s9999/1489248851.png",
+      "chosenCandidate": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuzuD4ludo7j_iCPguq8Yd8mcGhhmTJ8xxOnJA5YfKZycJT48Tvl4C5QXA-lA3dbGhrlCd3gRcbfkE55kgbbw8zq2FSzlzyThOYXgYN-fP9moc1MjUt4_JvwtVZOGAb-epJ1emYw/s9999/1489248851.png",
+      "finalUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuzuD4ludo7j_iCPguq8Yd8mcGhhmTJ8xxOnJA5YfKZycJT48Tvl4C5QXA-lA3dbGhrlCd3gRcbfkE55kgbbw8zq2FSzlzyThOYXgYN-fP9moc1MjUt4_JvwtVZOGAb-epJ1emYw/s9999/1489248851.png",
+      "bytes": 813372,
+      "contentType": "image/png",
+      "localPath": "/assets/images/blogger.googleusercontent.com/d394aec42b360b0c.png",
+      "status": "downloaded"
     }
   ]
 }

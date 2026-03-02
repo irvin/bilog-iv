@@ -12,20 +12,20 @@ excerpt: "背包客棧被入侵，站長請大家立即更改密碼 是今天台
 
 <a href="http://www.backpackers.com.tw/forum/showthread.php?t=610971">背包客棧被入侵，站長請大家立即更改密碼</a> 是今天台灣網路上最重要的大事。
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsx5im6cH3GAjItjPB6YezWiYdNgcJZUgMGTKQlWoohyphenhyphenpPQSmObFKzMKn2kPfpX28e1zzc6nSx4kSoO4EEZeXFhp8P9gKNdSJPdJ94uDTxVlqyDfboz-Bxp4ge9uGHoxSIVocDkg/s1600/2012-02-26-00.22.20.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="361" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsx5im6cH3GAjItjPB6YezWiYdNgcJZUgMGTKQlWoohyphenhyphenpPQSmObFKzMKn2kPfpX28e1zzc6nSx4kSoO4EEZeXFhp8P9gKNdSJPdJ94uDTxVlqyDfboz-Bxp4ge9uGHoxSIVocDkg/s640/2012-02-26-00.22.20.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsx5im6cH3GAjItjPB6YezWiYdNgcJZUgMGTKQlWoohyphenhyphenpPQSmObFKzMKn2kPfpX28e1zzc6nSx4kSoO4EEZeXFhp8P9gKNdSJPdJ94uDTxVlqyDfboz-Bxp4ge9uGHoxSIVocDkg/s1600/2012-02-26-00.22.20.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="361" src="/assets/images/blogger.googleusercontent.com/7a9cbc65897760f9.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;"><a href="http://www.nownews.com/2012/02/25/153-2789147.htm">國內最大旅遊論壇「背包客棧」遭駭！籲會員速改密碼 | NOWnews 今日新聞網</a></td></tr>
 </tbody></table>
 
 <p>雖然只要稍有常識的網站，在儲存用戶密碼時，都會經過單向加密處理，沒有方法可以直接反轉這些亂碼來取得你的密碼。就算駭客成功入侵了背包客棧，偷到了背包客棧的密碼檔，也只會得到如同以下的亂碼資訊，沒有辦法直接知道你的密碼是什麼。</p>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4M_TAegAvuhFjKDDRytBSj4sfW1SzkvSr8JZIOyXUOo2yVmdp7kNByUhbtvjirFDfjh2uZqsDkm0MdQYHW4N3xoOPGaOC81It9hVQ9JZUpVKP-konlt8fwkDVq8BkyXjh4GA1Lg/s1600/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4M_TAegAvuhFjKDDRytBSj4sfW1SzkvSr8JZIOyXUOo2yVmdp7kNByUhbtvjirFDfjh2uZqsDkm0MdQYHW4N3xoOPGaOC81It9hVQ9JZUpVKP-konlt8fwkDVq8BkyXjh4GA1Lg/s1600/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4M_TAegAvuhFjKDDRytBSj4sfW1SzkvSr8JZIOyXUOo2yVmdp7kNByUhbtvjirFDfjh2uZqsDkm0MdQYHW4N3xoOPGaOC81It9hVQ9JZUpVKP-konlt8fwkDVq8BkyXjh4GA1Lg/s1600/%25E6%259C%25AA%25E5%2591%25BD%25E5%2590%258D-1.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/assets/images/blogger.googleusercontent.com/c831367fecffcb58.png" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Linux 密碼檔內容實例（密碼已經更改了，請各方駭客大哥不要幫我們測試機器）</td></tr>
 </tbody></table>
 <p>但是，凡事都有個但是！如同背包客棧站長所言，只要用上字典法，例如透過<a href="http://en.wikipedia.org/wiki/John_the_Ripper">這個隨便 Google 找到的程式</a>，將所有單字與字母的組合，用各種加密的方法一個一個嘗試，總有一天可以找到加密後跟上述亂碼一模一樣的字串，也就能夠破解出你用的密碼了。</p>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mrET2unRIiy7OvrVrQHWk_ulTqPEUi85QxXo5ruQKapdiVYZtx9cS5rdKonwv6pK4dA0CxXpH4bd39G5sBLxmk1Iklv-WNDFTV_tQPSS6bMfvLtkxSDnuWqncMJIuOiRYOoEKg/s1600/2012-02-26+00.25.51.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mrET2unRIiy7OvrVrQHWk_ulTqPEUi85QxXo5ruQKapdiVYZtx9cS5rdKonwv6pK4dA0CxXpH4bd39G5sBLxmk1Iklv-WNDFTV_tQPSS6bMfvLtkxSDnuWqncMJIuOiRYOoEKg/s1600/2012-02-26+00.25.51.png" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mrET2unRIiy7OvrVrQHWk_ulTqPEUi85QxXo5ruQKapdiVYZtx9cS5rdKonwv6pK4dA0CxXpH4bd39G5sBLxmk1Iklv-WNDFTV_tQPSS6bMfvLtkxSDnuWqncMJIuOiRYOoEKg/s1600/2012-02-26+00.25.51.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/assets/images/blogger.googleusercontent.com/979229065df563e8.png" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;"><a href="http://www.backpackers.com.tw/forum/showthread.php?t=610971">背包客棧站長的公告</a></td></tr>
 </tbody></table>
 <p>甚至，如果你使用的密碼是常見的密碼（例如<a href="http://www.techbang.com/posts/7594-recent-study-25-groups-most-likely-stolen-password-you-are-using-it">這些最常被盜的密碼</a>）或是一般英文單字，都已經有各種演算好的現成對照檔，可以直接比對出你的密碼是什麼。就算你的密碼包含英數字跟符號，結構上非常安全，但是電腦演算的速度的呈現倍數性成長，今天得要嘗試一整天才能試出來的密碼，三年後或許不需一個下午就能算出來了。</p>
@@ -33,7 +33,7 @@ excerpt: "背包客棧被入侵，站長請大家立即更改密碼 是今天台
 <p>更糟糕的狀況是，像大陸去年發生的<a href="http://www.techbang.com/posts/7975-continental-web-sites-on-a-friend-your-investment-may-have-leaked">網站密碼連環外洩事件</a>，不但外洩資料的總數達到上千萬筆（光天涯網就有四千萬個用戶資料外洩），而且外洩的密碼資訊還是明碼。不同於上述加密過的亂碼，這些離譜的網站是直接白紙黑字存下你的密碼，等於直接和盤托出。不要以為只有大陸網站會如此輕易儲存你的密碼，下列就有<a href="http://plainpass.com/p/plaintext-password-sites.html">一長串<b>密碼沒加密</b>的台灣網站</a>，只要其中一個被駭，你的密碼就立刻曝光了。</p>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD6gulXCws10MN4rTKZCggYSgrdfy4439jbNCsfr_AqHjpQ_euy072KOSbvI5p2zlmsHK_EYt0cgsB3E1gVY_Rotud5ucgl-7kV_RMgTl2puK4rYgDCbqvYGJ4HOegNDLRvXOVw/s1600/2012-02-26+03.36.48.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD6gulXCws10MN4rTKZCggYSgrdfy4439jbNCsfr_AqHjpQ_euy072KOSbvI5p2zlmsHK_EYt0cgsB3E1gVY_Rotud5ucgl-7kV_RMgTl2puK4rYgDCbqvYGJ4HOegNDLRvXOVw/s400/2012-02-26+03.36.48.png" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbD6gulXCws10MN4rTKZCggYSgrdfy4439jbNCsfr_AqHjpQ_euy072KOSbvI5p2zlmsHK_EYt0cgsB3E1gVY_Rotud5ucgl-7kV_RMgTl2puK4rYgDCbqvYGJ4HOegNDLRvXOVw/s1600/2012-02-26+03.36.48.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="313" src="/assets/images/blogger.googleusercontent.com/51b238335a2e15ac.png" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">「我的密碼沒加密」<strike>羞恥</strike>得獎名單</td></tr>
 </tbody></table>
 <p>不要以為<i>網站被駭密碼被偷</i>不會發生，這種連儲存密碼都不用心的網站，還會多認真的去防護你的隱私？回頭想想背包客棧的狀況，你還覺得你的個人資料安全嗎？</p>
@@ -45,24 +45,24 @@ excerpt: "背包客棧被入侵，站長請大家立即更改密碼 是今天台
 
 <p>請開啟以下網址，到&nbsp;Firefox 擴充套件網站安裝 Password Reuse Visualize 套件：<a href="https://addons.mozilla.org/en-US/firefox/addon/password-reuse-visualizer/">https://addons.mozilla.org/firefox/addon/password-reuse-visualizer/</a></p>
 
-<p>安裝完成後，Firefox 最下方的套件工具列（如果沒看到，請選「檢視→工具列→附加元件列」開啟）會出現一個綠色的鎖頭 <img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPj0IB48dgNb3i2gZOP2MntbdvqSxCRBKdk_9F-zbTvfKqOQ_1EGCtCaZNjWMFkaDYzdQmPbAPsVP_BNdHyEOxZpcRRd_xvDGXedMpGUqYlCcN3SQ66i7MLhBCPeDA_jY5b-5PeA/s1600/2012-02-26+02.44.55.png" />，按下去會打開一個新分頁，並且開始分析你在 Firefox 中曾經紀錄過的網站密碼的重複使用狀況。</p>
+<p>安裝完成後，Firefox 最下方的套件工具列（如果沒看到，請選「檢視→工具列→附加元件列」開啟）會出現一個綠色的鎖頭 <img border="0" src="/assets/images/blogger.googleusercontent.com/d734bd48d39f5dd7.png" />，按下去會打開一個新分頁，並且開始分析你在 Firefox 中曾經紀錄過的網站密碼的重複使用狀況。</p>
 
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWEmQsaoiFui9LlZQfco05YC3J6OZlhty77YCxf5IBgEjktKTdxl4IBfy-wjRejEjpq6vbnivi13yKIjjxdRZry033ozoCF4SCQ0TqvACgMrJ0ZYMjuW4UrxOHDrnKrSdgc5v1g/s1600/2012-02-25+23.59.34.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="388" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWEmQsaoiFui9LlZQfco05YC3J6OZlhty77YCxf5IBgEjktKTdxl4IBfy-wjRejEjpq6vbnivi13yKIjjxdRZry033ozoCF4SCQ0TqvACgMrJ0ZYMjuW4UrxOHDrnKrSdgc5v1g/s640/2012-02-25+23.59.34.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWEmQsaoiFui9LlZQfco05YC3J6OZlhty77YCxf5IBgEjktKTdxl4IBfy-wjRejEjpq6vbnivi13yKIjjxdRZry033ozoCF4SCQ0TqvACgMrJ0ZYMjuW4UrxOHDrnKrSdgc5v1g/s1600/2012-02-25+23.59.34.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="388" src="/assets/images/blogger.googleusercontent.com/75643719e6e2c1ed.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Password Reuse Visualize 計算中</td></tr>
 </tbody></table>
 
 <p>綠點代表一組密碼，藍點是使用這組密碼的網站，橘點的連線則連接了類似的密碼。等使用狀況大致分析完成後，就可以開始點點看了。</p>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIcRlQBhY_oz6nf0Fk9VX2MzzuRitwBeQ7z9w5_78476IWElJeBdgW6y-62ZsET2B29KIprBSg-LoyElhj9HelUitV-r4uc8S3exCkHbrSXJ6SK9L2-nF1rDT-y_z6DjhzHFWfQ/s1600/2012-02-26+00.17.12.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIcRlQBhY_oz6nf0Fk9VX2MzzuRitwBeQ7z9w5_78476IWElJeBdgW6y-62ZsET2B29KIprBSg-LoyElhj9HelUitV-r4uc8S3exCkHbrSXJ6SK9L2-nF1rDT-y_z6DjhzHFWfQ/s1600/2012-02-26+00.17.12.png" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIcRlQBhY_oz6nf0Fk9VX2MzzuRitwBeQ7z9w5_78476IWElJeBdgW6y-62ZsET2B29KIprBSg-LoyElhj9HelUitV-r4uc8S3exCkHbrSXJ6SK9L2-nF1rDT-y_z6DjhzHFWfQ/s1600/2012-02-26+00.17.12.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/assets/images/blogger.googleusercontent.com/05d3e6e05b4a95aa.png" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">我在背包客棧使用的密碼重複使用狀況</td></tr>
 </tbody></table>
 
 <p>夭壽喔，我還有其他四個網站跟背包客棧使用同樣的密碼，只要入侵的黑客破解出密碼是什麼，其他四個網站就一起被盜，快通通改掉喔……</p>
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCfkGgrCBpt0X2oVD5Mie-o1vgM27X7720ugYuenhW8jzzi-7sYEqECBm_ETGDC8IH5ZK8_-xnZ_fJLBhJf0boRmuziXJueLT6yM3w7m2kmUrOJ2CNAUoTEmDeBCur1aeeHVl5Q/s1600/2012-02-26+00.01.32.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="427" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCfkGgrCBpt0X2oVD5Mie-o1vgM27X7720ugYuenhW8jzzi-7sYEqECBm_ETGDC8IH5ZK8_-xnZ_fJLBhJf0boRmuziXJueLT6yM3w7m2kmUrOJ2CNAUoTEmDeBCur1aeeHVl5Q/s640/2012-02-26+00.01.32.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCfkGgrCBpt0X2oVD5Mie-o1vgM27X7720ugYuenhW8jzzi-7sYEqECBm_ETGDC8IH5ZK8_-xnZ_fJLBhJf0boRmuziXJueLT6yM3w7m2kmUrOJ2CNAUoTEmDeBCur1aeeHVl5Q/s1600/2012-02-26+00.01.32.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="427" src="/assets/images/blogger.googleusercontent.com/13978d36c92773a9.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">極為重複使用的密碼</td></tr>
 </tbody></table>
 

@@ -44,7 +44,7 @@ excerpt: "本文採 創用 CC 姓名標示-非商業性 3.0 台灣 授權釋出�
 
 <p>然後 Mac 上那個常駐的下載器，對比其他程式都走黑色系，顏色實在很突兀，不美啊…</p>
 
-<p style="clear: both; text-align: center;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6KeGpAlOxPZADNM2LNp4TqhDR7-UKg3eMWzGkYzftZ__sE27srT8dYpL7zAASzZ0fISlfwEhqPI3Nqwgoljwbu4dQiPHIU_uhnbkalu0e1aTRTRPNUSCaDqHO8CFGAEO8mOknw/s1600/_%25E5%25B8%25B8%25E9%25A7%2590%25E7%25A8%258B%25E5%25BC%258F.png" alt=“常駐程式” /></p>
+<p style="clear: both; text-align: center;"><img border="0" src="/assets/images/blogger.googleusercontent.com/278ade1e1aabda4e.png" alt=“常駐程式” /></p>
 
 <p>最後，根據今日（9/1）收到的說明信件，Linux 完全被放棄了。</p>
 
@@ -55,7 +55,7 @@ excerpt: "本文採 創用 CC 姓名標示-非商業性 3.0 台灣 授權釋出�
 
 <h2 id="toc_4">實體光碟</h2>
 
-<p style="clear: both; text-align: center;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_vJL-6EwpZjFz_KyFJVlt41ePZ1TKoDcbVkRACav_DT2ElRQMopGtraIfYNPDzmA7pxbNNMmWteS6MRKV0J2wu3B-OPiwqLpXKf9cjWJpOe34ZyzRQM9zAsJHQXXaUV_tJ4tdug/s320/_%25E8%25B4%258A%25E5%258A%25A9%25E6%2596%25B9%25E6%25A1%2588.png" width="241" alt=“贊助方案” /></p>
+<p style="clear: both; text-align: center;"><img border="0" height="320" src="/assets/images/blogger.googleusercontent.com/57ab5f7d60235656.png" width="241" alt=“贊助方案” /></p>
 
 <p>贊助方案中包含一片實體光碟，有些人認為說，無法正常下載沒關係，等實體光碟總行了吧。</p>
 
@@ -119,11 +119,11 @@ excerpt: "本文採 創用 CC 姓名標示-非商業性 3.0 台灣 授權釋出�
 
 <p>除 DRM 問題外，在<a href="https://www.flyingv.cc/projects/8250">金萱的募資頁上</a>，有以下「您的大名在此出現」的承諾。</p>
 
-<p style="clear: both; text-align: center;"><a title=“您的大名在此出現” href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZrhTPk_jaX6lbmby-BiLlII4tm_U3UtTaZrpdORBukVCVAY0EpHbme3vRkO1o6KwADUk-z47AghD7a6tnOa2bHniMgiCrMHjPhtQvZLDqV3AMFi0GPgSMvSAjoTSflRXkJNWWg/s1600/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="313" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZrhTPk_jaX6lbmby-BiLlII4tm_U3UtTaZrpdORBukVCVAY0EpHbme3vRkO1o6KwADUk-z47AghD7a6tnOa2bHniMgiCrMHjPhtQvZLDqV3AMFi0GPgSMvSAjoTSflRXkJNWWg/s400/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png" width="400" /></a></p>
+<p style="clear: both; text-align: center;"><a title=“您的大名在此出現” href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqZrhTPk_jaX6lbmby-BiLlII4tm_U3UtTaZrpdORBukVCVAY0EpHbme3vRkO1o6KwADUk-z47AghD7a6tnOa2bHniMgiCrMHjPhtQvZLDqV3AMFi0GPgSMvSAjoTSflRXkJNWWg/s1600/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="313" src="/assets/images/blogger.googleusercontent.com/3ad66661621a7ecc.png" width="400" /></a></p>
 
 <p>#可是阿煩，在這裡你找不到字體</p>
 
-<p style="clear: both; text-align: center;"><a title=“您的大名沒在此出現” href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-E_TcCXmlqnGwuL6mhgZrHMI4d-0BuFteh4NAA-on3SE6H8Ikr3IoCBOv5VEN9P7X_jB3kBCE0CZ4rEYCr6b6uUdDuabAQiE43rIA7jvx31piKDSBsC-lyeRkAvj23fJOmC1dA/s1600/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E6%25B2%2592%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="378" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-E_TcCXmlqnGwuL6mhgZrHMI4d-0BuFteh4NAA-on3SE6H8Ikr3IoCBOv5VEN9P7X_jB3kBCE0CZ4rEYCr6b6uUdDuabAQiE43rIA7jvx31piKDSBsC-lyeRkAvj23fJOmC1dA/s640/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E6%25B2%2592%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png" width="640" /></a></p>
+<p style="clear: both; text-align: center;"><a title=“您的大名沒在此出現” href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9-E_TcCXmlqnGwuL6mhgZrHMI4d-0BuFteh4NAA-on3SE6H8Ikr3IoCBOv5VEN9P7X_jB3kBCE0CZ4rEYCr6b6uUdDuabAQiE43rIA7jvx31piKDSBsC-lyeRkAvj23fJOmC1dA/s1600/_%25E6%2582%25A8%25E7%259A%2584%25E5%25A4%25A7%25E5%2590%258D%25E6%25B2%2592%25E5%259C%25A8%25E6%25AD%25A4%25E5%2587%25BA%25E7%258F%25BE.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="378" src="/assets/images/blogger.googleusercontent.com/4d087694a644cfa5.png" width="640" /></a></p>
 
 <p>根據網友提供的方法抓出來的字型檔裡，其實也只列出了贊助者清單的網頁連結。（雖然我不認為列出九千人的姓名三萬多字是合邏輯的方法，但是承諾就是承諾…）</p>
 

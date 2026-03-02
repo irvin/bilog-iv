@@ -11,7 +11,7 @@ excerpt: "Retiring Firefox Home | Mozilla Services I'm really sad and feel bad o
 ---
 
 <div class="separator" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;">
-<img border="0" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0XmmN7xaSLVup1Ttv-GLDBtekyrkoO6lN6k6jYqLWIErMq7btzER3Wc4ORSY7eFjPyjHe1Naxkc2pv4SM9k3OrnPXtiH3_yWTYMprWqswWZSG3_10epSPuoHjYCQ6nAdOXRw1ow/s200/home.png" width="197" /></div>
+<img border="0" height="200" src="/assets/images/blogger.googleusercontent.com/5547e01503aea79b.png" width="197" /></div>
 
 <p><a href="https://blog.mozilla.org/services/2012/08/31/retiring-firefox-home/">Retiring Firefox Home | Mozilla Services</a></p>
 

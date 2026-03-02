@@ -87,8 +87,8 @@ Mac OS X 10.6.2 with 64-bit Kernel, WDC WD5000BEVT 500GB</li>
 
 <p>當中間的 FW800 外接硬碟怠工時，末端的 FW400 硬碟速度為 W: 32.5 R: 38.1 MB/s，與單獨使用差不多。當 Firewire 800 外接硬碟忙碌時，FW400 硬碟速度為 W: 17.8 R: 21.0，讀寫速度降低約 15MB/s，表現與非串接、FW800 硬碟忙碌時沒有很大的差別。</p><br />
 
-<a href="http://picasaweb.google.com/lh/photo/nTdnCnFg-LgUw0-D0G6n6A?feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIpOUNmH_ycU0VlITPWXQKUSN_7KfjsQjU_U9j5HnV3rzNg2SVJYMnb3-A3ErOI-I5DeCL5_cO82mS4iOlTTgA_jYZIQdC7xwDEqjdsFM-mWwxWk-tlALQRf5uZUQmOxfzGPWdmQ/" /></a>
-<a href="http://picasaweb.google.com/lh/photo/xExFCJuXbQZnw-eGdPekMA?feat=embedwebsite"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3dqQr8pT1mDJYN_bliSDE6AH8ym1LbBzB-mTIOorMjvORe7SSFNXMu0rJp0GafGBDeaNIaWYww_FgBzy0VJq36kZQw8ZN50jHeORU8d32fzRBSSCYHpWPYSM_W-Uyc8BNFZOJXw/" /></a>
+<a href="http://picasaweb.google.com/lh/photo/nTdnCnFg-LgUw0-D0G6n6A?feat=embedwebsite"><img src="/assets/images/blogger.googleusercontent.com/282199644227d3ec.png" /></a>
+<a href="http://picasaweb.google.com/lh/photo/xExFCJuXbQZnw-eGdPekMA?feat=embedwebsite"><img src="/assets/images/blogger.googleusercontent.com/30815331e95b25be.png" /></a>
 
 <p>另外，從以上兩張傳輸速度圖中可以得知，當 FW800-FW400 外接硬碟串接使用，FW400 硬碟忙碌時，FW800 硬碟的速度的確會受到影響。但當 FW400 硬碟工作結束後，FW800 硬碟的速度就會恢復正常速度。</p>
 

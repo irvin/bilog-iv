@@ -10,7 +10,7 @@ tags: ["書", "小說", "科幻", "推介", "blogger"]
 excerpt: "本文參與 貓頭鷹出版社文學部落格〈三體 I〉試讀活動 （無情結洩漏，請安心閱讀） 閱讀〈三體 I〉是一個有趣的經驗，這是一本大時代故事的小說，又是一段段以角色為主體的中篇故事集。一開始閱讀，就讓我忍不住一口氣看完，而在全文閱畢後，又會再度翻回來，仔細品嚐其中各人的部份。 這種閱讀的經驗很近似〈海伯利昂〉，但相對於前者每篇完全獨立的形式，〈三體 I〉的前後文較"
 ---
 
-<a href="http://www.anobii.com/books/%E4%B8%89%E9%AB%94_/9789861206066/0122b031cd27afbf96/" style="clear:right; float:right; margin-left:1em; margin-bottom:1em"><img border="0" style="width: 203px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyPlnZeK6Ua3arSYyskQRfDbK9Nq7sU-RyWu0nJH2RcuFfCZMPy0EjHCi89eKJmnBkUNw2p5YY1piUMU9wvfwJckI8rWHKicMBytxSZ7ERSK2AVrTrMB0DKfj3vVzMxIWz27S_g/s288/%E3%80%8A%E4%B8%89%E9%AB%94%E3%80%8B%E6%AD%A3%E5%B0%81.jpg" /></a>
+<a href="http://www.anobii.com/books/%E4%B8%89%E9%AB%94_/9789861206066/0122b031cd27afbf96/" style="clear:right; float:right; margin-left:1em; margin-bottom:1em"><img border="0" style="width: 203px;" src="/assets/images/blogger.googleusercontent.com/d3fa53d15086a8bd.jpg" /></a>
 
 <p>本文參與<a href="http://owlblog.pixnet.net/blog/post/27846811">貓頭鷹出版社文學部落格〈三體 I〉試讀活動</a></p>
 

@@ -26,17 +26,17 @@ Firefox 3 機器人
 <div id="fullpost">
 
 <p>Beta 3:<br />
-<img src="http://farm3.static.flickr.com/2187/2326232424_fb52973924.jpg" /><br />
+<img src="/assets/images/web.archive.org/7936fa2118168d0e.jpg" /><br />
 (<a title="What's new page of Firefox 3 beta3" href="http://flickr.com/photos/plynoi/2326232424/">What's new page of Firefox 3 beta3</a> Uploaded by <a href="http://flickr.com/photos/plynoi/" title="Link to plynoi's photostream">plynoi</a>)</p><br />
 
 
 <p>Beta 4:<br />
-<img src="http://farm4.static.flickr.com/3150/2325196753_a7d7cb5249.jpg" /><br />
-(<a title="welcome to firefox 3 beta 4" href="http://flickr.com/photos/fmg2001/2325196753/">welcome to firefox 3 beta 4</a> Uploaded by <a href="http://flickr.com/photos/fmg2001/" title="">fmg2001</a>)</p><br />
+<img src="/assets/images/live.staticflickr.com/6dcfee5a44c36fc3.jpg" /><br />
+(<a title="Firefox 3 Beta 4 first run page" href="https://www.flickr.com/photos/intothefuzz/2324701064/">Firefox 3 Beta 4 first run page</a> Uploaded by <a href="https://www.flickr.com/photos/intothefuzz/" title="Link to intothefuzz's photostream">intothefuzz</a>)</p><br />
 
 
 <p>Bata 5:<br />
-<img src="http://farm3.static.flickr.com/2040/2382560385_4e71c96bee.jpg" /><br />
+<img src="/assets/images/live.staticflickr.com/a36397ee4553c3d2.jpg" /><br />
 (<a title="firefox 3 beta 5 welcome page" href="http://www.flickr.com/photos/fmg2001/2382560385/">firefox 3 beta 5 welcome page</a> Uploaded by <a href="http://www.flickr.com/photos/fmg2001/" title="Link to fmg2001's photostream">fmg2001</a>)</p><br />
 
 

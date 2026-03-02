@@ -13,7 +13,7 @@ excerpt: "This is part of the result we found from the “How might we (re)inven
 <p>This is part of the result we found from the  “How might we (re)invent existing and future MozSpace to run innivation experiments”, which we address different kinds of community space at the community space session on Mozilla AllHands 2016 in London. </p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s1600/MozSpaces+-+Reinventing+MozSpaces+-+new.png"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s640/MozSpaces+-+Reinventing+MozSpaces+-+new.png" width="466" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjANUMSqwCS0uvcEgFABC66Jo4eyONyKz_55pisZI_vPauon9kzT2zQ3q2jEpHIsgXIHOsDJq51NH2gq_7Y8jS9A_56OKExUdJnRZ1f4UUlGGOEf_KjCjLwzZnQ6rLd5A1pPF90KQ/s1600/MozSpaces+-+Reinventing+MozSpaces+-+new.png"><img border="0" height="640" src="/assets/images/blogger.googleusercontent.com/cd4e6734537af862.png" width="466" /></a>
 </div>
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI0RVrb0-JitslCv2Loo4WsI9pS-d-0Lj_hy_EtM5-w-FSvSFCJuVEuXCrU1hE5LPUcquAbY63fQjtEC3oUnEi_Ll60bCw8Lj1b7RznfO-XNP44euT21oszStFcK46L-OWaH-6w/s1600/MozSpaces+-+Stream+2+-+Reinventing+MozSpaces.png">(see original draft poster from our discussion)</a>
@@ -165,7 +165,7 @@ resource invest from Mozilla and community - large monthly</p>
 <p>Above different kinds of space is a typical pathway we found in different communities and in our community&#39;s 10+ years experience. We had pass all of those stage (besides the office one), and some other communities may currently in one of the earlier stage.</p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s1600/MozSpaces+-+Stream+2+-+The+River+of+Space.png"><img border="0" height="381" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s400/MozSpaces+-+Stream+2+-+The+River+of+Space.png" width="400" /></a><br>A River of Spaces
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaHQ0OuE2QkZ10e6o3oTuWv2BTe-SqfOOosIgXjDu84KJthu3a-SB6ZMqFw7AsDupWiQ9GN-A2ToUSy2GqGvsOgrDx4Th8MZlyFnte9kpmGc8OPf7ntV0pe9iAIfJlnaG07TDk5w/s1600/MozSpaces+-+Stream+2+-+The+River+of+Space.png"><img border="0" height="381" src="/assets/images/blogger.googleusercontent.com/8d1d7c71bbde9bc2.png" width="400" /></a><br>A River of Spaces
 </div>
 
 <p>It’s like the flow of the river from upper reach to the ocean, we can imaging the flow as the size of the community / the resource / the reach and the impact. Different communities are not necessery follow the same pathway but it should be somehow similer.</p>
@@ -173,4 +173,4 @@ resource invest from Mozilla and community - large monthly</p>
 <p>Thanks all of the Mozilla Community Space stewards in the session, especially Henrik, Gaspar, Nikos, Yofie who is in this discussion.</p>
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s1600/mozlondon_community_space.gif"><img border="0" height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s640/mozlondon_community_space.gif" width="640" /></a></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH5CPg3j0WfeMoOGdPnJzK8g0rY48tJDsu4nk-5gog_IZ-3ilsmRvuqJyrP6dWJj98MXtNKcqmbgssAG2xMIuBw3QMCemfAkGAipS5gwjOWsmUpsr_VTj_kXXoPYoIJA1fI6vEWQ/s1600/mozlondon_community_space.gif"><img border="0" height="480" src="/assets/images/blogger.googleusercontent.com/1a66664bc5ec3f48.gif" width="640" /></a></div>

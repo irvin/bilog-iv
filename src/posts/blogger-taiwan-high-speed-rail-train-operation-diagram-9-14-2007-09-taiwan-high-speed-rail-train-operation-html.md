@@ -11,7 +11,7 @@ excerpt: "THSR_Operation_Daigram_20070914.pdf 歷次改點運行圖： 2007-6-01
 ---
 
 <a href="
-http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070914.pdf" title="相片分享"><img src="http://farm2.static.flickr.com/1046/1333018723_fbf6f3a013_o.png" width="500" height="353" alt="台灣高鐵運行圖 THSR Operation Diagram 20070914 snapshot" /><br />
+http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070914.pdf" title="相片分享"><img src="/assets/images/live.staticflickr.com/9319aacd86ca6549.png" width="500" height="353" alt="台灣高鐵運行圖 THSR Operation Diagram 20070914 snapshot" /><br />
 THSR_Operation_Daigram_20070914.pdf</a>
 
 <p>歷次改點運行圖：<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070601.pdf">2007-6-01</a>、<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070727.pdf">2007-7-27</a>、<a href="http://hd.sto.tw/THSR/THSR_Operation_Daigram_20070914.pdf">2007-9-14</a></p>

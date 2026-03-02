@@ -12,7 +12,7 @@ excerpt: "隨著 Firefox 3.6 釋出，Mozilla 修好了兩個 Firefox 3.5 在 Ma
 
 <p>隨著 Firefox 3.6 釋出，Mozilla 修好了兩個 Firefox 3.5 在 Mac OS X 10.6 中討厭的 bug：</p>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPz9ooE_KKYhwbIuiN34yyzTDOv4jEjYrut3PQEBCqfHrqqMalx7zVWNOlrpsMiQJ7udJUzQB0F39SrP1o7gttxx7qdWISZ5x7UIlzItmc_l3lh-VpoXCdPEiMIYXcGpSdGdIHQ/s1600-h/a.png"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPz9ooE_KKYhwbIuiN34yyzTDOv4jEjYrut3PQEBCqfHrqqMalx7zVWNOlrpsMiQJ7udJUzQB0F39SrP1o7gttxx7qdWISZ5x7UIlzItmc_l3lh-VpoXCdPEiMIYXcGpSdGdIHQ/s400/a.png" width="500" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPz9ooE_KKYhwbIuiN34yyzTDOv4jEjYrut3PQEBCqfHrqqMalx7zVWNOlrpsMiQJ7udJUzQB0F39SrP1o7gttxx7qdWISZ5x7UIlzItmc_l3lh-VpoXCdPEiMIYXcGpSdGdIHQ/s1600-h/a.png"><img border="0" src="/assets/images/blogger.googleusercontent.com/118c7bfa846e4fac.png" width="500" /></a>
 
 <p>第一個是「眼睛」bug，如同上圖所示，雪豹中的 Firefox 3.5，只要使用蘋果儷中黑字體，在任何網頁上遇到「睛」這個字，就會前後文疊在一起。原因是雪豹的 <a href="http://en.wikipedia.org/wiki/Apple_Type_Services_for_Unicode_Imaging">ATSUI</a> 遇到本來就有問題的蘋果儷中黑字體，因此就爆炸了，在&nbsp;<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=532346">Bug 532346</a> 中有更詳細的說明，如果想知道你的 Firefox 還有沒有這個問題，可以開啟 <a href="https://bug532346.bugzilla.mozilla.org/attachment.cgi?id=415587">測試頁</a> 看看。</p>
 

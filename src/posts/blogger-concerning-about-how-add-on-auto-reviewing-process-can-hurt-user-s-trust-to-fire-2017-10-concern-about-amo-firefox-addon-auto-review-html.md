@@ -12,7 +12,7 @@ excerpt: "(Cross-post from Mozilla Discourse and Medium ) What is the price for 
 
 <p>(Cross-post from <a href="https://discourse.mozilla.org/t/concern-about-how-add-on-auto-review-can-hurt-users-trust-to-firefox/20177" target="_blank">Mozilla Discourse</a> and <a href="/concern-about-how-add-on-auto-review-can-hurt-users-trust-to-firefox-da70818ac960.html">Medium</a>)</p>
 
-<p><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI672z86dnACTE95eVb4YAs3MgbE6ajbMYSE_X3PeXp7nY__w1rbVLFJ0u-7o93Y_zJvlwDaWSZuMzNTWp89sriIGiPxv8mEdtA1rwMCOlaMvUXLNR1eqCydkS0YzLr965b2Lnkg/s1600/1*9V3TfXKfXoGoNKGYdwTPpA.png" data-original-width="603" data-original-height="360" /><br>
+<p><img border="0" src="/assets/images/blogger.googleusercontent.com/9a8472a266ae1c24.png" data-original-width="603" data-original-height="360" /><br>
 What is the price for us to eliminating the reviewing queue with robots? (picture from <a href="https://wiki.mozilla.org/File:PreliminaryReview.png">Mozilla Wiki</a>)</p>
 
 

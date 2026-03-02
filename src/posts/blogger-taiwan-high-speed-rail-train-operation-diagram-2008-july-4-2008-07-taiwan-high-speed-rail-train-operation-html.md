@@ -10,7 +10,7 @@ tags: ["鐵道", "時刻表", "高鐵", "blogger"]
 excerpt: "這是台灣高鐵 2008 年 7 月 4 日新班表（雙向共 128 班；一五雙向 132 班；六日雙向 140 班）的列車運行圖。 本圖可作為時刻表使用，也可從中研究列車大致通過某地的時間。 本圖為手工繪製，A3大小，採 創用CC 姓名標示-非商業性-禁止改作 2.5 台灣 授權，意思是：您可以自由使用，但是不能涉及商業行為、不得修改內容、將圖上的授權圖像跟聯"
 ---
 
-<a href="http://www.box.net/shared/8udpzhnccg" title="台灣高鐵運行圖 THSR Operation Diagram 20080704"><img src="http://farm4.static.flickr.com/3048/2635231911_fc4a071e58.jpg" width="500" height="353" alt="台灣高鐵運行圖 THSR Operation Diagram 20080704 snapshot" /></a>
+<a href="http://www.box.net/shared/8udpzhnccg" title="台灣高鐵運行圖 THSR Operation Diagram 20080704"><img src="/assets/images/live.staticflickr.com/cb04380c1df89c33.jpg" width="500" height="353" alt="台灣高鐵運行圖 THSR Operation Diagram 20080704 snapshot" /></a>
 
 <p>這是台灣高鐵 2008 年 7 月 4 日新班表（雙向共 128 班；一五雙向 132 班；六日雙向 140 班）的列車運行圖。<br />
 本圖可作為時刻表使用，也可從中研究列車大致通過某地的時間。<br />

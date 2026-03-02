@@ -25,4 +25,4 @@ S4 EP12-14 講企業號作為地球、瓦肯、安多利跟 Tellarites 結盟，
 
 <p>接著把 S4 看完之後，打算來根據 Netflix 的大數據看看 VOY 的這幾集⋯⋯</p>
 
-<img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCpNkMco2s4N8FOus0SFawxCP9RcdH152tyiTGjfMClAmmP5zieZCG5wMecL4_-nOYS8y7a_RXP25AVm7_DJmpI9tObgQPnmR2mlP2WqoifyLA1XgdIwCoKa5RxrmOQGF3vIsaEw/s1600/21367058_1190062407765304_8342412615323831278_o.jpg" />
+<img border="0" src="/assets/images/blogger.googleusercontent.com/c326bdf3d3bc9333.jpg" />

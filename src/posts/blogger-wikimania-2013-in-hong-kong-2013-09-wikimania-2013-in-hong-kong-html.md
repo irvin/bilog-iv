@@ -52,7 +52,7 @@ Photos of volunteers line up at sides of stair after closing ceremony</p>
 <p>The conference used 8 lecture halls (including the main auditorium, capacity of 1000 people) and about 10 class rooms during the event, which spreading in 5 different buildings around main opening space "Logo Square", which used for dining and community booth.</p>
 
 <p><a href="http://wikimania2013.wikimedia.org/wiki/Venue">
-<img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUII9NSTgI_fB3CSDVFuxG5jB83XvT1RpleBUeUbOxVtLO2avKJhB7oZt19rYexEYE64-Pn7xHo5zKZj1dWuNEWLmx7lP79AuorgvKJdJP1AxBeCB5uiH8PX6I0g2VF2zyjOp9bQ/s400/1200px-Wikimania-2013-PolyU-Maps.jpg" /></a><br>The Venue Map of event</p>
+<img border="0" src="/assets/images/blogger.googleusercontent.com/7d5744c9411955ce.jpg" /></a><br>The Venue Map of event</p>
 
 <p>The facilities of the opening space "Logo Square" including tables for booth, a big stair which people can sit, a huge TV screen showing videos from different Wikimedia chapters. People can greet each others, chat, social and get drinks at the square through the whole event. It's also providing good free dining experience than typical cafeteria, and able to host all thousand participants at same time.</p>
 
