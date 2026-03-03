@@ -7,6 +7,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({ 'src/styles.css': 'styles.css' });
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets' });
+  eleventyConfig.addPassthroughCopy({ 'src/LICENSE': 'LICENSE' });
   eleventyConfig.addFilter('readableDate', (dateObj) => {
     if (!dateObj) return '';
     const d = new Date(dateObj);
