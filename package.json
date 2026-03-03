@@ -14,7 +14,8 @@
     "medium:to-markdown": "node scripts/convert-medium-html-to-md.js",
     "refresh-content": "npm run import && npm run localize-images",
     "build": "eleventy",
-    "serve": "eleventy --serve"
+    "serve": "eleventy --serve",
+    "deploy:gh-pages": "npm run build && node scripts/deploy-gh-pages.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.0"

@@ -58,9 +58,11 @@ npm run build
 - `npm run images:recover-flickr`：針對 Flickr pending 補抓，再更新 pending
 - `npm run images:map`：更新 `image-src-map-complete.csv`
 - `npm run medium:filter-responses`：執行回應文篩除（`--apply` 模式已寫在 script）
+- `npm run medium:to-markdown`：將 Medium 文章內文由 HTML 轉成 Markdown
 - `npm run refresh-content`：`import` + `localize-images`
 - `npm run build`：建置 `_site`
 - `npm run serve`：本機預覽
+- `npm run deploy:gh-pages`：本機 build 後，將 `_site` 推送到 `gh-pages` 分支
 
 ## URL 與連結策略
 
@@ -188,16 +190,29 @@ excerpt: "這是一篇手動新增的文章"
 - `src/assets/image-pending.txt`
 - `src/assets/image-src-map-complete.csv`
 
-## GitHub Pages 部署
+## GitHub Pages 部署（本地 build，不走雲端）
 
-Workflow：[`pages.yml`](/Users/Irvin/Sites/blog/.github/workflows/pages.yml)
+此專案已移除 GitHub Actions 雲端建置，改為本地建置後部署。
 
-- push `main` 後自動執行：
-- `npm ci`
-- `npm run build`
-- deploy `_site`
+### 1. 本地部署指令
 
-Repository 設定需選：
+```bash
+npm run deploy:gh-pages
+```
+
+會執行：
+
+1. `npm run build`
+2. 將 `_site` 內容推送到遠端 `gh-pages` 分支（force push）
+
+### 2. Repository Pages 設定
 
 - `Settings` -> `Pages`
-- `Build and deployment` -> `GitHub Actions`
+- `Build and deployment` -> `Deploy from a branch`
+- Branch 選 `gh-pages`，Folder 選 `/ (root)`
+
+若你的 remote 不是 `origin`，或要改分支名稱，可用環境變數：
+
+```bash
+DEPLOY_REMOTE=origin DEPLOY_BRANCH=gh-pages npm run deploy:gh-pages
+```
