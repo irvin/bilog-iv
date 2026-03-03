@@ -1,5 +1,6 @@
 {
   "title": "Irvin Blog Archive",
   "description": "從舊 Blogger 與 Medium 遷移的靜態文章彙整",
-  "language": "zh-Hant"
+  "language": "zh-Hant",
+  "siteUrl": "https://irvin.poslab.info"
 }

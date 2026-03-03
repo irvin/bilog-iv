@@ -1,4 +1,10 @@
 module.exports = function (eleventyConfig) {
+  function toDate(input) {
+    const d = new Date(input);
+    if (Number.isNaN(d.getTime())) return null;
+    return d;
+  }
+
   eleventyConfig.addPassthroughCopy({ 'src/styles.css': 'styles.css' });
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets' });
   eleventyConfig.addFilter('readableDate', (dateObj) => {
@@ -11,6 +17,26 @@ module.exports = function (eleventyConfig) {
       day: 'numeric'
     }).format(d);
   });
+  eleventyConfig.addFilter('rfc822Date', (dateObj) => {
+    const d = toDate(dateObj);
+    return d ? d.toUTCString() : '';
+  });
+  eleventyConfig.addFilter('absoluteUrl', (urlPath, siteUrl) => {
+    const target = String(urlPath || '');
+    if (!target) return '';
+    if (/^https?:\/\//i.test(target)) return target;
+    const base = String(siteUrl || '').replace(/\/+$/, '');
+    if (!base) return target;
+    return `${base}${target.startsWith('/') ? '' : '/'}${target}`;
+  });
+  eleventyConfig.addFilter('xmlEscape', (value) =>
+    String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&apos;')
+  );
 
   eleventyConfig.addCollection('postsByDate', function (collectionApi) {
     return collectionApi

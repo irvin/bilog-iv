@@ -6,6 +6,7 @@
     <title>{% if title %}{{ title }} - {% endif %}{{ metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}" />
     <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ metadata.title }} RSS" href="/feed.xml" />
   </head>
   <body>
     <a href="#main" class="skip-link">跳到主要內容</a>
@@ -14,6 +15,7 @@
       <nav class="site-nav" aria-label="主選單">
         <a href="/">首頁</a>
         <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
       </nav>
     </header>
     <main id="main">
