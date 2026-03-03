@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Twitter 漏了設定 Cache-Control 表頭，導致傳送私訊的檔案在 Firefox 上會被快取七天 - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>Twitter 漏了設定 Cache-Control 表頭，導致傳送私訊的檔案在 Firefox 上會被快取七天</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2020-04-04T04:03:04.489Z">2020年4月4日</time>
+    <span>來源：medium</span>
+    <a href="https://irvinfly.medium.com/twitter-bug-on-firefox-bbbc0100d4fe" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <p><img src="/assets/images/miro.medium.com/a3a900fa389eec77.png" alt=""></p>
+<p><em>如何甩鍋自己的資安 Bug 🤧</em></p>
+<h3>Twitter 過去漏了設定 Cache-Control 標準表頭，導致傳送私訊的檔案會被 Firefox 快取七天，登出也不會被清掉。</h3>
+<p>然後為什麼只在 Firefox 上出包？因為在 Chrome 中，如果你有設定無關的 Content-Disposition header （提示下載檔案並建議檔名），就剛好不會進行 cache。</p>
+<p>Mozilla 公告：<a href="https://mzl.la/2JE6GBm?fbclid=IwAR0Wmif9vK4vFVVQtCVeung66pgJFE28bM3hx6tOGStiwJ1AlGOCaxW9tyM">https://mzl.la/2JE6GBm</a></p>
+<p><strong>What you need to know about Twitter on Firefox — The Mozilla Blog</strong>
+*Yesterday Twitter announced that for Firefox users data such as direct messages (DMs) might be left sitting on their…*blog.mozilla.org</p>
+<p>技術細節：<a href="https://mzl.la/2X7DB9i?fbclid=IwAR0JWsdCNcJATddPgPtJ69j8XQgGgxVxvkEnZFKHevgwXXmFDfYce1eHYxM">https://mzl.la/2X7DB9i</a></p>
+<p><strong>Twitter Direct Message Caching and Firefox - Mozilla Hacks - the Web developer blog</strong>
+*Twitter is telling its users that their personal direct messages might be stored in Firefox's web cache. This problem…*hacks.mozilla.org</p>
+<p>Twitter 的隱私問題揭露：</p>
+<p><strong>Twitter Data Cache on Mozilla Firefox</strong>
+*We recently learned that the way Mozilla Firefox stores cached data may have resulted in non-public information being…*privacy.twitter.com</p>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>

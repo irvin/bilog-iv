@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>How many data do we need to train machine hearing Mandarin Chinese? - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>How many data do we need to train machine hearing Mandarin Chinese?</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2019-02-24T08:37:34.153Z">2019年2月24日</time>
+    <span>來源：medium</span>
+    <a href="https://irvinfly.medium.com/how-many-data-do-we-need-to-train-machine-hearing-mandarin-chinese-4ad628b55066" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <h3>How many data do we need to train machine hearing Mandarin Chinese?</h3>
+<blockquote>
+<p>Report from my discussion with western engineer about how many sentences and voices data we need to train a NN model to convert Mandarin voice into Chinese sentence, explain why I don’t thinnk we need our sample contains a million different sentences.</p>
+</blockquote>
+<p>(update: re-write for clearly explain on 26 Feb 3:40 UTC)</p>
+<p>The amounts of voice “unit” we need in Mandarin and in English may not be that big that you think. Let me try to explain why there is that big difference in my imagination.</p>
+<h3>Tl;dr, The final Deep Speech model we need is actually a Voice-Phonetics model, rather than a Voice-Chinese model.</h3>
+<p>When machine hears the voice, its output should not be “Chinese characters”, but “romanized phonetics” (either in Zhuyin or Pinyin).</p>
+<p>We feed the model with <em>best_browser_in_the_world.mp3</em>,
+and the output should be,</p>
+<blockquote>
+<ul>
+<li>
+<p>“g4 ru,4 g;4 yjo4 cl3 2k7 xu.6 x03 fu4” (in Zhuyin)</p>
+</li>
+<li>
+<p>“Shì jiè shàng zuì hǎo de liú lǎn qì” (or in Pinyin)</p>
+</li>
+</ul>
+</blockquote>
+<p>but not,</p>
+<blockquote>
+<p>世界上最好的瀏覽器 (in Chinese characters)</p>
+</blockquote>
+<p>The phonetic-based input method (which all of us use them) is a classic and popular open source topic been researched for 20 years,</p>
+<p>Once people got the above output, we can easily convert it back to “世界上最好的瀏覽器”, with Zhuyin or Pinyin dictionary table*, which contains all phonetics combination of phrases/chars and it’s frequency.</p>
+<p>*<a href="https://sites.google.com/site/ianho7979/InputMethodTables">Zhuyin table</a> for example</p>
+<h3>Why we want the model to output pronunciation but not Chinese characters?</h3>
+<p>Because we have too many characters.</p>
+<p>Consider 5k common characters (which most people only learn and use this amount, ideally, if we can have samples on all the sentences that people would speak, so it can learn to identify every sentence with their voice combination. with 20 chars length sentences, that’s 5k²⁰ combination, so that’s not gonna work.</p>
+<p>So, in practice, we break the sentences into the phrase (2~3 syllables) and single char (one syllable). Many database recording voice in phrase but not sentences, and the model just needs to find the phases/chars for everyone, two, or three syllables. In Chinese, we only have 5k³+5k*2+5k combination, that’s 125000M, much realistic.</p>
+<h4>A voice-phonetics model</h4>
+<p>Actually, we don’t need that much sample too. Because those 5k chars only share the same 1500 pronunciation. if we ask our model not to identify different chars, but different phrase pronunciations, we can easily reduce the combination of samples down to 1.5k³+1.5k*2+1.5k = 3375M.</p>
+<p>How can we further reduce the samples we need? We break the sentences into character, each character only had one syllable, that’s our advantage on Mandarin have — the model should be easily split clip by looking at the pause and level of the input voice. So I believe the minimum we only need 1.5k samples, in fact.</p>
+<h3>Example</h3>
+<p>Take this sentence as an example:</p>
+<blockquote>
+<p>世界上最好的瀏覽器 (The best browser in the world)</p>
+</blockquote>
+<p>If we want Our machine to listent to the whole sentences, and find it’s identity characters, that is -</p>
+<blockquote>
+<p>世 界 上 最 好 的 瀏 覽 器</p>
+</blockquote>
+<p>We need the machine to learn all the combination of all the characters, that’s when we need 5k²⁰ samples. Not gonna work.</p>
+<p>How can we reduce it?</p>
+<h4>Phrase based voice-phonetics model</h4>
+<p>We train machines to identify the pronunciation of phrases, but not Chinese characters. We already know Mandarin had around 1500 different pronunciation. so if we consider only 2 char length phrases, our model only need to output this result,</p>
+<blockquote>
+<ul>
+<li>
+<p>Shìjiè shàng zuì hǎo de liúlǎn qì (Hanyu Pinyin, you can get this by copy-paste the whole sentences into Google Translate)</p>
+</li>
+<li>
+<p>ㄕˋㄐㄧㄝˋ / ㄕㄤˋ / ㄗㄨㄟˋㄏㄠˇ / ㄉㄜ˙ / ㄌㄧㄡˊㄌㄢˇ / ㄑㄧˋ (Zhuyin)</p>
+</li>
+<li>
+<p>g4ur,4 / g;4 / yjo4cl3 / 2k7 / xu.6x03 / fu4 (Zhuyin rep. by keyboard char)</p>
+</li>
+</ul>
+</blockquote>
+<p>People who had this output can use pronunciation-chars dictionary table, another model, or other methodology to figure out which words are using in the sentences, and have the final result,</p>
+<blockquote>
+<p>世界 / 上 / 最 / 好 / 的 / 瀏覽 / 器</p>
+</blockquote>
+<p>The problem now looks much much similar to English and other roman-character based languages. We only need 1.5k*1.5k samples, that’s 225M samples.</p>
+<h4>Character based voice-phonetics model</h4>
+<p>We can even reduce the data we need, because we actually only need our model to identity chars, but not phrases. The output we really need is,</p>
+<blockquote>
+<p>-Shì jiè shàng zuì hǎo de liú lǎn qì (Hanyu Pinyin)</p>
+<p>-ㄕˋ / ㄐㄧㄝˋ / ㄕㄤˋ / ㄗㄨㄟˋ / ㄏㄠˇ / ㄉㄜ˙ / ㄌㄧㄡˊ / ㄌㄢˇ / ㄑㄧˋ (Zhuyin)</p>
+<ul>
+<li>g4 / ru,4 / g;4 / yjo4 / cl3 / 2k7 / xu.6 / x03 / fu4 (Zhuyin keyboard char)</li>
+</ul>
+</blockquote>
+<p>And the same, people can easily convert the output back to the final sentences,</p>
+<blockquote>
+<p>世 界 上 最 好 的 瀏 覽 器</p>
+</blockquote>
+<p>Although we have 5k chars, we only have 1500 sounds, that can represent by 26 characters, each with 4 tones* (if we based on Pinyin), or 37 chars with 4 tones* (base on Zhuyin) to learn. That’s much more similar to English, right?</p>
+<ul>
+<li>some researchers told me that we don’t even need tones in this scenario.</li>
+</ul>
+<p>That is also why we can still use 36-key English keyboard to type Chinese, but not a keyboard with a few hundred keys — which really exist in our computer history.</p>
+<h3>How do we train our model?</h3>
+<p>In practice, how can we train the model with this pronunciation-based strategy?</p>
+<p>We don’t feed the model with the original Chinese sentences. We should convert the sentence into Pinyin / Zhuyin and feed it.</p>
+<blockquote>
+<p>You feed best_browser_in_the_world.mp3</p>
+<p>with</p>
+<ul>
+<li>
+<p>“g4 ru,4 g;4 yjo4 cl3 2k7 xu.6 x03 fu4” (convert by Zhuyin table)</p>
+</li>
+<li>
+<p>“Shì jiè shàng zuì hǎo de liú lǎn qì” (convert by Pinyin table)</p>
+</li>
+</ul>
+</blockquote>
+<p>I find that this discuss may be useful for others, so I re-published it from <a href="https://discourse.mozilla.org/t/number-of-sentences-needed/36182">Mozilla Discourse</a>.</p>
+<iframe src="https://button.like.co/in/embed/irvinchen/button/" width="485" height="212" frameborder="0" scrolling="no"></iframe>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>

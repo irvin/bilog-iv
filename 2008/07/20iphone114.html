@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>教學：將誤升至 2.0 導致鎖機的 iPhone 降版回 1.1.4 版韌體 - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>教學：將誤升至 2.0 導致鎖機的 iPhone 降版回 1.1.4 版韌體</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2008-07-12T12:55:00.008Z">2008年7月12日</time>
+    <span>來源：blogger</span>
+    <a href="http://irvin.sto.tw/2008/07/20iphone114.html" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <p><span style="font-weight:bold;">重要：本破解法適用於 2.0 版韌體，進行以下處理有損毀 iPhone 的危險性，也可能破壞保固，請自行斟酌。</span></p>
+<p>BigBoss 在 <a href="http://sleepers.net/news/?page_id=216">此篇文章</a> 中提到了將升至 2.0 版軔體的 iPhone 降回 1.1.4 的方法，手上剛好有一台昨日誤透過回覆成為 2.0 軔體，並且困在回覆模式的 iPhone，立刻試了一下。以下為簡易說明。</p>
+<p>1. 你需要安裝 iTunes 7.5 版（<a href="http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iTunes7/Win/061-3902.20071105.G6edS/iTunes75Setup.exe">win</a>、<a href="http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iTunes7/Mac/061-3899.20071105.Vg7Tg/iTunes7.5.dmg">mac</a>）、<a href="http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-4313.20080226.Sw39i/iPhone1,1_1.1.4_4A102_Restore.ipsw">iPhone 1.1.4 軔體</a>。</p>
+<p>2. 將 iPhone 開啟為 DFU Mode。</p>
+<p>3. 使用 iTunes 7.5，按住 win：shift / mac：option 鍵點選回覆，選擇 1.1.4 軔體回覆。</p>
+<p>4. iTunes 會出現 1011、1013、1015 等錯誤，這是正常現象；其他的就是不正常。</p>
+<p>5. 錯誤訊息出現後，iPhone 會停在回覆模式。此時直接用 Pwnage Tool (<a href="http://wikee.iphwn.org/news:pwnage1dot1_announcement">mac</a>、<a href="http://winpwn.com/index.php/Main_Page">win</a>) 就可以成功啟動 iPhone，進入 Home 畫面，可使用除撥打電話以外之其他功能。</p>
+<p>6. 啟動後需要使用 BootNeuter 重刷 baseband，設定為 4.6、neuter、unlock，選擇 Flash 即可。</p>
+<p>理論上完成 重刷 baseband 之後就可以正常使用其他 sim 卡了，但是我自己在這邊遇到 05 錯誤，所以 baseband 刷不過去，因此手上這台 iPhone 現在只是一台有點大的 iPod touch。</p>
+<p>現階段應該是繼續等 Dev Team 的 pwnage tool 出來再繼續試吧。</p>
+<p><a href="http://www.flickr.com/photos/irvin/2660332327/" title="iphone114with20baseband.png by Irvin Chen, on Flickr"><img src="/assets/images/farm4.static.flickr.com/05d2fc11672a8c6b.jpg" width="500" height="407" alt="iphone114with20baseband.png" /></a></p>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MozTW 首頁的各種面貌 - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>MozTW 首頁的各種面貌</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2011-04-30T19:42:00.005Z">2011年5月1日</time>
+    <span>來源：blogger</span>
+    <a href="http://irvin.sto.tw/2011/05/moztw.html" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <p>隨著 Firefox 4 的上市，這次 <a href="http://moztw.org">MozTW (Mozilla Taiwan) 的首頁</a>有了一些新的設計，成果目前已經上線；在上週日的 Firefox 4 Party 上半場的小科展中，藉由插花小B 的攤位，我也有小小的展示了一下 <b>MozTW 首頁的各種樣貌</b>。<br />
+<br />
+這次的主要工程有兩項：隨作業系統而提供不同的內容、因應行動裝置的螢幕尺寸提供行動版面。<br />
+<br />
+<br />
+<span style="font-size: large;">隨 OS 呈現不同內容</span><br />
+<br />
+最早 Piaip 所製作的 MozTW 網站首頁，早已有偵測透過瀏覽器 User Agent 偵測作業系統的機制，首頁的下載框中，使用者所用的平台會高亮突起，幫助使用者選擇下載的 Firefox 版本（如下圖），不過這個機制已經壞了好幾年。<br />
+<br /></p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB3SNaH16PsDUBqYdMna1kSgGNBkmTQhUEmGDEDEbXsXRslqiN8K8xtxFOUwrnMnax5xrXgAcjmKd5sxGVtR4gUQw3ACLTUuCGhgzmS6Y8FSiuLyhrHXlWS7XRaSKJ7ZxojEBajw/s1600/screen-capture.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/images/blogger.googleusercontent.com/b6a430fa6a7099c6.png" /></a></div>
+<br />
+在此次更新中，小B 先是修好了平台偵測的 Javascript，接著我們就加上了隨不同平台提供不同內容的設計。主要的區別有兩項：首頁的底圖、及下方第一欄推薦軟體的內容。<br />
+<br />
+偵測的平台有 Windows、Linux、Mac、iOS 及 Android/Maemo 五種，每種平台都有專屬的頁手標頭圖。前三種桌面端平台中，下方第一欄維持原本的 Thunderbird，在 iOS 下此欄推薦的是 <a href="http://www.mozilla.com/zh-TW/mobile/home/">Firefox Home</a>，在 Android/Maemo 中則當然推薦新的&nbsp;<a href="http://www.mozilla.com/zh-TW/mobile/">行動版 Firefox</a> 了。<br />
+<br />
+<br />
+<span style="font-size: large;">行動裝置版面</span><br />
+<br />
+隨著 iPhone 的發售與 Android 的釋出，智慧型手機在這兩年呈現爆炸性的發展，手機上網正式進入普及期，因此我們開始想要針對小螢幕的行動裝置瀏覽 MozTW 的體驗去最佳化。<br />
+<br />
+手機版網頁的製作有兩個方式：第一是做一個完全獨立的專用網站，後端的內容或許是可以維持同一套，但前端的頁面則切割為桌面與手機兩個完全不同的網站，藉由轉址等手段讓行動裝置能瀏覽到專用網頁。好處是在裝置端能有最好的瀏覽效果，壞處則是維護的成本要多出一倍。<br />
+<br />
+另一個方式，則是針對現有的桌面版網站，加掛上各種調整的設定，讓手機瀏覽時得到較佳的效果。好處是維護的成本較低，壞處則有設計上較多限制、相對不靈活、且手機瀏覽下載的<a href="http://www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/">頻寬需求與桌面相仿、聯繫成本高、瀏覽速度慢</a>等問題。<br />
+&nbsp; <br />
+MozTW 網站所使用的佈景從 2004 年沿用至今，除了一些諸如 CSS 圓角、頁面寬度的調整以外，一直沒什麼變化。是有點一成不變，不過倒是出現了一個意外的優點—這個佈景是以欄為主的版面，最上方是 Banner、中間有主要產品欄、接著有三個項目並排、再下方則是最新消息與快速捷徑，最下面則是版權資訊等，全部合計有八個欄位。<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgulX71U4fEsbjIArxyqZ7KUcwNchNf9kdD6_BqRkUQ9tQkB-0xJgz5jMZhcUArDu0mvha-EFYa3hZuVNIIrgKK-rqOgZv15Ly5M4W4AaDD3Ux7isMvIu4gD9esz5ENz9VJtmeIw/s1600/screen-capture1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="372" src="/assets/images/blogger.googleusercontent.com/5ec46474cabe4ada.png" width="400" /></a></div>
+<br />
+因為每個資訊都容納在獨立的欄位中（以 DIV 包裹），而欄位間的功用及區隔也很明確，因此我們可以很直截了當的，順應行動裝置的小螢幕、長螢幕來調整各欄位置，當然最簡單的方法就是由上到下各個欄位排成一直排。<br />
+<br />
+經過兩個禮拜的施工，CQD 完成了 MozTW 首頁的行動版型，並透過 CSS Media Query，針對 500px 寬度以下的裝置上加掛上行動版型 CSS，以達到自動切換版面的效果。<br />
+<br />
+行動版型中，除內容各欄的排列外，正中央主要產品欄的主圖與最上方 Banner 上的導覽按鈕也透過 CSS 調整大小與排列。此外，在 iOS 及 Android/Maemo 等行動裝置上，提供桌面版 Firefox 4 的安裝檔下載是無用、不合理、且容易讓一般用戶混淆的事，因此我們也直接把「下載 Firefox 4」框框隱藏起來了。<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6KrGRP3ysytaABSPyvPnaX3pMLnprcFJi0F_liBG7X9QWfQw6v9jHENGHHemMrQ-7A1-a-L1BHGqdoPWyJKQda5c1ZBAQViYK7r-IOBMI7NDsRcjwFIj8j1Cgfn_uSmOY3gOQA/s1600/android.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/assets/images/blogger.googleusercontent.com/e9e284a0e6e78989.png" width="66" /></a></div>
+<br />
+<br />
+<span style="font-size: x-large;">成果</span><br />
+<br />
+經過以上兩步驟的改造之後，我們得到一個 (1) 會根據螢幕大小切換為行動版型或一般版型 (2) 根據瀏覽者的平台不同提供對應資訊 的全新首頁。以下是各平台下，開啟 Moztw 首頁的截圖。<br />
+<br />
+<div style="text-align: center;">
+<span style="font-size: large;">桌面端</span></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Windows (Win7) </div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-EuBj3VwtXNqvUTo5ksVS0M9aVO7OCZPGufeuv5v6sYQTh9JgVVJSooVCTwFSRWP-JgGFgoi1JlzX8zrVapifOHuMGoTTVTncv0vu4sHw1BUlmehYMMY5OUjoG9Tv54iSq0xwg/s1600/MozTW+Firefox+4+%2540+Win7.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/assets/images/blogger.googleusercontent.com/b41eac8884b969b4.png" width="640" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Mac OS X (10.6) </div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4p8rcRjEuZAdOO5kXAohM3iAo5Hd93siZZKpIKUyxMgtmE4V7e2k67nv4CrJQlDijv3-rqkiArkUM2GESxutwCwWnT6CT5xOHwmT9Hsrs0nc7jLTWrIuQ7dFq1CBSg8UQ_4OYXw/s1600/MozTW+Firefox+4+%2540+Mac.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/assets/images/blogger.googleusercontent.com/f2890e8b8d5ff611.png" width="640" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Linux (Ubuntu 10.10) </div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6E1e1J9rq9TKIBu1ey1pH33g0-ao-mRRDx2C8RS-bt6DuJmtaR4WfJKhX4iWsA3PKNgOHPds-CfY9p2qRbF-azrvcmx8ogQRhlPXu-qI2dlDH9bhZbHT79GYEKEXCavgzER5KQ/s1600/MozTW+Firefox+4+%2540+Ubuntu.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="448" src="/assets/images/blogger.googleusercontent.com/2b7cba92eba008aa.png" width="640" /></a></div>
+<div style="text-align: center;">
+&nbsp;<span style="font-size: large;"> </span></div>
+<div style="text-align: center;">
+<span style="font-size: large;">行動裝置端</span></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+iPad (iOS 4.3) </div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitt3TMxxUk_7NrTBaEKDQkawYy-S_HD7x_TuB2zzTrt6Dy-U5S8eZGEzVL6257PQb22QGyPdnEoRSMJXNpJAr0J8TWf1aVTzLnRsQsvPm9ckWgKtHLDcYBCRXZiwEWwsLQO4hezw/s1600/MozTW+Firefox+4+%2540+iPad.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/assets/images/blogger.googleusercontent.com/474ef852b7974210.png" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+&nbsp;iPhone (iOS 4.3)</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh40Zl0EEFNEOSirStasg41kpcJVpaCPQlcRDyo1eK2FJi1TW_WRBqaku8QnDGgWtdNTJhyphenhyphenEXmW8q8aEvYMAMzgqXpqTDh8OM8l4vpqilOkBpAnAkuVznAlZzb_apoYhdIj-TGbwA/s1600/MozTW+Firefox+4+%2540+iPhone+-+1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/assets/images/blogger.googleusercontent.com/e7f2dbdec6a2a171.png" width="205" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0L1yifZnCb0wCaVJszg1h_gR7jXTX2UU_MQXWe9q1H0iE8Ag-iiNseRGBvwUiRV3SM4H4o6JM60wtl7IU60oChI2_sRJ59qBKY1p0o3UQxrBpvYBzYEdqDPDfLd_5KcC9nrNS5A/s1600/MozTW+Firefox+4+%2540+iPhone+-+2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/assets/images/blogger.googleusercontent.com/53e2e78133d2aa46.png" width="205" /></a> </div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Android (2.3)</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcUP85pMN5p2ZCQW6tardhELsjJSyWX7jmpaP6ec6dhHM4pkks5dJgJtFKrungmfmJxxJDzrTm4ai9MKt8B8EUiP9K4GtyDHksvLL-8sT3vkrWKbBbgg-maEhyOXRWugU0JREPQ/s1600/screenshot.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/assets/images/blogger.googleusercontent.com/abfd58dc58998409.png" width="240" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYXGikqkuZsEKbj_qmWoEbWE4-Jn5llfOODmLFTY34dUnN4wLYHsBnyflsCMqoMcMMexUBisTBWWf6FLJgHhEH3n9LDJUXz98WPxlAJcnx6vNYZWcr9OXDrhKhMEDt3sHB3JPkGg/s1600/screenshot+%25281%2529%25282%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/assets/images/blogger.googleusercontent.com/6d2dd4b45a687700.png" width="240" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp6KrGRP3ysytaABSPyvPnaX3pMLnprcFJi0F_liBG7X9QWfQw6v9jHENGHHemMrQ-7A1-a-L1BHGqdoPWyJKQda5c1ZBAQViYK7r-IOBMI7NDsRcjwFIj8j1Cgfn_uSmOY3gOQA/s1600/android.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5ep9i_2dugoKy8uMnUocSsIFn0VJebPTpsT3r6-KSw9nSObPdMMnLnsE5a_aHBKvTPryILBi2cpRr1L1qmsyHwRVoPEy74y3PLwzucyUSZEkDLniSJSackyaFnRmDSIp-2-_8Jw/s1600/MozTW+Firefox+4+%2540+Android.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><br /></a></div>
+<span style="font-size: large;">其他</span><br />
+<br />
+這次的更新，還包含了將首頁的圖形式圓角按鈕及欄位圓角，以 CSS3 border-radius&nbsp; 取代，降低下載圖片的需求、增加美觀（同時在 IE6~IE8 下醜化，IE8 以前版本不支援 CSS 圓角XD）。<br />
+<br />
+此次的更新只限於首頁，點擊其他內容後就會跳回原始的全畫面網站。<br />
+<br />
+除了行動版頁面外，對應 Mozilla 的 <a href="http://mozilla.con/m">http://mozilla.con/m</a>，三月底時 CQD&nbsp;也製作了&nbsp;<a href="http://moztw/m">http://moztw/m</a>&nbsp;，作為行動裝置的 Firefox 快速下載頁。<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHcDyfzawW5_Ls63JFuVX9HR95b4MzR7sNrUNZJrBiN32XEzClSzdoTUPUs_Bsp_vrtrX3lhme2KkCaQgsT9p5-U6qNcfW82YVfzafGIXyWh1Cg1op7DqbDWyqGSgps3JDvu0Cw/s1600/screen-capture.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="/assets/images/blogger.googleusercontent.com/268ad875cb7471e9.png" width="340" /></a></div>
+<br />
+很多人注意到，這次從 Firefox 4 公開，到 MozTW 網站更新完成，有好幾天的落差。更新太慢的原因很簡單，就是<b>人力不足</b>。如果您對 Firefox 有興趣，想要加入 MozTW 社群一同貢獻所長，並且了解 HTML、CSS，或者會使用美工軟體的平面設計，甚或是翻譯、打雜等任何其他技能者，請看&nbsp;<a href="http://moztw.org/contribute/">參與我們</a> 頁面。<br />
+<br />
+<br />
+<span style="font-size: large;">延伸閱讀</span><br />
+<ul>
+<li><a href="http://www.alistapart.com/articles/responsive-web-design/">A List Apart: Articles: Responsive Web Design</a></li>
+<li><a href="http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/">Responsive Web Design: What It Is and How To Use It - Smashing Magazine</a></li>
+</ul>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>

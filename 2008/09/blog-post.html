@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>國泰世華網路銀行相容性問題分析 - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>國泰世華網路銀行相容性問題分析</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2008-09-10T01:03:00.008Z">2008年9月10日</time>
+    <span>來源：blogger</span>
+    <a href="http://irvin.sto.tw/2008/09/blog-post.html" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <p>過去就曾經 <a href="/2007/03/firefox-hsbc-direct.html">幹繳</a> 過國泰世華的 <a href="https://www.mybank.com.tw">網路銀行</a>，還因此跑去申請 HSBC Direct。</p>
+<blockquote>之前很多人推薦的國泰世華網路銀行，在非 IE 瀏覽器上，只有登入的第一頁可以看，當頁全部的連結都無效。很無法理解，既然做到「可以登入」了，為啥會在超連結上破功，真是白痴的錯誤；至於他的電子賬單，在非 IE 瀏覽器＋Gmail 上，也完全走樣。如果有那家的網路銀行是完全沒問題的，我會想把信用卡、帳戶等所有東西都轉過去，以備不久的未來，完全 M$ Out 時不會有相容性問題。</blockquote>
+<p>如同預想的一樣，HSBC Direct 所有功能在 Firefox 跟 Safari 等標準瀏覽器上都是完全正常的；而國內第一大金控國泰世華，從我第一次跟他們客服抱怨到現在，過了五年還是一樣不長進。</p>
+<p>今天突然想到來看看，為什麼國泰世華網路銀行在 Firefox 能夠登入，但是卻不能使用。沒想到問題真的非常單純，讓一個有經驗的程式設計師來改，大概十分鐘就可以修好了吧……</p>
+<div id="fullpost">
+<p>這是國泰世華銀行在 Firefox 3 上登入後的第一個畫面。</p>
+<p><a href="http://www.flickr.com/photos/60061298@N00/2844022959"><img src="/assets/images/static.flickr.com/e4f50dec5350c599.jpg" /></a></p>
+<p>按下「證卷服務」看看吧。</p>
+<p><a href="http://www.flickr.com/photos/60061298@N00/2844757732"><img src="/assets/images/static.flickr.com/3c9fc65fee778f00.jpg" /></a></p>
+<p>看起來上方的「銀行服務、證卷服務、信用卡服務……」都是完全正常的，不過左邊的功能選項「額度繳款查詢、預借現金額度查詢……」就失效了。</p>
+<p>我們打開網頁下方的頁框來看看。</p>
+<p><a href="http://www.flickr.com/photos/60061298@N00/2843923729"><img src="/assets/images/static.flickr.com/25f2d5010a929a1c.jpg" /></a></p>
+<p>下方的頁框是證卷服務的頁面。看得出來，上方的服務選項是連結到下方的頁框，左邊的功能則是連結到頁框的本身。</p>
+<p>現在打開頁框的原始碼看看……</p>
+<p><a href="http://www.flickr.com/photos/60061298@N00/2844857630"><img src="/assets/images/static.flickr.com/fc9ceba1175732d1.jpg" /></a></p>
+<pre><code>&lt;a href="#" onclick="Show_WebData('C185')"&gt;額度繳款查詢&lt;/a&gt;&lt;br&gt;
+&lt;a href="#" onclick="Show_WebData('C395')"&gt;預借現金額度查詢&lt;/a&gt;&lt;br&gt;
+&lt;a href="#" onclick="Show_WebData('C195')"&gt;帳單及消費明細&lt;/a&gt;&lt;br&gt;
+&lt;a href="#" onclick="Show_WebData('C205')"&gt;未出帳明細&lt;/a&gt;&lt;br&gt;
+&lt;a href="#" onclick="Show_WebData('C600')"&gt;信用卡消費分析&lt;/a&gt;
+</code></pre>
+<p>帳單及消費明細的連結是呼叫「Show_WebData('C195')」這個函式來顯示，讓我們看看函式的原始碼。</p>
+<p><a href="http://www.flickr.com/photos/60061298@N00/2844023161"><img src="/assets/images/static.flickr.com/a9740b1054f35dce.jpg" /></a></p>
+<p>最重要的是這一句：</p>
+<pre><code>sHtml = sHtml &amp; "&lt;iframe style='float:none' frameborder=0 id='" &amp; sWPID &amp; "' width='100%' height='100%' scrolling=no src='" &amp; left(sWPID,3) &amp; ".asp'&gt;&lt;/iframe&gt;"
+</code></pre>
+<p>現在可以解讀出按下「帳單及消費明細」連結的網頁了，網址就是國泰世華銀行的原始連結，加上C195的左邊三個字母，就是：https://www.mybank.com.tw/pweb/c19.asp</p>
+<p>打開這個連結試試看。</p>
+<p><a href="http://www.flickr.com/photos/60061298@N00/2844759280"><img src="/assets/images/static.flickr.com/3e27c986031de972.jpg" /></a></p>
+<p>成功，看到網頁了。</p>
+<p>所以說，國泰世華銀行瀏覽器標準相容性的最大問題，就在於用了 vbs 做功能連結的語法，只要改成 jsp，就可以一針見效了。國內第一金控國泰世華銀行的諸公啊，都幫你們找出問題所在了，何時才能把這個問題修好呢？</p>
+<p>如果需要再花五年的話，Firefox、Safari、Google Chrome 等瀏覽器，還有手機、iPhone、EeePC，加起來 20% 以上的使用者都要跟我一樣 <a href="http://www.google.com/search?num=20&q=Firefox+%E7%B6%B2%E8%B7%AF%E9%8A%80%E8%A1%8C">換個更好的選擇</a> 嘍！</p>
+<p>在此把國泰世華銀行的銀行跟信用卡功能中，看起來使用正常的選項，連結整理在下。在他們還未改好之前，可以先在網路銀行登入，再來這邊點選，開啟需要的功能頁面。</p>
+<p>（希望有人能把這個寫成 Firefox 擴充套件或者 Grease Monkey 之類的修正碼，直接套上國泰世華網路銀行……）</p>
+<p>銀行服務：<br />
+<a href="https://www.mybank.com.tw/pweb/c01.asp">存款帳戶查詢</a>、<a href="https://www.mybank.com.tw/pweb/c16.asp">借款查詢</a>、<a href="https://www.mybank.com.tw/pweb/c02.asp">帳戶交易明細</a>、<a href="https://www.mybank.com.tw/pweb/c04.asp">支存待補明細</a>、<a href="https://www.mybank.com.tw/pweb/c23.asp">全部存單明細</a><br>
+<a href="https://www.mybank.com.tw/pweb/c05.asp">國內匯入款查詢</a>、<a href="https://www.mybank.com.tw/pweb/c22.asp">託收票據查詢</a>、<a href="https://www.mybank.com.tw/pweb/c30.asp">U-Life、炫金卡查詢</a><br>
+<a href="https://www.mybank.com.tw/pweb/c12.asp">即時轉帳查詢</a>、<a href="https://www.mybank.com.tw/pweb/C14_Detail_Qry.asp">外匯帳戶明細查詢</a><br>
+<a href="https://www.mybank.com.tw/pweb/C14_Ex_Qry.asp">外匯匯出款明細查詢</a>、<a href="https://www.mybank.com.tw/pweb/C14_Im_Qry.asp">外匯匯入款明細查詢</a><br>
+<a href="https://www.mybank.com.tw/pweb/c17.asp">外匯線上定存</a>、<a href="https://www.mybank.com.tw/pweb/C23.asp?QryType=2">外匯存單明細查詢</a>、<a href="https://www.mybank.com.tw/pweb/C12.asp?Type=F">即時轉帳查詢</a>、<a href="https://www.mybank.com.tw/pweb/C14_FX.asp">FX English Menu</a></p>
+<p>信用卡服務：<br />
+<a href="https://www.mybank.com.tw/pweb/c18.asp">額度繳款查詢</a>、<a href="https://www.mybank.com.tw/pweb/c19.asp">帳單及消費明細</a>、<a href="https://www.mybank.com.tw/pweb/c20.asp">未出帳明細</a>、<a href="https://www.mybank.com.tw/pweb/c60.asp">信用卡消費分析</a><br>
+<a href="https://www.mybank.com.tw/pweb/C40.asp">信用卡開卡</a>、<a href="https://www.mybank.com.tw/pweb/C32.asp">信用卡申請進度查詢</a><a href="http://www.treemall.com.tw/reward/">紅利線上兌換</a>、<a href="https://www.mybank.com.tw/pweb/C28.asp">紅利積點查詢</a></p>
+</div>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Firefox Voice intents workshop - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>Firefox Voice intents workshop</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2020-03-15T09:04:43.297Z">2020年3月15日</time>
+    <span>來源：medium</span>
+    <a href="https://irvinfly.medium.com/firefox-voice-workshop-85fb88d8d40b" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <h3>Firefox Voice intents workshop</h3>
+<h4>Volunteer help to add new voice-control commands for Firefox</h4>
+<iframe src="https://embedr.flickr.com/photos/49656031302" width="700" height="394" frameborder="0" scrolling="no"></iframe>
+<p><a href="https://github.com/mozilla/firefox-voice">Firefox Voice</a> is an experimental add-on adding voice-control for Firefox. You can play with it now by installing the add-on on the desktop version of Firefox from the below page.</p>
+<p><strong>Test Firefox Voice - Mozilla Community Portal</strong>
+*Firefox Voice is an experiment from Mozilla that lets you browse and get more done with your voice-faster than ever. We…*community.mozilla.org</p>
+<p>During the Mozilla Berlin All-Hands, we had some discussion with the engineers about if a community volunteer can help to build intents (voice commands) for Firefox Voice. We were wondering if this topic will be interesting for volunteers to work on, and decided to run a pilot workshop at <a href="https://moztw.org/space">Taipei Community Space.</a></p>
+<p>As a branch event of our regular browser add-on workshop, on Feb 29, five people joined the very first Firefox Voice intents workshop with us from 2 to 6 pm.</p>
+<p>The combination of attendees were one experienced add-on developer and evangelism to lead the workshop, one people who come to the add-on workshop often, and two new people who is able to write JS without any add-on dev experience.</p>
+<p>In the end, we have came up with two PRs (<a href="https://github.com/mozilla/firefox-voice/issues/1128">1128</a> &amp; <a href="https://github.com/mozilla/firefox-voice/issues/1129">1129</a>), and here are the problems we had, during the workshop:</p>
+<h3>Set-up the extension developing environment</h3>
+<p>It took us 2 hrs for everyone to fully set up their web extension developing environment (on Two Mac, one Windows and one Linux). The problems we bumped-in includes:</p>
+<ol>
+<li>Need to install node/npm.</li>
+<li>A broken git on Win laptop.</li>
+<li>Need to download and install Firefox nightly.</li>
+<li>Windows laptop unable to use
+npm run start
+to pack the source and run with nightly (resolved by download the pre-packed xpi file, extracted and replaced the files in the repo, and run with
+web-ext run
+.</li>
+<li>npm run start
+is unable to find Nightly on Linux, because it’s named firefox-trunk instead of firefox-nightly, resolved by run
+web-ext run --firefox=firefox-trunk
+.</li>
+<li>On Mac, the mic privilege requesting dialog (for iTerm) showed up pretty late, cause some privilege problem.</li>
+</ol>
+<p><img src="/assets/images/miro.medium.com/571324b0f9a45478.png" alt=""></p>
+<h3>Problems people had when working on the intents</h3>
+<p>While working on intents, these are the problems we had:</p>
+<ol>
+<li>The voice command panel is not working properly on the current master branch.</li>
+<li>Intent matching is quite tricky. It’s hard to know if the command is handled by the new intent we’re working on, or get caught by the current intents. Eg., the intent (about tab) I tried to implement was always caught by
+find.find
+, whatever the different words I try to use.</li>
+<li>The good-new-bugs the mentor had prepared to use as the examples had been patched before the workshop took place.</li>
+<li>The biggest problem — the current STT doesn’t recognize our tones. We will need to retry like more than ten times before the STT can output the sentences we would like to say.</li>
+</ol>
+<p>We eventually use another laptop’s TTS, to vocalize the sentences we like to test. After the workshop, one of us eventually found we can, in fact, typing the sentences instead of trying to say it again and again.</p>
+<iframe src="https://embedr.flickr.com/photos/49656005127" width="700" height="394" frameborder="0" scrolling="no"></iframe>
+<p>People did have lots of fun and positive feedback for the workshop. If you want to find an interesting topic to hack with the community member together, <a href="https://github.com/mozilla/firefox-voice/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">check some good-first-bugs</a> for Firefox Voice now.</p>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>

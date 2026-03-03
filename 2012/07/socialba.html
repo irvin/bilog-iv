@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Socialba 套件在噗浪偷放「登入驗證碼」廣告 - Irvin Blog Archive</title>
+    <meta name="description" content="從舊 Blogger 與 Medium 遷移的靜態文章彙整" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="Irvin Blog Archive RSS" href="/feed.xml" />
+  </head>
+  <body>
+    <a href="#main" class="skip-link">跳到主要內容</a>
+    <header class="site-header">
+      <a href="/" class="home-link">Irvin Blog Archive</a>
+      <nav class="site-nav" aria-label="主選單">
+        <a href="/">首頁</a>
+        <a href="/archive/">Archive</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <main id="main">
+      <article class="post">
+  <header class="post-header">
+    <h1>Socialba 套件在噗浪偷放「登入驗證碼」廣告</h1>
+  </header>
+  <p class="meta">
+    <time datetime="2012-07-10T17:27:00.001Z">2012年7月11日</time>
+    <span>來源：blogger</span>
+    <a href="http://irvin.sto.tw/2012/07/socialba.html" target="_blank" rel="noopener">原文連結</a>
+  </p>
+  <section class="post-content">
+    <p><i><a href="http://socialba.com/">Socialba</a> 的 Chrome 套件偷在網站的登入畫面放「登入驗證碼」廣告，受害者有永慶房屋 housefun、mobile01 跟噗浪。</i></p>
+<p>近來幾天有人提到噗浪登入時出現新的驗證碼機制，雖然這是很有創意的廣告型式，但是噗浪的廣告不會這麼沒有 Sense（其實我們還真沒想到有這招）。既然這個廣告不是噗浪做的，那到底是怎麼出現的呢？</p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzx_BFAbrJqWRex04kDrpOio8yIhY6-DRVgt7tnyK1_KBza33uMHCAkQ2pS9l6KvUZb_QbXcx-RMDR-7miBWRYgpMFyrvf8YEIQ2psLQy3qYjjuN6shjgVIa-GeLSWtv2axqY6sw/s1600/2012-07-11+01.02.56.png" imageanchor="1"><img border="0" height="524" src="/assets/images/blogger.googleusercontent.com/18b5006b52c2536d.png" width="640" /></a></div>
+<p>開發者工具按下去就發現這是 Socialba 這個訊息同步套件做的了。（藏的也太不隱密了，失敗！）</p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBIJMG7yynDpr3WJlRiBEOWYVy7xqYHGdKqIolFIRtmjMcMiJXnpfnLwpFEgo6B-UyWPbMvS0IAhe3cl0v0OrYqwRY5CA9sStWXXZvboZtYfbs_Frt5nnEPs6KRLwFZM0KI515og/s1600/2012-07-11+01.00.29.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/assets/images/blogger.googleusercontent.com/4a31ca83069f9d32.png" width="640" /></a></div>
+<p>翻了一下它的 Code（檔案在 Chrome/Profile N/Extensions/some_random_text/2.1.9_0/scripts/tools/vc.ad.js），證據確鑿。看他的內容，基本上應該只是單純比對輸入的字串對不對。</p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi62vL85JPGkaKlAQM06CGu2-_GAJs1siiXhx4hHG_Zn4OR9r2yfVFJTEjihJ5osTuxCfiafhaHterwzmWv1sO2QFBT62DYZbu5WNrmJ2NRvIHZYSc-jy7oEPs5XGzofwuSZX1l8Q/s1600/2012-07-11+00.59.44.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="406" src="/assets/images/blogger.googleusercontent.com/4425aca82b802b60.png" width="640" /></a></div>
+<p>不過這種會偷偷塞廣告的套件，誰知道何時會偷錄下大家的帳號密碼，所以還是快快把它移除掉吧。</p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGGg9Cz2qzCL7ptsXU6rcuovdovlxqO7qrQ15TYXvgMdKPW4r4SM9eFbJnKUNH2Xc3SzhRq8a3im-YikZs4sW7h85l4zsoNJKOM3tSAvJILG092ljnUzhuuiTe5-pjVZJPrmOEvg/s1600/2012-07-11+01.18.34.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="403" src="/assets/images/blogger.googleusercontent.com/4dfd82062d86d983.png" width="640" /></a></div>
+<p>回到它的網站一看，<a href="http://socialba.com/about/terms/">他的&nbsp;TOS</a> 裡面倒就有提到會在網站上放廣告了。老師有在說下載安裝東西前要看清楚授權條款……</p>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixnjV45vhkixznkjPP6HhAtnVK8bQpSROHsNL-InwxndpxCWGOFZQvzLUFJXjBwQghj-SaC-4A31VKyR72PDuuYRHZQdNsAGSZlDGyJreJjbSCt9lO4rf6pF0nZZsZOSdFuu80Sg/s1600/2012-07-11+01.39.26.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="430" src="/assets/images/blogger.googleusercontent.com/604f6ed29796e3d2.png" width="640" /></a></div>
+<p>翻了一下 Firefox 的原始碼，看來廣告目前還是 Chrome 限定，難怪這麼多天我都沒有注意到。<b>私心</b>推薦大家還是用 Firefox 吧，至少 Firefox 套件中心上面的套件都有志工進行審核，相對還是比 Chrome Market 只要付錢就任你上架好。不過這次 Socialba 的 Firefox 版也是在他們網站上直接提供下載的。總之只在 Firefox 套件中心安裝套件，會比較安全些，尤其是牽扯到帳號密碼的服務。</p>
+
+  </section>
+</article>
+
+    </main>
+    <footer class="site-footer">
+      <p>從舊 Blogger 與 Medium 遷移的靜態文章彙整</p>
+      <p>
+        除另有註明外，本站內容採用
+        <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh_Hant" target="_blank">CC BY-NC-SA 4.0</a>
+        授權。
+      </p>
+    </footer>
+  </body>
+</html>
