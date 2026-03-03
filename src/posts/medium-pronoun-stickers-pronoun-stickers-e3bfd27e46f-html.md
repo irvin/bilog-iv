@@ -10,4 +10,75 @@ tags: ["medium"]
 excerpt: "代名詞貼紙 Pronoun Stickers 讓活動中的每個人，都能依期望的方式受到尊重 COSCUP 2019 MozTW 攤位的代名詞貼紙 代名詞貼紙的主要目的，是在活動時，貼到名牌或身上，讓它人知道你 / 妳希望被如何稱呼。 在實體活動中，我們希望每個人—不管是男性、女性、跨性別者，都可以依其希望的方式而互動，並受到尊重。代名詞貼紙可以讓每個人都知道該"
 ---
 
-<section name="f94b" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="cc0c" id="cc0c" class="graf graf--h3 graf--leading graf--title">代名詞貼紙 Pronoun Stickers</h3><h4 name="7388" id="7388" class="graf graf--h4 graf-after--h3 graf--subtitle">讓活動中的每個人，都能依期望的方式受到尊重</h4><figure name="1642" id="1642" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*9emZUrs8D0QFRwzLtWN4AA.jpeg" data-width="1024" data-height="1023" data-is-featured="true" alt="COSCUP 2019 MozTW 攤位的代名詞貼紙" src="/assets/images/miro.medium.com/40ddd48bf304efe0.jpeg"><figcaption class="imageCaption"><a href="https://www.flickr.com/photos/irvin/48565411172/in/datetaken/" data-href="https://www.flickr.com/photos/irvin/48565411172/in/datetaken/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">COSCUP 2019 MozTW 攤位的代名詞貼紙</a></figcaption></figure><p name="c313" id="c313" class="graf graf--p graf-after--figure">代名詞貼紙的主要目的，是在活動時，貼到名牌或身上，讓它人知道你 / 妳希望被如何稱呼。</p><p name="756a" id="756a" class="graf graf--p graf-after--p">在實體活動中，我們希望每個人—不管是男性、女性、跨性別者，都可以依其希望的方式而互動，並受到尊重。代名詞貼紙可以讓每個人都知道該如何稱呼對方，以及如何被記憶下來。</p><blockquote name="aa91" id="aa91" class="graf graf--pullquote graf-after--p">有些朋友只是喜歡穿女裝、留長髮，但是不一定喜歡被視為女生；有些朋友具有男性化的外表，但是不一定希望被以男生的代詞稱呼。</blockquote><p name="8a95" id="8a95" class="graf graf--p graf-after--pullquote">使用對方希望的代名詞稱之，別根據對方的外表而預設立場，是更為尊重與包容的作法。如果不確定該怎麼稱呼對方，先問問看，總比用錯的好。</p><p name="a6d2" id="a6d2" class="graf graf--p graf-after--p">我們認為，如果大家都能貼上代名詞貼紙，或許就可以讓更加需要的朋友，不會有受到特別標記的感受。</p><p name="f679" id="f679" class="graf graf--p graf-after--p">希望大家能協助分享、一起推動，讓每個活動空間，都能成為對每一個人都更為包容的場所。</p><p name="7526" id="7526" class="graf graf--p graf-after--p graf--trailing">謝謝您的貼心 ❤</p></div></div></section><section name="adc4" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="bc93" id="bc93" class="graf graf--p graf--leading"><em class="markup--em markup--p-em">Mozilla 台灣社群提供資訊領域活動免費代名詞貼紙及說明牌，歡迎與我（Irvin）聯繫。 *仍將依照存量與活動決定</em></p><p name="45ec" id="45ec" class="graf graf--p graf-after--p">歡迎加入 MozTW 社群 <a href="http://moztw.org/tg" data-href="http://moztw.org/tg" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Telegram</a> (PrideZilla 頻道)。</p><figure name="9b1a" id="9b1a" class="graf graf--figure graf-after--p graf--trailing"><img class="graf-image" data-image-id="1*q_dYUkvVy6SQBlDYbzFm6g.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/51d206b289c295ae.jpeg"><figcaption class="imageCaption"><a href="https://www.flickr.com/photos/irvin/48565264066/" data-href="https://www.flickr.com/photos/irvin/48565264066/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">COSCUP 2019 Badge DIY 桌</a></figcaption></figure></div></div></section><section name="ff11" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 name="d6fe" id="d6fe" class="graf graf--h4 graf--leading">設計範例</h4><p name="90c3" id="90c3" class="graf graf--p graf-after--h4">以下檔案歡迎自由取用、印刷。原始 AI 檔皆置於 Github 上： <a href="https://github.com/irvin/pronoun-stickers" data-href="https://github.com/irvin/pronoun-stickers" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">https://github.com/irvin/pronoun-stickers</a></p><p name="dbf5" id="dbf5" class="graf graf--p graf-after--p">*2023更新：將 2019 原始設計中的「他」「她」改為更具實用性的「先生」「小姐」，並且增加「Xe」與「叫名字」。</p><p name="c99c" id="c99c" class="graf graf--p graf-after--p"><a href="https://github.com/irvin/pronoun-stickers/blob/master/拼板_pronoun_sticker_先生小姐_A3_外框.ai.pdf" data-href="https://github.com/irvin/pronoun-stickers/blob/master/拼板_pronoun_sticker_先生小姐_A3_外框.ai.pdf" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">A3 拼板</strong></a>（*2023更新）</p><p name="a1d1" id="a1d1" class="graf graf--p graf-after--p">可找輸出店單張輸出急件，然後找大家一起手割。每一枚為撕下為 3cm 方形，灰色貼紙用於自由書寫。</p><figure name="8b38" id="8b38" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*FQrvfp2MblClgf26zt2U3w.png" data-width="1886" data-height="1354" src="/assets/images/miro.medium.com/ddf38e69c7bab87b.png"></figure><p name="7291" id="7291" class="graf graf--p graf-after--figure"><a href="https://github.com/irvin/pronoun-stickers/blob/master/單張_pronoun_25mm_demo.png" data-href="https://github.com/irvin/pronoun-stickers/blob/master/單張_pronoun_25mm_demo.png" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">單張</strong></a>（*2023更新）</p><p name="d119" id="d119" class="graf graf--p graf-after--p">送貼紙店大量輸出，成本非常低。建議印刷為 2.5 cm 大小。</p><figure name="1a20" id="1a20" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*fquPw-J8OkYJZVocisvtwQ.png" data-width="1364" data-height="1362" src="/assets/images/miro.medium.com/d5849427781a7aa6.png"></figure><p name="0145" id="0145" class="graf graf--p graf-after--figure"><a href="https://github.com/irvin/pronoun-stickers/blob/master/stickerHD_pronoun_%E5%9C%96%E9%91%91%E8%B2%BC%E7%B4%99%E9%99%84%E5%88%80%E8%86%9C.ai.pdf" data-href="https://github.com/irvin/pronoun-stickers/blob/master/stickerHD_pronoun_%E5%9C%96%E9%91%91%E8%B2%BC%E7%B4%99%E9%99%84%E5%88%80%E8%86%9C.ai.pdf" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">全張貼紙附刀模線</strong></a>（14cm x 20cm）</p><p name="a42e" id="a42e" class="graf graf--p graf-after--p">可送 <a href="https://stickerhd.com/catalogs/sheets" data-href="https://stickerhd.com/catalogs/sheets" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">StickerHD 圖鑑貼紙</a>，含刀膜與霧 P，印刷質感極佳，但是成本超高（一張近 NTD 100）。</p><figure name="189b" id="189b" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*mJbSkTQ2KD_x46ccN0qllg.png" data-width="1728" data-height="1222" src="/assets/images/miro.medium.com/37481ecce745a748.png"></figure><p name="f165" id="f165" class="graf graf--p graf-after--figure"><a href="https://github.com/irvin/pronoun-stickers/blob/master/代名詞_說明_pronoun_explain_v2_A4_外框.ai.pdf" data-href="https://github.com/irvin/pronoun-stickers/blob/master/代名詞_說明_pronoun_explain_v2_A4_外框.ai.pdf" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">說明立牌</strong></a>（A4 比例）(<a href="https://github.com/irvin/pronoun-stickers/blob/master/代名詞_說明_pronoun_explain_v2_A4_en_outline.ai.pdf" data-href="https://github.com/irvin/pronoun-stickers/blob/master/代名詞_說明_pronoun_explain_v2_A4_en_outline.ai.pdf" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">in English</a>)（*2023更新）</p><figure name="6b1b" id="6b1b" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*AEx2LDB3BC7CEOZmbFMu5Q.png" data-width="1191" data-height="1700" src="/assets/images/miro.medium.com/e080772ae926e23a.png"></figure><figure name="15db" id="15db" class="graf graf--figure graf-after--figure graf--trailing"><img class="graf-image" data-image-id="1*_SSg-JZ4q4hrVctaCGjOkw.png" data-width="1191" data-height="1700" src="/assets/images/miro.medium.com/ba85ba4c86625b1c.png"></figure></div></div></section><section name="dc6e" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 name="6893" id="6893" class="graf graf--h4 graf--leading">延伸資料</h4><p name="e27f" id="e27f" class="graf graf--p graf-after--h4">Etsy 上還有許多設計可參考 <a href="https://www.etsy.com/market/pronoun_badge" data-href="https://www.etsy.com/market/pronoun_badge" class="markup--anchor markup--p-anchor" rel="nofollow noopener noopener noopener" target="_blank">https://www.etsy.com/market/pronoun_badge</a></p><div name="65bf" id="65bf" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.thesun.co.uk/fabulous/7124965/pronoun-badges-universities-students-freshers-week/" data-href="https://www.thesun.co.uk/fabulous/7124965/pronoun-badges-universities-students-freshers-week/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.thesun.co.uk/fabulous/7124965/pronoun-badges-universities-students-freshers-week/"><strong class="markup--strong markup--mixtapeEmbed-strong">What are pronoun badges and why are universities handing them out to students at freshers week</strong><br><em class="markup--em markup--mixtapeEmbed-em">UNIVERSITIES across the UK will be distributing pronoun badges in this upcoming freshers&#39; week. But what exactly are…</em>www.thesun.co.uk</a><a href="https://www.thesun.co.uk/fabulous/7124965/pronoun-badges-universities-students-freshers-week/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="04746efcf3e32dfa58ae7221bc04c4ad" data-thumbnail-img-id="0*ajWdKpBj5yrWhmCQ" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*ajWdKpBj5yrWhmCQ);"></a></div><div name="2b54" id="2b54" class="graf graf--mixtapeEmbed graf-after--mixtapeEmbed"><a href="https://nonbinary.wiki/wiki/Pronoun_badges" data-href="https://nonbinary.wiki/wiki/Pronoun_badges" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://nonbinary.wiki/wiki/Pronoun_badges"><strong class="markup--strong markup--mixtapeEmbed-strong">Pronoun badges</strong><br><em class="markup--em markup--mixtapeEmbed-em">Pronouns badges can help other people learn and remember which pronouns to call you by. You could wear a badge…</em>nonbinary.wiki</a><a href="https://nonbinary.wiki/wiki/Pronoun_badges" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="ad511c2f1767d3469604e76b833d25b1" data-thumbnail-img-id="0*pYbvD7jc3RyMPnzn" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*pYbvD7jc3RyMPnzn);"></a></div><div name="bd00" id="bd00" class="graf graf--mixtapeEmbed graf-after--mixtapeEmbed graf--trailing"><a href="https://lgbt.ucsf.edu/pronoun-stickers" data-href="https://lgbt.ucsf.edu/pronoun-stickers" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://lgbt.ucsf.edu/pronoun-stickers"><strong class="markup--strong markup--mixtapeEmbed-strong">Pronoun Stickers</strong><br><em class="markup--em markup--mixtapeEmbed-em">As a university that recognizes and appreciates diversity, UCSF strives to create an inclusive environment for all of…</em>lgbt.ucsf.edu</a><a href="https://lgbt.ucsf.edu/pronoun-stickers" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="c8ec81e5aa17410d9b9730cc45853505" data-thumbnail-img-id="0*guzRhF5iHWx3G8R9" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*guzRhF5iHWx3G8R9);"></a></div></div></div></section>
+### 代名詞貼紙 Pronoun Stickers
+
+#### 讓活動中的每個人，都能依期望的方式受到尊重
+
+![COSCUP 2019 MozTW 攤位的代名詞貼紙](/assets/images/miro.medium.com/40ddd48bf304efe0.jpeg)
+
+*[COSCUP 2019 MozTW 攤位的代名詞貼紙](https://www.flickr.com/photos/irvin/48565411172/in/datetaken/)*
+
+代名詞貼紙的主要目的，是在活動時，貼到名牌或身上，讓它人知道你 / 妳希望被如何稱呼。
+
+在實體活動中，我們希望每個人—不管是男性、女性、跨性別者，都可以依其希望的方式而互動，並受到尊重。代名詞貼紙可以讓每個人都知道該如何稱呼對方，以及如何被記憶下來。
+
+> 有些朋友只是喜歡穿女裝、留長髮，但是不一定喜歡被視為女生；有些朋友具有男性化的外表，但是不一定希望被以男生的代詞稱呼。
+
+使用對方希望的代名詞稱之，別根據對方的外表而預設立場，是更為尊重與包容的作法。如果不確定該怎麼稱呼對方，先問問看，總比用錯的好。
+
+我們認為，如果大家都能貼上代名詞貼紙，或許就可以讓更加需要的朋友，不會有受到特別標記的感受。
+
+希望大家能協助分享、一起推動，讓每個活動空間，都能成為對每一個人都更為包容的場所。
+
+謝謝您的貼心 ❤
+
+*Mozilla 台灣社群提供資訊領域活動免費代名詞貼紙及說明牌，歡迎與我（Irvin）聯繫。 *仍將依照存量與活動決定*
+
+歡迎加入 MozTW 社群 [Telegram](http://moztw.org/tg) (PrideZilla 頻道)。
+
+![](/assets/images/miro.medium.com/51d206b289c295ae.jpeg)
+
+*[COSCUP 2019 Badge DIY 桌](https://www.flickr.com/photos/irvin/48565264066/)*
+
+#### 設計範例
+
+以下檔案歡迎自由取用、印刷。原始 AI 檔皆置於 Github 上： [https://github.com/irvin/pronoun-stickers](https://github.com/irvin/pronoun-stickers)
+
+*2023更新：將 2019 原始設計中的「他」「她」改為更具實用性的「先生」「小姐」，並且增加「Xe」與「叫名字」。
+
+[**A3 拼板**](https://github.com/irvin/pronoun-stickers/blob/master/拼板_pronoun_sticker_先生小姐_A3_外框.ai.pdf)（*2023更新）
+
+可找輸出店單張輸出急件，然後找大家一起手割。每一枚為撕下為 3cm 方形，灰色貼紙用於自由書寫。
+
+![](/assets/images/miro.medium.com/ddf38e69c7bab87b.png)
+
+[**單張**](https://github.com/irvin/pronoun-stickers/blob/master/單張_pronoun_25mm_demo.png)（*2023更新）
+
+送貼紙店大量輸出，成本非常低。建議印刷為 2.5 cm 大小。
+
+![](/assets/images/miro.medium.com/d5849427781a7aa6.png)
+
+[**全張貼紙附刀模線**](https://github.com/irvin/pronoun-stickers/blob/master/stickerHD_pronoun_%E5%9C%96%E9%91%91%E8%B2%BC%E7%B4%99%E9%99%84%E5%88%80%E8%86%9C.ai.pdf)（14cm x 20cm）
+
+可送 [StickerHD 圖鑑貼紙](https://stickerhd.com/catalogs/sheets)，含刀膜與霧 P，印刷質感極佳，但是成本超高（一張近 NTD 100）。
+
+![](/assets/images/miro.medium.com/37481ecce745a748.png)
+
+[**說明立牌**](https://github.com/irvin/pronoun-stickers/blob/master/代名詞_說明_pronoun_explain_v2_A4_外框.ai.pdf)（A4 比例）([in English](https://github.com/irvin/pronoun-stickers/blob/master/代名詞_說明_pronoun_explain_v2_A4_en_outline.ai.pdf))（*2023更新）
+
+![](/assets/images/miro.medium.com/e080772ae926e23a.png)
+
+![](/assets/images/miro.medium.com/ba85ba4c86625b1c.png)
+
+#### 延伸資料
+
+Etsy 上還有許多設計可參考 [https://www.etsy.com/market/pronoun_badge](https://www.etsy.com/market/pronoun_badge)
+
+**What are pronoun badges and why are universities handing them out to students at freshers week**
+*UNIVERSITIES across the UK will be distributing pronoun badges in this upcoming freshers' week. But what exactly are…*www.thesun.co.uk
+
+**Pronoun badges**
+*Pronouns badges can help other people learn and remember which pronouns to call you by. You could wear a badge…*nonbinary.wiki
+
+**Pronoun Stickers**
+*As a university that recognizes and appreciates diversity, UCSF strives to create an inclusive environment for all of…*lgbt.ucsf.edu

@@ -10,4 +10,26 @@ tags: ["medium"]
 excerpt: "賓至如歸的杜拜觀光免費 sim 卡 免排隊、免註冊、免護照，還免費！ 月中經由杜拜轉機前往歐洲，layover 一整天，提早申請了過境簽證，進市區進行短暫觀光。 通過海關拿回護照時，意外發現多夾了一張杜拜政府贈送的 du 電信 1GB sim 卡。 插入手機後，立刻收到以你名子親切稱呼的歡迎簡訊，只要回傳生日年份，即可快速啟用免費 5G 上網。 1GB 足夠"
 ---
 
-<section name="941f" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="8dcf" id="8dcf" class="graf graf--h3 graf--leading graf--title">賓至如歸的杜拜觀光免費 sim 卡</h3><h4 name="99ff" id="99ff" class="graf graf--h4 graf-after--h3 graf--subtitle">免排隊、免註冊、免護照，還免費！</h4><p name="ce75" id="ce75" class="graf graf--p graf-after--h4">月中經由杜拜轉機前往歐洲，layover 一整天，提早申請了過境簽證，進市區進行短暫觀光。</p><p name="7c80" id="7c80" class="graf graf--p graf-after--p">通過海關拿回護照時，意外發現多夾了一張杜拜政府贈送的 du 電信 1GB sim 卡。</p><figure name="98c0" id="98c0" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*CzyEjq9TVuKvpK81XB4quQ@2x.jpeg" data-width="3024" data-height="3024" data-is-featured="true" src="/assets/images/miro.medium.com/adfd79f417e56cde.jpeg"></figure><p name="90cf" id="90cf" class="graf graf--p graf-after--figure">插入手機後，立刻收到以你名子親切稱呼的歡迎簡訊，只要回傳生日年份，即可快速啟用免費 5G 上網。</p><figure name="be0b" id="be0b" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*y7826uOQ8sMlIqbLZp7uPA@2x.jpeg" data-width="1170" data-height="2532" src="/assets/images/miro.medium.com/23353d2bf6497f55.jpeg"></figure><p name="9daa" id="9daa" class="graf graf--p graf-after--figure">1GB 足夠大部分過境旅客需求。不夠用的話，透過 du 電信的 app，也可直接在手機上 Apple Pay 刷卡儲值。</p><p name="ccfa" id="ccfa" class="graf graf--p graf-after--p graf--trailing">免排隊、免註冊、免護照，還免費！在這個處處都要拍照上傳的打卡時代，杜拜確實做到了賓至如歸（且毛骨悚然👻）的旅遊體驗。</p></div></div></section><section name="eb7b" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><blockquote name="368f" id="368f" class="graf graf--blockquote graf--leading graf--trailing">Tourists above the age of 18 can get a complimentary Tourism SIM card from telecom operator du when they cross immigration at Dubai International Airport. Those with a transit visa, visit visa or visa on arrival, and GCC citizens can take advantage of this offer and receive 1GB free mobile data valid for 24 hours.<br> — <a href="https://www.visitdubai.com/en/articles/sim-card-for-tourists" data-href="https://www.visitdubai.com/en/articles/sim-card-for-tourists" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">https://www.visitdubai.com/en/articles/sim-card-for-tourists</a></blockquote></div></div></section>
+### 賓至如歸的杜拜觀光免費 sim 卡
+
+#### 免排隊、免註冊、免護照，還免費！
+
+月中經由杜拜轉機前往歐洲，layover 一整天，提早申請了過境簽證，進市區進行短暫觀光。
+
+通過海關拿回護照時，意外發現多夾了一張杜拜政府贈送的 du 電信 1GB sim 卡。
+
+![](/assets/images/miro.medium.com/adfd79f417e56cde.jpeg)
+
+插入手機後，立刻收到以你名子親切稱呼的歡迎簡訊，只要回傳生日年份，即可快速啟用免費 5G 上網。
+
+![](/assets/images/miro.medium.com/23353d2bf6497f55.jpeg)
+
+1GB 足夠大部分過境旅客需求。不夠用的話，透過 du 電信的 app，也可直接在手機上 Apple Pay 刷卡儲值。
+
+免排隊、免註冊、免護照，還免費！在這個處處都要拍照上傳的打卡時代，杜拜確實做到了賓至如歸（且毛骨悚然👻）的旅遊體驗。
+
+> Tourists above the age of 18 can get a complimentary Tourism SIM card from telecom operator du when they cross immigration at Dubai International Airport. Those with a transit visa, visit visa or visa on arrival, and GCC citizens can take advantage of this offer and receive 1GB free mobile data valid for 24 hours.
+> 
+> —
+> 
+> https://www.visitdubai.com/en/articles/sim-card-for-tourists

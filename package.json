@@ -11,6 +11,7 @@
     "images:recover-flickr": "node scripts/recover-flickr-pending.js && npm run images:pending",
     "images:map": "node scripts/build-image-src-map.js",
     "medium:filter-responses": "node scripts/filter-medium-responses.js --apply",
+    "medium:to-markdown": "node scripts/convert-medium-html-to-md.js",
     "refresh-content": "npm run import && npm run localize-images",
     "build": "eleventy",
     "serve": "eleventy --serve"

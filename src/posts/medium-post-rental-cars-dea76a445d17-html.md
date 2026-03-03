@@ -10,4 +10,38 @@ tags: ["medium"]
 excerpt: "短租車禍的經驗 這篇訴求「注意租 iRent 的真實成本」的貼文，今天在同溫層很紅，來分享這十幾年來租車（短租、路側）的經驗。 一般正規租車公司，如和運（含 iRent）、格上（含 Smart2Go）、AVIS（含 ZipCar） 的保險，本來就有事故自付額，和運跟格上都是修理費最高一萬，外加營業損失修幾天就陪幾天的租車費（以日定價計算，和運最高收到 20"
 ---
 
-<section name="ab8e" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="bf0c" id="bf0c" class="graf graf--h3 graf--leading graf--title">短租車禍的經驗</h3><p name="82a0" id="82a0" class="graf graf--p graf-after--h3">這篇訴求「注意租 iRent 的真實成本」的貼文，今天在同溫層很紅，來分享這十幾年來租車（短租、路側）的經驗。</p><figure name="3412" id="3412" class="graf graf--figure graf--iframe graf-after--p"></figure><p name="8d70" id="8d70" class="graf graf--p graf-after--figure">一般正規租車公司，如和運（含 iRent）、格上（含 Smart2Go）、AVIS（含 ZipCar） 的保險，本來就有事故自付額，和運跟格上都是修理費最高一萬，外加營業損失修幾天就陪幾天的租車費（以日定價計算，和運最高收到 20 天，還<a href="https://www.easyrent.com.tw/irent/web/howto6.shtml" data-href="https://www.easyrent.com.tw/irent/web/howto6.shtml" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">按天數打折</a>）。</p><p name="5449" id="5449" class="graf graf--p graf-after--p">目前台灣市面的租車服務，只有和運（非 iRent）的一般租車服務，可以再另外加保免除營業損失的額外保險，保費大概到<a href="https://www.easyrent.com.tw/upload/event/108event/1939/" data-href="https://www.easyrent.com.tw/upload/event/108event/1939/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">租車費用的 1/3 左右</a>。要不然也可以自己去平常都是出國在用的 rentalcover.com 保（他的內容中有含營業損失），然後祈禱在台灣出事，這國外廠商也會正常出險，但保費就大概要單趟（多日合計）一千上下了。</p><p name="0fb3" id="0fb3" class="graf graf--p graf-after--p">我這幾年經常租車旅遊，自從 ZipCar 引進路邊租車之後，更是每個月都至少一到兩次以上，只有幾年前有一次在年假租車時出過車禍。那一趟租和運出廠不到一千公里的 Camry Hybrid（超級大台），暫停在省道路肩看地圖時，被一個阿伯追撞，整個車尾巴凹陷後輪歪掉。</p><p name="eede" id="eede" class="graf graf--p graf-after--p">剛好阿伯開 Lexus，也保和泰集團自家的保險。當天做完筆錄，車子吊回場之後，先刷維修自付額最高一萬，之後就全部都是保險公司內部自己跟自己談。一個月後，事故鑑定出來，確認阿伯 100% 肇責之後，直接到和運櫃台退刷一萬，20 天營業損失也由保險公司全額向對方求償，最後完全沒有出到額外的花費，（此外和運當天在事故處理完後，還提供替換的代步車，讓我繼續後續行程）。</p><p name="5504" id="5504" class="graf graf--p graf-after--p">和運在租車的保障上，算是真的很不錯的。看網路上經驗，小事故的營業損失都只會意思意思收個一兩天，還有明文規定營業損失長日數的打折機制。FB 本文這個案例，看起來就是租車者自己的責任，就算如此，最多也只會收到 (日定價2200x10x0.7)+(2200x5x0.6)+(2200x5x0.5)+10000=37500，算是很合理，怎麼看都不算是「單次事故極高的金額」的賠償金額吧？</p><p name="704d" id="704d" class="graf graf--p graf-after--p">如果租車者需要付超過這個價錢，應該不是<a href="https://www.easyrent.c%20om.tw/irent/web/howto7.shtml" data-href="https://www.easyrent.c om.tw/irent/web/howto7.shtml" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">有超速、酒駕、闖紅燈，就是給非租車者開之類的違約行為</a>了。</p><p name="0ac6" id="0ac6" class="graf graf--p graf-after--p">車不是租給你去撞的；不論是不是租的，上路本來就要小心駕駛。</p><p name="f99f" id="f99f" class="graf graf--p graf-after--p graf--trailing">BTW，我現在只要是超過幾個小時的租車，都會另外在前檔掛運動攝影機充作行車記錄器，多一份影片紀錄，在真的發生意外時，也能保護自己的權益。</p></div></div></section><section name="0550" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--outsetColumn"><figure name="48a9" id="48a9" class="graf graf--figure graf--layoutOutsetCenter graf--leading"><img class="graf-image" data-image-id="1*rsNvibSuyVzZGX_sfRYJrg.jpeg" data-width="2048" data-height="1365" data-is-featured="true" src="/assets/images/miro.medium.com/9abf8e80206eb392.jpeg"><figcaption class="imageCaption">圖片取自 <a href="https://www.facebook.com/ZipcarTaiwan/photos/a.256905144778788/918743061928323/" data-href="https://www.facebook.com/ZipcarTaiwan/photos/a.256905144778788/918743061928323/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Zipcar 粉絲頁</a></figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="6a22" id="6a22" class="graf graf--p graf-after--figure">Zipcar（by AVIS）都是 VW 的車，車款（主要是 Golf）不會太陽春（除了 Audi A4）或太舊（那台大家都愛的<a href="https://www.facebook.com/ZipcarTaiwan/posts/655025308300101" data-href="https://www.facebook.com/ZipcarTaiwan/posts/655025308300101" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">粉紅坦克</a>金龜車例外！），開起來真的很爽快，但是實在就比其他間貴太多了。</p><figure name="74bc" id="74bc" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*UClkargoNC_tSKqRJzIKkw.jpeg" data-width="1478" data-height="1108" src="/assets/images/miro.medium.com/42920bb86a37ea3d.jpeg"><figcaption class="imageCaption">圖片取自 <a href="https://www.facebook.com/smart2go.tw/posts/292410905515470" data-href="https://www.facebook.com/smart2go.tw/posts/292410905515470" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Smart2Go 粉絲頁</a></figcaption></figure><p name="10ef" id="10ef" class="graf graf--p graf-after--figure">格上 Smart2Go 目前推廣期，綁玉山卡到九月底都是五折，雖然車都是超級陽春款（例如音響沒有藍牙的 Livina）但全日只要一千塊！</p><p name="7093" id="7093" class="graf graf--p graf-after--p">附註：他的 app 遙控開關門完全不可信任，離開車子務必要拔鑰匙；此外目前我十來趟的經驗，app 還車失敗率高達 90%，只有一次不需要打客服。租整天的話，一定要抓提早一個小時的時間到還車點。</p><p name="1942" id="1942" class="graf graf--p graf-after--p graf--trailing">iRent 的話，服務品質、穩定度跟價格都大致介於 Zipcar 跟 Smart2Go 之間。有很多 hybrid（Yaris Hybrid、Prius C）是他的特色，但家裡永和附近的定點就永遠預約不到。然後沒道理 Hybrid 的里程跟一般汽油車一樣貴啊。</p></div></div></section>
+### 短租車禍的經驗
+
+這篇訴求「注意租 iRent 的真實成本」的貼文，今天在同溫層很紅，來分享這十幾年來租車（短租、路側）的經驗。
+
+一般正規租車公司，如和運（含 iRent）、格上（含 Smart2Go）、AVIS（含 ZipCar） 的保險，本來就有事故自付額，和運跟格上都是修理費最高一萬，外加營業損失修幾天就陪幾天的租車費（以日定價計算，和運最高收到 20 天，還[按天數打折](https://www.easyrent.com.tw/irent/web/howto6.shtml)）。
+
+目前台灣市面的租車服務，只有和運（非 iRent）的一般租車服務，可以再另外加保免除營業損失的額外保險，保費大概到[租車費用的 1/3 左右](https://www.easyrent.com.tw/upload/event/108event/1939/)。要不然也可以自己去平常都是出國在用的 rentalcover.com 保（他的內容中有含營業損失），然後祈禱在台灣出事，這國外廠商也會正常出險，但保費就大概要單趟（多日合計）一千上下了。
+
+我這幾年經常租車旅遊，自從 ZipCar 引進路邊租車之後，更是每個月都至少一到兩次以上，只有幾年前有一次在年假租車時出過車禍。那一趟租和運出廠不到一千公里的 Camry Hybrid（超級大台），暫停在省道路肩看地圖時，被一個阿伯追撞，整個車尾巴凹陷後輪歪掉。
+
+剛好阿伯開 Lexus，也保和泰集團自家的保險。當天做完筆錄，車子吊回場之後，先刷維修自付額最高一萬，之後就全部都是保險公司內部自己跟自己談。一個月後，事故鑑定出來，確認阿伯 100% 肇責之後，直接到和運櫃台退刷一萬，20 天營業損失也由保險公司全額向對方求償，最後完全沒有出到額外的花費，（此外和運當天在事故處理完後，還提供替換的代步車，讓我繼續後續行程）。
+
+和運在租車的保障上，算是真的很不錯的。看網路上經驗，小事故的營業損失都只會意思意思收個一兩天，還有明文規定營業損失長日數的打折機制。FB 本文這個案例，看起來就是租車者自己的責任，就算如此，最多也只會收到 (日定價2200x10x0.7)+(2200x5x0.6)+(2200x5x0.5)+10000=37500，算是很合理，怎麼看都不算是「單次事故極高的金額」的賠償金額吧？
+
+如果租車者需要付超過這個價錢，應該不是[有超速、酒駕、闖紅燈，就是給非租車者開之類的違約行為](https://www.easyrent.c%20om.tw/irent/web/howto7.shtml)了。
+
+車不是租給你去撞的；不論是不是租的，上路本來就要小心駕駛。
+
+BTW，我現在只要是超過幾個小時的租車，都會另外在前檔掛運動攝影機充作行車記錄器，多一份影片紀錄，在真的發生意外時，也能保護自己的權益。
+
+![](/assets/images/miro.medium.com/9abf8e80206eb392.jpeg)
+
+*圖片取自 [Zipcar 粉絲頁](https://www.facebook.com/ZipcarTaiwan/photos/a.256905144778788/918743061928323/)*
+
+Zipcar（by AVIS）都是 VW 的車，車款（主要是 Golf）不會太陽春（除了 Audi A4）或太舊（那台大家都愛的[粉紅坦克](https://www.facebook.com/ZipcarTaiwan/posts/655025308300101)金龜車例外！），開起來真的很爽快，但是實在就比其他間貴太多了。
+
+![](/assets/images/miro.medium.com/42920bb86a37ea3d.jpeg)
+
+*圖片取自 [Smart2Go 粉絲頁](https://www.facebook.com/smart2go.tw/posts/292410905515470)*
+
+格上 Smart2Go 目前推廣期，綁玉山卡到九月底都是五折，雖然車都是超級陽春款（例如音響沒有藍牙的 Livina）但全日只要一千塊！
+
+附註：他的 app 遙控開關門完全不可信任，離開車子務必要拔鑰匙；此外目前我十來趟的經驗，app 還車失敗率高達 90%，只有一次不需要打客服。租整天的話，一定要抓提早一個小時的時間到還車點。
+
+iRent 的話，服務品質、穩定度跟價格都大致介於 Zipcar 跟 Smart2Go 之間。有很多 hybrid（Yaris Hybrid、Prius C）是他的特色，但家裡永和附近的定點就永遠預約不到。然後沒道理 Hybrid 的里程跟一般汽油車一樣貴啊。

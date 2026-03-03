@@ -13,4 +13,105 @@ hidden_reason: "published in womany collection"
 original_permalink: "/%E5%A5%B3%E4%BA%BA%E8%BF%B7%E4%B8%80%E9%80%B1%E7%B2%BE%E9%81%B8-90c8d61804fb.html"
 ---
 
-<section name="b75a" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="b913" id="b913" class="graf graf--h3 graf--leading graf--title">女人迷一週精選</h3><h4 name="0a59" id="0a59" class="graf graf--h4 graf-after--h3 graf--subtitle">#關係日記 #<strong class="markup--strong markup--h4-strong">不是的父母</strong> #女孩嘻哈 #婚後離職 #男子失戀 #花開少女華麗島 #媽媽咪呀回來了 #經濟自主</h4><p name="d209" id="d209" class="graf graf--p graf-after--h4">【Cartier LOVE Ｘ關係日記】</p><h3 name="9cd1" id="9cd1" class="graf graf--h3 graf-after--p"><a href="https://womany.net/read/article/16376?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16376?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--h3-anchor" title="https://womany.net/read/article/16376?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" rel="nofollow noopener noopener" target="_blank">《P.S 我愛你》：我們在時光裡恆久靜止，而愛還繼續</a></h3></div><div class="section-inner sectionLayout--outsetColumn"><figure name="281e" id="281e" class="graf graf--figure graf--layoutOutsetCenter graf-after--h3"><img class="graf-image" data-image-id="1*NKVY8lEhrcxhS_Ry6E_QIA.png" data-width="1200" data-height="630" data-is-featured="true" src="/assets/images/miro.medium.com/8f549fa1b3b4f438.png"><figcaption class="imageCaption"><a href="https://womany.net/read/article/16376?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16376?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--figure-anchor" title="https://womany.net/read/article/16376?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" rel="nofollow noopener noopener noopener" target="_blank">《P.S 我愛你》：我們在時光裡恆久靜止，而愛還繼續</a></figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="733f" id="733f" class="graf graf--p graf-after--figure">《P.S 我愛你》裡的荷莉與杰瑞，一開始的愛很濃烈，她在愛爾蘭迷途，撞上一個男子，說要留下來，陪她看盡一生風景；他記得遇見她的那刻，她穿得像朵斑斕的花，後有廣袤草原襯著光，一雙閃爍的眼像小鹿。</p><p name="7b66" id="7b66" class="graf graf--p graf-after--p">當激情愛成日常，彼此深愛的痕跡，在你離去以後才逐漸顯影。一場腦瘤奪走杰瑞的生命，他只留下了十封信，可是那棟一起生活的屋子裡，到哪都有杰瑞的身影，好像他只是出趟遠門而已。</p><blockquote name="97d5" id="97d5" class="graf graf--pullquote graf-after--p graf--trailing">你離開以後，我們在時光裡靜止了，但我知道，愛還繼續。</blockquote></div></div></section><section name="763f" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><figure name="dc8e" id="dc8e" class="graf graf--figure graf--leading"><img class="graf-image" data-image-id="0*niWCZIWqWRV_vfzr.jpg" data-width="800" data-height="426" src="/assets/images/miro.medium.com/b1dc3fd99a1120d5.jpg"></figure><h3 name="707f" id="707f" class="graf graf--h3 graf-after--figure"><a href="https://womany.net/read/article/16411?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16411?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--h3-anchor" title="https://womany.net/read/article/16411?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" rel="nofollow noopener noopener" target="_blank">《茉莉的最後一天》不必恨，也不必等父母改，你可以愛回童年的自己</a></h3><p name="106e" id="106e" class="graf graf--p graf-after--h3 graf--trailing">看這部戲的時候，我一直想到最近閱讀的一本書《身體不說謊 —再揭幸福童年的秘密》，這是波蘭兒童心理學專家愛麗絲米勒的著作，她窮盡一身的心力，致力研究童年經驗與創傷對於成年生活的影響，呼籲世人關注虐童問題，<strong class="markup--strong markup--p-strong">因為，天下就是有不是的父母</strong>。</p></div></div></section><section name="da5f" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 name="10bb" id="10bb" class="graf graf--h4 graf--leading"><a href="https://womany.net/read/article/16448?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16448?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--h4-anchor" title="https://womany.net/read/article/16448?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" rel="nofollow noopener noopener noopener" target="_blank">妳憑什麼唱嘻哈？鄧紫棋 Rap 宣告：嘻哈是女孩的時代！</a></h4><p name="65b9" id="65b9" class="graf graf--p graf-after--h4">《中國新說唱》尚未開播，製作人鄧紫棋就已引起討論。網路上質疑聲不斷，認為她沒有資格，和其他四位製作人一起評審。陳冠希更在 MC HotDog 的 Instagram 下留言：</p><blockquote name="e756" id="e756" class="graf graf--blockquote graf--startsWithDoubleQuote graf-after--p">“RAPPERS ???? HAHAHAHAH U MEAN <strong class="markup--strong markup--blockquote-strong">A STAGE FULL OF BITCHES</strong> / NOT RAPPERS RIGHT ?”。</blockquote><p name="27f9" id="27f9" class="graf graf--p graf-after--blockquote graf--trailing">面對質疑，她在節目開始後，選擇用 Rap 回擊。</p></div></div></section><section name="6bed" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="e93b" id="e93b" class="graf graf--p graf--leading">[D&amp;I 了沒]</p><div name="0785" id="0785" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://womany.net/read/article/16433?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16433?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://womany.net/read/article/16433?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium"><strong class="markup--strong markup--mixtapeEmbed-strong">D&amp;I 了沒｜僅白人女性主管受惠，臉書坦承：招募非裔員工有困難｜女人迷 Womany</strong><br><em class="markup--em markup--mixtapeEmbed-em">2018，邁入第 15 年的 Facebook，可說是風波不斷。年初的個資外洩事件，讓 Facebook 股價大跌，同時第一季亮眼財報，讓華爾街跌破眼鏡：總收益為 119.7 億美元，全球每月總用戶數直逼 22 億人。7 月 12…</em>womany.net</a><a href="https://womany.net/read/article/16433?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="07c9e2a05a335e5ec11a8dac1477adeb" data-thumbnail-img-id="0*x7kdx7e97y23i2vk" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*x7kdx7e97y23i2vk);"></a></div><blockquote name="639b" id="639b" class="graf graf--blockquote graf-after--mixtapeEmbed graf--trailing">不論是廣告上對性別與種族的歧視，或是女性、非裔、拉丁裔等員工數不足的問題，Facebook 的歧視問題，一再被大眾檢視。難道 Facebook 都沒有提出改善措施嗎？有的，其實早從 2014 年，他就宣布推動員工多元化政策，期望提高代表性不足群體就職率。</blockquote></div></div></section><section name="2f33" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><div name="db42" id="db42" class="graf graf--mixtapeEmbed graf--leading graf--trailing"><a href="https://womany.net/read/article/16446?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16446?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://womany.net/read/article/16446?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium"><strong class="markup--strong markup--mixtapeEmbed-strong">東京醫大醜聞延燒：怕妳婚後離職和懷孕，入學考對女性扣分｜女人迷 Womany</strong><br><em class="markup--em markup--mixtapeEmbed-em">超過百年歷史的東京醫科大學，今年 7…</em>womany.net</a><a href="https://womany.net/read/article/16446?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="c58f98ac1d60eeb5a295d38cb66cb7e4" data-thumbnail-img-id="0*R7AUJDqrGYqcx6rb" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*R7AUJDqrGYqcx6rb);"></a></div></div></div></section><section name="b9ce" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="da0a" id="da0a" class="graf graf--p graf--leading">【Cartier LOVE Ｘ關係日記】</p></div><div class="section-inner sectionLayout--outsetColumn"><figure name="dd26" id="dd26" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><img class="graf-image" data-image-id="0*v3xEH0n7TTYvA-UE.png" data-width="1000" data-height="525" src="/assets/images/miro.medium.com/00004553ebf74eb0.png"></figure></div><div class="section-inner sectionLayout--insetColumn"><h4 name="af51" id="af51" class="graf graf--h4 graf-after--figure"><a href="https://womany.net/read/article/16334?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16334?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--h4-anchor" title="https://womany.net/read/article/16334?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" rel="nofollow noopener noopener" target="_blank">維多利亞和貝克漢：我不完美，但我沒有放棄過愛你的決心</a></h4><p name="15ea" id="15ea" class="graf graf--p graf-after--h4 graf--trailing">維多利亞與貝克漢的愛情，人說他們是金童玉女，只有他們自己知道，婚姻多少風雨，風雨過後，還是要牽著你的手。</p></div></div></section><section name="5a44" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><blockquote name="a495" id="a495" class="graf graf--blockquote graf--leading">我又失戀了。這個她説感覺不到我的在意，覺得我不想好好經營感情。但我一直以來，其實都是這樣。可在妳之後的每個人，都不約而同這樣說過。</blockquote><blockquote name="53a6" id="53a6" class="graf graf--blockquote graf-after--blockquote">或許，她們並沒說錯。如針扎般隱隱作痛的感覺，在妳之後，再也沒出現了。每次失戀的時候，都會讓我想起在年少時分開的妳。還有妳曾告訴我的那首詩。</blockquote><div name="7af1" id="7af1" class="graf graf--mixtapeEmbed graf-after--blockquote graf--trailing"><a href="https://womany.net/read/article/16440?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16440?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://womany.net/read/article/16440?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium"><strong class="markup--strong markup--mixtapeEmbed-strong">一首詩一種失戀｜鯨向海與男子失戀：離開妳後，憂鬱無法痊癒｜女人迷 Womany</strong><br><em class="markup--em markup--mixtapeEmbed-em">分開這麼久，有一首詩是屬於我的嗎？我也好想知道，過去那些憂鬱，是不是只有我一個人還沒度過。</em>womany.net</a><a href="https://womany.net/read/article/16440?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="5d6d961d843e05ee6fa95b655369ed29" data-thumbnail-img-id="0*xB4CLi-ism0KM_86" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*xB4CLi-ism0KM_86);"></a></div></div></div></section><section name="36ab" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><figure name="5255" id="5255" class="graf graf--figure graf--leading"><img class="graf-image" data-image-id="0*5tJIfmiFBScE7KrI.jpg" data-width="640" data-height="237" src="/assets/images/miro.medium.com/9b8cd16ef5264734.jpg"><figcaption class="imageCaption">《媽媽咪呀！回來了》</figcaption></figure><h4 name="a775" id="a775" class="graf graf--h4 graf-after--figure"><a href="https://womany.net/read/article/16333?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16333?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--h4-anchor" title="https://womany.net/read/article/16333?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" rel="nofollow noopener noopener noopener" target="_blank">謝謝妳走過的跌撞，成為我一生最好的養分</a></h4><p name="bd0f" id="bd0f" class="graf graf--p graf-after--h4">唐娜大學畢業，正值盛夏青春，帶著什麼都不怕的勇氣，還有不知道自己是誰的迷惘，她獨自一人闖蕩世界，意外在旅程中邂逅了三位摯愛，體會了愛情的美好，也經歷分手的傷痛⋯⋯</p><p name="7232" id="7232" class="graf graf--p graf-after--p graf--trailing">回歸獨身一人時，才發現自己懷孕了。不知道父親是誰，也不知道下一步該怎麼做，但是她決定留在這座充滿奇蹟的小島，她不害怕，因為生命中有了女兒的陪伴，就是最堅強的支持。</p></div></div></section><section name="3b09" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><figure name="87fc" id="87fc" class="graf graf--figure graf--leading"><img class="graf-image" data-image-id="0*kbwtsWVz84w3-e9J.png" data-width="1000" data-height="525" src="/assets/images/cdn-images-1.medium.com/4fb9143c36243e89.png"></figure><h3 name="0eba" id="0eba" class="graf graf--h3 graf-after--figure">《花開少女華麗島》楊双子專訪</h3><p name="f3e8" id="f3e8" class="graf graf--p graf-after--h3">2014 年，新台灣和平基金會宣布舉辦歷史小說獎，姊妹兩人在當年就決定，要寫<strong class="markup--strong markup--p-strong">台灣歷史百合 小說</strong>。直到 2015 二月底，醫生宣布妹妹已是癌症第三期末，生命只剩三到五個月。當天，双子立刻打電話給老闆辭掉工作。</p><p name="9ea0" id="9ea0" class="graf graf--p graf-after--p">「三到五個月是不可能寫完一本長篇小說的，所以我先寫短篇小說，也就是《花開少女華麗島》裡的第一篇〈花開時節〉，抓到語感和大概的風格，再開始依此發展長篇小說，拼全力趕啊，希望在妹妹過世前寫完。」</p><p name="eb1b" id="eb1b" class="graf graf--p graf-after--p">然而一隻筆再怎麼寫，也趕不上病魔速度。長篇寫到一半，妹妹就離世了。但双子必須振作，因妹妹的遺願是完成長篇《花開時節》。</p><div name="6bb5" id="6bb5" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://womany.net/read/article/16434?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16434?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://womany.net/read/article/16434?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium"><strong class="markup--strong markup--mixtapeEmbed-strong">《花開少女華麗島》楊双子專訪：百合創作，是從吐槽開始的｜女人迷 Womany</strong><br><em class="markup--em markup--mixtapeEmbed-em">《花開少女華麗島》將場景拉到教科書談得稀薄的日治時代、台灣現代化的開端。當少女們開始從自家門走入公共領域，接受西式教育、獨立工作、向文明之光生長，這些少女們的熱情、想望、追求，會是什麼？</em>womany.net</a><a href="https://womany.net/read/article/16434?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="8b5c705c668a7e7832949f9be179d6d0" data-thumbnail-img-id="0*71ByQvbFsChARWsn" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*71ByQvbFsChARWsn);"></a></div><p name="0074" id="0074" class="graf graf--p graf-after--mixtapeEmbed">双子說同人創作，簡單來說求的是萌和爽，「一開始我有過困惑，覺得這樣是不是沒有追求呢，但後來發現，大家玩在一起是最重要的！」</p><blockquote name="3b83" id="3b83" class="graf graf--pullquote graf-after--p">以前不可能做這些沒法賺錢、完全為了娛樂的工作。可是，百合文化讓我們重新點燃『萌』的感覺，我們就一頭栽進去了。</blockquote><figure name="6638" id="6638" class="graf graf--figure graf-after--pullquote"><img class="graf-image" data-image-id="0*tQpu5cBSHFcl41AA.png" data-width="800" data-height="530" src="/assets/images/cdn-images-1.medium.com/2133edef4ba18b85.png"></figure><div name="6c91" id="6c91" class="graf graf--mixtapeEmbed graf-after--figure"><a href="https://womany.net/read/article/16435?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" data-href="https://womany.net/read/article/16435?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://womany.net/read/article/16435?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium"><strong class="markup--strong markup--mixtapeEmbed-strong">《花開少女華麗島》楊双子專訪：女性情誼，不只是姊妹、戀人與競爭關係｜女人迷 Womany</strong><br><em class="markup--em markup--mixtapeEmbed-em">在相愛與競爭的關係之外，女性之間仍有非常廣大而複雜的地帶，可能是既喜歡又羨慕、嫉妒又欣羨、戀慕又困惑，這種種複雜的關係，過去沒有人看見，百合可以填補這一塊。</em>womany.net</a><a href="https://womany.net/read/article/16435?utm_campaign=selection&amp;utm_medium=social&amp;utm_source=medium" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="90573102dd0630d46889c806bd36952d" data-thumbnail-img-id="0*SM-tfjveAAE23w-h" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*SM-tfjveAAE23w-h);"></a></div><p name="0f36" id="0f36" class="graf graf--p graf-after--mixtapeEmbed">幻滅，也是双子寫作的基調。</p><blockquote name="5fed" id="5fed" class="graf graf--pullquote graf-after--p">我個人覺得，成長的開始，就是幻滅。因為人要成為自我的主體，勢必經過孤單，勢必是一個人的。可是人不一定是孤單的，『我』還是希望可以成為我們。</blockquote><p name="7306" id="7306" class="graf graf--p graf-after--pullquote">「我們」，不一定非得是戀人，也不一定是姊妹情誼，有沒有可能都是、或者游移在這廣大的地帶之間？</p><p name="6001" id="6001" class="graf graf--p graf-after--p graf--trailing">女性情誼在相愛與競爭的關係之外，仍有非常廣大而複雜的地帶。</p></div></div></section><section name="b07e" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="0875" id="0875" class="graf graf--p graf--leading">[女人迷調查]</p><figure name="e097" id="e097" class="graf graf--figure graf--iframe graf-after--p graf--trailing"></figure></div></div></section>
+### 女人迷一週精選
+
+#### #關係日記 #**不是的父母** #女孩嘻哈 #婚後離職 #男子失戀 #花開少女華麗島 #媽媽咪呀回來了 #經濟自主
+
+【Cartier LOVE Ｘ關係日記】
+
+### [《P.S 我愛你》：我們在時光裡恆久靜止，而愛還繼續](https://womany.net/read/article/16376?utm_campaign=selection&utm_medium=social&utm_source=medium)
+
+![](/assets/images/miro.medium.com/8f549fa1b3b4f438.png)
+
+*[《P.S 我愛你》：我們在時光裡恆久靜止，而愛還繼續](https://womany.net/read/article/16376?utm_campaign=selection&utm_medium=social&utm_source=medium)*
+
+《P.S 我愛你》裡的荷莉與杰瑞，一開始的愛很濃烈，她在愛爾蘭迷途，撞上一個男子，說要留下來，陪她看盡一生風景；他記得遇見她的那刻，她穿得像朵斑斕的花，後有廣袤草原襯著光，一雙閃爍的眼像小鹿。
+
+當激情愛成日常，彼此深愛的痕跡，在你離去以後才逐漸顯影。一場腦瘤奪走杰瑞的生命，他只留下了十封信，可是那棟一起生活的屋子裡，到哪都有杰瑞的身影，好像他只是出趟遠門而已。
+
+> 你離開以後，我們在時光裡靜止了，但我知道，愛還繼續。
+
+![](/assets/images/miro.medium.com/b1dc3fd99a1120d5.jpg)
+
+### [《茉莉的最後一天》不必恨，也不必等父母改，你可以愛回童年的自己](https://womany.net/read/article/16411?utm_campaign=selection&utm_medium=social&utm_source=medium)
+
+看這部戲的時候，我一直想到最近閱讀的一本書《身體不說謊 —再揭幸福童年的秘密》，這是波蘭兒童心理學專家愛麗絲米勒的著作，她窮盡一身的心力，致力研究童年經驗與創傷對於成年生活的影響，呼籲世人關注虐童問題，**因為，天下就是有不是的父母**。
+
+#### [妳憑什麼唱嘻哈？鄧紫棋 Rap 宣告：嘻哈是女孩的時代！](https://womany.net/read/article/16448?utm_campaign=selection&utm_medium=social&utm_source=medium)
+
+《中國新說唱》尚未開播，製作人鄧紫棋就已引起討論。網路上質疑聲不斷，認為她沒有資格，和其他四位製作人一起評審。陳冠希更在 MC HotDog 的 Instagram 下留言：
+
+> “RAPPERS ???? HAHAHAHAH U MEAN
+> 
+> A STAGE FULL OF BITCHES
+> 
+> / NOT RAPPERS RIGHT ?”。
+
+面對質疑，她在節目開始後，選擇用 Rap 回擊。
+
+[D&I 了沒]
+
+**D&I 了沒｜僅白人女性主管受惠，臉書坦承：招募非裔員工有困難｜女人迷 Womany**
+*2018，邁入第 15 年的 Facebook，可說是風波不斷。年初的個資外洩事件，讓 Facebook 股價大跌，同時第一季亮眼財報，讓華爾街跌破眼鏡：總收益為 119.7 億美元，全球每月總用戶數直逼 22 億人。7 月 12…*womany.net
+
+> 不論是廣告上對性別與種族的歧視，或是女性、非裔、拉丁裔等員工數不足的問題，Facebook 的歧視問題，一再被大眾檢視。難道 Facebook 都沒有提出改善措施嗎？有的，其實早從 2014 年，他就宣布推動員工多元化政策，期望提高代表性不足群體就職率。
+
+**東京醫大醜聞延燒：怕妳婚後離職和懷孕，入學考對女性扣分｜女人迷 Womany**
+*超過百年歷史的東京醫科大學，今年 7…*womany.net
+
+【Cartier LOVE Ｘ關係日記】
+
+![](/assets/images/miro.medium.com/00004553ebf74eb0.png)
+
+#### [維多利亞和貝克漢：我不完美，但我沒有放棄過愛你的決心](https://womany.net/read/article/16334?utm_campaign=selection&utm_medium=social&utm_source=medium)
+
+維多利亞與貝克漢的愛情，人說他們是金童玉女，只有他們自己知道，婚姻多少風雨，風雨過後，還是要牽著你的手。
+
+> 我又失戀了。這個她説感覺不到我的在意，覺得我不想好好經營感情。但我一直以來，其實都是這樣。可在妳之後的每個人，都不約而同這樣說過。
+
+> 或許，她們並沒說錯。如針扎般隱隱作痛的感覺，在妳之後，再也沒出現了。每次失戀的時候，都會讓我想起在年少時分開的妳。還有妳曾告訴我的那首詩。
+
+**一首詩一種失戀｜鯨向海與男子失戀：離開妳後，憂鬱無法痊癒｜女人迷 Womany**
+*分開這麼久，有一首詩是屬於我的嗎？我也好想知道，過去那些憂鬱，是不是只有我一個人還沒度過。*womany.net
+
+![](/assets/images/miro.medium.com/9b8cd16ef5264734.jpg)
+
+*《媽媽咪呀！回來了》*
+
+#### [謝謝妳走過的跌撞，成為我一生最好的養分](https://womany.net/read/article/16333?utm_campaign=selection&utm_medium=social&utm_source=medium)
+
+唐娜大學畢業，正值盛夏青春，帶著什麼都不怕的勇氣，還有不知道自己是誰的迷惘，她獨自一人闖蕩世界，意外在旅程中邂逅了三位摯愛，體會了愛情的美好，也經歷分手的傷痛⋯⋯
+
+回歸獨身一人時，才發現自己懷孕了。不知道父親是誰，也不知道下一步該怎麼做，但是她決定留在這座充滿奇蹟的小島，她不害怕，因為生命中有了女兒的陪伴，就是最堅強的支持。
+
+![](/assets/images/cdn-images-1.medium.com/4fb9143c36243e89.png)
+
+### 《花開少女華麗島》楊双子專訪
+
+2014 年，新台灣和平基金會宣布舉辦歷史小說獎，姊妹兩人在當年就決定，要寫**台灣歷史百合 小說**。直到 2015 二月底，醫生宣布妹妹已是癌症第三期末，生命只剩三到五個月。當天，双子立刻打電話給老闆辭掉工作。
+
+「三到五個月是不可能寫完一本長篇小說的，所以我先寫短篇小說，也就是《花開少女華麗島》裡的第一篇〈花開時節〉，抓到語感和大概的風格，再開始依此發展長篇小說，拼全力趕啊，希望在妹妹過世前寫完。」
+
+然而一隻筆再怎麼寫，也趕不上病魔速度。長篇寫到一半，妹妹就離世了。但双子必須振作，因妹妹的遺願是完成長篇《花開時節》。
+
+**《花開少女華麗島》楊双子專訪：百合創作，是從吐槽開始的｜女人迷 Womany**
+*《花開少女華麗島》將場景拉到教科書談得稀薄的日治時代、台灣現代化的開端。當少女們開始從自家門走入公共領域，接受西式教育、獨立工作、向文明之光生長，這些少女們的熱情、想望、追求，會是什麼？*womany.net
+
+双子說同人創作，簡單來說求的是萌和爽，「一開始我有過困惑，覺得這樣是不是沒有追求呢，但後來發現，大家玩在一起是最重要的！」
+
+> 以前不可能做這些沒法賺錢、完全為了娛樂的工作。可是，百合文化讓我們重新點燃『萌』的感覺，我們就一頭栽進去了。
+
+![](/assets/images/cdn-images-1.medium.com/2133edef4ba18b85.png)
+
+**《花開少女華麗島》楊双子專訪：女性情誼，不只是姊妹、戀人與競爭關係｜女人迷 Womany**
+*在相愛與競爭的關係之外，女性之間仍有非常廣大而複雜的地帶，可能是既喜歡又羨慕、嫉妒又欣羨、戀慕又困惑，這種種複雜的關係，過去沒有人看見，百合可以填補這一塊。*womany.net
+
+幻滅，也是双子寫作的基調。
+
+> 我個人覺得，成長的開始，就是幻滅。因為人要成為自我的主體，勢必經過孤單，勢必是一個人的。可是人不一定是孤單的，『我』還是希望可以成為我們。
+
+「我們」，不一定非得是戀人，也不一定是姊妹情誼，有沒有可能都是、或者游移在這廣大的地帶之間？
+
+女性情誼在相愛與競爭的關係之外，仍有非常廣大而複雜的地帶。
+
+[女人迷調查]

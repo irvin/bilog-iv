@@ -10,4 +10,88 @@ tags: ["medium"]
 excerpt: "YouTuber 「魔王停車場」企劃，租共享汽車挑戰看看會不會撞到會不會刮到 開別人的車去冒險，就是你的流量密碼 我的共享汽車使用經驗 從 ZipCar 進入台灣開始，我就是共享汽車的愛好者。跑長程高速就開 ZipCar、近距離代步找路邊 iRent、想便宜打發午後幾小時找 GoSmart 的 Livina（現在還有 Kicks 跟Swift），幾年來也累積"
 ---
 
-<section name="084e" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="d60f" id="d60f" class="graf graf--h3 graf--leading graf--title">YouTuber 「魔王停車場」企劃，租共享汽車挑戰看看會不會撞到會不會刮到</h3><h4 name="6a52" id="6a52" class="graf graf--h4 graf-after--h3 graf--subtitle">開別人的車去冒險，就是你的流量密碼</h4></div><div class="section-inner sectionLayout--fullWidth"><figure name="5c19" id="5c19" class="graf graf--figure graf--layoutFillWidth graf-after--h4"><img class="graf-image" data-image-id="1*GId3t30ezVN3JeWV2aGkDg.png" data-width="2700" data-height="1596" src="/assets/images/miro.medium.com/5c15e1aa1cb8f64b.png"></figure></div><div class="section-inner sectionLayout--insetColumn"><h3 name="697b" id="697b" class="graf graf--h3 graf-after--figure"><strong class="markup--strong markup--h3-strong">我的共享汽車使用經驗</strong></h3><p name="0fe4" id="0fe4" class="graf graf--p graf-after--h3">從 ZipCar 進入台灣開始，我就是共享汽車的愛好者。跑長程高速就開 ZipCar、近距離代步找路邊 iRent、想便宜打發午後幾小時找 GoSmart 的 Livina（現在還有 Kicks 跟Swift），幾年來也累積了快三十萬的花費，將近十萬公里里程。</p><p name="17be" id="17be" class="graf graf--p graf-after--p">在台北生活，可以不用養車租車位、煩心折舊問題，在任何需要的時候，都有不同的新車款可用。省下傳統租車服務取車還車簽本票，還怕被車行坑殺的麻煩。年年換新車款，輕鬆享受駕駛樂趣，共享汽車真是智慧型手機帶來最棒的革新之一。</p><h3 name="d0d8" id="d0d8" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">YouTube 推薦的「魔王停車場」系列</strong></h3><p name="1089" id="1089" class="graf graf--p graf-after--h3">因為這陣子蠻常看<a href="https://www.youtube.com/@AUTOSTAR" data-href="https://www.youtube.com/@AUTOSTAR" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">杰運汽車</a>的頻道（看<a href="https://www.youtube.com/watch?v=T8p8-SukdhU" data-href="https://www.youtube.com/watch?v=T8p8-SukdhU" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">老闆驗車收車被騙到</a>真的很舒壓😆），YouTube 也越來越常出現一些汽車相關的影片。</p><p name="7010" id="7010" class="graf graf--p graf-after--p">這幾天正巧被 YouTube 演算法打到，推薦了下列影片。遙控器一點進去，越看越感到不對勁。</p><figure name="04fe" id="04fe" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*tCEKEKvOUDB-w-1hf01DbA.png" data-width="2704" data-height="1690" src="/assets/images/miro.medium.com/8cea1369e5e9f1f6.png"><figcaption class="imageCaption"><a href="https://youtu.be/XpkYzaj-qcE?si=ZGv0pHQUVUiY--Es&amp;t=264" data-href="https://youtu.be/XpkYzaj-qcE?si=ZGv0pHQUVUiY--Es&amp;t=264" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">youtu.be/XpkYzaj-qcE?t=264</a></figcaption></figure><p name="8a69" id="8a69" class="graf graf--p graf-after--figure">遮陽版上面這個加油卡跟停車卡，不是共享汽車的標準設備嗎？仔細一看，上面還寫著「格上租車」。</p><p name="c8bb" id="c8bb" class="graf graf--p graf-after--p">所以，這位十萬訂閱的 YouTuber〈<a href="https://www.youtube.com/@chiuhan" data-href="https://www.youtube.com/@chiuhan" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">丘涵 Chiu Han</a>〉，其總計超過 85 萬次觀看的最熱門的影片企劃，是——</p><blockquote name="97c8" id="97c8" class="graf graf--pullquote graf-after--p graf--trailing"><em class="markup--em markup--pullquote-em">開共享汽車租來的車，去各地最難的停車場，試試看會不會刮到或撞到？！</em></blockquote></div></div></section><section name="2af4" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="285d" id="285d" class="graf graf--h3 graf--leading">共享汽車與職業道德</h3><p name="0e2c" id="0e2c" class="graf graf--p graf-after--h3">作為一個觀眾與車友，在看到這些影片時，腦海中第一時間浮出來的問題是：</p><blockquote name="03cd" id="03cd" class="graf graf--blockquote graf-after--p">這個企劃有跟租車公司合作嗎？<br>對方有同意你租車去拍冒險影片營利？<br>你還車的時候有好好檢查，確認沒有造成任何損傷嗎？<br>刮到或撞到時，有據實回報嗎？還是就讓下一個無辜的會員承擔風險？</blockquote><p name="cfb0" id="cfb0" class="graf graf--p graf-after--blockquote">「共享汽車」，就是你跟我跟所有其他的會員「共享」的車，其本質是由所有使用者共同分享資源。所有用車人互相尊重，才能維持服務的品質。</p><p name="b5ae" id="b5ae" class="graf graf--p graf-after--p">要商業使用、挑戰拍片，請開自己的車好嗎！</p><p name="1055" id="1055" class="graf graf--p graf-after--p graf--trailing">要不然建議你去跟杰運的老闆提案嘛。他那邊收藏跟庫存的車款這麼多，想拍什麼車都有。還有自家的修理場，不怕你真的撞掉。兩兩合作，一起把雙方的頻道做大，才是更有職業道德的做法吧。</p></div></div></section><section name="2796" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><figure name="cb5c" id="cb5c" class="graf graf--figure graf--leading"><img class="graf-image" data-image-id="1*k8HYnjjswpCaemqgQltzhA.png" data-width="1750" data-height="996" src="/assets/images/miro.medium.com/0cb43b74f672281a.png"><figcaption class="imageCaption">我心好痛喔～我手在抖ㄟ</figcaption></figure><p name="df53" id="df53" class="graf graf--p graf-after--figure graf--trailing">身為共享汽車的愛好者，我看的也心好痛啊… 該不會上週租到那台側邊環景顯示爛掉的車，就是你們流量密碼的成果吧！</p></div></div></section><section name="c840" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="1500" id="1500" class="graf graf--h3 graf--leading"><strong class="markup--strong markup--h3-strong">佐證與相關影片</strong></h3><p name="c726" id="c726" class="graf graf--p graf-after--h3">以下是<a href="http://www.youtube.com/watch?v=XpkYzaj-qcE&amp;list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm" data-href="http://www.youtube.com/watch?v=XpkYzaj-qcE&amp;list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">該企劃中</a>，每一隻影片使用的車輛車號與服務：</p><figure name="009f" id="009f" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*xmfDImVVkrDxH-9Claht3g.png" data-width="2644" data-height="1569" src="/assets/images/miro.medium.com/c7a1ee81c0278323.png"><figcaption class="imageCaption"><a href="https://www.youtube.com/watch?v=XpkYzaj-qcE&amp;list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm" data-href="https://www.youtube.com/watch?v=XpkYzaj-qcE&amp;list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">www.youtube.com/watch?v=XpkYzaj-qcE&amp;list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm</a></figcaption></figure><h4 name="359a" id="359a" class="graf graf--h4 graf-after--figure">格上 GoSmart</h4><ul class="postList"><li name="e814" id="e814" class="graf graf--li graf-after--h4">RDZ-9375 <a href="http://youtu.be/XpkYzaj-qcE" data-href="http://youtu.be/XpkYzaj-qcE" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">youtu.be/XpkYzaj-qcE</a></li><li name="f69d" id="f69d" class="graf graf--li graf-after--li">RDZ-7186 <a href="http://youtu.be/qur0HFVwA4w" data-href="http://youtu.be/qur0HFVwA4w" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">youtu.be/qur0HFVwA4w</a></li><li name="6785" id="6785" class="graf graf--li graf-after--li">RFC-0261 <a href="http://youtu.be/3zZ_Ggk1hBI" data-href="http://youtu.be/3zZ_Ggk1hBI" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">youtu.be/3zZ_Ggk1hBI</a></li></ul><h4 name="7a20" id="7a20" class="graf graf--h4 graf-after--li">和雲 iRent</h4><ul class="postList"><li name="4dc6" id="4dc6" class="graf graf--li graf-after--h4">RFE-5682 <a href="http://youtu.be/DL3qyFNYa2s" data-href="http://youtu.be/DL3qyFNYa2s" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">youtu.be/DL3qyFNYa2s</a></li><li name="de71" id="de71" class="graf graf--li graf-after--li graf--trailing">RDY-1506 <a href="http://youtu.be/-yMM7Tnr6yE" data-href="http://youtu.be/-yMM7Tnr6yE" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">youtu.be/-yMM7Tnr6yE</a></li></ul></div></div></section><section name="227f" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="a0c9" id="a0c9" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf--leading" style="width: 50%;"><img class="graf-image" data-image-id="1*lZP8Dnx_5H6xMObXxv74Qw.png" data-width="2530" data-height="1522" src="/assets/images/miro.medium.com/0405a3d19ae3718b.png"></figure><figure name="13a9" id="13a9" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*LDELxPviRrZnSP1CaJxqzw.png" data-width="2530" data-height="1522" src="/assets/images/miro.medium.com/43fb8d236a13f461.png"></figure></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="3ed6" id="3ed6" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--figure" style="width: 50.015%;"><img class="graf-image" data-image-id="1*6dyZdcOM8uACat9S4kpuAQ.png" data-width="2532" data-height="1522" src="/assets/images/miro.medium.com/58174f362309566f.png"></figure><figure name="7854" id="7854" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure graf--trailing" style="width: 49.985%;"><img class="graf-image" data-image-id="1*IUd2XcSptxSS_E-6aFo_ZA.png" data-width="2534" data-height="1524" data-is-featured="true" src="/assets/images/miro.medium.com/c1027e1e0545b5f7.png"><figcaption class="imageCaption" style="width: 200.06%; left: -100.06%;">吼呦它的車道很窄 /喔欸欸欸等一下 / 好難好難好難 / 這個誰設計的，我真的要檢舉你</figcaption></figure></div></div></section>
+### YouTuber 「魔王停車場」企劃，租共享汽車挑戰看看會不會撞到會不會刮到
+
+#### 開別人的車去冒險，就是你的流量密碼
+
+![](/assets/images/miro.medium.com/5c15e1aa1cb8f64b.png)
+
+### **我的共享汽車使用經驗**
+
+從 ZipCar 進入台灣開始，我就是共享汽車的愛好者。跑長程高速就開 ZipCar、近距離代步找路邊 iRent、想便宜打發午後幾小時找 GoSmart 的 Livina（現在還有 Kicks 跟Swift），幾年來也累積了快三十萬的花費，將近十萬公里里程。
+
+在台北生活，可以不用養車租車位、煩心折舊問題，在任何需要的時候，都有不同的新車款可用。省下傳統租車服務取車還車簽本票，還怕被車行坑殺的麻煩。年年換新車款，輕鬆享受駕駛樂趣，共享汽車真是智慧型手機帶來最棒的革新之一。
+
+### **YouTube 推薦的「魔王停車場」系列**
+
+因為這陣子蠻常看[杰運汽車](https://www.youtube.com/@AUTOSTAR)的頻道（看[老闆驗車收車被騙到](https://www.youtube.com/watch?v=T8p8-SukdhU)真的很舒壓😆），YouTube 也越來越常出現一些汽車相關的影片。
+
+這幾天正巧被 YouTube 演算法打到，推薦了下列影片。遙控器一點進去，越看越感到不對勁。
+
+![](/assets/images/miro.medium.com/8cea1369e5e9f1f6.png)
+
+*[youtu.be/XpkYzaj-qcE?t=264](https://youtu.be/XpkYzaj-qcE?si=ZGv0pHQUVUiY--Es&t=264)*
+
+遮陽版上面這個加油卡跟停車卡，不是共享汽車的標準設備嗎？仔細一看，上面還寫著「格上租車」。
+
+所以，這位十萬訂閱的 YouTuber〈[丘涵 Chiu Han](https://www.youtube.com/@chiuhan)〉，其總計超過 85 萬次觀看的最熱門的影片企劃，是——
+
+> 開共享汽車租來的車，去各地最難的停車場，試試看會不會刮到或撞到？！
+
+### 共享汽車與職業道德
+
+作為一個觀眾與車友，在看到這些影片時，腦海中第一時間浮出來的問題是：
+
+> 這個企劃有跟租車公司合作嗎？
+> 
+> 對方有同意你租車去拍冒險影片營利？
+> 
+> 你還車的時候有好好檢查，確認沒有造成任何損傷嗎？
+> 
+> 刮到或撞到時，有據實回報嗎？還是就讓下一個無辜的會員承擔風險？
+
+「共享汽車」，就是你跟我跟所有其他的會員「共享」的車，其本質是由所有使用者共同分享資源。所有用車人互相尊重，才能維持服務的品質。
+
+要商業使用、挑戰拍片，請開自己的車好嗎！
+
+要不然建議你去跟杰運的老闆提案嘛。他那邊收藏跟庫存的車款這麼多，想拍什麼車都有。還有自家的修理場，不怕你真的撞掉。兩兩合作，一起把雙方的頻道做大，才是更有職業道德的做法吧。
+
+![](/assets/images/miro.medium.com/0cb43b74f672281a.png)
+
+*我心好痛喔～我手在抖ㄟ*
+
+身為共享汽車的愛好者，我看的也心好痛啊… 該不會上週租到那台側邊環景顯示爛掉的車，就是你們流量密碼的成果吧！
+
+### **佐證與相關影片**
+
+以下是[該企劃中](http://www.youtube.com/watch?v=XpkYzaj-qcE&list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm)，每一隻影片使用的車輛車號與服務：
+
+![](/assets/images/miro.medium.com/c7a1ee81c0278323.png)
+
+*[www.youtube.com/watch?v=XpkYzaj-qcE&list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm](https://www.youtube.com/watch?v=XpkYzaj-qcE&list=PLGqIWj80JxSU670CnOzn3demLX6JCdtYm)*
+
+#### 格上 GoSmart
+
+- RDZ-9375
+   youtu.be/XpkYzaj-qcE
+- RDZ-7186
+   youtu.be/qur0HFVwA4w
+- RFC-0261
+   youtu.be/3zZ_Ggk1hBI
+
+#### 和雲 iRent
+
+- RFE-5682
+   youtu.be/DL3qyFNYa2s
+- RDY-1506
+   youtu.be/-yMM7Tnr6yE
+
+![](/assets/images/miro.medium.com/0405a3d19ae3718b.png)
+
+![](/assets/images/miro.medium.com/43fb8d236a13f461.png)
+
+![](/assets/images/miro.medium.com/58174f362309566f.png)
+
+![](/assets/images/miro.medium.com/c1027e1e0545b5f7.png)
+
+*吼呦它的車道很窄 /喔欸欸欸等一下 / 好難好難好難 / 這個誰設計的，我真的要檢舉你*

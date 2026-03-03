@@ -10,4 +10,42 @@ tags: ["medium"]
 excerpt: "應該讓 iPhone 用戶決定是否降速？如果蘋果這樣做，才是大錯特錯 沒有降速保護機制的手機，才是計畫性報廢的意圖 蘋果這次的電池風波中，很多人認為應該要讓用戶決定是否要降速；我覺得這樣大大的不對，也不應該是蘋果、或任何負責任的手機廠商，應該採取的作法。 過度老化的電池在使用時，電壓的降低幅度會變大。當你正在執行需要強力運算的 App，處理器跟顯示晶片全力運"
 ---
 
-<section name="eb07" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="7ba4" id="7ba4" class="graf graf--h3 graf--leading graf--title">應該讓 iPhone 用戶決定是否降速？如果蘋果這樣做，才是大錯特錯</h3><h4 name="d26b" id="d26b" class="graf graf--h4 graf-after--h3 graf--subtitle">沒有降速保護機制的手機，才是計畫性報廢的意圖</h4><p name="48f3" id="48f3" class="graf graf--p graf-after--h4">蘋果這次的電池風波中，很多人認為應該要讓用戶決定是否要降速；我覺得這樣大大的不對，也不應該是蘋果、或任何負責任的手機廠商，應該採取的作法。</p><p name="997b" id="997b" class="graf graf--p graf-after--p">過度老化的電池在使用時，電壓的降低幅度會變大。當你正在執行需要強力運算的 App，處理器跟顯示晶片全力運轉時，電力的需求會很高，如果剛好碰到老化電池電壓掉到所需之下，輕則閃退、當機，重則資料損毀，搞不好就無法開機了。</p><blockquote name="44b3" id="44b3" class="graf graf--pullquote graf-after--p">降速是保護機制，電池耗損又不進行降速保護的話，剛好壓降就死機了。</blockquote><p name="f9fa" id="f9fa" class="graf graf--p graf-after--pullquote">當然，不要有保護機制，讓使用者暴露在資料損壞、機器死透的風險中，不但用戶不會有意見，蘋果還可以賺更多。畢竟以現今的技術水準，電池可以保證一定使用年限。以我的經驗是兩年多，循環990次左右後，電量才降低到約 70% 觸發降速保護模式。</p><figure name="53ea" id="53ea" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*PFxTCE1qHEnVEwoTgO2nIA@2x.png" data-width="824" data-height="288" data-is-featured="true" src="/assets/images/miro.medium.com/5af051623de2005f.png"><figcaption class="imageCaption">我的 iPhone 6s 進入降速模式時的電池狀態</figcaption></figure><p name="706e" id="706e" class="graf graf--p graf-after--figure">既然都經過兩三年左右，一但你的手機莫名壞了，你會覺得是廠商沒有做電池保護機制的錯嗎？不會啊，只會覺得它就是老了，壞了，該換了。</p><p name="a837" id="a837" class="graf graf--p graf-after--p graf--trailing">更多壞掉的手機，更多的換機次數，如果不開發這個機制，蘋果反倒可以賺更多吧？</p></div></div></section><section name="2a4c" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="17d8" id="17d8" class="graf graf--p graf--leading">當然也不是說蘋果這次的做法完全正確。</p><p name="938d" id="938d" class="graf graf--p graf-after--p">這次風波最大的原因是：當電池損壞，啟動保護機制時，沒有明確讓用戶知道相關的機制如何運作。</p><figure name="b29a" id="b29a" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*oMNbhxce8Dejp6BnVlYPvQ@2x.jpeg" data-width="576" data-height="1024" src="/assets/images/miro.medium.com/2952e355ab0d5daf.jpeg"><figcaption class="imageCaption">iPhone 電池耗損時出現的維修訊息</figcaption></figure><p name="9f69" id="9f69" class="graf graf--p graf-after--figure">如圖所示，iOS 在電池耗損後，其實有在電池資訊中顯示「你的 iPhone 電池可能需要維修」，提示用戶快快換電池。</p><p name="87bc" id="87bc" class="graf graf--p graf-after--p">（不知道為什麼，這次很多文章都在抨擊蘋果故意不告知用戶電池有問題——其實有啊。）</p><p name="cfb3" id="cfb3" class="graf graf--p graf-after--p">不過就像上圖的內容，他應該同時寫清楚「為保護系統，已經進入降速保護模式」之類的資訊，讓用戶明確知道換完電池速度就會恢復，應該就不會引起這麼大的風波了。</p><p name="d0b0" id="d0b0" class="graf graf--p graf-after--p graf--trailing">所以所以他這次如果被告翻賠一屁股，我也覺得是活該啦。</p></div></div></section><section name="9866" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="9450" id="9450" class="graf graf--p graf--leading">至於那些故意跑出來澄清，說自己的手機沒有這種保護機制的公司，我倒希望大家能想想：到底是為什麼沒有呢？</p><blockquote name="e97a" id="e97a" class="graf graf--pullquote graf-after--p graf--trailing">在我看來，讓手機隨著老化電池，自己莫名死透，倒有 87% 像是計畫性報廢呢！</blockquote></div></div></section>
+### 應該讓 iPhone 用戶決定是否降速？如果蘋果這樣做，才是大錯特錯
+
+#### 沒有降速保護機制的手機，才是計畫性報廢的意圖
+
+蘋果這次的電池風波中，很多人認為應該要讓用戶決定是否要降速；我覺得這樣大大的不對，也不應該是蘋果、或任何負責任的手機廠商，應該採取的作法。
+
+過度老化的電池在使用時，電壓的降低幅度會變大。當你正在執行需要強力運算的 App，處理器跟顯示晶片全力運轉時，電力的需求會很高，如果剛好碰到老化電池電壓掉到所需之下，輕則閃退、當機，重則資料損毀，搞不好就無法開機了。
+
+> 降速是保護機制，電池耗損又不進行降速保護的話，剛好壓降就死機了。
+
+當然，不要有保護機制，讓使用者暴露在資料損壞、機器死透的風險中，不但用戶不會有意見，蘋果還可以賺更多。畢竟以現今的技術水準，電池可以保證一定使用年限。以我的經驗是兩年多，循環990次左右後，電量才降低到約 70% 觸發降速保護模式。
+
+![](/assets/images/miro.medium.com/5af051623de2005f.png)
+
+*我的 iPhone 6s 進入降速模式時的電池狀態*
+
+既然都經過兩三年左右，一但你的手機莫名壞了，你會覺得是廠商沒有做電池保護機制的錯嗎？不會啊，只會覺得它就是老了，壞了，該換了。
+
+更多壞掉的手機，更多的換機次數，如果不開發這個機制，蘋果反倒可以賺更多吧？
+
+當然也不是說蘋果這次的做法完全正確。
+
+這次風波最大的原因是：當電池損壞，啟動保護機制時，沒有明確讓用戶知道相關的機制如何運作。
+
+![](/assets/images/miro.medium.com/2952e355ab0d5daf.jpeg)
+
+*iPhone 電池耗損時出現的維修訊息*
+
+如圖所示，iOS 在電池耗損後，其實有在電池資訊中顯示「你的 iPhone 電池可能需要維修」，提示用戶快快換電池。
+
+（不知道為什麼，這次很多文章都在抨擊蘋果故意不告知用戶電池有問題——其實有啊。）
+
+不過就像上圖的內容，他應該同時寫清楚「為保護系統，已經進入降速保護模式」之類的資訊，讓用戶明確知道換完電池速度就會恢復，應該就不會引起這麼大的風波了。
+
+所以所以他這次如果被告翻賠一屁股，我也覺得是活該啦。
+
+至於那些故意跑出來澄清，說自己的手機沒有這種保護機制的公司，我倒希望大家能想想：到底是為什麼沒有呢？
+
+> 在我看來，讓手機隨著老化電池，自己莫名死透，倒有 87% 像是計畫性報廢呢！

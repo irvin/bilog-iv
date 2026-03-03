@@ -10,4 +10,1209 @@ tags: ["medium"]
 excerpt: "北海道露營車旅遊規劃大全 2025/7 道東與道央旅行，從規劃到行程中的疑難雜症，玩法、技巧與避雷 今天要來分享我在北海道租露營車旅行的經驗。 從二〇二五年七月五號到七月十四號，我去了北海道十天，第一次租露營車在那邊旅行。本文想把整趟過程的一些經驗跟大家分享。 以下是直播分享的錄影，再記錄下逐字稿整理成文。 直播分享錄影（全片）： https://www.y"
 ---
 
-<section name="07ae" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--fullWidth"><figure name="1c57" id="1c57" class="graf graf--figure graf--layoutFillWidth graf--leading"><img class="graf-image" data-image-id="1*kOFK6zOSkO9eZywqwENUOQ.jpeg" data-width="1920" data-height="1080" data-is-featured="true" src="/assets/images/miro.medium.com/1d9ac1b99aa17728.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><h3 name="1d04" id="1d04" class="graf graf--h3 graf-after--figure graf--title"><strong class="markup--strong markup--h3-strong">北海道露營車旅遊規劃大全</strong></h3><h4 name="880c" id="880c" class="graf graf--h4 graf-after--h3 graf--subtitle">2025/7 道東與道央旅行，從規劃到行程中的疑難雜症，玩法、技巧與避雷</h4><p name="c905" id="c905" class="graf graf--p graf-after--h4">今天要來分享我在北海道租露營車旅行的經驗。</p><p name="1089" id="1089" class="graf graf--p graf-after--p">從二〇二五年七月五號到七月十四號，我去了北海道十天，第一次租露營車在那邊旅行。本文想把整趟過程的一些經驗跟大家分享。</p><p name="ce54" id="ce54" class="graf graf--p graf-after--p">以下是直播分享的錄影，再記錄下逐字稿整理成文。</p><figure name="73d8" id="73d8" class="graf graf--figure graf--iframe graf-after--p"><iframe src="https://www.youtube.com/embed/qoIyBivjskk?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe></figure><p name="088b" id="088b" class="graf graf--p graf-after--figure"><strong class="markup--strong markup--p-strong">直播分享錄影（全片）：<br></strong><a href="https://www.youtube.com/watch?v=qoIyBivjskk" data-href="https://www.youtube.com/watch?v=qoIyBivjskk" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://www.youtube.com/watch?v=qoIyBivjskk</a></p><p name="4118" id="4118" class="graf graf--p graf-after--p"><strong class="markup--strong markup--p-strong">完整相簿： <br></strong><a href="https://www.flickr.com/photos/irvin/albums/72177720327549492/" data-href="https://www.flickr.com/photos/irvin/albums/72177720327549492/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://www.flickr.com/photos/irvin/albums/72177720327549492/</a></p><h3 name="726d" id="726d" class="graf graf--h3 graf-after--p">目次</h3><p name="71d3" id="71d3" class="graf graf--p graf-after--h3 graf--trailing">· <a href="#cd24" data-href="#cd24" class="markup--anchor markup--p-anchor" title="序">序</a><br> ∘ <a href="#56b5" data-href="#56b5" class="markup--anchor markup--p-anchor" title="來快速看看車子">來快速看看車子</a><br>· <a href="#b8d3" data-href="#b8d3" class="markup--anchor markup--p-anchor" title="第一章 露營車簡介與駕駛經驗">第一章 露營車簡介與駕駛經驗</a><br> ∘ <a href="#cf41" data-href="#cf41" class="markup--anchor markup--p-anchor" title="1–1 車輛規格">1–1 車輛規格</a><br> ∘ <a href="#99fc" data-href="#99fc" class="markup--anchor markup--p-anchor" title="1–2 行駛時晃動">1–2 行駛時晃動</a><br> ∘ <a href="#d3e8" data-href="#d3e8" class="markup--anchor markup--p-anchor" title="1–3 方向盤">1–3 方向盤</a><br> ∘ <a href="#49fd" data-href="#49fd" class="markup--anchor markup--p-anchor" title="1–4 無 ACC、無定速，盡量休息">1–4 無 ACC、無定速，盡量休息</a><br> ∘ <a href="#d59e" data-href="#d59e" class="markup--anchor markup--p-anchor" title="1–5 駕駛視野、照後鏡">1–5 駕駛視野、照後鏡</a><br> ∘ <a href="#bd00" data-href="#bd00" class="markup--anchor markup--p-anchor" title="1–6 駕駛座按鈕：自動遠光燈">1–6 駕駛座按鈕：自動遠光燈</a><br> ∘ <a href="#39b9" data-href="#39b9" class="markup--anchor markup--p-anchor" title="1–7 駕駛座按鈕：收折照後鏡">1–7 駕駛座按鈕：收折照後鏡</a><br> ∘ <a href="#9f61" data-href="#9f61" class="markup--anchor markup--p-anchor" title="1–8 排檔，低速檔與引擎煞車">1–8 排檔，低速檔與引擎煞車</a><br> ∘ <a href="#0fbe" data-href="#0fbe" class="markup--anchor markup--p-anchor" title="1–9 跟一般車輛的差異：轉彎半徑、煞車距離、顛簸">1–9 跟一般車輛的差異：轉彎半徑、煞車距離、顛簸</a><br> ∘ <a href="#4072" data-href="#4072" class="markup--anchor markup--p-anchor" title="1–10 導航與連結手機">1–10 導航與連結手機</a><br> ∘ <a href="#19eb" data-href="#19eb" class="markup--anchor markup--p-anchor" title="1–11 駕駛體感：左駕與道路線形">1–11 駕駛體感：左駕與道路線形</a><br> ∘ <a href="#29a1" data-href="#29a1" class="markup--anchor markup--p-anchor" title="1–12 推薦《安全自駕暢遊北海道》交通規則書">1–12 推薦《安全自駕暢遊北海道》交通規則書</a><br> ∘ <a href="#15d1" data-href="#15d1" class="markup--anchor markup--p-anchor" title="1–13 自駕經驗分享">1–13 自駕經驗分享</a><br> ∘ <a href="#71db" data-href="#71db" class="markup--anchor markup--p-anchor" title="1–14 保險跟租車公司的選擇">1–14 保險跟租車公司的選擇</a><br> ∘ <a href="#567f" data-href="#567f" class="markup--anchor markup--p-anchor" title="1–15 租車公司的選擇，NOMAD提供的額外服務">1–15 租車公司的選擇，NOMAD提供的額外服務</a><br> ∘ <a href="#fa4c" data-href="#fa4c" class="markup--anchor markup--p-anchor" title="1–16 租借車上用品、冷氣與廚具">1–16 租借車上用品、冷氣與廚具</a><br> ∘ <a href="#ebae" data-href="#ebae" class="markup--anchor markup--p-anchor" title="1–17 冰箱微波爐、廁所與空間">1–17 冰箱微波爐、廁所與空間</a><br> ∘ <a href="#34d4" data-href="#34d4" class="markup--anchor markup--p-anchor" title="1–18 左駕心得">1–18 左駕心得</a><br>· <a href="#c953" data-href="#c953" class="markup--anchor markup--p-anchor" title="第二章 車輛使用、車上生活">第二章 車輛使用、車上生活</a><br> ∘ <a href="#113f" data-href="#113f" class="markup--anchor markup--p-anchor" title="2–1 床位與生活空間">2–1 床位與生活空間</a><br> ∘ <a href="#2398" data-href="#2398" class="markup--anchor markup--p-anchor" title="2–2 露營車與飯店的比較">2–2 露營車與飯店的比較</a><br> ∘ <a href="#5ea2" data-href="#5ea2" class="markup--anchor markup--p-anchor" title="2–3 準備物品：吸蟲棒">2–3 準備物品：吸蟲棒</a><br> ∘ <a href="#4a3d" data-href="#4a3d" class="markup--anchor markup--p-anchor" title="2–4 去蟲清潔劑與清潔用品">2–4 去蟲清潔劑與清潔用品</a><br> ∘ <a href="#fe44" data-href="#fe44" class="markup--anchor markup--p-anchor" title="2–5 準備物品：車用風扇、吸塵器">2–5 準備物品：車用風扇、吸塵器</a><br> ∘ <a href="#a343" data-href="#a343" class="markup--anchor markup--p-anchor" title="2–6 自助洗車經驗">2–6 自助洗車經驗</a><br> ∘ <a href="#0115" data-href="#0115" class="markup--anchor markup--p-anchor" title="2–7 租車公司建議（續）">2–7 租車公司建議（續）</a><br> ∘ <a href="#a9fc" data-href="#a9fc" class="markup--anchor markup--p-anchor" title="2–8 停車狀況">2–8 停車狀況</a><br> ∘ <a href="#476c" data-href="#476c" class="markup--anchor markup--p-anchor" title="2–9 抽風扇與車窗通風、車邊帳">2–9 抽風扇與車窗通風、車邊帳</a><br> ∘ <a href="#95c9" data-href="#95c9" class="markup--anchor markup--p-anchor" title="2–10 租車公司選擇（續）">2–10 租車公司選擇（續）</a><br> ∘ <a href="#cc40" data-href="#cc40" class="markup--anchor markup--p-anchor" title="2–11 租車證件；需要貨車駕照的車款">2–11 租車證件；需要貨車駕照的車款</a><br> ∘ <a href="#ab39" data-href="#ab39" class="markup--anchor markup--p-anchor" title="2–12 選擇車款的考量：傳統露營車或休旅車或輕型車改裝">2–12 選擇車款的考量：傳統露營車或休旅車或輕型車改裝</a><br>· <a href="#b588" data-href="#b588" class="markup--anchor markup--p-anchor" title="第三章 車中泊行程規劃">第三章 車中泊行程規劃</a><br> ∘ <a href="#5936" data-href="#5936" class="markup--anchor markup--p-anchor" title="3–1 行程總覽">3–1 行程總覽</a><br> ∘ <a href="#006d" data-href="#006d" class="markup--anchor markup--p-anchor" title="3–2 ロケスマ 地圖 App：道之驛、休息區、溫泉、便利商店、加油站">3–2 ロケスマ 地圖 App：道之驛、休息區、溫泉、便利商店、加油站</a><br> ∘ <a href="#c764" data-href="#c764" class="markup--anchor markup--p-anchor" title="3–3 くるま旅：RV Park &amp; 車中泊點">3–3 くるま旅：RV Park &amp; 車中泊點</a><br> ∘ <a href="#599c" data-href="#599c" class="markup--anchor markup--p-anchor" title="3–4 飯店、商店停車場不能車中泊、TOMAMU 早餐">3–4 飯店、商店停車場不能車中泊、TOMAMU 早餐</a><br> ∘ <a href="#3370" data-href="#3370" class="markup--anchor markup--p-anchor" title="3–5 道之驛車中泊的注意事項">3–5 道之驛車中泊的注意事項</a><br> ∘ <a href="#842c" data-href="#842c" class="markup--anchor markup--p-anchor" title="3–6 三種車中泊點：休息站 / RV Park / 露營地">3–6 三種車中泊點：休息站 / RV Park / 露營地</a><br> ∘ <a href="#ccfb" data-href="#ccfb" class="markup--anchor markup--p-anchor" title="3–7 推薦泊點：道之驛白糠戀問館">3–7 推薦泊點：道之驛白糠戀問館</a><br> ∘ <a href="#0dd1" data-href="#0dd1" class="markup--anchor markup--p-anchor" title="3–8 不建議雪地自駕露營車">3–8 不建議雪地自駕露營車</a><br> ∘ <a href="#f284" data-href="#f284" class="markup--anchor markup--p-anchor" title="3–9 露營地尋找方式，Shachuoo 網站">3–9 露營地尋找方式，Shachuoo 網站</a><br> ∘ <a href="#5b89" data-href="#5b89" class="markup--anchor markup--p-anchor" title="3–10 洗澡：日歸溫泉與錢湯，尋找方式、洗澡用品">3–10 洗澡：日歸溫泉與錢湯，尋找方式、洗澡用品</a><br> ∘ <a href="#0fab" data-href="#0fab" class="markup--anchor markup--p-anchor" title="3–11 道之驛活動：印章蒐集冊 ＆ 線上印章網站">3–11 道之驛活動：印章蒐集冊 ＆ 線上印章網站</a><br> ∘ <a href="#9fa4" data-href="#9fa4" class="markup--anchor markup--p-anchor" title="3–12 規劃行程的好用 app 與網站">3–12 規劃行程的好用 app 與網站</a><br> ∘ <a href="#f6e7" data-href="#f6e7" class="markup--anchor markup--p-anchor" title="3–13 旅行照片分享">3–13 旅行照片分享</a><br> ∘ <a href="#21ec" data-href="#21ec" class="markup--anchor markup--p-anchor" title="3–14 露營車怎麼丟垃圾">3–14 露營車怎麼丟垃圾</a><br> ∘ <a href="#3319" data-href="#3319" class="markup--anchor markup--p-anchor" title="3–15 旅行照片分享（續）">3–15 旅行照片分享（續）</a><br> ∘ <a href="#6599" data-href="#6599" class="markup--anchor markup--p-anchor" title="3–16 推薦旭川 KITORON 溫泉">3–16 推薦旭川 KITORON 溫泉</a><br> ∘ <a href="#d0c3" data-href="#d0c3" class="markup--anchor markup--p-anchor" title="3–17 推薦旭川水澤果樹園">3–17 推薦旭川水澤果樹園</a><br> ∘ <a href="#5dbe" data-href="#5dbe" class="markup--anchor markup--p-anchor" title="3–18 札幌大部分停車場無法停露營車">3–18 札幌大部分停車場無法停露營車</a><br> ∘ <a href="#e37c" data-href="#e37c" class="markup--anchor markup--p-anchor" title="3–19 車上電器充電概況、車上預備夾子掛勾">3–19 車上電器充電概況、車上預備夾子掛勾</a><br> ∘ <a href="#3152" data-href="#3152" class="markup--anchor markup--p-anchor" title="3–20 紗窗噪音處理、車門需上鎖關緊">3–20 紗窗噪音處理、車門需上鎖關緊</a><br> ∘ <a href="#980d" data-href="#980d" class="markup--anchor markup--p-anchor" title="3–21 旅行規劃方式">3–21 旅行規劃方式</a><br>· <a href="#02af" data-href="#02af" class="markup--anchor markup--p-anchor" title="第四章 ChatGPT 使用經驗">第四章 ChatGPT 使用經驗</a><br> ∘ <a href="#179c" data-href="#179c" class="markup--anchor markup--p-anchor" title="4–1 用 AI 協助行程規劃">4–1 用 AI 協助行程規劃</a><br> ∘ <a href="#64e1" data-href="#64e1" class="markup--anchor markup--p-anchor" title="4–2 遇到疑難雜症都來問 AI">4–2 遇到疑難雜症都來問 AI</a><br>· <a href="#7b39" data-href="#7b39" class="markup--anchor markup--p-anchor" title="結語">結語</a></p></div></div></section><section name="d4ce" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--fullWidth"><figure name="b680" id="b680" class="graf graf--figure graf--layoutFillWidth graf--leading"><img class="graf-image" data-image-id="1*iTx6gLn8vUbOemRn97BaWQ.jpeg" data-width="2622" data-height="1206" src="/assets/images/miro.medium.com/73c6684f8c17a16d.jpeg"><figcaption class="imageCaption"><a href="https://www.flickr.com/photos/irvin/54671489786/in/album-72177720327549492" data-href="https://www.flickr.com/photos/irvin/54671489786/in/album-72177720327549492" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">https://www.flickr.com/photos/irvin/54671489786/in/album-72177720327549492</a></figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><h3 name="cd24" id="cd24" class="graf graf--h3 graf-after--figure">序</h3><p name="0166" id="0166" class="graf graf--p graf-after--h3">這是我全部的行程。</p><p name="7318" id="7318" class="graf graf--p graf-after--p">基本上露營車目前租的話，大概都是在新千歲機場附近租車。我從新千歲出發，機場在這裡，我還有開車去機場繞了一圈。</p><p name="3cb4" id="3cb4" class="graf graf--p graf-after--p">接下來就是往北、往東走。大概在 TOMAMU 那邊先過了一夜，然後到帶廣過一夜，再到釧路過一夜，接著住根室，然後再往北到網走，這邊也過了一夜。</p><p name="08ec" id="08ec" class="graf graf--p graf-after--p">原本計劃是想說要直接一路往北走到宗谷岬，但後來發現時間來不及。走到網走這邊大概已經花了一半的時間，如果還要再往北到宗谷岬就一定來不及。且中間能停的地方比較少，沒有好逛的地方，所以會變成只有一路衝到宗谷岬。</p><p name="84e1" id="84e1" class="graf graf--p graf-after--p">所以我後來就改成先過夜後，直接走高速公路回旭川，在旭川這裡再往南到富良野。旭川、富良野這邊過了兩夜之後，接下來隔天在千歲這邊過一夜，最後回到新千歲機場，就是這個樣子。</p><p name="23a4" id="23a4" class="graf graf--p graf-after--p">這次我整趟行程都一直開著世界迷霧，所以也特別把整個繞一圈的路線記錄下來。</p><p name="6b02" id="6b02" class="graf graf--p graf-after--p">接下來我會分幾個不同的主題來分享。第一個是車：包含車子本身、駕駛交通規則、車上的一些設備，還有左駕。第二個是使用，基本上就是整個露營車的使用相關的事情，包含在上面的生活、要準備什麼用品，還有洗車跟停車的細節。</p><p name="c9c2" id="c9c2" class="graf graf--p graf-after--p">最後是行程的部分，就包含怎麼規劃行程、睡哪裡（包含有這三種），還有溫泉、休息站。以及你行程中要做什麼事情：開露營車有什麼好玩的、我覺得很好用的 APP，跟我自己的規劃方式。我會分這三大塊來跟大家介紹。</p><h4 name="56b5" id="56b5" class="graf graf--h4 graf-after--p">來快速看看車子</h4></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="8d07" id="8d07" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--h4" style="width: 48.031%;"><img class="graf-image" data-image-id="1*J8GEzRWyChLDyLePEEzoaA.jpeg" data-width="4284" data-height="4284" src="/assets/images/miro.medium.com/a11b5116becea71b.jpeg"></figure><figure name="5302" id="5302" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 51.969%;"><img class="graf-image" data-image-id="1*SJIupNoVYBFky0hHpkSF5Q.jpeg" data-width="6118" data-height="5653" src="/assets/images/miro.medium.com/34d3de7a069ed26c.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><div name="64d7" id="64d7" class="graf graf--mixtapeEmbed graf-after--figure"><a href="https://www.flickr.com/photos/irvin/albums/72177720327660268" data-href="https://www.flickr.com/photos/irvin/albums/72177720327660268" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.flickr.com/photos/irvin/albums/72177720327660268"><strong class="markup--strong markup--mixtapeEmbed-strong">Hokkaido Nomad NEW CORDE BUNKS camping car</strong><br><em class="markup--em markup--mixtapeEmbed-em">北海道逍遙遊露營車 nomad-r.jp/car/?type=07</em>www.flickr.com</a><a href="https://www.flickr.com/photos/irvin/albums/72177720327660268" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="f63117d01d4f2b5a1c6790588a9f9ebb" data-thumbnail-img-id="0*0uc5szBE197IU2GL" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*0uc5szBE197IU2GL);"></a></div><p name="0d9b" id="0d9b" class="graf graf--p graf-after--mixtapeEmbed">先讓大家看一下我這次租的車。這一台叫做 Corde Bunks。基本上大家如果直接去搜尋北海道露營車的話，大概會找到中文的租車公司可能就三、四間，其實幾乎每間都會有類似的車款，大同小異就是這幾個車款。</p><p name="c268" id="c268" class="graf graf--p graf-after--p">我這一台是 New Corde Bunks，然後是在 NOMAD，「北海道逍遙遊露營車」租的。</p><p name="d109" id="d109" class="graf graf--p graf-after--p">外型大概是這樣：它就是很典型的露營車的樣子：一台小發財車的車款，把貨台的部分改成露營車的室內空間，延伸到駕駛座上方，成為一個額頭床，我們晚上睡覺的時候都睡在上面。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="331d" id="331d" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*asrr0DK8Vxz86DT6MWQvtA.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/ca9e7ab9e498c361.jpeg"></figure><figure name="17dd" id="17dd" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*pnMfpwDEMsy8VnCmHRHiWw.jpeg" data-width="5695" data-height="4271" src="/assets/images/miro.medium.com/0503992f99bbe0cf.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="11ef" id="11ef" class="graf graf--p graf-after--figure">後面就是生活空間，你會看到好幾個門，主要的門，然後後面兩個其實是可以進到室內的兩個門。下面是油桶，後面也有小的儲藏，跟室內連通的儲藏空間。尾端最下面有個垃圾空間，大概外型都是這樣，大小也差不多。</p><p name="26cf" id="26cf" class="graf graf--p graf-after--p">它的大小剛好可以停進一般小車的車位。</p><p name="8094" id="8094" class="graf graf--p graf-after--p">露營車大概有三種：一種是像這種一般車、一般貨車，那種 3.5 噸的貨車改的露營車；另外一種是輕型車改的露營車，日本有那種輕型車嘛，也有那種輕型車改裝的露營車，就更小，大概是這台的三分之二大。</p><p name="2274" id="2274" class="graf graf--p graf-after--p">露營車大概有三種：一種是像這種一般 3.5 噸的貨車改的露營車；另外一種是日本那種輕型車改裝的露營車，就更小，大概是這台的三分之二大。最後是很大的，歐洲進口的七公尺長露營車。那個就沒辦法停到一般車位裡面去，你就都要去停大貨車的車位。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="ac39" id="ac39" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 42.863%;"><img class="graf-image" data-image-id="1*DCzZT7CF_7PXuQpfuEfF1w.jpeg" data-width="4284" data-height="4284" src="/assets/images/miro.medium.com/a650f283da15c322.jpeg"></figure><figure name="1ee1" id="1ee1" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 57.137%;"><img class="graf-image" data-image-id="1*jwZcEWvzZuqoANz05WXvpg.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/9b1dedc9338ea441.jpeg"></figure></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="dcca" id="dcca" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*2uwANYFAu-c_-epnxpkjig.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/d7f879edb8553e1c.jpeg"></figure><figure name="af5e" id="af5e" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*LMv0uscuXP9WplYBGwCx8g.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/3861d9ea2043066a.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="1f1d" id="1f1d" class="graf graf--p graf-after--figure">基本上這個大小是剛剛好可以進到一個停車位，而且在札幌以外的其他所有地方都很好停。車位左右都很有餘裕，我停的時候左邊還有很多空間，右邊還有更多空間。通常我都會靠右邊一點，讓左邊上下車方便。</p><p name="33d9" id="33d9" class="graf graf--p graf-after--p">不論是在景點區域、市區吃飯的地方，或休息站，全都很好停。就算是進到札幌，室外停車場它也是完完全全剛剛好。你看左邊、右邊都還各有大概 20 公分的寬度餘裕，前後長度也剛好進到範圍裡面。</p><p name="f327" id="f327" class="graf graf--p graf-after--p">那我來找一下它的規格好了。網址是 https://nomad-zh.jp，我是在這一間「北海道逍遙遊露營車」租的車。後面我會再跟大家分享，我覺得可以怎麼挑、可以參考哪些租車公司。</p><figure name="15c7" id="15c7" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*_aBmiBMQ4WjE7eE26qP-eg.png" data-width="2314" data-height="1922" src="/assets/images/miro.medium.com/53b9a6c937b1be7d.png"></figure><p name="eb8e" id="eb8e" class="graf graf--p graf-after--figure">我們先看一下這個車款。可以看到有很多款，其實下面這個 CORDE 的幾個車種及 ZIL 都大同小異，差別主要是室內隔間不同，以及新舊的差異。</p><p name="dc00" id="dc00" class="graf graf--p graf-after--p">我租的是 New Corde Bunks。以這間公司來說，ZIL 520 是最貴的，其實我覺得差不多，大家可以直接看預算去選，看室內空間去選。</p><p name="66ed" id="66ed" class="graf graf--p graf-after--p">我們是兩個人，我覺得這樣子的車款，兩個人的空間很夠。如果是四個人，我覺得就可能會蠻擠的，你可能會坐得稍微有一點痛苦。</p><p name="15ab" id="15ab" class="graf graf--p graf-after--p">像這個車子它其實標的是六個人，我是覺得不太可能。除非你是一家人，其中兩個人是小朋友之類的。</p><p name="9d90" id="9d90" class="graf graf--p graf-after--p">六個大人的話，應該會非常非常痛苦，你在車上只要站起來就會互相撞到。睡覺空間是夠的，它確實有六張床的空間給你，但會非常痛苦。</p><h3 name="b8d3" id="b8d3" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">第一章 露營車簡介與駕駛經驗</strong></h3><h4 name="cf41" id="cf41" class="graf graf--h4 graf-after--h3"><strong class="markup--strong markup--h4-strong">1–1 車輛規格</strong></h4><figure name="45b3" id="45b3" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*n092nkPhHghugI_mUmG6GA.png" data-width="1514" data-height="1238" src="/assets/images/miro.medium.com/62ce4c6ebd385782.png"></figure><p name="7eeb" id="7eeb" class="graf graf--p graf-after--figure">規格是這樣。它的長是剛好五公尺內，寬二公尺、高 3.15 公尺。</p><p name="dad4" id="dad4" class="graf graf--p graf-after--p">長寬高的話，它比一般大家開的車還高。甚至你平常如果有開 3.5 噸的發財車，它也比 3.5 噸發財車還高，因為上面還有額頭床這一塊空間，所以它開起來是重心偏高的。</p><p name="1736" id="1736" class="graf graf--p graf-after--p">其他的部分其實長寬跟一般的車子差不多，差不多就是一般大一點的廂型車、休旅車那種感覺，開起來也差不多。駕駛體驗其實沒有很大的差別。</p><h4 name="99fc" id="99fc" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–2 行駛時晃動</strong></h4><p name="6878" id="6878" class="graf graf--p graf-after--h4">車駕駛起來，我覺得最大的差異就是它很晃。</p><p name="7cc7" id="7cc7" class="graf graf--p graf-after--p">第一個原因是北海道的路很爛，非常坑坑洞洞，超級顛簸。你如果覺得台灣的路很爛，那北海道的路大概是台灣的路的十倍爛。</p><p name="1160" id="1160" class="graf graf--p graf-after--p">原因之一是他們是會下雪的地方。下雪之後雪結冰，所以冬天大概有一年一半的時間都是下雪的天氣，剩下一半時間就在修路，路就會非常爛、非常顛簸。</p><p name="5652" id="5652" class="graf graf--p graf-after--p">第二個原因是它是貨車底盤，所以顛簸會被放大。避震更硬，顛簸感會更明顯。會暈車的人坐起來可能會有點暈，我覺得第一天可以先吃個暈車藥。</p><p name="553a" id="553a" class="graf graf--p graf-after--p">第三個是風稍微大一點的時候，它非常會晃。速度快一點也會晃，像高速公路上如果你跑到大概八九十，就會蠻晃的。如果稍微有一點側風，就會非常明顯地偏。</p><h4 name="d3e8" id="d3e8" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–3 方向盤</strong></h4><p name="aef5" id="aef5" class="graf graf--p graf-after--h4">那我這台車的方向盤，我駕駛的時候方向盤是歪的。後來露營車公司的老闆跟我說，那是因為車子的重量分配的關係，但我不知道是不是真的這個原因。</p><p name="b812" id="b812" class="graf graf--p graf-after--p">我開的時候方向盤是偏右，我要往前直直開的話，方向盤必須往左大概五度的旋轉。</p><p name="1a0c" id="1a0c" class="graf graf--p graf-after--p">所以它開起來是有點麻煩，它沒辦法說我方向盤放開就直直往前走，大概都要一直拉著。這是第四個點。</p><h4 name="49fd" id="49fd" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–4 無 ACC、無定速，盡量休息</strong></h4><p name="bf50" id="bf50" class="graf graf--p graf-after--h4">第五個是它沒有 ACC、沒有定速，就是一般小貨車的那種感覺。不像現在新的 J Space 有 ACC。</p><p name="a138" id="a138" class="graf graf--p graf-after--p">北海道很大，開起來你可能會有點累，所以你就是隨時都要能夠休息就盡量休息。能夠進休息站就盡量休息。</p><p name="7814" id="7814" class="graf graf--p graf-after--p">基本上我整趟行程大概每 30 分鐘就會進一次道路休息站。反正北海道道路休息站非常非常多，所以我就是每 30 分鐘進一次。</p><p name="8595" id="8595" class="graf graf--p graf-after--p">就算在高速公路上也是，反正只要有休息站我就下去停。不然你要一直拉著方向盤、一直控制油門，沒有定速的話其實開起來有點累。</p></div><div class="section-inner sectionLayout--outsetColumn"><figure name="ff1b" id="ff1b" class="graf graf--figure graf--layoutOutsetCenter graf-after--p"><img class="graf-image" data-image-id="1*iboz3FOwhfcG4_08gHiCGg.png" data-width="2388" data-height="1668" src="/assets/images/miro.medium.com/3cbce093750ac821.png"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="1ccc" id="1ccc" class="graf graf--p graf-after--figure">這是道路休息站的狀況，非常非常多。其中只有一天比較少，就是在右邊這邊，從根室到斜里這邊沒有休息站。其他其實大概每 30 分鐘一定都可以找到可以停的地方，不管是在國道（他們的國道就是我們的省道），或高速公路上都是一樣。</p><h4 name="d59e" id="d59e" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–5 駕駛視野、照後鏡</strong></h4><p name="f44b" id="f44b" class="graf graf--p graf-after--h4">我忘記拍駕駛座的樣子了，這個是北海道逍遙遊的說明影片截圖，給大家看一下駕駛座的畫面。</p><figure name="983f" id="983f" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*WUZKwOUEQK7U22NSiUN6gg.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/26a7ad5331aa95a9.png"></figure><p name="19f2" id="19f2" class="graf graf--p graf-after--figure">基本上駕駛座就是方向盤，如果你有開過貨車，它就是一台三輛車的貨車、一模一樣的駕駛座。就是比較正，然後你坐的比較高。</p><p name="d237" id="d237" class="graf graf--p graf-after--p">就相對於就是大家開、平常開休旅車，或一般的小客車，它就是比較高，視野非常非常的好。左後方跟右後方都不會有盲點，就是直接從照後鏡看，就是完整的車身這樣子。</p><p name="c716" id="c716" class="graf graf--p graf-after--p">然後正前方的話也還好，因為那個它左邊的照後鏡是有往前然後往下照的。然後我是覺得視野很好。</p><p name="fcdc" id="fcdc" class="graf graf--p graf-after--p">停車的話，它最大的麻煩就是它的往後看的視野不好，因為往後就是你的車廂的空間。所以往後看的視野會跟大家平常開小客車的那個習慣是不一樣的。</p><p name="39c7" id="39c7" class="graf graf--p graf-after--p">然後當然就是露營車公司，它是有裝那個全時的後向攝影機嘛。那我覺得有點不習慣，是因為它不是裝電子照後鏡，所以說我還是會習慣去看到照後鏡。然後照後鏡往後，其實可以看到透過這個小小窗，它是可以看得一點點後面的路。</p><p name="f0ac" id="f0ac" class="graf graf--p graf-after--p">然後同時你還要再去看這個後向攝影、後方攝影機，它是全時開啓的。就是只要車子有發動有電的狀態下，它隨時都是有亮的。</p><p name="043f" id="043f" class="graf graf--p graf-after--p">這個後向攝影機的亮度不太夠，大太陽的狀態下亮度不太夠，所以這是有點阻礙。</p><figure name="9674" id="9674" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*RPjYZTUMWn-UdrQPhutmbw.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/53959c4aaf566bae.png"></figure><p name="3d5e" id="3d5e" class="graf graf--p graf-after--figure">另外一個我原本開之前想到的問題是：因為你有額頭床，就在你的駕駛座正上方，會不會就是有阻礙到視線或什麼影響。</p><p name="6487" id="6487" class="graf graf--p graf-after--p">再包含說因為有額頭床的關係，擋住從上下來的光線，所以其實反而還比較涼一點，反而就比較不會熱。</p><p name="fb9c" id="fb9c" class="graf graf--p graf-after--p">然後我有另外吸一台 iPhone 在那個擋風玻璃上拍 Mapillary 街景，那它基本上就是不太像我們平常開車的時候，擋風玻璃會被太陽直射，反而手機還涼一點。</p><h4 name="bd00" id="bd00" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–6 駕駛座按鈕：自動遠光燈</strong></h4><figure name="8c02" id="8c02" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*3p7MumHTV_nwNr_x_dZP2A.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/52a19d37fa9d6ab6.png"></figure><p name="c929" id="c929" class="graf graf--p graf-after--figure">再回來看一下駕駛座，駕駛座前面的按鍵，那有幾顆按鍵是平常比較會用到的。</p><p name="d2da" id="d2da" class="graf graf--p graf-after--p">有一個是自動遠光燈。基本上我們在日本現在租車，常常都會租到是自動遠光燈的車，你就是一直開著，把它啓動之後，燈就一直開成遠光燈，然後它就會自己切換遠近。你也不用就是自己去就是往前打往後打，然後會忘記說看到來車會忘記打回來。</p><p name="9884" id="9884" class="graf graf--p graf-after--p">反正它只要偵測到車前方有光源，就會自動切成近燈。對面光源沒了，它就會再切回遠燈。基本上北海道只要晚上，應該說就是道東跟道北，我走的這一段、這一大段，只要晚上它就是烏漆麻黑，鄉下的道路也不會有路燈照射，所以基本上隨時都開著。總之就是一直開著就對了。</p><h4 name="39b9" id="39b9" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–7 駕駛座按鈕：收折照後鏡</strong></h4><p name="4d58" id="4d58" class="graf graf--p graf-after--h4">第二個是有一個按鈕是收回左前方的後視鏡。停車的時候，如果你可以把它收回來，他就會從對外然後這樣折回來，然後就貼到檔幕玻璃上這樣子，讓左邊比較不會凸出去、比較不會往左前方凸出去，避免人家就是過的時候撞到你的照後鏡。</p><p name="0e61" id="0e61" class="graf graf--p graf-after--p">那顆按鈕我是一直到第二天才發現是這個功能。</p><h4 name="9f61" id="9f61" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–8 排檔，低速檔與引擎煞車</strong></h4><p name="00bb" id="00bb" class="graf graf--p graf-after--h4">然後這台車子它的排擋，它就是一般的自排的車子。它的那個進退擋、手動進退擋的功能是：排擋桿往右打到 S 之後，然後按排擋桿上面的按鈕，可以進退擋。</p><p name="2a52" id="2a52" class="graf graf--p graf-after--p">這個非常非常的常用。基本上大家租車的時候，一定要最好就是第一時間先跟租車的公司問清楚，你要怎麼樣打到低速擋，或者是手動進退擋。</p><p name="9c20" id="9c20" class="graf graf--p graf-after--p">因為車很大然後重嘛，所以基本上下坡的時候，如果你一直踩剎車，那就是很吃剎車，然後也很難在短距離內剎停，所以你會非常常用到退到低速擋。</p><p name="c76e" id="c76e" class="graf graf--p graf-after--p">基本上下坡就是會退，我就會打去 S，然後往下慢慢退，退到三檔、退到兩檔，慢慢去引擎剎車這樣子，非常非常的常用。只要下坡的地方一定都會退到低速檔。這是車子的操作的部分。</p><h4 name="0fbe" id="0fbe" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–9 跟一般車輛的差異：轉彎半徑、煞車距離、顛簸</strong></h4><p name="7fe4" id="7fe4" class="graf graf--p graf-after--h4">那其他操作的部分，就是跟一般的左駕、跟一般的那個在日本租車的道路駕駛差不多，一模一樣。</p><p name="2eb7" id="2eb7" class="graf graf--p graf-after--p">基本上它的轉彎半徑啊什麼的，都跟一般的車子沒有兩樣。就是它比較重，剎車距離比較長；然後加上就是非常顛簸，因為北海道的路很爛的關係啊，所以就非常顛簸。</p><p name="7b03" id="7b03" class="graf graf--p graf-after--p">然後稍微距離長，大家下坡的時候要常用到低速檔。然後沒有定速、沒有 ACC，大概就這幾個點而已了。</p><h4 name="4072" id="4072" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–10 導航與連結手機</strong></h4><p name="e57f" id="e57f" class="graf graf--p graf-after--h4">導航的部分，這台車它自己是有一台小小的內建導航嘛。基本上我就是直接掛 iPhone，然後就全程都用 iPhone。</p><p name="357c" id="357c" class="graf graf--p graf-after--p">其實我看露營車公司的網站，他是寫說某些車有 Carplay 的。其實我租的這台 NEW CORDE BUNKS，他們的某些車也有，但我那台沒有。</p><p name="74d9" id="74d9" class="graf graf--p graf-after--p">不過他們有拉一個插手機的、就是接手機的 USB 的延長線。那個 USB 延長線插上去之後，它是會吃 iPhone 的聲音輸出，所以我就是反正我就把手機掛在旁邊，然後用 iPhone 的導航，然後再加上它的聲音輸出直接出到車上音響這樣。</p><h4 name="19eb" id="19eb" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–11 駕駛體感：左駕與道路線形</strong></h4><p name="15eb" id="15eb" class="graf graf--p graf-after--h4">其他的就是跟一般的那個左駕、跟一般在日本的左駕一模一樣。</p><p name="5ea3" id="5ea3" class="graf graf--p graf-after--p">其實在日本開車比在台灣開車簡單太多了。它的道路線形設計的很清楚，反正你就是右轉就靠右，因為道路中間一定會有停等區、一定會有待轉區、待轉的線、待轉車道。</p><p name="825e" id="825e" class="graf graf--p graf-after--p">那左轉就是靠左，你就是在道路邊緣你就是靠左。如果只有兩車道，反正右轉就靠到右邊去，左轉靠左邊去，然後直走也靠左邊。三車道中間就直走，左邊就左轉，右邊就右轉，所以線形非常清楚。</p><p name="6fc2" id="6fc2" class="graf graf--p graf-after--p">所有的路線一定都有右轉的待轉區，就是大彎的待轉車道。然後沒有機車，我覺得沒有機車的話，你開起來就簡單非常非常多了，就是你平常會需要規避的車輛就非常非常少。</p><p name="4e85" id="4e85" class="graf graf--p graf-after--p">北海道因為很大嘛，我整趟幾乎都沒有在市區，所以也沒有碰到什麼腳踏車什麼行人，路又很大條，它幾乎每個車道都是那種三公尺寬的那種車道。所以開起來，我覺得在日本開車比在台灣簡單非常多，在北海道開車又比在日本本島開車簡單非常多。</p><h4 name="29a1" id="29a1" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–12 推薦《安全自駕暢遊北海道》交通規則書</strong></h4><p name="1ae2" id="1ae2" class="graf graf--p graf-after--h4">唯一有差的其實就是交通規則，基本上你還是要知道一下。</p><p name="4514" id="4514" class="graf graf--p graf-after--p">我這一次雖然之前兩三年在日本已經租了蠻多次車了，但這次有看到、找到一本書，我蠻推薦大家的：《安全自駕暢遊北海道》。</p><div name="3b02" id="3b02" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t" data-href="https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t"><strong class="markup--strong markup--mixtapeEmbed-strong">安全自駕，暢遊北海道- TAAZE 讀冊生活</strong><br><em class="markup--em markup--mixtapeEmbed-em">安全自駕，暢遊北海道. 吳寧真、謝承揚. 優品文化事業有限公司. 9789865481711. 日本的熱門景點都玩膩了嗎？該是出發探索「秘境」的時候了！雖然日本是右駕，但憑我在台灣鍛鍊的超強開車技....</em>www.taaze.tw</a><a href="https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="affefd395f08ad1d86932a25052d5c21" data-thumbnail-img-id="0*JN93bjorNHx6XvlS" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*JN93bjorNHx6XvlS);"></a></div><figure name="c0e0" id="c0e0" class="graf graf--figure graf-after--mixtapeEmbed"><img class="graf-image" data-image-id="1*RdtUTjEF1zXiWOHuHKiTBw.png" data-width="1866" data-height="1366" src="/assets/images/miro.medium.com/c7fc07e0a54057bb.png"><figcaption class="imageCaption"><a href="https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t" data-href="https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t</a></figcaption></figure><p name="c0b5" id="c0b5" class="graf graf--p graf-after--figure">這本書大概有一半在講交通規則，而且不只是北海道。我覺得如果你去日本租車的話，最好還是先看一下。這大概是我買了十來本、二三十本日本旅遊書，還有五本以上日本自駕旅遊的書裡面，唯一一本專門講交通規則跟行車方式的。</p><p name="560d" id="560d" class="graf graf--p graf-after--p">它把交通規則講得非常非常清楚。包含你要右轉要怎麼轉，你可以直接壓過那個補助線、中央的補助線，直接進到右轉車道，這種細節它都有。</p><p name="2ecc" id="2ecc" class="graf graf--p graf-after--p">還有路邊暫停的時候哪邊可以停、哪邊不能停，上下車的位置，你可以直接右轉進去右邊店家的停車場啊什麼的。這些就是我覺得我們去自駕的時候，你沒看到一定不知道的習慣、insight 跟規則，它都講得非常非常清楚，蠻推的。</p><p name="e40c" id="e40c" class="graf graf--p graf-after--p">像我之前自駕一直很容易搞錯的就是：到底那個標誌是禁止停車，還是禁止臨停。禁止停車跟禁止臨停的標誌，又跟那個看起來很像禁止進入的標誌，這邊就很容易混淆。</p><p name="93bd" id="93bd" class="graf graf--p graf-after--p">這個部分它就講得非常清楚：禁止停車、禁止臨停，還有各種交通標誌。</p><figure name="5723" id="5723" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*OyHIdxohnqXsE2Oel01SZw.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/712bc98211ca0a99.png"><figcaption class="imageCaption">（螢幕錄影左右顛倒）</figcaption></figure><p name="66ac" id="66ac" class="graf graf--p graf-after--figure">包含在路線上要怎麼走。道路上中央線長什麼樣子，怎樣的中央線可以跨過去、怎樣的不能跨過去，怎樣可以超車、怎樣可以迴轉，迴轉的規則是什麼、要怎麼停車，這些規則都講得非常清楚。我覺得它有釐清一些我以前自駕時的疑惑。</p><figure name="d51e" id="d51e" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*4SP_pVjWR5Ojxc5eaeXZog.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/2360c02ba6869532.png"><figcaption class="imageCaption">（螢幕錄影左右顛倒）</figcaption></figure><p name="0fc7" id="0fc7" class="graf graf--p graf-after--figure">像右邊這邊講的，你要直走要怎麼切到左邊去走直走；如果你要右轉你就直走，可以壓過導流帶直接進到右轉車道，這種細節它講得非常清楚。</p><p name="a8b9" id="a8b9" class="graf graf--p graf-after--p">這一本大概就這麼厚，三分之二的厚度都在講行車交通規則、行車方式跟一些 tips。我覺得非常非常實用，大家可以看一下。這是第一個我推薦的書。</p><h4 name="15d1" id="15d1" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–13 自駕經驗分享</strong></h4><p name="898f" id="898f" class="graf graf--p graf-after--h4">自駕其他的部分，基本上就是要改變在台灣的開車習慣。</p><p name="69eb" id="69eb" class="graf graf--p graf-after--p">第一個最重要的事情就是要讓。反正入口要讓，入口前面有車你要讓，有人要左轉、左邊有人要右轉，你都要讓。總之你就是盡量讓就對了。</p><p name="5e61" id="5e61" class="graf graf--p graf-after--p">停車的時候也是，遠遠看到路口有人要過，你就停下來讓之類的。入境隨俗，跟著日本人的行車習慣。</p><p name="0696" id="0696" class="graf graf--p graf-after--p">然後基本上千萬不要出車禍，非常非常可怕。他的賠償是可以到千萬跟上億那種金額，千萬小心。慢，然後讓。你就是一定要做到：在所有路口跟路上，有看到人的時候就停止，遠遠地先停下來就對了。</p><p name="0999" id="0999" class="graf graf--p graf-after--p">當然偶爾還是會碰到有人直接穿越馬路，反正就是小心一點。</p><h4 name="71db" id="71db" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–14 保險跟租車公司的選擇</strong></h4><p name="824b" id="824b" class="graf graf--p graf-after--h4">其他自駕相關的書、介紹影片都會講：保險一定要保到滿，就要保到滿。你自己的旅平險的責任險，加上租車的各種 NOD 啊什麼的，能夠加的就加到滿就對了。</p><p name="78c5" id="78c5" class="graf graf--p graf-after--p">也蠻建議找最大的連鎖體系，有中文，或至少有 LINE 群組、可以隨時諮詢的公司。因為如果有交通事故，或者車子有故障什麼的，大體系的日本租車公司會有翻譯服務。</p><p name="703d" id="703d" class="graf graf--p graf-after--p">像 Toyota rent-a-car 就有一支英文電話，你 24 小時打那支英文電話，把需要的事情跟他們講，他們就會幫你轉、幫你告知你的租車服務站。因為基本上跟車輛有關、車子故障的所有事情，都是你租車的那間服務站在處理。所以大的體系會有這種電話翻譯的服務。</p><p name="f592" id="f592" class="graf graf--p graf-after--p">如果是台灣人的、或有中文服務的公司，至少也會有 LINE 群組讓你用中文諮詢，碰到狀況的時候會比較好溝通。</p><p name="6db8" id="6db8" class="graf graf--p graf-after--p">而且你租車碰到任何事故，包含自己去 K 到路邊、或停車時壓到後面、稍微摸到一點後面，全部都要報警，保險才會出險。再小再小的事故都要報警，保險才會出險，所以最好還是有一些即時支援會比較好。</p><h4 name="567f" id="567f" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–15 租車公司的選擇，NOMAD提供的額外服務</strong></h4><p name="3987" id="3987" class="graf graf--p graf-after--h4">租車的部分，露營車目前就像剛剛講的，有幾間中文的露營車公司。你搜尋北海道露營車，基本上就會找到那幾間。</p><p name="acdf" id="acdf" class="graf graf--p graf-after--p">一個是我這次租的逍遙遊露營車，另外一個是 Domo Camping Car，也蠻多 YouTuber 有去拍的。還有一些其他更小的平台、其他公司。以中文服務來說，應該是這兩個為主。</p><p name="cb73" id="cb73" class="graf graf--p graf-after--p">另外就是 OTS，OTS 是連鎖品牌嘛，我這次是租北海道逍遙遊露營車這個品牌。</p><p name="9c64" id="9c64" class="graf graf--p graf-after--p">我會選它，是因為看到它除了車以外，還有提供一些額外服務。像他們有合作的露營場、合作的旅館跟合作的露營場，可以讓你去預約使用，所以我一開始就選了這一間。</p><p name="1149" id="1149" class="graf graf--p graf-after--p">它也有蠻多付費租借的東西，寫得蠻清楚，收費基準也蠻清楚，這是我一開始選它的原因。</p><figure name="e76c" id="e76c" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*AxQ26MfGNjRlNXoAWdH1yw.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/3c29a9d6f464b441.png"></figure><p name="83b9" id="83b9" class="graf graf--p graf-after--figure">然後他們千歲的停車場旁邊有一個民宿可以住，然後他們也有一般小車可以租。所以如果你只是要開幾天露營車，前後想開一般小車的話，也可以跟他們一起租，這也是我當時選它的原因。</p><p name="44b0" id="44b0" class="graf graf--p graf-after--p">基本上他們車款也很多：七公尺長的歐洲型豪華車、小的輕型車改的露營車，還有包含那種休旅車式的露營車——不是像露營車那樣有一個車廂的那種——基本上每一種都有。</p><figure name="bf11" id="bf11" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*I3qA5t7kkbWJZ6gWfHYUOw.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/9aab139c709c874b.png"></figure><p name="416e" id="416e" class="graf graf--p graf-after--figure">Domo Camping Car 也差不多這幾款車款都有。</p><p name="a844" id="a844" class="graf graf--p graf-after--p">它應該算最大的，有超多的車，還有另外一個子品牌 Fox，是五年以上的車；主品牌則是五年內的新車。</p><p name="a6ec" id="a6ec" class="graf graf--p graf-after--p">這邊就是我剛說他們有提供的額外服務，就是他們有簽約的一些場地可以讓你去使用。這個平台是他們公司經營的，應該是他們試過的場地跟合作的場地。我一開始選的時候就是想說，住宿的地方可以找他們合作的，請他們幫忙預約，省一些麻煩，所以就選了這個品牌。</p><p name="09a2" id="09a2" class="graf graf--p graf-after--p">後來才發現預約這些場地要手續費，而且非常貴，一次 3000 日圓，最後一次都沒有用到。</p><figure name="eef6" id="eef6" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*AAQr9q83ccheJgzhxDnuig.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/41c1a5aec0804e47.png"></figure><p name="8460" id="8460" class="graf graf--p graf-after--figure">然後這個品牌還有第二個缺點：它在線上結帳時，用的金流系統會把日圓租金直接換算成台幣，用金流系統自己的匯率直接換算成台幣讓你刷。</p><p name="c5b6" id="c5b6" class="graf graf--p graf-after--p">所以你刷卡刷的是台幣，而且匯率非常非常差，還是海外刷卡。這個不是信用卡公司的 DCC，你不能選。他們的金流系統，就是會自動換成信用卡發卡國的貨幣。</p><p name="d539" id="d539" class="graf graf--p graf-after--p">所以基本上如果你在這邊租，你看那個金額要自己乘以 1.05，大概會貴 5% 左右。你要自己去算實際上刷卡結帳會結到的金額，這也是一個我覺得很麻煩的地方。</p><p name="591b" id="591b" class="graf graf--p graf-after--p">而且因為刷卡當下就已經換算成台幣了，就沒有匯率優勢。我是在日圓大跌前租的，等於日圓大跌那個 10% 的便宜我完全沒享受到，非常虧。</p><p name="f79b" id="f79b" class="graf graf--p graf-after--p">使用日圓卡也是一樣，它還是用台幣金額結，沒得選。我也寫信去問過，來回兩三封，他們就說這是他們的系統，選這個系統是因為什麼方便退款之類的，總之就是沒得選。</p><p name="8aa3" id="8aa3" class="graf graf--p graf-after--p">他們本來就已經是相對貴的平台，再加上這個匯率換算，就比另外 OTS 跟 Domo Camping Car 貴至少 10% 以上。</p><p name="1867" id="1867" class="graf graf--p graf-after--p">所以大家可以考慮：是不是要因為車款，或因為他有合作的露營場，去用這些服務。像最後還車的時候，有提供新千歲的露營場，可以在還車前的那一個晚上提前預約免費使用。</p><figure name="fff8" id="fff8" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*Nj7RoPrpwwn3mwviBh6F8A.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/1359ea60d79f1b43.png"></figure><p name="2c80" id="2c80" class="graf graf--p graf-after--figure">如果你會講日文，自己打電話預約就沒問題。但如果你需要露營車公司幫你預約，基本上就是一次 3000 日圓。你可以自己考慮要不要用。</p><p name="9f90" id="9f90" class="graf graf--p graf-after--p">他們其實也有簽一些蠻特別的合作。像在帶廣這邊有一間旅館跟他們合作，Premier Cabin。這間旅館特別提供露營車公司的車可以停旅館，付費停在旅館停車場，然後你可以去吃旅館早餐、用室內浴場那些設施。</p><p name="27d9" id="27d9" class="graf graf--p graf-after--p">這是其中一個比較特別的場地，他寫說其他露營車公司沒有，是北海道 NOMAD 限定。你可以考慮服務值不值得讓你多付一點金額去租。</p><figure name="15d3" id="15d3" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*z1B5lLJcMF-S_kbINCRzew.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/a377a182f480d47a.png"></figure><p name="5feb" id="5feb" class="graf graf--p graf-after--figure">整體來說它是全中文服務：預約從 LINE 群組就可以預約，線上網站直接預約；諮詢也有 LINE 群組，整個使用過程都可以用 LINE 溝通。現場取車是講中文的老闆，還車也有講中文的員工協助，所以基本上全中文。</p><p name="5a76" id="5a76" class="graf graf--p graf-after--p">所以這兩個品牌在服務上的差異，應該就是額外合作場地，還有租借用品的齊全程度。</p><h4 name="fa4c" id="fa4c" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–16 租借車上用品、冷氣與廚具</strong></h4><p name="8f4c" id="8f4c" class="graf graf--p graf-after--h4">我自己的租借用品，基本上我們就是租寢具：最基本的寢具組，枕頭、棉被、床單，一人一組。</p><p name="f093" id="f093" class="graf graf--p graf-after--p">我們另外租了東京西川的床墊。我回來之後有去查，這床墊就是可攜式的，專門給露營用的那一組。台幣大概兩到三萬，我查到台灣代理商的價錢，真的蠻好睡的。</p><p name="6e2c" id="6e2c" class="graf graf--p graf-after--p">我是沒有試過「沒有床墊」會不會差很多。我們整趟時間都是租兩個、鋪著睡，所以沒有比較。那如果沒有的話，那種像 Q Time 漫畫王那一種、軟軟座椅那種材質，我也不知道差多少。</p><figure name="2773" id="2773" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*UlbIzs1lQ5OKsFJ16Q51og.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/41f8624479b7f17f.png"></figure><p name="2658" id="2658" class="graf graf--p graf-after--figure">夏天的話，我們這次是夏天去，七月初。我覺得再加上他們夏天用的是毛巾被，基本上就像一條大毛巾的感覺，保暖程度蠻夠的。</p><p name="3037" id="3037" class="graf graf--p graf-after--p">我們只有一個晚上是真的睡到稍微有點冷，是在山上的時候。基本上也只有另外一兩個晚上覺得比較熱一點，有考慮要開冷氣。</p><p name="3f2f" id="3f2f" class="graf graf--p graf-after--p">我選這一款車的原因之一，也是因為它有另外的車內冷氣。</p><p name="376c" id="376c" class="graf graf--p graf-after--p">我覺得租露營車的時候，你一定要特別注意有沒有兩樣東西：冷氣跟微波爐。冷氣指的不是車子發動時的車子本身冷氣，是露營車車廂內、室內用的冷氣。</p><p name="013a" id="013a" class="graf graf--p graf-after--p">現在夏天越來越熱，我們真的有兩三天在晚上有開冷氣。車內電池的電，夠讓我們開四、五個小時，一路開到早上太陽出來，電都還夠。</p><p name="6f71" id="6f71" class="graf graf--p graf-after--p">我們大概就是開個 27、28 吧，電還會剩下大概六成左右。它有太陽能板，所以太陽出來之後電就非常夠了。</p><p name="d3ca" id="d3ca" class="graf graf--p graf-after--p">我們在車內用電，基本上就只有冷氣跟插座充電腦，沒有用到其他電器。</p><p name="0aa2" id="0aa2" class="graf graf--p graf-after--p">露營車公司有特別說不能用自己帶的吹風機。吹風機兩千瓦會跳電。跳掉之後，你接下來整個租車期間都沒有電器可以用了，那就非常痛苦。也不能同時用冷氣跟微波爐，峰值跳到兩千瓦以上就會出事。</p><figure name="fead" id="fead" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*jnrDz_E5pys7JORG1Ypq_g.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/442eadefe6733023.png"></figure><p name="1ff1" id="1ff1" class="graf graf--p graf-after--figure">我們再回去看車內用品。我也有租一組餐具，還有焚火台。我有用某個 YouTuber 的推薦碼，他們有送營燈……是送餐具還是送營燈我忘記了，送營燈吧。</p><p name="59c1" id="59c1" class="graf graf--p graf-after--p">我還有租折疊椅、折疊桌，但這些全部都沒用到。基本上我們沒有進露營區，所以你完全用不到焚火台，也沒有任何地方可以讓你放折疊椅折疊桌。所有道之驛跟一般停車場都不能放這些東西，都不能把這些東西放到車外，你就是只能進露營場用。</p><p name="b67b" id="b67b" class="graf graf--p graf-after--p">但我這次是完全沒有進到露營場。原因是大部分露營場都要預約，我看到的幾乎都不能當天有空就當天去、看現場有沒有空。預約大概有兩種：一種是網路／寫信預約，一種是打電話預約。打電話的話我們不會講日文，基本上就沒辦法。寫信跟網路預約通常也沒有當天的，都是要兩三天前。</p><p name="fca7" id="fca7" class="graf graf--p graf-after--p">我這次行程只抓一個路線，走到哪、時間到了我就停，所以沒辦法預估三天後我要停哪裡，最後就完全沒有去任何露營場。所以焚火台、折疊桌、折疊椅，還有瓦斯爐這些戶外用的東西通通都用不到。</p><figure name="1b9a" id="1b9a" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*gqJY7DpcQdMQ-Y-JZFj6XQ.png" data-width="1420" data-height="1892" src="/assets/images/miro.medium.com/4cb09dd28f0d9f29.png"></figure><p name="8b3f" id="8b3f" class="graf graf--p graf-after--figure">因為我們這趟全部都在店家吃，一路吃過去，沒有在室內烹調。餐具也幾乎用不到。</p><p name="03a1" id="03a1" class="graf graf--p graf-after--p">另外露營車基本上也不能在室內煮任何會有味道的東西，大概就是只能煮水、煮咖啡，頂多煮個鍋。反正我們完全沒用到，也沒有煮熱水，因為天氣很熱，就一直買飲料一路喝過去，基本上是這樣。</p><h4 name="ebae" id="ebae" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–17 冰箱微波爐、廁所與空間</strong></h4><figure name="4f02" id="4f02" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*ZyEZKezh0gGhLkFzELDCvg.png" data-width="1420" data-height="1892" src="/assets/images/miro.medium.com/f0c5991a8932f9f3.png"></figure><p name="e595" id="e595" class="graf graf--p graf-after--figure">冰箱很常用。基本上最常用到的是冰箱。</p><p name="afbc" id="afbc" class="graf graf--p graf-after--p">微波爐我們好像只用到一次吧，就只有一次吃便利商店便當。其他幾乎都是買了就直接在車上吃掉，沒有冰著、隔一陣子再拿出來微波。但冰箱很常用：買飲料就冰冰箱，買大瓶的礦泉水也冰冰箱。</p><p name="9762" id="9762" class="graf graf--p graf-after--p">露營車本身雖然有水，我們沒什麼用，只有拿來稍微沖洗杯子，還有刷牙。後來刷牙我們也用自己買的大罐礦泉水，因為你不知道車子水箱乾淨的程度如何。</p><p name="7076" id="7076" class="graf graf--p graf-after--p">第二個是廢水非常難處理，只有非常少數的 RV Park 跟非常少數的露營場可以處理廢水。所以就盡量不要產生水，不然廢水真的很難處理。</p><p name="4050" id="4050" class="graf graf--p graf-after--p">車上也沒有廁所。雖然租借清單有移動式馬桶，但我們也沒租。露營車公司的網頁也有說大部分人根本用不到，所以我覺得不用租了。</p><p name="2b23" id="2b23" class="graf graf--p graf-after--p">只要半小時內一定有休息站跟公共廁所，而且日本的休息站跟公共廁所幾乎都非常乾淨。除了比較窮的縣市，或露營場可能會比較陽春以外，基本上都很乾淨，所以完全不用擔心。</p><p name="4375" id="4375" class="graf graf--p graf-after--p">洗澡的話，其他 YouTuber 也都會講：就是去溫泉。我們也是一樣，每天去睡覺附近的錢湯洗，或者附近的溫泉，所以也不用考慮在車上洗澡的需求。所以現在有些車款改裝時會把浴室那個小小空間去掉，這其實是一個可以考慮的點。</p><figure name="b5fc" id="b5fc" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*DbkWopgNHUbagx_jD0uC6A.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/e8b67c1e85bcc094.jpeg"></figure><p name="da03" id="da03" class="graf graf--p graf-after--figure">我們這一款還有保留浴室空間，就是這邊這一塊小小的灰色空間，但基本上那個空間完全沒用，有點佔空間、有點浪費。</p><p name="a430" id="a430" class="graf graf--p graf-after--p">它有個門，裡面地板是防水的地板。我們只用來晾毛巾跟晾浴巾。另外 28 吋行李箱剛好塞得進去，所以我就把行李箱丟在裡面。這空間平常就是浪費的。</p><p name="f546" id="f546" class="graf graf--p graf-after--p">所以也有一些新的車款完全沒有這個空間，可以考慮租那樣的車子，室內空間就會再大一點，客廳空間也可以更大。</p><p name="9adf" id="9adf" class="graf graf--p graf-after--p">好，那車子的部分大概是這樣，應該都有講到了吧。</p><h4 name="34d4" id="34d4" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">1–18 左駕心得</strong></h4><p name="bafc" id="bafc" class="graf graf--p graf-after--h4">左駕。我覺得大家去之前都很擔心左駕會不會走錯車道。</p><p name="bff5" id="bff5" class="graf graf--p graf-after--p">但我覺得唯一比較會走錯車道的狀況，就是上下高速公路、上下閘道跟單行道，可能會有轉錯的問題。其他一般雙向道路都非常清楚，完全不會碰到這個問題。</p><p name="e1d0" id="e1d0" class="graf graf--p graf-after--p">反正你往左就是靠路邊，你轉過去也在路邊；你往右就是靠路中，你轉過去也會在路中。幾年前第一次自駕開始，我就沒有覺得有問題。</p><p name="9c2f" id="9c2f" class="graf graf--p graf-after--p">比較可能會適應不良的是：右手是方向燈，左手是雨刷吧。你在路上看到轉彎時在開雨刷的一定是台灣人。</p><p name="e67e" id="e67e" class="graf graf--p graf-after--p">而且你回來的時候，在那邊開習慣了，回來也很有可能想打方向燈但打到雨刷。你會很習慣右手轉方向盤、順便切方向燈，回來之後還會有點不習慣。左駕基本上就是這樣子。</p><h3 name="c953" id="c953" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">第二章 車輛使用、車上生活</strong></h3><h4 name="113f" id="113f" class="graf graf--h4 graf-after--h3"><strong class="markup--strong markup--h4-strong">2–1 床位與生活空間</strong></h4><figure name="928d" id="928d" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*BSYv_lQQG6vmlj_IODujiA.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/10bb6aa204afc8ed.jpeg"></figure><p name="d689" id="d689" class="graf graf--p graf-after--figure">我們自己的狀況是從頭到尾，我都兩個人都是睡在這個額頭床。</p><p name="6065" id="6065" class="graf graf--p graf-after--p">把車頂的床板設定好之後，是兩個人的空間，大概是 175 公分到 180 公分的深度跟寬度。接近方形，但因為最前面這邊是往下傾斜的，所以你如果躺直的，腳在內、頭在外的話，175 會勾到腳；但如果你躺橫的話，頭跟腳就會剛剛好頂到左邊跟右邊。</p><p name="4a56" id="4a56" class="graf graf--p graf-after--p">我們後來發現躺橫的比較好躺，躺直的話腳就會一直 K 到最前面那個傾斜的地方。</p><p name="fa90" id="fa90" class="graf graf--p graf-after--p">圖上這就是東京西川那個可攜式床墊。我們租兩個床墊，加上租車公司的床單，下面就是那種一般軟墊，大家在 QTime、漫畫王那種網咖會看到的那種軟墊床墊，直接睡在上面。</p><p name="42d9" id="42d9" class="graf graf--p graf-after--p">第一個晚上把床拉出來、墊子鋪好之後，就再也沒把它收過了，也懶得收，真的懶得去收。這樣唯一的問題是，如果要直接從中間車室爬到駕駛座，會一直撞到頭。站在車廂內，也很容易撞到這個凸出來的部分，要小心一點。</p><p name="319e" id="319e" class="graf graf--p graf-after--p">我們從頭到尾都沒有收這個床，就一直這樣子。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="8d4e" id="8d4e" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*Y-pLSOHqS5WMg1cdXKYTug.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/f9e9d8b467a94e30.jpeg"></figure><figure name="0c91" id="0c91" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*ooPe7fSnQHVJqPY5EoxVkA.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/7fe406e2a445db40.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="3a96" id="3a96" class="graf graf--p graf-after--figure">另外四個睡眠床位是在最後面，車子最後面的部分：下面是一個，上面是第二個。我們把上面那個床的中間拆掉丟到旁邊去，讓空間比較大一點。</p><p name="c65b" id="c65b" class="graf graf--p graf-after--p">正中間的就是——我沒有照到客廳空間。客廳就是一張桌子，前後兩排椅子。平常行駛的時候可以坐四個人；睡覺的時候就把它整個打平，睡一個人。</p><p name="341e" id="341e" class="graf graf--p graf-after--p">所以五個人，大概是五個吧。我記得我這一款，如果把所有睡覺空間全部打出來的話，是五個，對，五個：一二三四五。有的車款中間這個床的位置會更寬一點，就可以睡到六個人。</p><p name="073c" id="073c" class="graf graf--p graf-after--p">但我自己覺得兩個人睡這台車非常舒服；四個人可能會稍微有點勉強；五個人或六個人的話，基本上不可能，還是不要好了。</p><h4 name="2398" id="2398" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–2 露營車與飯店的比較</strong></h4><p name="9bb8" id="9bb8" class="graf graf--p graf-after--h4">其實露營車比飯店還貴。兩個人來搭的話，我們租十天，加上所有租借器材，全部加起來大概是 15 萬台幣，比飯店還貴。</p><p name="d9cf" id="d9cf" class="graf graf--p graf-after--p">它方便的地方就是你可以開到哪、睡到哪。還有就是行李打開之後，所有東西都不用收，不用每天搬來搬去。北海道那麼大，如果開一般車，行李就是每天晚上要下來、早上要上車：晚上下來、早上上車，那就真的非常辛苦。</p><p name="0598" id="0598" class="graf graf--p graf-after--p">露營車就是第一天打開來，東西擺一擺、收進抽屜，最後一天再把東西全部塞回行李就好了，中間不用一直挪來挪去。使用上大概是這樣。</p><h4 name="5ea2" id="5ea2" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–3 準備物品：吸蟲棒</strong></h4><p name="01f1" id="01f1" class="graf graf--p graf-after--h4">準備的物品，除了車子本身、租車公司提供的器材以外，我們另外準備了一些東西。第二天我有跑去汽車用品店買了一些東西，非常好用，推薦大家一定要有。</p><figure name="d4d6" id="d4d6" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*2xqnrcMp4zo3JjfifcppOw.png" data-width="1914" data-height="1656" src="/assets/images/miro.medium.com/45157784a552d000.png"></figure><p name="2b22" id="2b22" class="graf graf--p graf-after--figure">第一個是只有在台灣買得到的。不要等到去了北海道才想找，日本目前還沒有的，就是這個：吸蟲棒、吸霸。大家直接網路上找「吸霸」，它大概就是這樣子，你打開來它就會抽風，可以把蚊子吸進去。</p><p name="040b" id="040b" class="graf graf--p graf-after--p">在露營車上非常非常實用，尤其北海道夏天蚊蟲非常多。我們有在那個自然體驗的那一個道之驛過夜，那個地方大概在星野前面一個小時、半個小時左右的地方，蟲真的非常非常多。那地方肯定平常就是蟲比人還多。</p><p name="9882" id="9882" class="graf graf--p graf-after--p">蚊子倒是沒有，整趟大概只吸到兩三隻蚊子而已，但蚊蟲真的非常多，所以這個非常實用。可以從台灣帶過去，日本買不到。</p><h4 name="4a3d" id="4a3d" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–4 去蟲清潔劑與清潔用品</strong></h4><figure name="21ac" id="21ac" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*Kc8j0COy7mR13cGy63oBFg.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/8236e555ba45176c.jpeg"></figure><p name="864d" id="864d" class="graf graf--p graf-after--figure">然後第二個是日本才買得到的：清潔蚊蟲屍體的清潔劑，跟專門清潔的手套。去蟲精、去蟲清潔劑，還有清潔手套。</p><p name="a725" id="a725" class="graf graf--p graf-after--p">露營車公司也有附洗車毛巾、擦車抹布給我們。</p><p name="5ca1" id="5ca1" class="graf graf--p graf-after--p">為什麼這個非常實用？因為山裡面蚊蟲非常非常多。你只要開兩三個小時的夜車，不管高速公路或一般山路，晚上的時候整個車頭就會全部都是蟲。</p></div><div class="section-inner sectionLayout--fullWidth"><figure name="a52a" id="a52a" class="graf graf--figure graf--layoutFillWidth graf-after--p"><img class="graf-image" data-image-id="1*1150JKKs-UBfjhzIgrDXxA.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/7ce1ac36bb1ef6ce.jpeg"><figcaption class="imageCaption">車頭的黑點全部都是蟲屍</figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="504f" id="504f" class="graf graf--p graf-after--figure">我這趟總共去加油站自助洗車洗了兩次。就像照片那樣，車頭所有黑色點點全部都是掛掉的蟲，非常非常多。高速行駛又加上蟲很小，死掉之後會黏在車上。我第一次去自助洗車，用高壓水柱噴噴不下來；肥皂水也沖不下來，還要用刷的。</p><p name="2a73" id="2a73" class="graf graf--p graf-after--p">我後來就問 ChatGPT 這要怎麼清，因為真的非常難洗。他就說日本人會去買這個：任何有販賣處的加油站、或汽車用品店，走進去第一眼就會看到的去蟲清潔劑。</p><p name="04f3" id="04f3" class="graf graf--p graf-after--p">第二天到釧路的時候，就跑去 Autobacs 買了去蟲清潔劑跟擦車清潔手套。接下來再去自助洗車，高壓水噴一噴、清潔一下、肥皂水噴一噴；有蟲的地方再用去蟲劑噴一噴，然後用清潔手套擦，就非常非常快。</p><p name="af73" id="af73" class="graf graf--p graf-after--p">第一次用抹布加肥皂水刷，洗到水噴完之後還在刷，刷了半個小時，幾乎刷不太下來。真的非常黏、非常固著。第二次洗就快很多。</p><p name="6529" id="6529" class="graf graf--p graf-after--p">這個東西我不知道租車公司有沒有。我租的時候網站上沒講，我當時也不知道要找這個。反正我就自己買了，加起來不到台幣 200 塊，非常便宜，就跑去汽車用品店買。</p><h4 name="fe44" id="fe44" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–5 準備物品：車用風扇、吸塵器</strong></h4><p name="341d" id="341d" class="graf graf--p graf-after--h4">另外兩個東西我也是在現場買的。</p><p name="e641" id="e641" class="graf graf--p graf-after--p">第一個是夾式的車用電風扇，就是那種插 12 伏的車用電風扇。這支非常便宜，台幣大概 100 塊而已，是汽車用品店的特價品。</p><p name="973a" id="973a" class="graf graf--p graf-after--p">一開始會買，是因為第一個晚上睡的時候覺得有點悶，額頭床那邊冷氣上不來，睡起來就比較悶，所以就買了這種夾式風扇。後來其實都沒用到，第二個晚上開始就都沒用了。</p><p name="1428" id="1428" class="graf graf--p graf-after--p">但我後來是把它夾在駕駛座副駕上面，吹我掛在前面、用來拍街景的 iPhone。我覺得蠻實用的。有帶、或到了隨便買一個也行，熱的時候就可以開，不一定要開冷氣，可能只是需要通風而已。</p><figure name="a6b5" id="a6b5" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*Q-zqW5N_qja6iYEjACQR0w.png" data-width="1412" data-height="1610" src="/assets/images/miro.medium.com/4ff184fa4dff79f6.png"><figcaption class="imageCaption">逛車用品店的 DM</figcaption></figure><p name="020d" id="020d" class="graf graf--p graf-after--figure">第二個是吸塵器，我買了一組充電式的車用吸塵器，大概台幣七、八百塊吧。這種有鋰電池的東西，我覺得台灣應該帶不過去，理論上也帶不回來啦，好像不應該讓我帶上飛機才對。但反正我就丟在行李裡面寄回來了。</p><p name="71a1" id="71a1" class="graf graf--p graf-after--p">它好用在哪裡？因為車內的車頂都是絨毛，第一個晚上我們睡了一個蟲非常多的「自然體感」休息站，車門打開再關起來，額頭床上面的絨毛上就黏著一隻一隻的蟲。只會爬，不會飛來飛去，用吸霸也吸不起來。只好用衛生紙捏一捏，大概有五十隻吧，超小隻也不會咬人，只是就是很多，看起來很噁。整個車子裡面到處都是這樣子。</p><p name="21a3" id="21a3" class="graf graf--p graf-after--p">所以第二天我就跑去買吸塵器，想說以後有蟲就吸一吸就好。</p><p name="c922" id="c922" class="graf graf--p graf-after--p">另外一個原因是車頂的通風扇 — — 我也沒照到照片 — — 但它那個濾網蠻髒的，所以就也可以清一下。第三個原因是我們租十天，車內是不穿鞋子的，地板難免會有些屑屑什麼的，也可以吸一吸。所以我就買了這個。</p><figure name="be63" id="be63" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*ee4KubuAdsrQxtUIT2xYvg.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/d01ae1f29e5b25bd.png"></figure><p name="2c50" id="2c50" class="graf graf--p graf-after--figure">這一個吸塵機加上風扇，再加上清潔劑，全部加起來大概不到 1500 台幣，非常實用。</p><p name="5824" id="5824" class="graf graf--p graf-after--p">大家也可以特別準備一下，或問租車公司有沒有提供。我後來看一些介紹、影片，是說有的租車公司有提供。沒有的話，你也可以像我一樣自己買，回來就直接丟在租車公司，搞不好就提供給下一個人。</p><p name="63a5" id="63a5" class="graf graf--p graf-after--p">總之就問問看，沒有的話自己跑去汽車用品店買，便宜也很實用。如果你也想要開著乾乾淨淨的車，不要說一路開、一路一堆黑點點的話，也可以買一下，路過自助洗車就進去洗一下。</p><h4 name="a343" id="a343" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–6 自助洗車經驗</strong></h4><figure name="9385" id="9385" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*O53MC4wSnMyxEUtnPiZ2Iw.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/a119938a7a03813d.jpeg"></figure><p name="2414" id="2414" class="graf graf--p graf-after--figure">自助洗車非常便宜，500 塊，15 分鐘左右吧。</p><p name="3265" id="3265" class="graf graf--p graf-after--p">流程大概就是：高壓水 2 分鐘，泡泡可能 2 到 3 分鐘，給你洗車的時間到 15 分鐘，接下來再高壓水 1 到 2 分鐘。他們大概就是這樣，500 塊而已，非常便宜。通常其實用不太到後面那麼長的時間。</p><p name="a379" id="a379" class="graf graf--p graf-after--p">我第二次去的那個自助洗車，還有一個樓梯可以讓你站上去洗車頂 — — 那邊我沒有拍到。總之我就這樣洗了兩次。因為那兩天前一個晚上弄的比較髒，所以就洗了兩次。</p><figure name="5274" id="5274" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*HfT6Tah0M0g8mf5X090aWg.png" data-width="1122" data-height="1258" src="/assets/images/miro.medium.com/14ab5ea028d6bcbb.png"></figure><p name="c5c5" id="c5c5" class="graf graf--p graf-after--figure">我第二次去的那個自助洗車，還有一個樓梯可以讓你站上去洗車頂 — — 那邊我沒有拍到。總之我就這樣洗了兩次。因為那兩天前一個晚上弄的比較髒，所以就洗了兩次。</p><p name="71fd" id="71fd" class="graf graf--p graf-after--p">這邊有不同方案，反正就是高壓水、泡泡、手洗時間，再加上高壓水，這樣就好，五百塊。那個超撥水洗車六百塊，那個我就沒有用。也不知道那個材質適不適合這種碳纖維的車殼。</p><p name="6db1" id="6db1" class="graf graf--p graf-after--p">車窗、車頂這些地方，尤其車頭，晚上行駛、太陽下山之後行駛，不管高速公路、平地或山區，就一定會黏到超多蟲。我看到整個道之驛的所有車子，車頭全部都是。大家如果有去星野，你停 TOMAMU，那你看停車場所有車，每一台都是，很好笑。</p><h4 name="0115" id="0115" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–7 租車公司建議（續）</strong></h4><p name="8001" id="8001" class="graf graf--p graf-after--h4">租車服務跟建議剛有快速講一下。基本上中文服務的就是 DOMO 跟 NOMAD 這兩間，可以選一間；或者是 OTS。</p><p name="28af" id="28af" class="graf graf--p graf-after--p">OTS 有中文網站，不知道現場有沒有中文。現場應該沒有中文服務，跟其他日本連鎖租車公司一樣，可能只有日文跟英文，你就自己選一下。</p><p name="9c0d" id="9c0d" class="graf graf--p graf-after--p">OTS 最便宜；NOMAD 最貴；DOMO 相對在中間。</p><p name="a7aa" id="a7aa" class="graf graf--p graf-after--p">NOMAD 車款最多，服務內容寫得最完整。網站有寫到的服務內容是最多的。大家可以自己選。</p><h4 name="a9fc" id="a9fc" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–8 停車狀況</strong></h4><figure name="facd" id="facd" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*fgiFTAbf4JW0A4Atv89ZyA.jpeg" data-width="2994" data-height="3992" src="/assets/images/miro.medium.com/930d77c8b6d21d96.jpeg"></figure><p name="9b46" id="9b46" class="graf graf--p graf-after--figure">停車我一開始有說，它的大小基本上可以剛好停進一個小客車的車格。</p><p name="6945" id="6945" class="graf graf--p graf-after--p">像這張是在旭川那個很貴的溫泉那邊拍的。你可以很明顯看到它左右剛好進到線裡面，前後也剛好在一個車格的最前面跟最後面。</p><p name="42d3" id="42d3" class="graf graf--p graf-after--p">這張也可以看到照後鏡。我這張照後鏡是我忘記把人切回來。我這張照片的照後鏡，就是會把往左出去的照後鏡往前折：小的鏡子貼到擋風玻璃，大的鏡子就會轉到你的車正前方。這樣左邊的車子如果有人要停車，就比較不會撞到你的照後鏡。我平常停車的時候都會收。</p><p name="c19d" id="c19d" class="graf graf--p graf-after--p">在道路休息站，大家晚上停泊的時候也會習慣中間隔一個空間。如果車格很多，就是一格一台、隔一格一台、再隔一格，大家互相方便。</p><h4 name="476c" id="476c" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–9 抽風扇與車窗通風、車邊帳</strong></h4><p name="c574" id="c574" class="graf graf--p graf-after--h4">回到車子上面，有一個剛剛沒有講到的東西：車頂的抽風扇／排風扇，是抽排兩用扇。</p><p name="ca09" id="ca09" class="graf graf--p graf-after--p">我們基本上都是開排風，而且隨時開著。停車的時候也不用關，反正電池消耗非常非常小，你就一直開著，它就一直通風。</p><p name="dc8f" id="dc8f" class="graf graf--p graf-after--p">車窗我們是用「只開一條縫」的模式。基本上所有窗戶都有一個模式是可以開一個小縫、然後鎖住的模式。</p><p name="2a36" id="2a36" class="graf graf--p graf-after--p">從第一天開出去、第一次休息開始，我就把全部窗戶都開成一個小縫的通風模式，配紗窗。從第一天到最後一天，車窗幾乎都沒動過，除了洗車把它關起來以外，其他時間都沒動。</p><p name="86b2" id="86b2" class="graf graf--p graf-after--p">排風扇也一直這樣開著，所以車內隨時都有通風。就算開冷氣我也是這樣開著，反正不用去動它，也不會忘記關。</p><figure name="d8a2" id="d8a2" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*cHIHnaiMl7ODlcHIpMQozQ.png" data-width="791" data-height="1464" src="/assets/images/miro.medium.com/40ef99a1a81be7c4.png"></figure><p name="61aa" id="61aa" class="graf graf--p graf-after--figure">你看其實很多照片裡的車窗都是開一個小縫的，都是排風、通風的狀態。</p><p name="f245" id="f245" class="graf graf--p graf-after--p">晚上睡覺的時候，所有車窗都可以完全遮光，它有遮光簾跟紗窗、遮光板跟紗窗兩種模式可以切換。晚上睡覺可以完全遮蔽，包含額頭床旁邊的窗。</p><p name="b6ef" id="b6ef" class="graf graf--p graf-after--p">像這張比較明顯，你看額頭床旁邊兩個窗戶，開了通風，所以會稍微凸出一點點。那個卡榫會剛好鎖住，讓它不會再往外、也不會關起來。</p><p name="808e" id="808e" class="graf graf--p graf-after--p">我所有窗戶都是這樣開著，最大的那個窗戶也是。紗窗也都是整個開著。</p><p name="06a4" id="06a4" class="graf graf--p graf-after--p">行駛的時候通風，停車也通風。這樣再加上室內排風扇往外排，就算停車大太陽，你下車出去逛一兩個小時再回來，車子也不會悶熱，車內的東西也不怕太熱，效果很好。</p><p name="0741" id="0741" class="graf graf--p graf-after--p">不過行駛在高速公路上可能會稍微有點吵，因為有通風，風聲跟路噪會比較明顯。你也可以行駛的時候把它完全關緊。</p><p name="1774" id="1774" class="graf graf--p graf-after--p">另外我印象中每一個露營車公司都說車邊帳不能用，禁止使用車邊帳。因為他們說車邊帳如果收不回來，車子就沒辦法行駛，而且很容易收不回來之類的，他們網站是這樣寫的，所以就禁止使用。</p><p name="5351" id="5351" class="graf graf--p graf-after--p">我們也沒有試。我印象中看到三四個有中文的其他平台，寫的也都一樣。</p><p name="cc76" id="cc76" class="graf graf--p graf-after--p">車子的部分大概就是這樣。</p><h4 name="95c9" id="95c9" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–10 租車公司選擇（續）</strong></h4><p name="70ef" id="70ef" class="graf graf--p graf-after--h4">租車服務跟建議剛也提到了，大家可以自己選。</p><p name="75a3" id="75a3" class="graf graf--p graf-after--p">然後北海道女婿沒有露營車。大家如果有在看北海道旅遊影片，應該都會看到他，他就沒有露營車。</p><p name="acfb" id="acfb" class="graf graf--p graf-after--p">我去日本這麼多趟，平常租車都是租 Toyota、Nissan，最多最多就是 Nippon，通常都是這三個系統。</p><p name="0fb3" id="0fb3" class="graf graf--p graf-after--p">我二月那次去北海道、去旭川的時候租 Toyota，因為他英文翻譯專線蠻方便的，所以可以考慮。</p><p name="f1c1" id="f1c1" class="graf graf--p graf-after--p">我去旭川那次租了一天一般車，Toyota 的一台四輪驅動的 Hybrid 車款，忘了是哪一台。第一天開完之後打英文專線問能不能續租，他就幫我用英文去問出租的那間旭川本店，再回覆我，我覺得蠻方便的。</p><p name="b90d" id="b90d" class="graf graf--p graf-after--p">所以租車基本上就是這樣：找有中文服務的，或者找連鎖。連鎖體系各有好壞，大家自己考慮。</p><h4 name="cc40" id="cc40" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–11 租車證件；需要貨車駕照的車款</strong></h4><p name="3209" id="3209" class="graf graf--p graf-after--h4">所有自駕影片都會告訴你：租車要帶台灣駕照加上日文譯本，不是國際駕照。</p><p name="6bf3" id="6bf3" class="graf graf--p graf-after--p">日本加入的國際駕照體系跟我們加入的是不同體系，所以台灣國際駕照沒有用。台灣國際駕照只能在美國用，不能在北海道，不能在日本用。</p><p name="d09d" id="d09d" class="graf graf--p graf-after--p">日本你只需要台灣駕照加上日文譯本。日文譯本就是去監理站辦，這兩個東西要同時有。</p><p name="c390" id="c390" class="graf graf--p graf-after--p">NOMAD 的網站有特別講，他們某些車款是在前幾年修法前的車子。在修法前，你不能用小客車駕照來開這種露營車；修法後可以。所以他們有些車款可以用小客車駕照行駛，有些不行，雖然看起來一模一樣，但有些可以、有些不行。</p><p name="d3c1" id="d3c1" class="graf graf--p graf-after--p">他有特別寫說，如果你要選修法前的車，你就必須要有大貨車的駕照吧。大家基本上都沒有，所以你就確認一下這點，租可以用小客車駕照的車。忘記哪一年修法之後，這樣形式的車變成小客車駕照可以開，總之就是這樣子。</p><h4 name="ab39" id="ab39" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">2–12 選擇車款的考量：傳統露營車或休旅車或輕型車改裝</strong></h4><p name="9853" id="9853" class="graf graf--p graf-after--h4">我覺得傳統露營車這種車款，會比一般休旅車改裝的露營車還舒服一點。</p><p name="c370" id="c370" class="graf graf--p graf-after--p">至少它有額頭床，而且進出有門，門也可以開紗窗。不像一般休旅車那種側滑門，打開再關起來，冬天冷空氣跑進去比較多，夏天的時候蚊蟲跑進去的多。所以我覺得這樣的車款比較好，會比那種小客車的側滑門車款更好一點。</p><p name="6f49" id="6f49" class="graf graf--p graf-after--p">輕型車改的露營車，就是非常。Domo 也有另外一款是用輕型車改的、有額頭床的露營車，那一款我之前也有在看。但北海道地大空間大，我覺得先租一般的試試看。</p><figure name="cad1" id="cad1" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*yrEH8fsEBDRI3UbJnXIEmQ.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/e1ed9af4986aa69b.png"></figure><p name="d3f3" id="d3f3" class="graf graf--p graf-after--figure">NOMAD 的話輕型車是這一台 Every；DOMO 的話我記得是另外一台有上額頭床的。如果是一個人的話，我可能會考慮輕型車這種；但兩個人以上的話，還是一般這種廂型的露營車可能會比較好、比較舒服。</p><p name="315c" id="315c" class="graf graf--p graf-after--p">車的部分到這裡。接下來最後就是第三個 part：行程的部分。整個行程的規劃，加上怎麼找住的地方，還有一些細節。</p><h3 name="b588" id="b588" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">第三章 車中泊行程規劃</strong></h3><h4 name="5936" id="5936" class="graf graf--h4 graf-after--h3"><strong class="markup--strong markup--h4-strong">3–1 行程總覽</strong></h4><figure name="5ead" id="5ead" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*7c0dwNxCSf_-WoPFUeja7g.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/e49e447915e8c680.png"></figure><p name="66d1" id="66d1" class="graf graf--p graf-after--figure">這是我完整的行程，十天的時間。我開得相對慢、也開得相對短，頂多三個小時，應該沒有比三個小時更長的日子。</p><p name="a0ad" id="a0ad" class="graf graf--p graf-after--p">所以我大概第一天到 TOMAMU，第二天到釧路，第三天到根室，第四天到網走下面這邊，第五天到遠輕。第六天是最長的，直接上高速公路之後到旭川，睡白金青池這裡的休息站。</p><p name="ad04" id="ad04" class="graf graf--p graf-after--p">第七天到旭川郊外這附近，第八天在旭川青之洞窟溫泉，第九個晚上回札幌。接下來隔天還車。大概就是這樣的行程，繞一整圈。</p><p name="bf1c" id="bf1c" class="graf graf--p graf-after--p">基本上就像我一開始在「行駛」那部分有講，我是每半個小時一定停休息站、一定停道路休息站，這樣安排。</p><p name="9b24" id="9b24" class="graf graf--p graf-after--p">一開始的計畫是：往右走到最右邊，接下來往上走，看能不能走到宗谷岬。不行就從中間折返，從中間進旭川，這是我一開始的規劃。</p><h4 name="006d" id="006d" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–2 ロケスマ 地圖 App：道之驛、休息區、溫泉、便利商店、加油站</strong></h4><p name="32e3" id="32e3" class="graf graf--p graf-after--h4">這個 APP 非常非常方便：Location Smart（ロケスマ）。這個 APP 方便，是因為它可以把很多類型的點整合起來，而且 POI 會即時更新。</p><figure name="878b" id="878b" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*8HD7yE8HJDYei9al77d-mQ.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/08fbd61a67846683.png"></figure><p name="11c8" id="11c8" class="graf graf--p graf-after--figure">我就會用到這幾種：</p><p name="6f44" id="6f44" class="graf graf--p graf-after--p">第一個是道之驛，非常重要。反正你只要看到道之驛就停：下高速公路就停，或下公路開過去就停，然後睡覺。幾乎所有日子我都睡在道之驛，只有一個晚上睡在溫泉——那個溫泉有 RV Park。應該是倒數第二個晚上吧，睡溫泉；其他都是睡道之驛。</p><p name="2f35" id="2f35" class="graf graf--p graf-after--p">第二個是高速公路休息站。中間有兩段高速公路、兩段自動車道。省道上有道路休息站；自動車道上只有高速公路的休息區、服務區。服務區基本上就是比較小的餐廳，加上販賣機加上廁所。有的服務區甚至沒有販賣機。所以高速公路上開的時候，如果你要休息就是找服務區。</p><p name="cc06" id="cc06" class="graf graf--p graf-after--p">第三個是找溫泉。</p><p name="0186" id="0186" class="graf graf--p graf-after--p">第四個是「くるま旅」：くるま旅 Club。這是 RV 跟車中泊的一個協會、同好會。他們有簽約很多車中泊點跟 RV Park，你可以直接看附近有哪些點。</p><p name="7cba" id="7cba" class="graf graf--p graf-after--p">第五個就是便利商店跟加油站。</p><p name="78e4" id="78e4" class="graf graf--p graf-after--p">基本上我就是用這個 APP 加上 Google Map，來做整個行程規劃。</p><p name="477a" id="477a" class="graf graf--p graf-after--p">道之驛這件事，它列得非常完整，比你用 Google Map 搜索還精準。你用 Google Map 搜索道の駅（michi-no-eki）有時候會找不到；你找「道之驛」或「道の駅」有時候就是會缺。這個 APP 就是有完整的所有的道之駅的資料。</p><p name="aab2" id="aab2" class="graf graf--p graf-after--p">其實我一開始在台灣規劃時，看了蠻多其他網站：RV Park 相關的、休息站相關的、車中泊相關的。台灣有查很多網站，但最後到了現場，我就全部都用這個 APP，覺得它最方便。</p><p name="5be2" id="5be2" class="graf graf--p graf-after--p">每一個道路休息站的距離、名字、營業時間都很清楚，點進去就會到道路休息站的網站。</p><h4 name="c764" id="c764" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–3 くるま旅：RV Park &amp; 車中泊點</strong></h4><figure name="308a" id="308a" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*Mow6HntLOEYQ4JPcUK2Yow.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/16cc977150497eca.png"></figure><p name="44d7" id="44d7" class="graf graf--p graf-after--figure">還有「くるま旅」這個類型，是可以車泊的設施。北海道這樣一整圈。有些湯標示「可以車泊」，他有特別提供車泊服務。</p><p name="8080" id="8080" class="graf graf--p graf-after--p">像十勝川温泉笹井ホテル，就有相關規則。它會寫需不需要預約，一個晚上 2200，怎麼預約，Check in / Check out 時間，甚至寫一個晚上前的 5 點要預約。</p><p name="2c83" id="2c83" class="graf graf--p graf-after--p">有的寫「當日有空可以預約，不能 Web，必須打電話」。這種如果是當日可預約的，你其實可以直接開到現場去看看：或許他可以接受你直接到館內櫃檯，用翻譯服務跟他溝通，不一定要電話。</p><p name="f5e5" id="f5e5" class="graf graf--p graf-after--p">其他大部分的 RV Park 都是寫要電話預約的話，這種我們就很難使用了。像有的寫一個晚上 3000–3600，寫當日可預約，不能電話要 Web。</p><p name="f556" id="f556" class="graf graf--p graf-after--p">總之這個分類，就是所有可以車中泊的道之驛以外的點。</p><h4 name="599c" id="599c" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–4 飯店、商店停車場不能車中泊、TOMAMU 早餐</strong></h4><p name="0edf" id="0edf" class="graf graf--p graf-after--h4">要特別特別強調：一般飯店的停車場、一般購物中心的停車場、便利商店的停車場，是不能車中泊的。</p><p name="7de9" id="7de9" class="graf graf--p graf-after--p">有一部 YouTube 影片，是去星野 TOMAMU 的停車場車中泊，然後去用 Club Med 的設施跟廁所。基本上是違規的，不要做這種事。不能去隨便一個飯店停車場停在那邊，想說用人家飯店設施、用廁所，付費泡溫泉，就想在停車場睡覺，不行。</p><p name="e5d2" id="e5d2" class="graf graf--p graf-after--p">除非是這種特別的、有車中泊方案的溫泉旅館或飯店，你才可以去看現場有沒有空間、能不能讓你付費使用。</p><figure name="7988" id="7988" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*ndQEMmf6sGTA2jcaFufi9A.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/73e0d44059843ed7.png"></figure><p name="11b7" id="11b7" class="graf graf--p graf-after--figure">我倒數第二個晚上，是去美唄這個 RV Park。它也是溫泉的停車場，有提供 RV Park 服務：一個晚上 2500，附插電樁。我沒有用，太陽能板充電就夠了。</p><p name="dcea" id="dcea" class="graf graf--p graf-after--p">我們就是付 2500，包含兩個人的溫泉券，加上車子停指定車位，還有提供垃圾袋。倒數第二個晚上我就去用這個美唄 RV Park。</p><p name="60d2" id="60d2" class="graf graf--p graf-after--p">只有這樣子的旅館，才可以在他的停車場車中泊。我昨天還看到另一個 YouTuber 影片，說他看了前一個影片又跑去 TOMAMU 車中泊，千萬不要。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="aedb" id="aedb" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50.019%;"><img class="graf-image" data-image-id="1*OMEHtXB06dktH6l3uHCwaQ.jpeg" data-width="3875" data-height="2905" src="/assets/images/miro.medium.com/6d752d9839935b99.jpeg"></figure><figure name="8a50" id="8a50" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 49.981%;"><img class="graf-image" data-image-id="1*Hefdj5YdcrvDLrER5JOEdg.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/ce30da33368538ee.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="3342" id="3342" class="graf graf--p graf-after--figure">TOMAMU 我第二天白天有去：早上 4、5 點去搭纜車上雲海平台，得很早上去。所以我們是停在前面一個道之驛過夜——占冠自然體驗那個道之驛。隔天開半小時進 TOMAMU。</p><p name="7a58" id="7a58" class="graf graf--p graf-after--p">看完雲海下來後，我們跑去 TOMAMU 裡面 Mikaku 餐廳吃早餐。你沒有住在裡面，也可以自費吃早餐，這是可以的。他問你有沒有餐券，你說沒有，他就跟你說多少錢、刷卡就能吃了。早餐非常便宜，一個人只要 500 塊吧（台幣），吃到飽，超棒。我整趟吃到最豐富的早餐就是這一個。</p><figure name="d313" id="d313" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*EOcVrVtaOdhwWj-WtZBosQ.jpeg" data-width="5447" data-height="4085" src="/assets/images/miro.medium.com/fe35e8c48f52fe2e.jpeg"></figure><p name="6f0d" id="6f0d" class="graf graf--p graf-after--figure">所以你可以去飯店或溫泉旅館停車、進去用設施、泡溫泉、吃餐廳，但不要在停車場過夜。除非人家特別寫可以睡覺的地方。</p><h4 name="3370" id="3370" class="graf graf--h4 graf-after--p">3–5 道之驛車中泊的注意事項</h4><p name="9465" id="9465" class="graf graf--p graf-after--h4">道路休息站到底能不能睡？應該說日本法律沒有規定不能睡。它又是一個比較偏公共型的服務，主旨是讓行駛在路上的人有地方休息，避免過度疲勞造成行車危險，所以沒有禁止車中泊。</p><p name="ce1d" id="ce1d" class="graf graf--p graf-after--p">有些特別的道之驛會寫「禁止車中泊」，那就不行。沒有寫的，基本上就是沒有禁止。我看很多日本露營車使用者，全部都在道之驛休息。</p><p name="b064" id="b064" class="graf graf--p graf-after--p">原則上就是：沒寫不行，你就可以在那邊睡覺。</p><p name="154d" id="154d" class="graf graf--p graf-after--p">但你不要把車上的東西搬下車。不要在車子旁邊擺桌椅、開始烤火或煮東西，這不行。你可以在車上睡覺，前提是道之驛沒有特別寫不能車中泊。我有查到幾個是不行的。</p><p name="5d2b" id="5d2b" class="graf graf--p graf-after--p">我們整趟都沒有進飯店，基本上都是停休息站。十天有九天睡道之驛，一天睡 RV Park。</p><p name="f65e" id="f65e" class="graf graf--p graf-after--p">就是用剛剛那個ロケスマ來找。每天快日落、四五點、快要日落的時候，就找附近最近的：下一個道之驛是哪一個，然後開過去。</p><p name="ccc0" id="ccc0" class="graf graf--p graf-after--p">晚上你晚一點進休息站，可能看到整排車全部停滿，全部都是露營車，各種不同露營車，跟一般車子在做車中泊。</p><p name="14ea" id="14ea" class="graf graf--p graf-after--p">比較鼓勵的方法是：道路休息站關門之後過去停車過夜；早上道路休息站開門之後，你再進去吃個東西，接下來就開走。</p><p name="fbf2" id="fbf2" class="graf graf--p graf-after--p">因為——你看 Google Map 道之驛景點，常看到日本人在抱怨：一般旅客沒地方停，全部都是露營車，長時間佔用停車場。比較好的方法就是互相禮讓。所以最建議的方法是：晚上關門後停，早上一開門吃點東西就走。</p><p name="a9fe" id="a9fe" class="graf graf--p graf-after--p">所有道之驛關門後都有 24 小時廁所，有的甚至還有一些室內空間。</p><figure name="4543" id="4543" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*4lVeXG2eOUR8y56F0l-jyg.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/04af8112c0ba3c8a.jpeg"><figcaption class="imageCaption">道之驛聯絡會的傳單，右下角寫不能宿泊，只能「仮眠」。</figcaption></figure><h4 name="842c" id="842c" class="graf graf--h4 graf-after--figure">3–6 三種車中泊點：休息站 / RV Park / 露營地</h4><p name="6545" id="6545" class="graf graf--p graf-after--h4">既然是這樣，那要睡哪裡？剛看到的：一個是 RV Park，或是有提供車中泊、晚上過夜服務的旅館場地。第二個就是道之驛、道路休息站。</p><p name="cb7e" id="cb7e" class="graf graf--p graf-after--p">你可以參考這個 APP，或在 Google Map 搜索「車中泊」，也能找到一些地方。像富良野這邊就很少：只有一個溫泉旅館，RV Park 包含美瑛跟旭川，加起來就這三個點。道之驛也很少，四個：當麻、旭川、東川、美瑛。</p><p name="c1b9" id="c1b9" class="graf graf--p graf-after--p">如果這邊比較少，你在 Google Map 搜索車中泊，可能還會找到一些公共停車場。山上那種只有 24 小時廁所的公共停車場，也可以考慮去那種地方車中泊。</p><p name="708d" id="708d" class="graf graf--p graf-after--p">基本上就是完全不要去商業設施的停車場。</p><p name="3d58" id="3d58" class="graf graf--p graf-after--p">在旭川這邊，我睡的點是一個晚上在東川這個道之驛。因為就在白金青池旁邊，所以早上起來就直接開去青池，人比較少。旭川市中心那個點我沒有去。我每次去之前都會先看 Google Map 的說明，有人說旭川那個晚上非常多人。</p><h4 name="ccfb" id="ccfb" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–7 推薦泊點：道之驛白糠戀問館</strong></h4><figure name="d415" id="d415" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*xr3S94Y-q9qyvuOJmELbkg.jpeg" data-width="3573" data-height="4337" src="/assets/images/miro.medium.com/961ef29b1ef2ea05.jpeg"></figure><p name="a404" id="a404" class="graf graf--p graf-after--figure">整趟下來我蠻推的一個泊點是釧路左邊的戀問館。</p><p name="9021" id="9021" class="graf graf--p graf-after--p">這是一個非常新的道之驛，如果你也往道東走的話，一個晚上可以去停釧路這個道之驛，設施非常新。裡面有三層樓高的兒童樂園，就是溜滑梯跟攀爬那種遊樂設施。</p><p name="c18e" id="c18e" class="graf graf--p graf-after--p">而且還有提供車泊者付費的垃圾處理跟淋浴間、三溫暖 — — 不是澡堂，是烤箱加淋浴間那種設施，以及收費電源。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="f50d" id="f50d" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*wu7X6kmYHvjd5UHjgZsmkQ.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/5dec5034a1d8d040.jpeg"></figure><figure name="261d" id="261d" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*ZTft6c21TJrnguGSwHE0rg.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/20b896f4333f9b71.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="6b05" id="6b05" class="graf graf--p graf-after--figure">山裡面的道之驛通常比較老、晚上比較暗；離城市近一點的就比較新。比較新的道之驛，24 小時廁所可能是在室內的隔間，蚊蟲會比較少，光線也會比較好一點。其他其實就是基本都有到。</p><h4 name="0dd1" id="0dd1" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–8 不建議雪地自駕露營車</strong></h4><p name="2616" id="2616" class="graf graf--p graf-after--h4">我這是第一次開露營車，是在夏天。我只有兩趟冬天雪地自駕的經驗，開的是一般四輪驅動的廂型車。</p><p name="d3e6" id="d3e6" class="graf graf--p graf-after--p">非常不建議冬天開露營車自駕。夏天它停車距離就很長，下坡剎車距離很長；而且車身蠻不穩、蠻晃，重心高，風一吹更晃。冬天再加上雪地，我真的沒辦法想像開這種車在結冰公路或山路上行駛，風險太高太高。</p><p name="9fe9" id="9fe9" class="graf graf--p graf-after--p">如果你要挑戰雪地自駕，先從一般車開始。我開兩趟一般車，覺得雪地開一般車還行，但露營車一打滑，它的停車距離、重心高度、車重跟打滑狀況加在一起，真的蠻不推。</p><h4 name="f284" id="f284" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–9 露營地尋找方式，Shachuoo 網站</strong></h4><p name="4294" id="4294" class="graf graf--p graf-after--h4">露營地也可以考慮當作車中泊點。麻煩在於：幾乎所有露營地，都沒辦法網路預約或現場預約，幾乎都要打電話事前預約，門檻很高。</p><p name="5f2f" id="5f2f" class="graf graf--p graf-after--p">也不是所有露營地都能開車進去車中泊。你要看要有做成 RV Park，或有寫車泊車位、露營車車位那種，才適合你開露營車進去。不是每一個露營地都可以。</p><p name="31ca" id="31ca" class="graf graf--p graf-after--p">我自己基本上是沒有去。</p><figure name="d546" id="d546" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*J9rjslkcI-kKaI50wEypVQ.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/aa341fbe1f58c8cb.png"></figure><p name="80b2" id="80b2" class="graf graf--p graf-after--figure">像剛剛 NOMAD 合作的那個網站，它有介紹蠻多露營地，你也可以看 Shachuoo。</p><p name="abac" id="abac" class="graf graf--p graf-after--p">露營地在圖上就是藍色的「キャンプ場（kyanpu-jō）」。Google Map 搜索就搜「キャンプ場」，找到露營地之後看留言，看裡面有沒有車中泊相關的經驗分享。</p><p name="ee67" id="ee67" class="graf graf--p graf-after--p">這個網站上列出來的露營地都是可以車中泊的。只是我覺得預約很不方便，除非你要倒垃圾，或要特別找地方倒灰水、倒廢水，才會特別一定要找露營地。</p><p name="83b8" id="83b8" class="graf graf--p graf-after--p">RV Park 也有蠻特別的，有的是餐廳附設。有些 RV Park 很有趣：有的是農場在兼做 RV Park，或飯店、或一般店家做一個 RV Park，大家可以到處看看。</p><p name="c5be" id="c5be" class="graf graf--p graf-after--p">RV Park 在市區裡面也有，道之驛通常在市郊。如果你想要在市區裡面，就找 RV Park，市區的會比較多。</p><p name="b892" id="b892" class="graf graf--p graf-after--p">像這些黃色跟藍色的，就是露營地。總之大家可以自己找找看，這網站也還不錯、蠻方便的。</p><h4 name="5b89" id="5b89" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–10 洗澡：日歸溫泉與錢湯，尋找方式、洗澡用品</strong></h4><p name="68fe" id="68fe" class="graf graf--p graf-after--h4">接下來看一下洗澡的部分。</p><p name="a25c" id="a25c" class="graf graf--p graf-after--p">找溫泉的話，我最主要是在ロケスマ這邊找日歸溫泉，再加上 Google Map。你直接在 Google Map 上搜索「日歸」也會有非常非常多，然後就看一下 Google Map 上面的評價，看看怎麼樣，也看一下需不需要自己帶洗髮精、沐浴乳跟毛巾。</p><figure name="23d9" id="23d9" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*8-KIxbpy9Av7WKDaVCKtiA.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/4d110889a041f87d.jpeg"></figure><p name="7bbd" id="7bbd" class="graf graf--p graf-after--figure">我們第一天就直接去百元店——大創的百元店 — — 在購物中心裡面的大創，買了一個去溫泉的小籃子。我原本自己就有帶溫泉毛巾，另外也有從台灣帶小小罐的洗髮精沐浴乳去。</p><p name="fa85" id="fa85" class="graf graf--p graf-after--p">基本上我們去的九個錢湯跟日歸溫泉，大概只有一個是沒有洗髮精沐浴乳，其他都有。毛巾的部分：所有日歸溫泉的毛巾全部都要付費租用或付費買。所以可以自己帶溫泉專用毛巾，會比較方便。</p><p name="2704" id="2704" class="graf graf--p graf-after--p">我們平常回到車上之後，就把毛巾晾在原本設計給浴室用的那個空間裡面。那邊有個門，所以我們就把 28 吋行李箱放進去，毛巾、浴巾就晾在上面，小籃子也掛在上面晾。</p><p name="166f" id="166f" class="graf graf--p graf-after--p">總之就是：自己帶毛巾浴巾、洗髮精沐浴乳，然後買個籃子提著，跟日本人去錢湯一樣，方便很多。</p><p name="90d1" id="90d1" class="graf graf--p graf-after--p">晚上找好睡覺的地方之後，接下來就找溫泉或錢湯，流程大概就是這樣。</p><h4 name="0fab" id="0fab" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–11 道之驛活動：印章蒐集冊 ＆ 線上印章網站</strong></h4><figure name="a218" id="a218" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*Qzhf185vhgc-NtMs4K2RIg.png" data-width="1206" data-height="1872" src="/assets/images/miro.medium.com/554954cb6bf0e6b6.png"></figure><p name="ff4e" id="ff4e" class="graf graf--p graf-after--figure">一開始到第一個道之驛，我就買了他們這本活動手冊——道之驛蓋章的集章冊。</p><p name="cbf2" id="cbf2" class="graf graf--p graf-after--p">這是實體的收集冊，這本是只有北海道的部分，一個頁面就是一個道之站。每個道之站都有印章可以蓋，讓你可以用兩年的時間去完全制霸。</p><p name="8a23" id="8a23" class="graf graf--p graf-after--p">休息站放印章的位置，通常會有活動海報，上面會告訴你第幾號；那個「第幾號」其實就是「第幾頁」的意思，你就翻到那一頁去蓋章。</p><figure name="8c00" id="8c00" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*uTsto35WbcsynD5jQpa4aw.png" data-width="1557" data-height="1080" src="/assets/images/miro.medium.com/5d66f3fb496860ff.png"></figure><p name="d4fa" id="d4fa" class="graf graf--p graf-after--figure">它也有數位版：直接是一個網站，不是做成 APP。你人在道之站的範圍內，就可以用手機打開那個網頁，線上蓋章。數位版也有地圖，告訴你附近有哪些、蓋了哪些、還缺哪些。畫面上紅色的是我有蓋到章的，藍色是還沒蓋到章的。</p><figure name="2da6" id="2da6" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*Vzh53lBGrCSwmxAUkLIRpw.jpeg" data-width="1596" data-height="1701" src="/assets/images/miro.medium.com/94c635873db5a11a.jpeg"></figure><p name="466b" id="466b" class="graf graf--p graf-after--figure">另外，有些道之驛還會有特別優惠，數位版跟紙本的都有。像「北歐之風」有送一杯 50 塊的 soft drink 飲料；有些道之驛則是購物折價券。所以到休息站後，記得先去蓋章、順便看一下有什麼優惠。假如有折價券，買東西就可以折扣。</p><p name="5352" id="5352" class="graf graf--p graf-after--p">集到一定數量之後還可以應募參加一些活動。對我們來說應募沒什麼用，但我們就是收集印章而已。</p><p name="1818" id="1818" class="graf graf--p graf-after--p">我們整趟開露營車，最主要的旅遊活動，某種程度上就是休息站蓋章，然後逛當地特產。一路蓋章過去、一路蓋章回來，大概蓋了二十幾個吧。數位版漏掉了「D51」還有「おだいとう（Odaitō）」。紙本本也漏了兩三個。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="3"><figure name="9db2" id="9db2" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 33.333%;"><img class="graf-image" data-image-id="1*NYEpH_q-BDMri-D2MXTYdA.jpeg" data-width="1206" data-height="2622" src="/assets/images/miro.medium.com/56cc488ba7450026.jpeg"></figure><figure name="2be2" id="2be2" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 33.333%;"><img class="graf-image" data-image-id="1*IF7ujA362sM9dqYjbvRP9g.jpeg" data-width="1206" data-height="2622" src="/assets/images/miro.medium.com/05465eff7540fa57.jpeg"></figure><figure name="47fb" id="47fb" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 33.333%;"><img class="graf-image" data-image-id="1*IewBkrO8Nm6edJSX7LHbSQ.jpeg" data-width="1206" data-height="2622" src="/assets/images/miro.medium.com/a65bb61de188e3c6.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><h4 name="9fa4" id="9fa4" class="graf graf--h4 graf-after--figure"><strong class="markup--strong markup--h4-strong">3–12 規劃行程的好用 app 與網站</strong></h4><p name="8c66" id="8c66" class="graf graf--p graf-after--h4">ロケスマ這個網站跟 APP，有所有相關設施：你可以拉車中泊相關設施、拉道之驛、拉便利商店，也可以拉各種不同類型的餐廳、加油站之類的網頁服務。</p><p name="559d" id="559d" class="graf graf--p graf-after--p">另外有推廣車中泊的社群くるま旅，他的地圖上也能找到一些推薦的設施。不只北海道，也會列出所有簽約的 RV Park。</p><p name="e3e1" id="e3e1" class="graf graf--p graf-after--p">道路休息站蓋章的這一套，總共三個找 POI 的 web。</p><p name="c407" id="c407" class="graf graf--p graf-after--p">道之驛也有官方網站「北の道の駅」。但我基本上就是用ロケスマ的 app，加上蓋章的那個 web 網頁。</p><figure name="cc12" id="cc12" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*svBWy9OcQZ_V_0Y1PdR9pg.png" data-width="1904" data-height="938" src="/assets/images/miro.medium.com/4b9a59599035a512.png"><figcaption class="imageCaption">japanmapcode.com</figcaption></figure><p name="67af" id="67af" class="graf graf--p graf-after--figure">如果你要用車上的行車導航（車機導航），你可能知道日本導航最快的方式之一是輸入 Mapcode。</p><p name="ee16" id="ee16" class="graf graf--p graf-after--p">但 Google Map 不能直接給你 Mapcode。你可以用 japanmapcode.com，把你要的 POI 換成 Mapcode，找到對應的 Mapcode 再輸入到車機。</p><p name="9bc3" id="9bc3" class="graf graf--p graf-after--p">例如你隨便找個道之驛，就能看到它對應的 Mapcode：389 406 345 *13，輸入車機就能導航。</p><p name="9550" id="9550" class="graf graf--p graf-after--p">我自己是全部用 iPhone 蘋果的地圖來導航，所以沒有用到。但如果你要用車機，可以用這個網站來找 Mapcode。</p><p name="a348" id="a348" class="graf graf--p graf-after--p">另外還有「北海道の日帰り入浴リスト」（<a href="https://yuru-to.net/list.php?kid=1" data-href="https://yuru-to.net/list.php?kid=1" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://yuru-to.net/list.php?kid=1</a>）網頁，列出所有北海道可以日歸的錢湯跟溫泉旅館，以及一般旅館但可日歸泡湯的資訊。它的完整程度比起ロケスマ更完整一點點，但我到了現場後其實完全沒有用到；用ロケスマ大概就差不多了。</p><p name="d2fa" id="d2fa" class="graf graf--p graf-after--p">方便的服務大概就是這些。</p><h4 name="f6e7" id="f6e7" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–13 旅行照片分享</strong></h4><p name="cb4d" id="cb4d" class="graf graf--p graf-after--h4">最後我們來看一下行程中所拍的一些照片。</p><figure name="4762" id="4762" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*m1FDhe9jGL_k0T7P9oOFcQ.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/b6d5abb55a86a4b4.jpeg"></figure><p name="b2e9" id="b2e9" class="graf graf--p graf-after--figure">機場取還車，通常要坐計程車到租還露營車的地點，就看店家怎麼配合。</p><p name="8685" id="8685" class="graf graf--p graf-after--p">像 NOMAD 是叫你直接叫計程車，計程車錢他們出。還車之後也是他們叫計程車送去機場，錢也是他們先預付。基本上就看租車服務怎麼做。</p><p name="25a8" id="25a8" class="graf graf--p graf-after--p">像 OTS 應該是在機場租車櫃台，直接到 OTS 櫃台，接著用接駁車送你去外面取車的地方。各家不同，看怎麼弄。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="0be9" id="0be9" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 74.345%;"><img class="graf-image" data-image-id="1*9oI2MObfXELgPD1sdLb7Ug.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/3aaceb495f9ecd2f.jpeg"></figure><figure name="7967" id="7967" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 25.655%;"><img class="graf-image" data-image-id="1*IF7ujA362sM9dqYjbvRP9g.jpeg" data-width="1206" data-height="2622" src="/assets/images/miro.medium.com/05465eff7540fa57.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="4de7" id="4de7" class="graf graf--p graf-after--figure">我第一個去的是新千歲旁邊的鮭魚公園，第二個是道之驛 D51，這個就沒打到卡。當晚在自然體感過夜，隔天去星野吃早餐、去雲海平台看雲海。雲海真的非常快就散掉，所以要在日出前到樓下排隊上纜車。非常多人，要先抽號碼牌排隊上纜車。</p><p name="5760" id="5760" class="graf graf--p graf-after--p">然後我第二個晚上到釧路這邊的戀問館睡。它非常新，有看海景的觀景台，餐廳等設備也都很好，還可以付費收垃圾，蠻推薦。</p><h4 name="21ec" id="21ec" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–14 露營車怎麼丟垃圾</strong></h4><p name="2b58" id="2b58" class="graf graf--p graf-after--h4">車子上的垃圾非常非常難處理，所以盡量減少你產生的垃圾，分類要分得非常清楚。</p><p name="07f5" id="07f5" class="graf graf--p graf-after--p">所有垃圾按規定都不能丟在道之驛的垃圾桶。不像台灣你到休息站就能丟垃圾，在日本不行，沒有地方讓你丟垃圾。</p><p name="541f" id="541f" class="graf graf--p graf-after--p">除非是付費、像那種提供垃圾處理的空間，才可以讓你丟垃圾。</p><p name="8c92" id="8c92" class="graf graf--p graf-after--p">所以盡量減少車上垃圾。我们主要只在道之驛丟瓶罐跟衛生紙。其他所有垃圾，尤其你買便當上車吃，吃完就立刻拿回去問店家能不能幫忙處理。</p><p name="4312" id="4312" class="graf graf--p graf-after--p">像後面有一餐吃螃蟹，我們拿上車吃之前就先問海鮮店家：吃完的殼能不能幫忙處理？他們說可以，我們就拿上車吃完再拿回去。</p><p name="9a94" id="9a94" class="graf graf--p graf-after--p">總之就是盡量減少車上的垃圾。</p><figure name="cebe" id="cebe" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*wJ8VQVtujxx3g-7geXmGIQ.png" data-width="1420" data-height="1892" src="/assets/images/miro.medium.com/f0e65956c14b3fbc.png"><figcaption class="imageCaption">垃圾就先打包這樣存著，可付費丟垃圾時再清掉。</figcaption></figure><h4 name="3319" id="3319" class="graf graf--h4 graf-after--figure"><strong class="markup--strong markup--h4-strong">3–15 旅行照片分享（續）</strong></h4></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="1a4d" id="1a4d" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--h4" style="width: 36.006%;"><img class="graf-image" data-image-id="1*eUpgfnk5ZBGfcjfvmVKARA.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/fe361b0bb78029b3.jpeg"></figure><figure name="43ee" id="43ee" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 63.994%;"><img class="graf-image" data-image-id="1*niC8S0r55koH08dHwjFmbg.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/2cd99d4016d1c841.jpeg"></figure></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="8865" id="8865" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*tPCgo7UlbvpxbIqTAHNY8g.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/208d335702791722.jpeg"></figure><figure name="f9d7" id="f9d7" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*dryBakm_rcY9v0wDf-qM4A.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/631644dc6c0ee387.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="37b2" id="37b2" class="graf graf--p graf-after--figure">當天我們到最右邊的納紗布岬，然後就是最東端。有一堆海鷗。去根室吃根室花丸，住根室。</p><p name="75f0" id="75f0" class="graf graf--p graf-after--p">根室左邊那個道之驛蠻新的，但它週一公休。道路休息站還會有公休日。我們基本上在那邊睡一晚，但也進不去、也蓋不到章。</p><p name="a1ac" id="a1ac" class="graf graf--p graf-after--p">接下來往道北走，走別海町。原本想從中間走阿寒摩周過去，但後來感覺時間來不及、太晚了。如果往阿寒摩周那邊走，就必須在中間找一個可能沒有道路休息站的地方，可能要在一般停車場過夜，所以立刻放棄，改走海邊。</p><p name="fe64" id="fe64" class="graf graf--p graf-after--p">從根室出來走別海町，直接走海線。到標津後，其實原本有一個海邊公園的 RV Park、露營場，本來要在那邊過夜。但那天還蠻早的，大概才四點，就想說直接衝到斜里。四點一路衝衝衝，到山區時日落了，再一路衝到斜里町，傍晚到。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="580a" id="580a" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*WPDpvi4dX8OuisY_3JKHAw.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/05af10e5288d7d0b.jpeg"></figure><figure name="974d" id="974d" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*uVcbv4Z8jRUxI1MCPaJFKg.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/f4d03737ede712d9.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="aa90" id="aa90" class="graf graf--p graf-after--figure">剛好去到又長又直的那條「天之路」拍照，拍完太陽下山就住。當晚住在小清水町的休息站，去小清水溫泉泡湯，泡完後住在海邊的道之驛「道之驛葉菜野花小清水」。也蠻新，蠻推薦：有觀景台，旁邊有 SECOMA（不是 24 小時），旁邊還有 Montbell，比較大型。上面有 JR 車站「濱小清水」。</p><p name="c293" id="c293" class="graf graf--p graf-after--p">隔天往左走，在 Hokuren 北浜セルフ SS 自助加油加洗車。再繼續往道北走。</p><figure name="2a54" id="2a54" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*O53MC4wSnMyxEUtnPiZ2Iw.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/a119938a7a03813d.jpeg"></figure><p name="1409" id="1409" class="graf graf--p graf-after--figure">到網走這邊我們跑去吃螃蟹——到北海道大家要吃螃蟹嘛，還有那個漫畫「與雪女同行吃蟹」——我查 Google Map 很多人推薦網走漁師的店渡邊水產，所以就出發。</p><p name="cf49" id="cf49" class="graf graf--p graf-after--p">前一站在葉菜野花那邊混太晚，混到中午過後才出發。到渡邊的店時只剩一個多小時營業時間。下午四點休息吧，我兩點半到，它只有兩張桌子還滿席，所以店家說等也不一定等得到；可能前一桌走了，但營業時間也到了。</p><p name="d7fa" id="d7fa" class="graf graf--p graf-after--p">所以我們就問能不能買螃蟹、請他幫我們處理，我們拿到車上吃，吃完殼跟垃圾再還給他處理。他們說可以，我們就買了之後在門口停車場、車上吃。又是另一個露營車的優點。</p><p name="296c" id="296c" class="graf graf--p graf-after--p">渡邊水產蠻推。像下圖標牌毛蟹 6400，2800 是大的帝王蟹腳，還有 9500 的石蟹。都是已經秤重，當天早上煮好後冷藏的；你要吃時，他會再拿出來處理。所以不是冷凍蟹，是當天煮的新鮮蟹。又便宜又好吃。</p><figure name="d42f" id="d42f" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*6H7DrQzbeOiaiHqG_38WVA.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/24aacf82816128d4.jpeg"></figure><p name="3148" id="3148" class="graf graf--p graf-after--figure">那天走得非常短，因為計劃是走自動車道到旭川，到自動車道入口時已經傍晚，不想晚上天黑開車：蟲又多、視野也不好，所以當晚去湧別町營溫泉洗澡，在旁邊店吃東西，再早早停在自動車道入口附近的道之驛遠輕過夜。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="f25d" id="f25d" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 36.006%;"><img class="graf-image" data-image-id="1*jjXRvltHcuUa5feKsCmUQw.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/4562e2279c301845.jpeg"></figure><figure name="fb0e" id="fb0e" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 63.994%;"><img class="graf-image" data-image-id="1*2H3QcuIz-h_AepyMkg-dig.jpeg" data-width="5709" data-height="4282" src="/assets/images/miro.medium.com/fbc06a460ce1b3f5.jpeg"><figcaption class="imageCaption" style="width: 156.265%; left: -56.265%;">涌別特產：稚貝咖哩</figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="9d0c" id="9d0c" class="graf graf--p graf-after--figure">它冬天是滑雪場，夏天有一條夏天的雪道（塑膠雪道），但我們去那天沒有營業，很可惜。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="5315" id="5315" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 25.655%;"><img class="graf-image" data-image-id="1*ZcrYharrk7FR_A-IrLIWkw.jpeg" data-width="1206" data-height="2622" src="/assets/images/miro.medium.com/a86dd79d76d42513.jpeg"></figure><figure name="0a68" id="0a68" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 74.345%;"><img class="graf-image" data-image-id="1*1jMr-n7jTPmMJreOirzGcg.jpeg" data-width="5603" data-height="4202" src="/assets/images/miro.medium.com/6c4bd126adecb1f5.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="3bc5" id="3bc5" class="graf graf--p graf-after--figure">隔天直接走高速公路衝到旭川，中間只有小小的幾個道之驛：經過特產是木作的白滝（Shirataki）道之驛。從 Shirataki 到愛別的中間這段，整段都沒有道之驛，只有上川有一個高速公路休息站，就是廁所跟販賣機。那段路程大概一個多小時，經過上川下來上廁所、走一走，再往旭川方向，中間就沒有任何能休息的地方了。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="1719" id="1719" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*B-0wWGYi9T9t0w6VNmRQ4A.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/bf36e4c0651a5ed0.jpeg"></figure><figure name="c27f" id="c27f" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*TmQYTTKPGi8IFZ-c0zSC7Q.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/e09b0aded194bd0b.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="1c40" id="1c40" class="graf graf--p graf-after--figure">接下來衝到旭川外面的當麻道路休息站。當麻是很大很大的休息站。那天的計劃是走到美瑛過夜。</p><p name="e8c8" id="e8c8" class="graf graf--p graf-after--p">美瑛市區的道之驛特別寫不能車泊，後來那天晚上我們是住到「道之驛白金青池」。它比較郊區，但蟲比較少不像 TOMAMU 那邊。隔天早上去青池也方便，十五分鐘就到，可以在很早、觀光客還沒來的時候先過去。</p><figure name="da97" id="da97" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*UpssFVyFeRb_brzpspCCAg.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/5ea1688f82b301b9.jpeg"></figure><p name="2172" id="2172" class="graf graf--p graf-after--figure">接著是富良野的招牌富田農場、打卡北海道肚臍、回富良野吃東西，接著就要去本旅程最期待的溫泉（之一）。</p><figure name="f522" id="f522" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*BTN9DmSa0p6nk44ALc3OXQ.png" data-width="1420" data-height="1422" src="/assets/images/miro.medium.com/af8880d8b034bfa5.png"><figcaption class="imageCaption">北海道的肚臍</figcaption></figure><h4 name="6599" id="6599" class="graf graf--h4 graf-after--figure"><strong class="markup--strong markup--h4-strong">3–16 推薦旭川 KITORON 溫泉</strong></h4></div><div class="section-inner sectionLayout--fullWidth"><figure name="8ba3" id="8ba3" class="graf graf--figure graf--layoutFillWidth graf-after--h4"><img class="graf-image" data-image-id="1*8bbvmNm1MdURUVlTmUr6IA.jpeg" data-width="2489" data-height="1335" src="/assets/images/miro.medium.com/54f192114dba3601.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="9b81" id="9b81" class="graf graf--p graf-after--figure">旭川郊區東川町 Canmore 滑雪場旁邊的「Kitoushi 之森 Kitoron 溫泉」，是一個非常非常非常貴的溫泉，但在這邊泡湯看日落，非常推薦。</p><p name="e94b" id="e94b" class="graf graf--p graf-after--p">它是隈研吾的建築，花了好幾十億日元蓋的。上面看日落，景非常好。它的溫泉備品也很強：ReFa 吹風機、ReFa 電棒卷。也有很棒的晚餐餐點：晚餐是十二道小缽料理讓你選七道，然後有飯跟湯。可以買溫泉＋晚餐的 package，非常非常棒。</p><figure name="2c33" id="2c33" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*QNFFklpOCM0Wo13Qg4duIQ.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/cbfbbb80aa312ed7.jpeg"></figure></div><div class="section-inner sectionLayout--fullWidth"><figure name="b766" id="b766" class="graf graf--figure graf--layoutFillWidth graf-after--figure"><img class="graf-image" data-image-id="1*dauxEBpKbAbvp5Ano6uDEw.jpeg" data-width="5551" data-height="4163" src="/assets/images/miro.medium.com/6f85eae8dbdba1bf.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="bf37" id="bf37" class="graf graf--p graf-after--figure">吃完晚餐回到旭川過夜。我們不住在旭川的道之驛，因為看 Google 地圖有人留言，說旭川那邊晚上非常非常多人，所以停到旭川郊外的「道之驛道草館」。</p><h4 name="d0c3" id="d0c3" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–17 推薦旭川水澤果樹園</strong></h4><p name="09e3" id="09e3" class="graf graf--p graf-after--h4">隔天去水澤果樹園。因為七月是櫻桃季，就找一個可以採櫻桃、櫻桃吃到飽的地方。位置在旭川開過來大概一個小時，神居（Kamui）滑雪場外面。這條路再進去就是 Kamui。</p><p name="387d" id="387d" class="graf graf--p graf-after--p">這個櫻桃園非常棒：超多櫻桃樹，一個人一千日幣吃到飽，看到就吃，隨你要吃多久。有各種不同品種的櫻桃，一路摘一路吃。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="80b5" id="80b5" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*Zg_H0yKW_Ffv3PgXlR71HQ.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/32d58f9460690705.jpeg"></figure><figure name="f30c" id="f30c" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*PkCQREFawuTjnhJ0V0qJhQ.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/1a6caa65ff3ac28d.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="42fc" id="42fc" class="graf graf--p graf-after--figure">接著往南到「戸外炉峠駐車公園」。因為「戸外炉峠」的日文念起來像 Totoro，所以他們放了一台龍貓公車在那邊。</p><figure name="8c7c" id="8c7c" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*StdUdNb-V39FIKY17H5L6w.jpeg" data-width="4049" data-height="4049" src="/assets/images/miro.medium.com/6ef9d86de650d5a6.jpeg"></figure><p name="4c05" id="4c05" class="graf graf--p graf-after--figure">那一個晚上我們去住美唄青之洞窟溫泉飯店的 RV Park。它寫說當天有空可以當天去，我們就開過去直接到櫃檯問能不能車中泊，實際上流程很簡單：收費，給溫泉票、車中泊的說明、垃圾袋，拿著放在擋風玻璃的牌子找到對應的號碼格停車即可。</p><p name="fdd3" id="fdd3" class="graf graf--p graf-after--p">比較可惜是雖然它本身也是飯店，可是沒有提供隔天吃早餐的方案，所以隔天只好早早下山去美唄市內咖啡店吃早餐。</p><figure name="5132" id="5132" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*_DogHQCR8MCzjMaq2KvLMQ.jpeg" data-width="5456" data-height="3190" src="/assets/images/miro.medium.com/62a694809dcee3ef.jpeg"></figure><p name="8d2e" id="8d2e" class="graf graf--p graf-after--figure">那天很晚停車時，北海道警察的警車開過來講一堆話，想說發生什麼事。翻譯後得知當天稍早有人在這附近看到熊，要我們小心。</p><p name="1a82" id="1a82" class="graf graf--p graf-after--p">在錄影之際（2025年7月中）也有新聞說到北海道有兩個人被熊攻擊，其中一個在函館更南邊。總之進山裡就是熊比人多，大家要自己多小心。我後來查熊的活動時間是傍晚跟日出前那段，這些時段大家就特別小心。</p><p name="9fde" id="9fde" class="graf graf--p graf-after--p">隔日我們就是一路走一般道路到札幌，路過北海道第一個道之驛「三笠」、有名的米產地「しんしのつ」，停留跟三笠比起來新的令人悲嘆的「道之驛北歐之風」吃午餐。然後再進札幌。</p><figure name="ba52" id="ba52" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*qKR-v9WEIxWhW2YwquwHoA.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/5f595d82703a7ec1.jpeg"></figure><h4 name="5dbe" id="5dbe" class="graf graf--h4 graf-after--figure"><strong class="markup--strong markup--h4-strong">3–18 札幌大部分停車場無法停露營車</strong></h4><p name="204c" id="204c" class="graf graf--p graf-after--h4">到札幌前，我查了查市中心的停車場，幾乎都是立體停車場，沒有平面停車場。立體停車場露營車進不去，這台車車高 3.15 公尺，但市內立體停車場幾乎都限高 2 公尺。</p><p name="4cbd" id="4cbd" class="graf graf--p graf-after--p">另外，市區很多停車場沒有最高收費上限，停起來非常貴。我們找到市郊這個最多收費到 800。所以就決定不要開車進札幌市區，停在札幌市郊一個停車場，坐地鐵進市區吃飯逛街。</p><figure name="080e" id="080e" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*20lSqtsS-TH6eWv35Hjx_g.jpeg" data-width="5573" data-height="3375" src="/assets/images/miro.medium.com/754194a05c890fe5.jpeg"><figcaption class="imageCaption">到北海道必吃湯咖喱</figcaption></figure></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="b9f0" id="b9f0" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--figure" style="width: 63.994%;"><img class="graf-image" data-image-id="1*fnvgWuW6kvsY6Jicj9m1YA.jpeg" data-width="5712" data-height="4284" src="/assets/images/miro.medium.com/d5ad2a18e4c10ce4.jpeg"></figure><figure name="7caf" id="7caf" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 36.006%;"><img class="graf-image" data-image-id="1*YiE4c_mQTqwa8TOM3t0mEA.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/84213092426673c2.jpeg"><figcaption class="imageCaption" style="width: 277.731%; left: -177.731%;">札幌有滿滿黑貓巧克力跟咖啡的 CACAOCAT</figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="838e" id="838e" class="graf graf--p graf-after--figure">吃飽逛完街後，再回來開車去休息站。那晚去的是道之驛惠庭。惠庭花之街道這個道之驛比較特別：它有提供 RV Park 的特別服務，但車位很少。我們去的時候它也關門了，所以停一般車位。</p><p name="bf8d" id="bf8d" class="graf graf--p graf-after--p">那邊有非常非常多車中泊的人跟露營車，整個停滿都在過夜 — — 是整趟遇到最多人、最多露營車的一個休息站。到惠庭那晚是最後一晚，開始打包，把東西收回行李箱，隔天一早開去還車。</p><p name="47c6" id="47c6" class="graf graf--p graf-after--p">這就是我的整個完整行程的分享。其實沒有去非常多大景點：去白金青池、去富良野富田農場。其他就一路休息站逛過去、吃過去、買東西買過去，這是我們本趟的玩法。</p><h4 name="e37c" id="e37c" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–19 車上電器充電概況、車上預備夾子掛勾</strong></h4><figure name="4e9f" id="4e9f" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*m5IdJAVzqC86T7_GsckCsg.png" data-width="1406" data-height="1390" src="/assets/images/miro.medium.com/d0b1816a86a99f15.png"></figure><p name="7d6d" id="7d6d" class="graf graf--p graf-after--figure">其實在車上我們只用了一個三孔變壓器，就差不多夠充。我們兩個人各帶一支手機、一台電腦；我另外一支手機拍 Mapillary，再加上行動電源、手錶等等。</p><p name="dac4" id="dac4" class="graf graf--p graf-after--p">露營車額頭床床邊的邊燈有 USB 孔，所以基本上就是：這個變壓器＋床邊燈的充電孔＋車子前方駕駛座接車機的 USB 孔，大概就夠我們充所有帶去的電子用品。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="a9df" id="a9df" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*3qOj7rHyPWb5bI0it-NONw.jpeg" data-width="4284" data-height="5712" src="/assets/images/miro.medium.com/a5de956ba34fe065.jpeg"></figure><figure name="7894" id="7894" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*DbkWopgNHUbagx_jD0uC6A.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/e8b67c1e85bcc094.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="12bc" id="12bc" class="graf graf--p graf-after--figure">垃圾我就是用一個袋子裝，一般丟衛生紙的垃圾。</p><p name="6bfa" id="6bfa" class="graf graf--p graf-after--p">旁邊這些夾子蠻方便：金屬夾子、還有這個夾子。我覺得蠻方便的，大家也可以考慮一下。我忘記在台灣哪裡買的，應該是十元店而已吧。</p><h4 name="3152" id="3152" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–20 紗窗噪音處理、車門需上鎖關緊</strong></h4><p name="dc5f" id="dc5f" class="graf graf--p graf-after--h4">這台車進出口的門，那個紗窗非常非常吵。行駛時沒辦法固定，它會一直前後震動，超吵。所以我會用夾子把它塞住，另外一邊用衛生紙塞住。用夾子把紗窗塞住之後，它就安靜非常非常多。</p><p name="04e2" id="04e2" class="graf graf--p graf-after--p">行駛時，中控鎖要按下去，這個門的鎖才會關緊。我們有一小段路發現門沒有關緊：開車時透過風會看到外面。它其實有卡住，但沒有關緊，所以貨車門要關門大力一點、關緊。出發前按中控鎖，鎖會再把門夾緊。</p><p name="07b3" id="07b3" class="graf graf--p graf-after--p">以上是兩個開車後才發現的點。</p><h4 name="980d" id="980d" class="graf graf--h4 graf-after--p"><strong class="markup--strong markup--h4-strong">3–21 旅行規劃方式</strong></h4><figure name="fcc3" id="fcc3" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*jGI04Zvtg9WHBh2aylhNNA.png" data-width="1920" data-height="1080" src="/assets/images/miro.medium.com/5f7d33cc092c39ad.png"></figure><p name="d308" id="d308" class="graf graf--p graf-after--figure">我的行程規劃方式大概是這樣：平常看節目、看書、看旅遊書，把所有看到想去的點都標記起來在 Google Map 上。</p><p name="9f51" id="9f51" class="graf graf--p graf-after--p">開到哪就看附近有什麼東西，再搭配ロケスマ的 app 找附近溫泉、附近道之驛。用 Google Map 搜索「車中泊」看車中泊點；搜索「錢湯」跟「日歸」找洗澡的地方，並看介紹跟評價。</p><p name="21ff" id="21ff" class="graf graf--p graf-after--p">這十天大概就是這樣度過。其實每次去日本大多也是用這些服務來找。</p><p name="e462" id="e462" class="graf graf--p graf-after--p">（Google Map 在日本有個麻煩：你看不出哪裡是自動車道、哪裡是一般道路，我不理解為什麼會有這問題。）</p><p name="ef53" id="ef53" class="graf graf--p graf-after--p">以上是整趟行程事前準備、租車、規劃，跟現場行程經驗。</p><h3 name="02af" id="02af" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">第四章 ChatGPT 使用經驗</strong></h3><h4 name="179c" id="179c" class="graf graf--h4 graf-after--h3"><strong class="markup--strong markup--h4-strong">4–1 用 AI 協助行程規劃</strong></h4><p name="02e9" id="02e9" class="graf graf--p graf-after--h4">本趟在事前也用了蠻多次 ChatGPT 來協助規劃。</p><p name="3c08" id="3c08" class="graf graf--p graf-after--p">我一開始問它，叫它幫我畫成表格、列上距離跟行駛時間。它可以幫你生成 Google Map 的 My Map 下載檔案。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="130c" id="130c" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*p-3nqvifY4YCOMkqVqqzqQ.png" data-width="990" data-height="1476" src="/assets/images/miro.medium.com/6c15e11e8540cbf3.png"></figure><figure name="3a50" id="3a50" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*PlQTDjk3agxLlPgOc3dJPg.png" data-width="990" data-height="1476" src="/assets/images/miro.medium.com/d7be8cf95eaa7e44.png"></figure></div><div class="section-inner sectionLayout--insetColumn"><p name="4624" id="4624" class="graf graf--p graf-after--figure">但這些都必須查證：這個距離不一定是真的；行駛時間也絕對要自己加倍。</p><p name="f867" id="f867" class="graf graf--p graf-after--p">它一開始規劃是第一天從札幌衝到釧路。雖然我看到蠻多其他去北海道開車的人也是這樣衝，但我實際開起來覺得太拼了。</p><p name="35f6" id="35f6" class="graf graf--p graf-after--p">我們在中間就先在 TOMAMU 停一晚。它原本規劃是七天就可以繞完道東到道北的極點，再回到道央。它規劃七天就能衝完，但基本上不可能：不可能一天開六到七小時這種車，太累、而且太顛簸。所以基本上要多一倍的行車天數，會比較適合一點。</p><p name="2e28" id="2e28" class="graf graf--p graf-after--p">如果我有十二天以上，我覺得就可以到稚內，再回旭川，再回札幌。就是差了大概兩天的時間。</p><p name="60b5" id="60b5" class="graf graf--p graf-after--p">這一趟一開始都是往「道東＋道北繞一圈」方向去規劃：你可以一直跟它講要停哪裡、叫它列表列出附近可去的地方、預定可過夜的道之驛。但都都要查證。</p><p name="ea33" id="ea33" class="graf graf--p graf-after--p">我出發前兩個月左右，有一直跟它討論行程，後來也買了兩三本書。其實到了現場後，發現這樣的事前規劃其實完全沒有用：你就走到快日落，找附近道之驛；找附近錢湯跟日歸，然後過夜。隔天繼續走。</p><p name="059e" id="059e" class="graf graf--p graf-after--p">你只要大概知道路線；要在哪裡停，就看當天起床時間、開車時間、逛了多少地方來決定。</p><h4 name="64e1" id="64e1" class="graf graf--h4 graf-after--p">4–2 遇到疑難雜症都來問 AI</h4><p name="5ee0" id="5ee0" class="graf graf--p graf-after--h4">碰到疑難雜症都可以問 ChatGPT。像我第一晚車頭黏一堆蟲，我就問它怎麼清，它解釋得蠻清楚，也建議可以買清潔劑跟專用清潔泡棉。</p><figure name="fe0d" id="fe0d" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*v_7v3X-DKxflVAiGUgHqqA.png" data-width="904" data-height="1826" src="/assets/images/miro.medium.com/5974c9699dfb0d9f.png"></figure><p name="8930" id="8930" class="graf graf--p graf-after--figure">現在也有語音模式，可以拿來做口譯：你叫它切到語音，跟它說「請你幫我口譯，把接下來的對話中文翻譯成日文、日文翻譯成中文」。它可以當口譯服務來使用，但網路要好；網路爛就會卡住。</p><p name="ee59" id="ee59" class="graf graf--p graf-after--p">問它附近的 POI，很多都是假的，很容易是唬爛的東西，還是查地圖比較實際。總之，疑難雜症可以問 ChatGPT，也可以請它翻譯。</p><p name="810e" id="810e" class="graf graf--p graf-after--p">這一年來去日本旅行，最近三四趟我都蠻常用 ChatGPT。它日文翻譯比 Google Translation 或蘋果 Translation 好很多。因為它有前後上下文、有語意，還會建議不同翻譯方式，所以非常實用。</p><p name="a164" id="a164" class="graf graf--p graf-after--p">旅行時你也可以拍照問它這是什麼、這是什麼鳥、什麼植物、什麼水果，這也很實用，而且蠻準的。</p><figure name="b297" id="b297" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*Ae-p3i8yahpbjQgti26q5w.png" data-width="1742" data-height="1780" src="/assets/images/miro.medium.com/232d9609186f1241.png"><figcaption class="imageCaption">在道之站厚岸吃爐端燒時，問 ChatGPT 海鮮怎麼烤</figcaption></figure><p name="6309" id="6309" class="graf graf--p graf-after--figure">但問 timing 的東西要小心：像我在札幌看到很多人穿和服，我問它什麼節日，它說可能是花火大會，下面講的花火大會有些就是唬爛。不過你去一般網站搜索花火大會，的確能找到當天有花火大會，但不是在它講的那些地點。</p><p name="f635" id="f635" class="graf graf--p graf-after--p">這個是這兩年 AI 的發展，實用程度已經用得上的地方。一開始行程發想、中間疑難雜症、路途上的翻譯，都可以使用。</p><h3 name="7b39" id="7b39" class="graf graf--h3 graf-after--p"><strong class="markup--strong markup--h3-strong">結語</strong></h3><p name="0b70" id="0b70" class="graf graf--p graf-after--h3">這就是 2025 年七月北海道露營車旅行的完整經驗分享，感謝閱讀。</p><p name="4772" id="4772" class="graf graf--p graf-after--p">在 2025 年秋天時，我也在關西體驗了 K car 輕型車款的露營車單人自駕，後續再找時間跟大家聊！</p></div><div class="section-inner sectionLayout--fullWidth"><figure name="d2c5" id="d2c5" class="graf graf--figure graf--layoutFillWidth graf-after--p graf--trailing"><img class="graf-image" data-image-id="1*hovq_nRPHAThXGndIyFLcA.png" data-width="3406" data-height="1610" src="/assets/images/miro.medium.com/1b03a6419dc7ec92.png"></figure></div></div></section>
+![](/assets/images/miro.medium.com/1d9ac1b99aa17728.jpeg)
+
+### **北海道露營車旅遊規劃大全**
+
+#### 2025/7 道東與道央旅行，從規劃到行程中的疑難雜症，玩法、技巧與避雷
+
+今天要來分享我在北海道租露營車旅行的經驗。
+
+從二〇二五年七月五號到七月十四號，我去了北海道十天，第一次租露營車在那邊旅行。本文想把整趟過程的一些經驗跟大家分享。
+
+以下是直播分享的錄影，再記錄下逐字稿整理成文。
+
+<iframe src="https://www.youtube.com/embed/qoIyBivjskk?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe>
+
+**直播分享錄影（全片）：**[https://www.youtube.com/watch?v=qoIyBivjskk](https://www.youtube.com/watch?v=qoIyBivjskk)
+
+**完整相簿：**[https://www.flickr.com/photos/irvin/albums/72177720327549492/](https://www.flickr.com/photos/irvin/albums/72177720327549492/)
+
+### 目次
+
+· [序](#cd24)
+ ∘ [來快速看看車子](#56b5)
+· [第一章 露營車簡介與駕駛經驗](#b8d3)
+ ∘ [1–1 車輛規格](#cf41)
+ ∘ [1–2 行駛時晃動](#99fc)
+ ∘ [1–3 方向盤](#d3e8)
+ ∘ [1–4 無 ACC、無定速，盡量休息](#49fd)
+ ∘ [1–5 駕駛視野、照後鏡](#d59e)
+ ∘ [1–6 駕駛座按鈕：自動遠光燈](#bd00)
+ ∘ [1–7 駕駛座按鈕：收折照後鏡](#39b9)
+ ∘ [1–8 排檔，低速檔與引擎煞車](#9f61)
+ ∘ [1–9 跟一般車輛的差異：轉彎半徑、煞車距離、顛簸](#0fbe)
+ ∘ [1–10 導航與連結手機](#4072)
+ ∘ [1–11 駕駛體感：左駕與道路線形](#19eb)
+ ∘ [1–12 推薦《安全自駕暢遊北海道》交通規則書](#29a1)
+ ∘ [1–13 自駕經驗分享](#15d1)
+ ∘ [1–14 保險跟租車公司的選擇](#71db)
+ ∘ [1–15 租車公司的選擇，NOMAD提供的額外服務](#567f)
+ ∘ [1–16 租借車上用品、冷氣與廚具](#fa4c)
+ ∘ [1–17 冰箱微波爐、廁所與空間](#ebae)
+ ∘ [1–18 左駕心得](#34d4)
+· [第二章 車輛使用、車上生活](#c953)
+ ∘ [2–1 床位與生活空間](#113f)
+ ∘ [2–2 露營車與飯店的比較](#2398)
+ ∘ [2–3 準備物品：吸蟲棒](#5ea2)
+ ∘ [2–4 去蟲清潔劑與清潔用品](#4a3d)
+ ∘ [2–5 準備物品：車用風扇、吸塵器](#fe44)
+ ∘ [2–6 自助洗車經驗](#a343)
+ ∘ [2–7 租車公司建議（續）](#0115)
+ ∘ [2–8 停車狀況](#a9fc)
+ ∘ [2–9 抽風扇與車窗通風、車邊帳](#476c)
+ ∘ [2–10 租車公司選擇（續）](#95c9)
+ ∘ [2–11 租車證件；需要貨車駕照的車款](#cc40)
+ ∘ [2–12 選擇車款的考量：傳統露營車或休旅車或輕型車改裝](#ab39)
+· [第三章 車中泊行程規劃](#b588)
+ ∘ [3–1 行程總覽](#5936)
+ ∘ [3–2 ロケスマ 地圖 App：道之驛、休息區、溫泉、便利商店、加油站](#006d)
+ ∘ [3–3 くるま旅：RV Park & 車中泊點](#c764)
+ ∘ [3–4 飯店、商店停車場不能車中泊、TOMAMU 早餐](#599c)
+ ∘ [3–5 道之驛車中泊的注意事項](#3370)
+ ∘ [3–6 三種車中泊點：休息站 / RV Park / 露營地](#842c)
+ ∘ [3–7 推薦泊點：道之驛白糠戀問館](#ccfb)
+ ∘ [3–8 不建議雪地自駕露營車](#0dd1)
+ ∘ [3–9 露營地尋找方式，Shachuoo 網站](#f284)
+ ∘ [3–10 洗澡：日歸溫泉與錢湯，尋找方式、洗澡用品](#5b89)
+ ∘ [3–11 道之驛活動：印章蒐集冊 ＆ 線上印章網站](#0fab)
+ ∘ [3–12 規劃行程的好用 app 與網站](#9fa4)
+ ∘ [3–13 旅行照片分享](#f6e7)
+ ∘ [3–14 露營車怎麼丟垃圾](#21ec)
+ ∘ [3–15 旅行照片分享（續）](#3319)
+ ∘ [3–16 推薦旭川 KITORON 溫泉](#6599)
+ ∘ [3–17 推薦旭川水澤果樹園](#d0c3)
+ ∘ [3–18 札幌大部分停車場無法停露營車](#5dbe)
+ ∘ [3–19 車上電器充電概況、車上預備夾子掛勾](#e37c)
+ ∘ [3–20 紗窗噪音處理、車門需上鎖關緊](#3152)
+ ∘ [3–21 旅行規劃方式](#980d)
+· [第四章 ChatGPT 使用經驗](#02af)
+ ∘ [4–1 用 AI 協助行程規劃](#179c)
+ ∘ [4–2 遇到疑難雜症都來問 AI](#64e1)
+· [結語](#7b39)
+
+![](/assets/images/miro.medium.com/73c6684f8c17a16d.jpeg)
+
+*[https://www.flickr.com/photos/irvin/54671489786/in/album-72177720327549492](https://www.flickr.com/photos/irvin/54671489786/in/album-72177720327549492)*
+
+### 序
+
+這是我全部的行程。
+
+基本上露營車目前租的話，大概都是在新千歲機場附近租車。我從新千歲出發，機場在這裡，我還有開車去機場繞了一圈。
+
+接下來就是往北、往東走。大概在 TOMAMU 那邊先過了一夜，然後到帶廣過一夜，再到釧路過一夜，接著住根室，然後再往北到網走，這邊也過了一夜。
+
+原本計劃是想說要直接一路往北走到宗谷岬，但後來發現時間來不及。走到網走這邊大概已經花了一半的時間，如果還要再往北到宗谷岬就一定來不及。且中間能停的地方比較少，沒有好逛的地方，所以會變成只有一路衝到宗谷岬。
+
+所以我後來就改成先過夜後，直接走高速公路回旭川，在旭川這裡再往南到富良野。旭川、富良野這邊過了兩夜之後，接下來隔天在千歲這邊過一夜，最後回到新千歲機場，就是這個樣子。
+
+這次我整趟行程都一直開著世界迷霧，所以也特別把整個繞一圈的路線記錄下來。
+
+接下來我會分幾個不同的主題來分享。第一個是車：包含車子本身、駕駛交通規則、車上的一些設備，還有左駕。第二個是使用，基本上就是整個露營車的使用相關的事情，包含在上面的生活、要準備什麼用品，還有洗車跟停車的細節。
+
+最後是行程的部分，就包含怎麼規劃行程、睡哪裡（包含有這三種），還有溫泉、休息站。以及你行程中要做什麼事情：開露營車有什麼好玩的、我覺得很好用的 APP，跟我自己的規劃方式。我會分這三大塊來跟大家介紹。
+
+#### 來快速看看車子
+
+![](/assets/images/miro.medium.com/a11b5116becea71b.jpeg)
+
+![](/assets/images/miro.medium.com/34d3de7a069ed26c.jpeg)
+
+**Hokkaido Nomad NEW CORDE BUNKS camping car**
+*北海道逍遙遊露營車 nomad-r.jp/car/?type=07*www.flickr.com
+
+先讓大家看一下我這次租的車。這一台叫做 Corde Bunks。基本上大家如果直接去搜尋北海道露營車的話，大概會找到中文的租車公司可能就三、四間，其實幾乎每間都會有類似的車款，大同小異就是這幾個車款。
+
+我這一台是 New Corde Bunks，然後是在 NOMAD，「北海道逍遙遊露營車」租的。
+
+外型大概是這樣：它就是很典型的露營車的樣子：一台小發財車的車款，把貨台的部分改成露營車的室內空間，延伸到駕駛座上方，成為一個額頭床，我們晚上睡覺的時候都睡在上面。
+
+![](/assets/images/miro.medium.com/ca9e7ab9e498c361.jpeg)
+
+![](/assets/images/miro.medium.com/0503992f99bbe0cf.jpeg)
+
+後面就是生活空間，你會看到好幾個門，主要的門，然後後面兩個其實是可以進到室內的兩個門。下面是油桶，後面也有小的儲藏，跟室內連通的儲藏空間。尾端最下面有個垃圾空間，大概外型都是這樣，大小也差不多。
+
+它的大小剛好可以停進一般小車的車位。
+
+露營車大概有三種：一種是像這種一般車、一般貨車，那種 3.5 噸的貨車改的露營車；另外一種是輕型車改的露營車，日本有那種輕型車嘛，也有那種輕型車改裝的露營車，就更小，大概是這台的三分之二大。
+
+露營車大概有三種：一種是像這種一般 3.5 噸的貨車改的露營車；另外一種是日本那種輕型車改裝的露營車，就更小，大概是這台的三分之二大。最後是很大的，歐洲進口的七公尺長露營車。那個就沒辦法停到一般車位裡面去，你就都要去停大貨車的車位。
+
+![](/assets/images/miro.medium.com/a650f283da15c322.jpeg)
+
+![](/assets/images/miro.medium.com/9b1dedc9338ea441.jpeg)
+
+![](/assets/images/miro.medium.com/d7f879edb8553e1c.jpeg)
+
+![](/assets/images/miro.medium.com/3861d9ea2043066a.jpeg)
+
+基本上這個大小是剛剛好可以進到一個停車位，而且在札幌以外的其他所有地方都很好停。車位左右都很有餘裕，我停的時候左邊還有很多空間，右邊還有更多空間。通常我都會靠右邊一點，讓左邊上下車方便。
+
+不論是在景點區域、市區吃飯的地方，或休息站，全都很好停。就算是進到札幌，室外停車場它也是完完全全剛剛好。你看左邊、右邊都還各有大概 20 公分的寬度餘裕，前後長度也剛好進到範圍裡面。
+
+那我來找一下它的規格好了。網址是 https://nomad-zh.jp，我是在這一間「北海道逍遙遊露營車」租的車。後面我會再跟大家分享，我覺得可以怎麼挑、可以參考哪些租車公司。
+
+![](/assets/images/miro.medium.com/53b9a6c937b1be7d.png)
+
+我們先看一下這個車款。可以看到有很多款，其實下面這個 CORDE 的幾個車種及 ZIL 都大同小異，差別主要是室內隔間不同，以及新舊的差異。
+
+我租的是 New Corde Bunks。以這間公司來說，ZIL 520 是最貴的，其實我覺得差不多，大家可以直接看預算去選，看室內空間去選。
+
+我們是兩個人，我覺得這樣子的車款，兩個人的空間很夠。如果是四個人，我覺得就可能會蠻擠的，你可能會坐得稍微有一點痛苦。
+
+像這個車子它其實標的是六個人，我是覺得不太可能。除非你是一家人，其中兩個人是小朋友之類的。
+
+六個大人的話，應該會非常非常痛苦，你在車上只要站起來就會互相撞到。睡覺空間是夠的，它確實有六張床的空間給你，但會非常痛苦。
+
+### **第一章 露營車簡介與駕駛經驗**
+
+#### **1–1 車輛規格**
+
+![](/assets/images/miro.medium.com/62ce4c6ebd385782.png)
+
+規格是這樣。它的長是剛好五公尺內，寬二公尺、高 3.15 公尺。
+
+長寬高的話，它比一般大家開的車還高。甚至你平常如果有開 3.5 噸的發財車，它也比 3.5 噸發財車還高，因為上面還有額頭床這一塊空間，所以它開起來是重心偏高的。
+
+其他的部分其實長寬跟一般的車子差不多，差不多就是一般大一點的廂型車、休旅車那種感覺，開起來也差不多。駕駛體驗其實沒有很大的差別。
+
+#### **1–2 行駛時晃動**
+
+車駕駛起來，我覺得最大的差異就是它很晃。
+
+第一個原因是北海道的路很爛，非常坑坑洞洞，超級顛簸。你如果覺得台灣的路很爛，那北海道的路大概是台灣的路的十倍爛。
+
+原因之一是他們是會下雪的地方。下雪之後雪結冰，所以冬天大概有一年一半的時間都是下雪的天氣，剩下一半時間就在修路，路就會非常爛、非常顛簸。
+
+第二個原因是它是貨車底盤，所以顛簸會被放大。避震更硬，顛簸感會更明顯。會暈車的人坐起來可能會有點暈，我覺得第一天可以先吃個暈車藥。
+
+第三個是風稍微大一點的時候，它非常會晃。速度快一點也會晃，像高速公路上如果你跑到大概八九十，就會蠻晃的。如果稍微有一點側風，就會非常明顯地偏。
+
+#### **1–3 方向盤**
+
+那我這台車的方向盤，我駕駛的時候方向盤是歪的。後來露營車公司的老闆跟我說，那是因為車子的重量分配的關係，但我不知道是不是真的這個原因。
+
+我開的時候方向盤是偏右，我要往前直直開的話，方向盤必須往左大概五度的旋轉。
+
+所以它開起來是有點麻煩，它沒辦法說我方向盤放開就直直往前走，大概都要一直拉著。這是第四個點。
+
+#### **1–4 無 ACC、無定速，盡量休息**
+
+第五個是它沒有 ACC、沒有定速，就是一般小貨車的那種感覺。不像現在新的 J Space 有 ACC。
+
+北海道很大，開起來你可能會有點累，所以你就是隨時都要能夠休息就盡量休息。能夠進休息站就盡量休息。
+
+基本上我整趟行程大概每 30 分鐘就會進一次道路休息站。反正北海道道路休息站非常非常多，所以我就是每 30 分鐘進一次。
+
+就算在高速公路上也是，反正只要有休息站我就下去停。不然你要一直拉著方向盤、一直控制油門，沒有定速的話其實開起來有點累。
+
+![](/assets/images/miro.medium.com/3cbce093750ac821.png)
+
+這是道路休息站的狀況，非常非常多。其中只有一天比較少，就是在右邊這邊，從根室到斜里這邊沒有休息站。其他其實大概每 30 分鐘一定都可以找到可以停的地方，不管是在國道（他們的國道就是我們的省道），或高速公路上都是一樣。
+
+#### **1–5 駕駛視野、照後鏡**
+
+我忘記拍駕駛座的樣子了，這個是北海道逍遙遊的說明影片截圖，給大家看一下駕駛座的畫面。
+
+![](/assets/images/miro.medium.com/26a7ad5331aa95a9.png)
+
+基本上駕駛座就是方向盤，如果你有開過貨車，它就是一台三輛車的貨車、一模一樣的駕駛座。就是比較正，然後你坐的比較高。
+
+就相對於就是大家開、平常開休旅車，或一般的小客車，它就是比較高，視野非常非常的好。左後方跟右後方都不會有盲點，就是直接從照後鏡看，就是完整的車身這樣子。
+
+然後正前方的話也還好，因為那個它左邊的照後鏡是有往前然後往下照的。然後我是覺得視野很好。
+
+停車的話，它最大的麻煩就是它的往後看的視野不好，因為往後就是你的車廂的空間。所以往後看的視野會跟大家平常開小客車的那個習慣是不一樣的。
+
+然後當然就是露營車公司，它是有裝那個全時的後向攝影機嘛。那我覺得有點不習慣，是因為它不是裝電子照後鏡，所以說我還是會習慣去看到照後鏡。然後照後鏡往後，其實可以看到透過這個小小窗，它是可以看得一點點後面的路。
+
+然後同時你還要再去看這個後向攝影、後方攝影機，它是全時開啓的。就是只要車子有發動有電的狀態下，它隨時都是有亮的。
+
+這個後向攝影機的亮度不太夠，大太陽的狀態下亮度不太夠，所以這是有點阻礙。
+
+![](/assets/images/miro.medium.com/53959c4aaf566bae.png)
+
+另外一個我原本開之前想到的問題是：因為你有額頭床，就在你的駕駛座正上方，會不會就是有阻礙到視線或什麼影響。
+
+再包含說因為有額頭床的關係，擋住從上下來的光線，所以其實反而還比較涼一點，反而就比較不會熱。
+
+然後我有另外吸一台 iPhone 在那個擋風玻璃上拍 Mapillary 街景，那它基本上就是不太像我們平常開車的時候，擋風玻璃會被太陽直射，反而手機還涼一點。
+
+#### **1–6 駕駛座按鈕：自動遠光燈**
+
+![](/assets/images/miro.medium.com/52a19d37fa9d6ab6.png)
+
+再回來看一下駕駛座，駕駛座前面的按鍵，那有幾顆按鍵是平常比較會用到的。
+
+有一個是自動遠光燈。基本上我們在日本現在租車，常常都會租到是自動遠光燈的車，你就是一直開著，把它啓動之後，燈就一直開成遠光燈，然後它就會自己切換遠近。你也不用就是自己去就是往前打往後打，然後會忘記說看到來車會忘記打回來。
+
+反正它只要偵測到車前方有光源，就會自動切成近燈。對面光源沒了，它就會再切回遠燈。基本上北海道只要晚上，應該說就是道東跟道北，我走的這一段、這一大段，只要晚上它就是烏漆麻黑，鄉下的道路也不會有路燈照射，所以基本上隨時都開著。總之就是一直開著就對了。
+
+#### **1–7 駕駛座按鈕：收折照後鏡**
+
+第二個是有一個按鈕是收回左前方的後視鏡。停車的時候，如果你可以把它收回來，他就會從對外然後這樣折回來，然後就貼到檔幕玻璃上這樣子，讓左邊比較不會凸出去、比較不會往左前方凸出去，避免人家就是過的時候撞到你的照後鏡。
+
+那顆按鈕我是一直到第二天才發現是這個功能。
+
+#### **1–8 排檔，低速檔與引擎煞車**
+
+然後這台車子它的排擋，它就是一般的自排的車子。它的那個進退擋、手動進退擋的功能是：排擋桿往右打到 S 之後，然後按排擋桿上面的按鈕，可以進退擋。
+
+這個非常非常的常用。基本上大家租車的時候，一定要最好就是第一時間先跟租車的公司問清楚，你要怎麼樣打到低速擋，或者是手動進退擋。
+
+因為車很大然後重嘛，所以基本上下坡的時候，如果你一直踩剎車，那就是很吃剎車，然後也很難在短距離內剎停，所以你會非常常用到退到低速擋。
+
+基本上下坡就是會退，我就會打去 S，然後往下慢慢退，退到三檔、退到兩檔，慢慢去引擎剎車這樣子，非常非常的常用。只要下坡的地方一定都會退到低速檔。這是車子的操作的部分。
+
+#### **1–9 跟一般車輛的差異：轉彎半徑、煞車距離、顛簸**
+
+那其他操作的部分，就是跟一般的左駕、跟一般的那個在日本租車的道路駕駛差不多，一模一樣。
+
+基本上它的轉彎半徑啊什麼的，都跟一般的車子沒有兩樣。就是它比較重，剎車距離比較長；然後加上就是非常顛簸，因為北海道的路很爛的關係啊，所以就非常顛簸。
+
+然後稍微距離長，大家下坡的時候要常用到低速檔。然後沒有定速、沒有 ACC，大概就這幾個點而已了。
+
+#### **1–10 導航與連結手機**
+
+導航的部分，這台車它自己是有一台小小的內建導航嘛。基本上我就是直接掛 iPhone，然後就全程都用 iPhone。
+
+其實我看露營車公司的網站，他是寫說某些車有 Carplay 的。其實我租的這台 NEW CORDE BUNKS，他們的某些車也有，但我那台沒有。
+
+不過他們有拉一個插手機的、就是接手機的 USB 的延長線。那個 USB 延長線插上去之後，它是會吃 iPhone 的聲音輸出，所以我就是反正我就把手機掛在旁邊，然後用 iPhone 的導航，然後再加上它的聲音輸出直接出到車上音響這樣。
+
+#### **1–11 駕駛體感：左駕與道路線形**
+
+其他的就是跟一般的那個左駕、跟一般在日本的左駕一模一樣。
+
+其實在日本開車比在台灣開車簡單太多了。它的道路線形設計的很清楚，反正你就是右轉就靠右，因為道路中間一定會有停等區、一定會有待轉區、待轉的線、待轉車道。
+
+那左轉就是靠左，你就是在道路邊緣你就是靠左。如果只有兩車道，反正右轉就靠到右邊去，左轉靠左邊去，然後直走也靠左邊。三車道中間就直走，左邊就左轉，右邊就右轉，所以線形非常清楚。
+
+所有的路線一定都有右轉的待轉區，就是大彎的待轉車道。然後沒有機車，我覺得沒有機車的話，你開起來就簡單非常非常多了，就是你平常會需要規避的車輛就非常非常少。
+
+北海道因為很大嘛，我整趟幾乎都沒有在市區，所以也沒有碰到什麼腳踏車什麼行人，路又很大條，它幾乎每個車道都是那種三公尺寬的那種車道。所以開起來，我覺得在日本開車比在台灣簡單非常多，在北海道開車又比在日本本島開車簡單非常多。
+
+#### **1–12 推薦《安全自駕暢遊北海道》交通規則書**
+
+唯一有差的其實就是交通規則，基本上你還是要知道一下。
+
+我這一次雖然之前兩三年在日本已經租了蠻多次車了，但這次有看到、找到一本書，我蠻推薦大家的：《安全自駕暢遊北海道》。
+
+**安全自駕，暢遊北海道- TAAZE 讀冊生活**
+*安全自駕，暢遊北海道. 吳寧真、謝承揚. 優品文化事業有限公司. 9789865481711. 日本的熱門景點都玩膩了嗎？該是出發探索「秘境」的時候了！雖然日本是右駕，但憑我在台灣鍛鍊的超強開車技....*www.taaze.tw
+
+![](/assets/images/miro.medium.com/c7fc07e0a54057bb.png)
+
+*[https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t](https://www.taaze.tw/apredir.html?ap123497668_a_11101052157?a=t)*
+
+這本書大概有一半在講交通規則，而且不只是北海道。我覺得如果你去日本租車的話，最好還是先看一下。這大概是我買了十來本、二三十本日本旅遊書，還有五本以上日本自駕旅遊的書裡面，唯一一本專門講交通規則跟行車方式的。
+
+它把交通規則講得非常非常清楚。包含你要右轉要怎麼轉，你可以直接壓過那個補助線、中央的補助線，直接進到右轉車道，這種細節它都有。
+
+還有路邊暫停的時候哪邊可以停、哪邊不能停，上下車的位置，你可以直接右轉進去右邊店家的停車場啊什麼的。這些就是我覺得我們去自駕的時候，你沒看到一定不知道的習慣、insight 跟規則，它都講得非常非常清楚，蠻推的。
+
+像我之前自駕一直很容易搞錯的就是：到底那個標誌是禁止停車，還是禁止臨停。禁止停車跟禁止臨停的標誌，又跟那個看起來很像禁止進入的標誌，這邊就很容易混淆。
+
+這個部分它就講得非常清楚：禁止停車、禁止臨停，還有各種交通標誌。
+
+![](/assets/images/miro.medium.com/712bc98211ca0a99.png)
+
+*（螢幕錄影左右顛倒）*
+
+包含在路線上要怎麼走。道路上中央線長什麼樣子，怎樣的中央線可以跨過去、怎樣的不能跨過去，怎樣可以超車、怎樣可以迴轉，迴轉的規則是什麼、要怎麼停車，這些規則都講得非常清楚。我覺得它有釐清一些我以前自駕時的疑惑。
+
+![](/assets/images/miro.medium.com/2360c02ba6869532.png)
+
+*（螢幕錄影左右顛倒）*
+
+像右邊這邊講的，你要直走要怎麼切到左邊去走直走；如果你要右轉你就直走，可以壓過導流帶直接進到右轉車道，這種細節它講得非常清楚。
+
+這一本大概就這麼厚，三分之二的厚度都在講行車交通規則、行車方式跟一些 tips。我覺得非常非常實用，大家可以看一下。這是第一個我推薦的書。
+
+#### **1–13 自駕經驗分享**
+
+自駕其他的部分，基本上就是要改變在台灣的開車習慣。
+
+第一個最重要的事情就是要讓。反正入口要讓，入口前面有車你要讓，有人要左轉、左邊有人要右轉，你都要讓。總之你就是盡量讓就對了。
+
+停車的時候也是，遠遠看到路口有人要過，你就停下來讓之類的。入境隨俗，跟著日本人的行車習慣。
+
+然後基本上千萬不要出車禍，非常非常可怕。他的賠償是可以到千萬跟上億那種金額，千萬小心。慢，然後讓。你就是一定要做到：在所有路口跟路上，有看到人的時候就停止，遠遠地先停下來就對了。
+
+當然偶爾還是會碰到有人直接穿越馬路，反正就是小心一點。
+
+#### **1–14 保險跟租車公司的選擇**
+
+其他自駕相關的書、介紹影片都會講：保險一定要保到滿，就要保到滿。你自己的旅平險的責任險，加上租車的各種 NOD 啊什麼的，能夠加的就加到滿就對了。
+
+也蠻建議找最大的連鎖體系，有中文，或至少有 LINE 群組、可以隨時諮詢的公司。因為如果有交通事故，或者車子有故障什麼的，大體系的日本租車公司會有翻譯服務。
+
+像 Toyota rent-a-car 就有一支英文電話，你 24 小時打那支英文電話，把需要的事情跟他們講，他們就會幫你轉、幫你告知你的租車服務站。因為基本上跟車輛有關、車子故障的所有事情，都是你租車的那間服務站在處理。所以大的體系會有這種電話翻譯的服務。
+
+如果是台灣人的、或有中文服務的公司，至少也會有 LINE 群組讓你用中文諮詢，碰到狀況的時候會比較好溝通。
+
+而且你租車碰到任何事故，包含自己去 K 到路邊、或停車時壓到後面、稍微摸到一點後面，全部都要報警，保險才會出險。再小再小的事故都要報警，保險才會出險，所以最好還是有一些即時支援會比較好。
+
+#### **1–15 租車公司的選擇，NOMAD提供的額外服務**
+
+租車的部分，露營車目前就像剛剛講的，有幾間中文的露營車公司。你搜尋北海道露營車，基本上就會找到那幾間。
+
+一個是我這次租的逍遙遊露營車，另外一個是 Domo Camping Car，也蠻多 YouTuber 有去拍的。還有一些其他更小的平台、其他公司。以中文服務來說，應該是這兩個為主。
+
+另外就是 OTS，OTS 是連鎖品牌嘛，我這次是租北海道逍遙遊露營車這個品牌。
+
+我會選它，是因為看到它除了車以外，還有提供一些額外服務。像他們有合作的露營場、合作的旅館跟合作的露營場，可以讓你去預約使用，所以我一開始就選了這一間。
+
+它也有蠻多付費租借的東西，寫得蠻清楚，收費基準也蠻清楚，這是我一開始選它的原因。
+
+![](/assets/images/miro.medium.com/3c29a9d6f464b441.png)
+
+然後他們千歲的停車場旁邊有一個民宿可以住，然後他們也有一般小車可以租。所以如果你只是要開幾天露營車，前後想開一般小車的話，也可以跟他們一起租，這也是我當時選它的原因。
+
+基本上他們車款也很多：七公尺長的歐洲型豪華車、小的輕型車改的露營車，還有包含那種休旅車式的露營車——不是像露營車那樣有一個車廂的那種——基本上每一種都有。
+
+![](/assets/images/miro.medium.com/9aab139c709c874b.png)
+
+Domo Camping Car 也差不多這幾款車款都有。
+
+它應該算最大的，有超多的車，還有另外一個子品牌 Fox，是五年以上的車；主品牌則是五年內的新車。
+
+這邊就是我剛說他們有提供的額外服務，就是他們有簽約的一些場地可以讓你去使用。這個平台是他們公司經營的，應該是他們試過的場地跟合作的場地。我一開始選的時候就是想說，住宿的地方可以找他們合作的，請他們幫忙預約，省一些麻煩，所以就選了這個品牌。
+
+後來才發現預約這些場地要手續費，而且非常貴，一次 3000 日圓，最後一次都沒有用到。
+
+![](/assets/images/miro.medium.com/41c1a5aec0804e47.png)
+
+然後這個品牌還有第二個缺點：它在線上結帳時，用的金流系統會把日圓租金直接換算成台幣，用金流系統自己的匯率直接換算成台幣讓你刷。
+
+所以你刷卡刷的是台幣，而且匯率非常非常差，還是海外刷卡。這個不是信用卡公司的 DCC，你不能選。他們的金流系統，就是會自動換成信用卡發卡國的貨幣。
+
+所以基本上如果你在這邊租，你看那個金額要自己乘以 1.05，大概會貴 5% 左右。你要自己去算實際上刷卡結帳會結到的金額，這也是一個我覺得很麻煩的地方。
+
+而且因為刷卡當下就已經換算成台幣了，就沒有匯率優勢。我是在日圓大跌前租的，等於日圓大跌那個 10% 的便宜我完全沒享受到，非常虧。
+
+使用日圓卡也是一樣，它還是用台幣金額結，沒得選。我也寫信去問過，來回兩三封，他們就說這是他們的系統，選這個系統是因為什麼方便退款之類的，總之就是沒得選。
+
+他們本來就已經是相對貴的平台，再加上這個匯率換算，就比另外 OTS 跟 Domo Camping Car 貴至少 10% 以上。
+
+所以大家可以考慮：是不是要因為車款，或因為他有合作的露營場，去用這些服務。像最後還車的時候，有提供新千歲的露營場，可以在還車前的那一個晚上提前預約免費使用。
+
+![](/assets/images/miro.medium.com/1359ea60d79f1b43.png)
+
+如果你會講日文，自己打電話預約就沒問題。但如果你需要露營車公司幫你預約，基本上就是一次 3000 日圓。你可以自己考慮要不要用。
+
+他們其實也有簽一些蠻特別的合作。像在帶廣這邊有一間旅館跟他們合作，Premier Cabin。這間旅館特別提供露營車公司的車可以停旅館，付費停在旅館停車場，然後你可以去吃旅館早餐、用室內浴場那些設施。
+
+這是其中一個比較特別的場地，他寫說其他露營車公司沒有，是北海道 NOMAD 限定。你可以考慮服務值不值得讓你多付一點金額去租。
+
+![](/assets/images/miro.medium.com/a377a182f480d47a.png)
+
+整體來說它是全中文服務：預約從 LINE 群組就可以預約，線上網站直接預約；諮詢也有 LINE 群組，整個使用過程都可以用 LINE 溝通。現場取車是講中文的老闆，還車也有講中文的員工協助，所以基本上全中文。
+
+所以這兩個品牌在服務上的差異，應該就是額外合作場地，還有租借用品的齊全程度。
+
+#### **1–16 租借車上用品、冷氣與廚具**
+
+我自己的租借用品，基本上我們就是租寢具：最基本的寢具組，枕頭、棉被、床單，一人一組。
+
+我們另外租了東京西川的床墊。我回來之後有去查，這床墊就是可攜式的，專門給露營用的那一組。台幣大概兩到三萬，我查到台灣代理商的價錢，真的蠻好睡的。
+
+我是沒有試過「沒有床墊」會不會差很多。我們整趟時間都是租兩個、鋪著睡，所以沒有比較。那如果沒有的話，那種像 Q Time 漫畫王那一種、軟軟座椅那種材質，我也不知道差多少。
+
+![](/assets/images/miro.medium.com/41f8624479b7f17f.png)
+
+夏天的話，我們這次是夏天去，七月初。我覺得再加上他們夏天用的是毛巾被，基本上就像一條大毛巾的感覺，保暖程度蠻夠的。
+
+我們只有一個晚上是真的睡到稍微有點冷，是在山上的時候。基本上也只有另外一兩個晚上覺得比較熱一點，有考慮要開冷氣。
+
+我選這一款車的原因之一，也是因為它有另外的車內冷氣。
+
+我覺得租露營車的時候，你一定要特別注意有沒有兩樣東西：冷氣跟微波爐。冷氣指的不是車子發動時的車子本身冷氣，是露營車車廂內、室內用的冷氣。
+
+現在夏天越來越熱，我們真的有兩三天在晚上有開冷氣。車內電池的電，夠讓我們開四、五個小時，一路開到早上太陽出來，電都還夠。
+
+我們大概就是開個 27、28 吧，電還會剩下大概六成左右。它有太陽能板，所以太陽出來之後電就非常夠了。
+
+我們在車內用電，基本上就只有冷氣跟插座充電腦，沒有用到其他電器。
+
+露營車公司有特別說不能用自己帶的吹風機。吹風機兩千瓦會跳電。跳掉之後，你接下來整個租車期間都沒有電器可以用了，那就非常痛苦。也不能同時用冷氣跟微波爐，峰值跳到兩千瓦以上就會出事。
+
+![](/assets/images/miro.medium.com/442eadefe6733023.png)
+
+我們再回去看車內用品。我也有租一組餐具，還有焚火台。我有用某個 YouTuber 的推薦碼，他們有送營燈……是送餐具還是送營燈我忘記了，送營燈吧。
+
+我還有租折疊椅、折疊桌，但這些全部都沒用到。基本上我們沒有進露營區，所以你完全用不到焚火台，也沒有任何地方可以讓你放折疊椅折疊桌。所有道之驛跟一般停車場都不能放這些東西，都不能把這些東西放到車外，你就是只能進露營場用。
+
+但我這次是完全沒有進到露營場。原因是大部分露營場都要預約，我看到的幾乎都不能當天有空就當天去、看現場有沒有空。預約大概有兩種：一種是網路／寫信預約，一種是打電話預約。打電話的話我們不會講日文，基本上就沒辦法。寫信跟網路預約通常也沒有當天的，都是要兩三天前。
+
+我這次行程只抓一個路線，走到哪、時間到了我就停，所以沒辦法預估三天後我要停哪裡，最後就完全沒有去任何露營場。所以焚火台、折疊桌、折疊椅，還有瓦斯爐這些戶外用的東西通通都用不到。
+
+![](/assets/images/miro.medium.com/4cb09dd28f0d9f29.png)
+
+因為我們這趟全部都在店家吃，一路吃過去，沒有在室內烹調。餐具也幾乎用不到。
+
+另外露營車基本上也不能在室內煮任何會有味道的東西，大概就是只能煮水、煮咖啡，頂多煮個鍋。反正我們完全沒用到，也沒有煮熱水，因為天氣很熱，就一直買飲料一路喝過去，基本上是這樣。
+
+#### **1–17 冰箱微波爐、廁所與空間**
+
+![](/assets/images/miro.medium.com/f0c5991a8932f9f3.png)
+
+冰箱很常用。基本上最常用到的是冰箱。
+
+微波爐我們好像只用到一次吧，就只有一次吃便利商店便當。其他幾乎都是買了就直接在車上吃掉，沒有冰著、隔一陣子再拿出來微波。但冰箱很常用：買飲料就冰冰箱，買大瓶的礦泉水也冰冰箱。
+
+露營車本身雖然有水，我們沒什麼用，只有拿來稍微沖洗杯子，還有刷牙。後來刷牙我們也用自己買的大罐礦泉水，因為你不知道車子水箱乾淨的程度如何。
+
+第二個是廢水非常難處理，只有非常少數的 RV Park 跟非常少數的露營場可以處理廢水。所以就盡量不要產生水，不然廢水真的很難處理。
+
+車上也沒有廁所。雖然租借清單有移動式馬桶，但我們也沒租。露營車公司的網頁也有說大部分人根本用不到，所以我覺得不用租了。
+
+只要半小時內一定有休息站跟公共廁所，而且日本的休息站跟公共廁所幾乎都非常乾淨。除了比較窮的縣市，或露營場可能會比較陽春以外，基本上都很乾淨，所以完全不用擔心。
+
+洗澡的話，其他 YouTuber 也都會講：就是去溫泉。我們也是一樣，每天去睡覺附近的錢湯洗，或者附近的溫泉，所以也不用考慮在車上洗澡的需求。所以現在有些車款改裝時會把浴室那個小小空間去掉，這其實是一個可以考慮的點。
+
+![](/assets/images/miro.medium.com/e8b67c1e85bcc094.jpeg)
+
+我們這一款還有保留浴室空間，就是這邊這一塊小小的灰色空間，但基本上那個空間完全沒用，有點佔空間、有點浪費。
+
+它有個門，裡面地板是防水的地板。我們只用來晾毛巾跟晾浴巾。另外 28 吋行李箱剛好塞得進去，所以我就把行李箱丟在裡面。這空間平常就是浪費的。
+
+所以也有一些新的車款完全沒有這個空間，可以考慮租那樣的車子，室內空間就會再大一點，客廳空間也可以更大。
+
+好，那車子的部分大概是這樣，應該都有講到了吧。
+
+#### **1–18 左駕心得**
+
+左駕。我覺得大家去之前都很擔心左駕會不會走錯車道。
+
+但我覺得唯一比較會走錯車道的狀況，就是上下高速公路、上下閘道跟單行道，可能會有轉錯的問題。其他一般雙向道路都非常清楚，完全不會碰到這個問題。
+
+反正你往左就是靠路邊，你轉過去也在路邊；你往右就是靠路中，你轉過去也會在路中。幾年前第一次自駕開始，我就沒有覺得有問題。
+
+比較可能會適應不良的是：右手是方向燈，左手是雨刷吧。你在路上看到轉彎時在開雨刷的一定是台灣人。
+
+而且你回來的時候，在那邊開習慣了，回來也很有可能想打方向燈但打到雨刷。你會很習慣右手轉方向盤、順便切方向燈，回來之後還會有點不習慣。左駕基本上就是這樣子。
+
+### **第二章 車輛使用、車上生活**
+
+#### **2–1 床位與生活空間**
+
+![](/assets/images/miro.medium.com/10bb6aa204afc8ed.jpeg)
+
+我們自己的狀況是從頭到尾，我都兩個人都是睡在這個額頭床。
+
+把車頂的床板設定好之後，是兩個人的空間，大概是 175 公分到 180 公分的深度跟寬度。接近方形，但因為最前面這邊是往下傾斜的，所以你如果躺直的，腳在內、頭在外的話，175 會勾到腳；但如果你躺橫的話，頭跟腳就會剛剛好頂到左邊跟右邊。
+
+我們後來發現躺橫的比較好躺，躺直的話腳就會一直 K 到最前面那個傾斜的地方。
+
+圖上這就是東京西川那個可攜式床墊。我們租兩個床墊，加上租車公司的床單，下面就是那種一般軟墊，大家在 QTime、漫畫王那種網咖會看到的那種軟墊床墊，直接睡在上面。
+
+第一個晚上把床拉出來、墊子鋪好之後，就再也沒把它收過了，也懶得收，真的懶得去收。這樣唯一的問題是，如果要直接從中間車室爬到駕駛座，會一直撞到頭。站在車廂內，也很容易撞到這個凸出來的部分，要小心一點。
+
+我們從頭到尾都沒有收這個床，就一直這樣子。
+
+![](/assets/images/miro.medium.com/f9e9d8b467a94e30.jpeg)
+
+![](/assets/images/miro.medium.com/7fe406e2a445db40.jpeg)
+
+另外四個睡眠床位是在最後面，車子最後面的部分：下面是一個，上面是第二個。我們把上面那個床的中間拆掉丟到旁邊去，讓空間比較大一點。
+
+正中間的就是——我沒有照到客廳空間。客廳就是一張桌子，前後兩排椅子。平常行駛的時候可以坐四個人；睡覺的時候就把它整個打平，睡一個人。
+
+所以五個人，大概是五個吧。我記得我這一款，如果把所有睡覺空間全部打出來的話，是五個，對，五個：一二三四五。有的車款中間這個床的位置會更寬一點，就可以睡到六個人。
+
+但我自己覺得兩個人睡這台車非常舒服；四個人可能會稍微有點勉強；五個人或六個人的話，基本上不可能，還是不要好了。
+
+#### **2–2 露營車與飯店的比較**
+
+其實露營車比飯店還貴。兩個人來搭的話，我們租十天，加上所有租借器材，全部加起來大概是 15 萬台幣，比飯店還貴。
+
+它方便的地方就是你可以開到哪、睡到哪。還有就是行李打開之後，所有東西都不用收，不用每天搬來搬去。北海道那麼大，如果開一般車，行李就是每天晚上要下來、早上要上車：晚上下來、早上上車，那就真的非常辛苦。
+
+露營車就是第一天打開來，東西擺一擺、收進抽屜，最後一天再把東西全部塞回行李就好了，中間不用一直挪來挪去。使用上大概是這樣。
+
+#### **2–3 準備物品：吸蟲棒**
+
+準備的物品，除了車子本身、租車公司提供的器材以外，我們另外準備了一些東西。第二天我有跑去汽車用品店買了一些東西，非常好用，推薦大家一定要有。
+
+![](/assets/images/miro.medium.com/45157784a552d000.png)
+
+第一個是只有在台灣買得到的。不要等到去了北海道才想找，日本目前還沒有的，就是這個：吸蟲棒、吸霸。大家直接網路上找「吸霸」，它大概就是這樣子，你打開來它就會抽風，可以把蚊子吸進去。
+
+在露營車上非常非常實用，尤其北海道夏天蚊蟲非常多。我們有在那個自然體驗的那一個道之驛過夜，那個地方大概在星野前面一個小時、半個小時左右的地方，蟲真的非常非常多。那地方肯定平常就是蟲比人還多。
+
+蚊子倒是沒有，整趟大概只吸到兩三隻蚊子而已，但蚊蟲真的非常多，所以這個非常實用。可以從台灣帶過去，日本買不到。
+
+#### **2–4 去蟲清潔劑與清潔用品**
+
+![](/assets/images/miro.medium.com/8236e555ba45176c.jpeg)
+
+然後第二個是日本才買得到的：清潔蚊蟲屍體的清潔劑，跟專門清潔的手套。去蟲精、去蟲清潔劑，還有清潔手套。
+
+露營車公司也有附洗車毛巾、擦車抹布給我們。
+
+為什麼這個非常實用？因為山裡面蚊蟲非常非常多。你只要開兩三個小時的夜車，不管高速公路或一般山路，晚上的時候整個車頭就會全部都是蟲。
+
+![](/assets/images/miro.medium.com/7ce1ac36bb1ef6ce.jpeg)
+
+*車頭的黑點全部都是蟲屍*
+
+我這趟總共去加油站自助洗車洗了兩次。就像照片那樣，車頭所有黑色點點全部都是掛掉的蟲，非常非常多。高速行駛又加上蟲很小，死掉之後會黏在車上。我第一次去自助洗車，用高壓水柱噴噴不下來；肥皂水也沖不下來，還要用刷的。
+
+我後來就問 ChatGPT 這要怎麼清，因為真的非常難洗。他就說日本人會去買這個：任何有販賣處的加油站、或汽車用品店，走進去第一眼就會看到的去蟲清潔劑。
+
+第二天到釧路的時候，就跑去 Autobacs 買了去蟲清潔劑跟擦車清潔手套。接下來再去自助洗車，高壓水噴一噴、清潔一下、肥皂水噴一噴；有蟲的地方再用去蟲劑噴一噴，然後用清潔手套擦，就非常非常快。
+
+第一次用抹布加肥皂水刷，洗到水噴完之後還在刷，刷了半個小時，幾乎刷不太下來。真的非常黏、非常固著。第二次洗就快很多。
+
+這個東西我不知道租車公司有沒有。我租的時候網站上沒講，我當時也不知道要找這個。反正我就自己買了，加起來不到台幣 200 塊，非常便宜，就跑去汽車用品店買。
+
+#### **2–5 準備物品：車用風扇、吸塵器**
+
+另外兩個東西我也是在現場買的。
+
+第一個是夾式的車用電風扇，就是那種插 12 伏的車用電風扇。這支非常便宜，台幣大概 100 塊而已，是汽車用品店的特價品。
+
+一開始會買，是因為第一個晚上睡的時候覺得有點悶，額頭床那邊冷氣上不來，睡起來就比較悶，所以就買了這種夾式風扇。後來其實都沒用到，第二個晚上開始就都沒用了。
+
+但我後來是把它夾在駕駛座副駕上面，吹我掛在前面、用來拍街景的 iPhone。我覺得蠻實用的。有帶、或到了隨便買一個也行，熱的時候就可以開，不一定要開冷氣，可能只是需要通風而已。
+
+![](/assets/images/miro.medium.com/4ff184fa4dff79f6.png)
+
+*逛車用品店的 DM*
+
+第二個是吸塵器，我買了一組充電式的車用吸塵器，大概台幣七、八百塊吧。這種有鋰電池的東西，我覺得台灣應該帶不過去，理論上也帶不回來啦，好像不應該讓我帶上飛機才對。但反正我就丟在行李裡面寄回來了。
+
+它好用在哪裡？因為車內的車頂都是絨毛，第一個晚上我們睡了一個蟲非常多的「自然體感」休息站，車門打開再關起來，額頭床上面的絨毛上就黏著一隻一隻的蟲。只會爬，不會飛來飛去，用吸霸也吸不起來。只好用衛生紙捏一捏，大概有五十隻吧，超小隻也不會咬人，只是就是很多，看起來很噁。整個車子裡面到處都是這樣子。
+
+所以第二天我就跑去買吸塵器，想說以後有蟲就吸一吸就好。
+
+另外一個原因是車頂的通風扇 — — 我也沒照到照片 — — 但它那個濾網蠻髒的，所以就也可以清一下。第三個原因是我們租十天，車內是不穿鞋子的，地板難免會有些屑屑什麼的，也可以吸一吸。所以我就買了這個。
+
+![](/assets/images/miro.medium.com/d01ae1f29e5b25bd.png)
+
+這一個吸塵機加上風扇，再加上清潔劑，全部加起來大概不到 1500 台幣，非常實用。
+
+大家也可以特別準備一下，或問租車公司有沒有提供。我後來看一些介紹、影片，是說有的租車公司有提供。沒有的話，你也可以像我一樣自己買，回來就直接丟在租車公司，搞不好就提供給下一個人。
+
+總之就問問看，沒有的話自己跑去汽車用品店買，便宜也很實用。如果你也想要開著乾乾淨淨的車，不要說一路開、一路一堆黑點點的話，也可以買一下，路過自助洗車就進去洗一下。
+
+#### **2–6 自助洗車經驗**
+
+![](/assets/images/miro.medium.com/a119938a7a03813d.jpeg)
+
+自助洗車非常便宜，500 塊，15 分鐘左右吧。
+
+流程大概就是：高壓水 2 分鐘，泡泡可能 2 到 3 分鐘，給你洗車的時間到 15 分鐘，接下來再高壓水 1 到 2 分鐘。他們大概就是這樣，500 塊而已，非常便宜。通常其實用不太到後面那麼長的時間。
+
+我第二次去的那個自助洗車，還有一個樓梯可以讓你站上去洗車頂 — — 那邊我沒有拍到。總之我就這樣洗了兩次。因為那兩天前一個晚上弄的比較髒，所以就洗了兩次。
+
+![](/assets/images/miro.medium.com/14ab5ea028d6bcbb.png)
+
+我第二次去的那個自助洗車，還有一個樓梯可以讓你站上去洗車頂 — — 那邊我沒有拍到。總之我就這樣洗了兩次。因為那兩天前一個晚上弄的比較髒，所以就洗了兩次。
+
+這邊有不同方案，反正就是高壓水、泡泡、手洗時間，再加上高壓水，這樣就好，五百塊。那個超撥水洗車六百塊，那個我就沒有用。也不知道那個材質適不適合這種碳纖維的車殼。
+
+車窗、車頂這些地方，尤其車頭，晚上行駛、太陽下山之後行駛，不管高速公路、平地或山區，就一定會黏到超多蟲。我看到整個道之驛的所有車子，車頭全部都是。大家如果有去星野，你停 TOMAMU，那你看停車場所有車，每一台都是，很好笑。
+
+#### **2–7 租車公司建議（續）**
+
+租車服務跟建議剛有快速講一下。基本上中文服務的就是 DOMO 跟 NOMAD 這兩間，可以選一間；或者是 OTS。
+
+OTS 有中文網站，不知道現場有沒有中文。現場應該沒有中文服務，跟其他日本連鎖租車公司一樣，可能只有日文跟英文，你就自己選一下。
+
+OTS 最便宜；NOMAD 最貴；DOMO 相對在中間。
+
+NOMAD 車款最多，服務內容寫得最完整。網站有寫到的服務內容是最多的。大家可以自己選。
+
+#### **2–8 停車狀況**
+
+![](/assets/images/miro.medium.com/930d77c8b6d21d96.jpeg)
+
+停車我一開始有說，它的大小基本上可以剛好停進一個小客車的車格。
+
+像這張是在旭川那個很貴的溫泉那邊拍的。你可以很明顯看到它左右剛好進到線裡面，前後也剛好在一個車格的最前面跟最後面。
+
+這張也可以看到照後鏡。我這張照後鏡是我忘記把人切回來。我這張照片的照後鏡，就是會把往左出去的照後鏡往前折：小的鏡子貼到擋風玻璃，大的鏡子就會轉到你的車正前方。這樣左邊的車子如果有人要停車，就比較不會撞到你的照後鏡。我平常停車的時候都會收。
+
+在道路休息站，大家晚上停泊的時候也會習慣中間隔一個空間。如果車格很多，就是一格一台、隔一格一台、再隔一格，大家互相方便。
+
+#### **2–9 抽風扇與車窗通風、車邊帳**
+
+回到車子上面，有一個剛剛沒有講到的東西：車頂的抽風扇／排風扇，是抽排兩用扇。
+
+我們基本上都是開排風，而且隨時開著。停車的時候也不用關，反正電池消耗非常非常小，你就一直開著，它就一直通風。
+
+車窗我們是用「只開一條縫」的模式。基本上所有窗戶都有一個模式是可以開一個小縫、然後鎖住的模式。
+
+從第一天開出去、第一次休息開始，我就把全部窗戶都開成一個小縫的通風模式，配紗窗。從第一天到最後一天，車窗幾乎都沒動過，除了洗車把它關起來以外，其他時間都沒動。
+
+排風扇也一直這樣開著，所以車內隨時都有通風。就算開冷氣我也是這樣開著，反正不用去動它，也不會忘記關。
+
+![](/assets/images/miro.medium.com/40ef99a1a81be7c4.png)
+
+你看其實很多照片裡的車窗都是開一個小縫的，都是排風、通風的狀態。
+
+晚上睡覺的時候，所有車窗都可以完全遮光，它有遮光簾跟紗窗、遮光板跟紗窗兩種模式可以切換。晚上睡覺可以完全遮蔽，包含額頭床旁邊的窗。
+
+像這張比較明顯，你看額頭床旁邊兩個窗戶，開了通風，所以會稍微凸出一點點。那個卡榫會剛好鎖住，讓它不會再往外、也不會關起來。
+
+我所有窗戶都是這樣開著，最大的那個窗戶也是。紗窗也都是整個開著。
+
+行駛的時候通風，停車也通風。這樣再加上室內排風扇往外排，就算停車大太陽，你下車出去逛一兩個小時再回來，車子也不會悶熱，車內的東西也不怕太熱，效果很好。
+
+不過行駛在高速公路上可能會稍微有點吵，因為有通風，風聲跟路噪會比較明顯。你也可以行駛的時候把它完全關緊。
+
+另外我印象中每一個露營車公司都說車邊帳不能用，禁止使用車邊帳。因為他們說車邊帳如果收不回來，車子就沒辦法行駛，而且很容易收不回來之類的，他們網站是這樣寫的，所以就禁止使用。
+
+我們也沒有試。我印象中看到三四個有中文的其他平台，寫的也都一樣。
+
+車子的部分大概就是這樣。
+
+#### **2–10 租車公司選擇（續）**
+
+租車服務跟建議剛也提到了，大家可以自己選。
+
+然後北海道女婿沒有露營車。大家如果有在看北海道旅遊影片，應該都會看到他，他就沒有露營車。
+
+我去日本這麼多趟，平常租車都是租 Toyota、Nissan，最多最多就是 Nippon，通常都是這三個系統。
+
+我二月那次去北海道、去旭川的時候租 Toyota，因為他英文翻譯專線蠻方便的，所以可以考慮。
+
+我去旭川那次租了一天一般車，Toyota 的一台四輪驅動的 Hybrid 車款，忘了是哪一台。第一天開完之後打英文專線問能不能續租，他就幫我用英文去問出租的那間旭川本店，再回覆我，我覺得蠻方便的。
+
+所以租車基本上就是這樣：找有中文服務的，或者找連鎖。連鎖體系各有好壞，大家自己考慮。
+
+#### **2–11 租車證件；需要貨車駕照的車款**
+
+所有自駕影片都會告訴你：租車要帶台灣駕照加上日文譯本，不是國際駕照。
+
+日本加入的國際駕照體系跟我們加入的是不同體系，所以台灣國際駕照沒有用。台灣國際駕照只能在美國用，不能在北海道，不能在日本用。
+
+日本你只需要台灣駕照加上日文譯本。日文譯本就是去監理站辦，這兩個東西要同時有。
+
+NOMAD 的網站有特別講，他們某些車款是在前幾年修法前的車子。在修法前，你不能用小客車駕照來開這種露營車；修法後可以。所以他們有些車款可以用小客車駕照行駛，有些不行，雖然看起來一模一樣，但有些可以、有些不行。
+
+他有特別寫說，如果你要選修法前的車，你就必須要有大貨車的駕照吧。大家基本上都沒有，所以你就確認一下這點，租可以用小客車駕照的車。忘記哪一年修法之後，這樣形式的車變成小客車駕照可以開，總之就是這樣子。
+
+#### **2–12 選擇車款的考量：傳統露營車或休旅車或輕型車改裝**
+
+我覺得傳統露營車這種車款，會比一般休旅車改裝的露營車還舒服一點。
+
+至少它有額頭床，而且進出有門，門也可以開紗窗。不像一般休旅車那種側滑門，打開再關起來，冬天冷空氣跑進去比較多，夏天的時候蚊蟲跑進去的多。所以我覺得這樣的車款比較好，會比那種小客車的側滑門車款更好一點。
+
+輕型車改的露營車，就是非常。Domo 也有另外一款是用輕型車改的、有額頭床的露營車，那一款我之前也有在看。但北海道地大空間大，我覺得先租一般的試試看。
+
+![](/assets/images/miro.medium.com/e1ed9af4986aa69b.png)
+
+NOMAD 的話輕型車是這一台 Every；DOMO 的話我記得是另外一台有上額頭床的。如果是一個人的話，我可能會考慮輕型車這種；但兩個人以上的話，還是一般這種廂型的露營車可能會比較好、比較舒服。
+
+車的部分到這裡。接下來最後就是第三個 part：行程的部分。整個行程的規劃，加上怎麼找住的地方，還有一些細節。
+
+### **第三章 車中泊行程規劃**
+
+#### **3–1 行程總覽**
+
+![](/assets/images/miro.medium.com/e49e447915e8c680.png)
+
+這是我完整的行程，十天的時間。我開得相對慢、也開得相對短，頂多三個小時，應該沒有比三個小時更長的日子。
+
+所以我大概第一天到 TOMAMU，第二天到釧路，第三天到根室，第四天到網走下面這邊，第五天到遠輕。第六天是最長的，直接上高速公路之後到旭川，睡白金青池這裡的休息站。
+
+第七天到旭川郊外這附近，第八天在旭川青之洞窟溫泉，第九個晚上回札幌。接下來隔天還車。大概就是這樣的行程，繞一整圈。
+
+基本上就像我一開始在「行駛」那部分有講，我是每半個小時一定停休息站、一定停道路休息站，這樣安排。
+
+一開始的計畫是：往右走到最右邊，接下來往上走，看能不能走到宗谷岬。不行就從中間折返，從中間進旭川，這是我一開始的規劃。
+
+#### **3–2 ロケスマ 地圖 App：道之驛、休息區、溫泉、便利商店、加油站**
+
+這個 APP 非常非常方便：Location Smart（ロケスマ）。這個 APP 方便，是因為它可以把很多類型的點整合起來，而且 POI 會即時更新。
+
+![](/assets/images/miro.medium.com/08fbd61a67846683.png)
+
+我就會用到這幾種：
+
+第一個是道之驛，非常重要。反正你只要看到道之驛就停：下高速公路就停，或下公路開過去就停，然後睡覺。幾乎所有日子我都睡在道之驛，只有一個晚上睡在溫泉——那個溫泉有 RV Park。應該是倒數第二個晚上吧，睡溫泉；其他都是睡道之驛。
+
+第二個是高速公路休息站。中間有兩段高速公路、兩段自動車道。省道上有道路休息站；自動車道上只有高速公路的休息區、服務區。服務區基本上就是比較小的餐廳，加上販賣機加上廁所。有的服務區甚至沒有販賣機。所以高速公路上開的時候，如果你要休息就是找服務區。
+
+第三個是找溫泉。
+
+第四個是「くるま旅」：くるま旅 Club。這是 RV 跟車中泊的一個協會、同好會。他們有簽約很多車中泊點跟 RV Park，你可以直接看附近有哪些點。
+
+第五個就是便利商店跟加油站。
+
+基本上我就是用這個 APP 加上 Google Map，來做整個行程規劃。
+
+道之驛這件事，它列得非常完整，比你用 Google Map 搜索還精準。你用 Google Map 搜索道の駅（michi-no-eki）有時候會找不到；你找「道之驛」或「道の駅」有時候就是會缺。這個 APP 就是有完整的所有的道之駅的資料。
+
+其實我一開始在台灣規劃時，看了蠻多其他網站：RV Park 相關的、休息站相關的、車中泊相關的。台灣有查很多網站，但最後到了現場，我就全部都用這個 APP，覺得它最方便。
+
+每一個道路休息站的距離、名字、營業時間都很清楚，點進去就會到道路休息站的網站。
+
+#### **3–3 くるま旅：RV Park & 車中泊點**
+
+![](/assets/images/miro.medium.com/16cc977150497eca.png)
+
+還有「くるま旅」這個類型，是可以車泊的設施。北海道這樣一整圈。有些湯標示「可以車泊」，他有特別提供車泊服務。
+
+像十勝川温泉笹井ホテル，就有相關規則。它會寫需不需要預約，一個晚上 2200，怎麼預約，Check in / Check out 時間，甚至寫一個晚上前的 5 點要預約。
+
+有的寫「當日有空可以預約，不能 Web，必須打電話」。這種如果是當日可預約的，你其實可以直接開到現場去看看：或許他可以接受你直接到館內櫃檯，用翻譯服務跟他溝通，不一定要電話。
+
+其他大部分的 RV Park 都是寫要電話預約的話，這種我們就很難使用了。像有的寫一個晚上 3000–3600，寫當日可預約，不能電話要 Web。
+
+總之這個分類，就是所有可以車中泊的道之驛以外的點。
+
+#### **3–4 飯店、商店停車場不能車中泊、TOMAMU 早餐**
+
+要特別特別強調：一般飯店的停車場、一般購物中心的停車場、便利商店的停車場，是不能車中泊的。
+
+有一部 YouTube 影片，是去星野 TOMAMU 的停車場車中泊，然後去用 Club Med 的設施跟廁所。基本上是違規的，不要做這種事。不能去隨便一個飯店停車場停在那邊，想說用人家飯店設施、用廁所，付費泡溫泉，就想在停車場睡覺，不行。
+
+除非是這種特別的、有車中泊方案的溫泉旅館或飯店，你才可以去看現場有沒有空間、能不能讓你付費使用。
+
+![](/assets/images/miro.medium.com/73e0d44059843ed7.png)
+
+我倒數第二個晚上，是去美唄這個 RV Park。它也是溫泉的停車場，有提供 RV Park 服務：一個晚上 2500，附插電樁。我沒有用，太陽能板充電就夠了。
+
+我們就是付 2500，包含兩個人的溫泉券，加上車子停指定車位，還有提供垃圾袋。倒數第二個晚上我就去用這個美唄 RV Park。
+
+只有這樣子的旅館，才可以在他的停車場車中泊。我昨天還看到另一個 YouTuber 影片，說他看了前一個影片又跑去 TOMAMU 車中泊，千萬不要。
+
+![](/assets/images/miro.medium.com/6d752d9839935b99.jpeg)
+
+![](/assets/images/miro.medium.com/ce30da33368538ee.jpeg)
+
+TOMAMU 我第二天白天有去：早上 4、5 點去搭纜車上雲海平台，得很早上去。所以我們是停在前面一個道之驛過夜——占冠自然體驗那個道之驛。隔天開半小時進 TOMAMU。
+
+看完雲海下來後，我們跑去 TOMAMU 裡面 Mikaku 餐廳吃早餐。你沒有住在裡面，也可以自費吃早餐，這是可以的。他問你有沒有餐券，你說沒有，他就跟你說多少錢、刷卡就能吃了。早餐非常便宜，一個人只要 500 塊吧（台幣），吃到飽，超棒。我整趟吃到最豐富的早餐就是這一個。
+
+![](/assets/images/miro.medium.com/fe35e8c48f52fe2e.jpeg)
+
+所以你可以去飯店或溫泉旅館停車、進去用設施、泡溫泉、吃餐廳，但不要在停車場過夜。除非人家特別寫可以睡覺的地方。
+
+#### 3–5 道之驛車中泊的注意事項
+
+道路休息站到底能不能睡？應該說日本法律沒有規定不能睡。它又是一個比較偏公共型的服務，主旨是讓行駛在路上的人有地方休息，避免過度疲勞造成行車危險，所以沒有禁止車中泊。
+
+有些特別的道之驛會寫「禁止車中泊」，那就不行。沒有寫的，基本上就是沒有禁止。我看很多日本露營車使用者，全部都在道之驛休息。
+
+原則上就是：沒寫不行，你就可以在那邊睡覺。
+
+但你不要把車上的東西搬下車。不要在車子旁邊擺桌椅、開始烤火或煮東西，這不行。你可以在車上睡覺，前提是道之驛沒有特別寫不能車中泊。我有查到幾個是不行的。
+
+我們整趟都沒有進飯店，基本上都是停休息站。十天有九天睡道之驛，一天睡 RV Park。
+
+就是用剛剛那個ロケスマ來找。每天快日落、四五點、快要日落的時候，就找附近最近的：下一個道之驛是哪一個，然後開過去。
+
+晚上你晚一點進休息站，可能看到整排車全部停滿，全部都是露營車，各種不同露營車，跟一般車子在做車中泊。
+
+比較鼓勵的方法是：道路休息站關門之後過去停車過夜；早上道路休息站開門之後，你再進去吃個東西，接下來就開走。
+
+因為——你看 Google Map 道之驛景點，常看到日本人在抱怨：一般旅客沒地方停，全部都是露營車，長時間佔用停車場。比較好的方法就是互相禮讓。所以最建議的方法是：晚上關門後停，早上一開門吃點東西就走。
+
+所有道之驛關門後都有 24 小時廁所，有的甚至還有一些室內空間。
+
+![](/assets/images/miro.medium.com/04af8112c0ba3c8a.jpeg)
+
+*道之驛聯絡會的傳單，右下角寫不能宿泊，只能「仮眠」。*
+
+#### 3–6 三種車中泊點：休息站 / RV Park / 露營地
+
+既然是這樣，那要睡哪裡？剛看到的：一個是 RV Park，或是有提供車中泊、晚上過夜服務的旅館場地。第二個就是道之驛、道路休息站。
+
+你可以參考這個 APP，或在 Google Map 搜索「車中泊」，也能找到一些地方。像富良野這邊就很少：只有一個溫泉旅館，RV Park 包含美瑛跟旭川，加起來就這三個點。道之驛也很少，四個：當麻、旭川、東川、美瑛。
+
+如果這邊比較少，你在 Google Map 搜索車中泊，可能還會找到一些公共停車場。山上那種只有 24 小時廁所的公共停車場，也可以考慮去那種地方車中泊。
+
+基本上就是完全不要去商業設施的停車場。
+
+在旭川這邊，我睡的點是一個晚上在東川這個道之驛。因為就在白金青池旁邊，所以早上起來就直接開去青池，人比較少。旭川市中心那個點我沒有去。我每次去之前都會先看 Google Map 的說明，有人說旭川那個晚上非常多人。
+
+#### **3–7 推薦泊點：道之驛白糠戀問館**
+
+![](/assets/images/miro.medium.com/961ef29b1ef2ea05.jpeg)
+
+整趟下來我蠻推的一個泊點是釧路左邊的戀問館。
+
+這是一個非常新的道之驛，如果你也往道東走的話，一個晚上可以去停釧路這個道之驛，設施非常新。裡面有三層樓高的兒童樂園，就是溜滑梯跟攀爬那種遊樂設施。
+
+而且還有提供車泊者付費的垃圾處理跟淋浴間、三溫暖 — — 不是澡堂，是烤箱加淋浴間那種設施，以及收費電源。
+
+![](/assets/images/miro.medium.com/5dec5034a1d8d040.jpeg)
+
+![](/assets/images/miro.medium.com/20b896f4333f9b71.jpeg)
+
+山裡面的道之驛通常比較老、晚上比較暗；離城市近一點的就比較新。比較新的道之驛，24 小時廁所可能是在室內的隔間，蚊蟲會比較少，光線也會比較好一點。其他其實就是基本都有到。
+
+#### **3–8 不建議雪地自駕露營車**
+
+我這是第一次開露營車，是在夏天。我只有兩趟冬天雪地自駕的經驗，開的是一般四輪驅動的廂型車。
+
+非常不建議冬天開露營車自駕。夏天它停車距離就很長，下坡剎車距離很長；而且車身蠻不穩、蠻晃，重心高，風一吹更晃。冬天再加上雪地，我真的沒辦法想像開這種車在結冰公路或山路上行駛，風險太高太高。
+
+如果你要挑戰雪地自駕，先從一般車開始。我開兩趟一般車，覺得雪地開一般車還行，但露營車一打滑，它的停車距離、重心高度、車重跟打滑狀況加在一起，真的蠻不推。
+
+#### **3–9 露營地尋找方式，Shachuoo 網站**
+
+露營地也可以考慮當作車中泊點。麻煩在於：幾乎所有露營地，都沒辦法網路預約或現場預約，幾乎都要打電話事前預約，門檻很高。
+
+也不是所有露營地都能開車進去車中泊。你要看要有做成 RV Park，或有寫車泊車位、露營車車位那種，才適合你開露營車進去。不是每一個露營地都可以。
+
+我自己基本上是沒有去。
+
+![](/assets/images/miro.medium.com/aa341fbe1f58c8cb.png)
+
+像剛剛 NOMAD 合作的那個網站，它有介紹蠻多露營地，你也可以看 Shachuoo。
+
+露營地在圖上就是藍色的「キャンプ場（kyanpu-jō）」。Google Map 搜索就搜「キャンプ場」，找到露營地之後看留言，看裡面有沒有車中泊相關的經驗分享。
+
+這個網站上列出來的露營地都是可以車中泊的。只是我覺得預約很不方便，除非你要倒垃圾，或要特別找地方倒灰水、倒廢水，才會特別一定要找露營地。
+
+RV Park 也有蠻特別的，有的是餐廳附設。有些 RV Park 很有趣：有的是農場在兼做 RV Park，或飯店、或一般店家做一個 RV Park，大家可以到處看看。
+
+RV Park 在市區裡面也有，道之驛通常在市郊。如果你想要在市區裡面，就找 RV Park，市區的會比較多。
+
+像這些黃色跟藍色的，就是露營地。總之大家可以自己找找看，這網站也還不錯、蠻方便的。
+
+#### **3–10 洗澡：日歸溫泉與錢湯，尋找方式、洗澡用品**
+
+接下來看一下洗澡的部分。
+
+找溫泉的話，我最主要是在ロケスマ這邊找日歸溫泉，再加上 Google Map。你直接在 Google Map 上搜索「日歸」也會有非常非常多，然後就看一下 Google Map 上面的評價，看看怎麼樣，也看一下需不需要自己帶洗髮精、沐浴乳跟毛巾。
+
+![](/assets/images/miro.medium.com/4d110889a041f87d.jpeg)
+
+我們第一天就直接去百元店——大創的百元店 — — 在購物中心裡面的大創，買了一個去溫泉的小籃子。我原本自己就有帶溫泉毛巾，另外也有從台灣帶小小罐的洗髮精沐浴乳去。
+
+基本上我們去的九個錢湯跟日歸溫泉，大概只有一個是沒有洗髮精沐浴乳，其他都有。毛巾的部分：所有日歸溫泉的毛巾全部都要付費租用或付費買。所以可以自己帶溫泉專用毛巾，會比較方便。
+
+我們平常回到車上之後，就把毛巾晾在原本設計給浴室用的那個空間裡面。那邊有個門，所以我們就把 28 吋行李箱放進去，毛巾、浴巾就晾在上面，小籃子也掛在上面晾。
+
+總之就是：自己帶毛巾浴巾、洗髮精沐浴乳，然後買個籃子提著，跟日本人去錢湯一樣，方便很多。
+
+晚上找好睡覺的地方之後，接下來就找溫泉或錢湯，流程大概就是這樣。
+
+#### **3–11 道之驛活動：印章蒐集冊 ＆ 線上印章網站**
+
+![](/assets/images/miro.medium.com/554954cb6bf0e6b6.png)
+
+一開始到第一個道之驛，我就買了他們這本活動手冊——道之驛蓋章的集章冊。
+
+這是實體的收集冊，這本是只有北海道的部分，一個頁面就是一個道之站。每個道之站都有印章可以蓋，讓你可以用兩年的時間去完全制霸。
+
+休息站放印章的位置，通常會有活動海報，上面會告訴你第幾號；那個「第幾號」其實就是「第幾頁」的意思，你就翻到那一頁去蓋章。
+
+![](/assets/images/miro.medium.com/5d66f3fb496860ff.png)
+
+它也有數位版：直接是一個網站，不是做成 APP。你人在道之站的範圍內，就可以用手機打開那個網頁，線上蓋章。數位版也有地圖，告訴你附近有哪些、蓋了哪些、還缺哪些。畫面上紅色的是我有蓋到章的，藍色是還沒蓋到章的。
+
+![](/assets/images/miro.medium.com/94c635873db5a11a.jpeg)
+
+另外，有些道之驛還會有特別優惠，數位版跟紙本的都有。像「北歐之風」有送一杯 50 塊的 soft drink 飲料；有些道之驛則是購物折價券。所以到休息站後，記得先去蓋章、順便看一下有什麼優惠。假如有折價券，買東西就可以折扣。
+
+集到一定數量之後還可以應募參加一些活動。對我們來說應募沒什麼用，但我們就是收集印章而已。
+
+我們整趟開露營車，最主要的旅遊活動，某種程度上就是休息站蓋章，然後逛當地特產。一路蓋章過去、一路蓋章回來，大概蓋了二十幾個吧。數位版漏掉了「D51」還有「おだいとう（Odaitō）」。紙本本也漏了兩三個。
+
+![](/assets/images/miro.medium.com/56cc488ba7450026.jpeg)
+
+![](/assets/images/miro.medium.com/05465eff7540fa57.jpeg)
+
+![](/assets/images/miro.medium.com/a65bb61de188e3c6.jpeg)
+
+#### **3–12 規劃行程的好用 app 與網站**
+
+ロケスマ這個網站跟 APP，有所有相關設施：你可以拉車中泊相關設施、拉道之驛、拉便利商店，也可以拉各種不同類型的餐廳、加油站之類的網頁服務。
+
+另外有推廣車中泊的社群くるま旅，他的地圖上也能找到一些推薦的設施。不只北海道，也會列出所有簽約的 RV Park。
+
+道路休息站蓋章的這一套，總共三個找 POI 的 web。
+
+道之驛也有官方網站「北の道の駅」。但我基本上就是用ロケスマ的 app，加上蓋章的那個 web 網頁。
+
+![](/assets/images/miro.medium.com/4b9a59599035a512.png)
+
+*japanmapcode.com*
+
+如果你要用車上的行車導航（車機導航），你可能知道日本導航最快的方式之一是輸入 Mapcode。
+
+但 Google Map 不能直接給你 Mapcode。你可以用 japanmapcode.com，把你要的 POI 換成 Mapcode，找到對應的 Mapcode 再輸入到車機。
+
+例如你隨便找個道之驛，就能看到它對應的 Mapcode：389 406 345 *13，輸入車機就能導航。
+
+我自己是全部用 iPhone 蘋果的地圖來導航，所以沒有用到。但如果你要用車機，可以用這個網站來找 Mapcode。
+
+另外還有「北海道の日帰り入浴リスト」（[https://yuru-to.net/list.php?kid=1](https://yuru-to.net/list.php?kid=1)）網頁，列出所有北海道可以日歸的錢湯跟溫泉旅館，以及一般旅館但可日歸泡湯的資訊。它的完整程度比起ロケスマ更完整一點點，但我到了現場後其實完全沒有用到；用ロケスマ大概就差不多了。
+
+方便的服務大概就是這些。
+
+#### **3–13 旅行照片分享**
+
+最後我們來看一下行程中所拍的一些照片。
+
+![](/assets/images/miro.medium.com/b6d5abb55a86a4b4.jpeg)
+
+機場取還車，通常要坐計程車到租還露營車的地點，就看店家怎麼配合。
+
+像 NOMAD 是叫你直接叫計程車，計程車錢他們出。還車之後也是他們叫計程車送去機場，錢也是他們先預付。基本上就看租車服務怎麼做。
+
+像 OTS 應該是在機場租車櫃台，直接到 OTS 櫃台，接著用接駁車送你去外面取車的地方。各家不同，看怎麼弄。
+
+![](/assets/images/miro.medium.com/3aaceb495f9ecd2f.jpeg)
+
+![](/assets/images/miro.medium.com/05465eff7540fa57.jpeg)
+
+我第一個去的是新千歲旁邊的鮭魚公園，第二個是道之驛 D51，這個就沒打到卡。當晚在自然體感過夜，隔天去星野吃早餐、去雲海平台看雲海。雲海真的非常快就散掉，所以要在日出前到樓下排隊上纜車。非常多人，要先抽號碼牌排隊上纜車。
+
+然後我第二個晚上到釧路這邊的戀問館睡。它非常新，有看海景的觀景台，餐廳等設備也都很好，還可以付費收垃圾，蠻推薦。
+
+#### **3–14 露營車怎麼丟垃圾**
+
+車子上的垃圾非常非常難處理，所以盡量減少你產生的垃圾，分類要分得非常清楚。
+
+所有垃圾按規定都不能丟在道之驛的垃圾桶。不像台灣你到休息站就能丟垃圾，在日本不行，沒有地方讓你丟垃圾。
+
+除非是付費、像那種提供垃圾處理的空間，才可以讓你丟垃圾。
+
+所以盡量減少車上垃圾。我们主要只在道之驛丟瓶罐跟衛生紙。其他所有垃圾，尤其你買便當上車吃，吃完就立刻拿回去問店家能不能幫忙處理。
+
+像後面有一餐吃螃蟹，我們拿上車吃之前就先問海鮮店家：吃完的殼能不能幫忙處理？他們說可以，我們就拿上車吃完再拿回去。
+
+總之就是盡量減少車上的垃圾。
+
+![](/assets/images/miro.medium.com/f0e65956c14b3fbc.png)
+
+*垃圾就先打包這樣存著，可付費丟垃圾時再清掉。*
+
+#### **3–15 旅行照片分享（續）**
+
+![](/assets/images/miro.medium.com/fe361b0bb78029b3.jpeg)
+
+![](/assets/images/miro.medium.com/2cd99d4016d1c841.jpeg)
+
+![](/assets/images/miro.medium.com/208d335702791722.jpeg)
+
+![](/assets/images/miro.medium.com/631644dc6c0ee387.jpeg)
+
+當天我們到最右邊的納紗布岬，然後就是最東端。有一堆海鷗。去根室吃根室花丸，住根室。
+
+根室左邊那個道之驛蠻新的，但它週一公休。道路休息站還會有公休日。我們基本上在那邊睡一晚，但也進不去、也蓋不到章。
+
+接下來往道北走，走別海町。原本想從中間走阿寒摩周過去，但後來感覺時間來不及、太晚了。如果往阿寒摩周那邊走，就必須在中間找一個可能沒有道路休息站的地方，可能要在一般停車場過夜，所以立刻放棄，改走海邊。
+
+從根室出來走別海町，直接走海線。到標津後，其實原本有一個海邊公園的 RV Park、露營場，本來要在那邊過夜。但那天還蠻早的，大概才四點，就想說直接衝到斜里。四點一路衝衝衝，到山區時日落了，再一路衝到斜里町，傍晚到。
+
+![](/assets/images/miro.medium.com/05af10e5288d7d0b.jpeg)
+
+![](/assets/images/miro.medium.com/f4d03737ede712d9.jpeg)
+
+剛好去到又長又直的那條「天之路」拍照，拍完太陽下山就住。當晚住在小清水町的休息站，去小清水溫泉泡湯，泡完後住在海邊的道之驛「道之驛葉菜野花小清水」。也蠻新，蠻推薦：有觀景台，旁邊有 SECOMA（不是 24 小時），旁邊還有 Montbell，比較大型。上面有 JR 車站「濱小清水」。
+
+隔天往左走，在 Hokuren 北浜セルフ SS 自助加油加洗車。再繼續往道北走。
+
+![](/assets/images/miro.medium.com/a119938a7a03813d.jpeg)
+
+到網走這邊我們跑去吃螃蟹——到北海道大家要吃螃蟹嘛，還有那個漫畫「與雪女同行吃蟹」——我查 Google Map 很多人推薦網走漁師的店渡邊水產，所以就出發。
+
+前一站在葉菜野花那邊混太晚，混到中午過後才出發。到渡邊的店時只剩一個多小時營業時間。下午四點休息吧，我兩點半到，它只有兩張桌子還滿席，所以店家說等也不一定等得到；可能前一桌走了，但營業時間也到了。
+
+所以我們就問能不能買螃蟹、請他幫我們處理，我們拿到車上吃，吃完殼跟垃圾再還給他處理。他們說可以，我們就買了之後在門口停車場、車上吃。又是另一個露營車的優點。
+
+渡邊水產蠻推。像下圖標牌毛蟹 6400，2800 是大的帝王蟹腳，還有 9500 的石蟹。都是已經秤重，當天早上煮好後冷藏的；你要吃時，他會再拿出來處理。所以不是冷凍蟹，是當天煮的新鮮蟹。又便宜又好吃。
+
+![](/assets/images/miro.medium.com/24aacf82816128d4.jpeg)
+
+那天走得非常短，因為計劃是走自動車道到旭川，到自動車道入口時已經傍晚，不想晚上天黑開車：蟲又多、視野也不好，所以當晚去湧別町營溫泉洗澡，在旁邊店吃東西，再早早停在自動車道入口附近的道之驛遠輕過夜。
+
+![](/assets/images/miro.medium.com/4562e2279c301845.jpeg)
+
+![](/assets/images/miro.medium.com/fbc06a460ce1b3f5.jpeg)
+
+*涌別特產：稚貝咖哩*
+
+它冬天是滑雪場，夏天有一條夏天的雪道（塑膠雪道），但我們去那天沒有營業，很可惜。
+
+![](/assets/images/miro.medium.com/a86dd79d76d42513.jpeg)
+
+![](/assets/images/miro.medium.com/6c4bd126adecb1f5.jpeg)
+
+隔天直接走高速公路衝到旭川，中間只有小小的幾個道之驛：經過特產是木作的白滝（Shirataki）道之驛。從 Shirataki 到愛別的中間這段，整段都沒有道之驛，只有上川有一個高速公路休息站，就是廁所跟販賣機。那段路程大概一個多小時，經過上川下來上廁所、走一走，再往旭川方向，中間就沒有任何能休息的地方了。
+
+![](/assets/images/miro.medium.com/bf36e4c0651a5ed0.jpeg)
+
+![](/assets/images/miro.medium.com/e09b0aded194bd0b.jpeg)
+
+接下來衝到旭川外面的當麻道路休息站。當麻是很大很大的休息站。那天的計劃是走到美瑛過夜。
+
+美瑛市區的道之驛特別寫不能車泊，後來那天晚上我們是住到「道之驛白金青池」。它比較郊區，但蟲比較少不像 TOMAMU 那邊。隔天早上去青池也方便，十五分鐘就到，可以在很早、觀光客還沒來的時候先過去。
+
+![](/assets/images/miro.medium.com/5ea1688f82b301b9.jpeg)
+
+接著是富良野的招牌富田農場、打卡北海道肚臍、回富良野吃東西，接著就要去本旅程最期待的溫泉（之一）。
+
+![](/assets/images/miro.medium.com/af8880d8b034bfa5.png)
+
+*北海道的肚臍*
+
+#### **3–16 推薦旭川 KITORON 溫泉**
+
+![](/assets/images/miro.medium.com/54f192114dba3601.jpeg)
+
+旭川郊區東川町 Canmore 滑雪場旁邊的「Kitoushi 之森 Kitoron 溫泉」，是一個非常非常非常貴的溫泉，但在這邊泡湯看日落，非常推薦。
+
+它是隈研吾的建築，花了好幾十億日元蓋的。上面看日落，景非常好。它的溫泉備品也很強：ReFa 吹風機、ReFa 電棒卷。也有很棒的晚餐餐點：晚餐是十二道小缽料理讓你選七道，然後有飯跟湯。可以買溫泉＋晚餐的 package，非常非常棒。
+
+![](/assets/images/miro.medium.com/cbfbbb80aa312ed7.jpeg)
+
+![](/assets/images/miro.medium.com/6f85eae8dbdba1bf.jpeg)
+
+吃完晚餐回到旭川過夜。我們不住在旭川的道之驛，因為看 Google 地圖有人留言，說旭川那邊晚上非常非常多人，所以停到旭川郊外的「道之驛道草館」。
+
+#### **3–17 推薦旭川水澤果樹園**
+
+隔天去水澤果樹園。因為七月是櫻桃季，就找一個可以採櫻桃、櫻桃吃到飽的地方。位置在旭川開過來大概一個小時，神居（Kamui）滑雪場外面。這條路再進去就是 Kamui。
+
+這個櫻桃園非常棒：超多櫻桃樹，一個人一千日幣吃到飽，看到就吃，隨你要吃多久。有各種不同品種的櫻桃，一路摘一路吃。
+
+![](/assets/images/miro.medium.com/32d58f9460690705.jpeg)
+
+![](/assets/images/miro.medium.com/1a6caa65ff3ac28d.jpeg)
+
+接著往南到「戸外炉峠駐車公園」。因為「戸外炉峠」的日文念起來像 Totoro，所以他們放了一台龍貓公車在那邊。
+
+![](/assets/images/miro.medium.com/6ef9d86de650d5a6.jpeg)
+
+那一個晚上我們去住美唄青之洞窟溫泉飯店的 RV Park。它寫說當天有空可以當天去，我們就開過去直接到櫃檯問能不能車中泊，實際上流程很簡單：收費，給溫泉票、車中泊的說明、垃圾袋，拿著放在擋風玻璃的牌子找到對應的號碼格停車即可。
+
+比較可惜是雖然它本身也是飯店，可是沒有提供隔天吃早餐的方案，所以隔天只好早早下山去美唄市內咖啡店吃早餐。
+
+![](/assets/images/miro.medium.com/62a694809dcee3ef.jpeg)
+
+那天很晚停車時，北海道警察的警車開過來講一堆話，想說發生什麼事。翻譯後得知當天稍早有人在這附近看到熊，要我們小心。
+
+在錄影之際（2025年7月中）也有新聞說到北海道有兩個人被熊攻擊，其中一個在函館更南邊。總之進山裡就是熊比人多，大家要自己多小心。我後來查熊的活動時間是傍晚跟日出前那段，這些時段大家就特別小心。
+
+隔日我們就是一路走一般道路到札幌，路過北海道第一個道之驛「三笠」、有名的米產地「しんしのつ」，停留跟三笠比起來新的令人悲嘆的「道之驛北歐之風」吃午餐。然後再進札幌。
+
+![](/assets/images/miro.medium.com/5f595d82703a7ec1.jpeg)
+
+#### **3–18 札幌大部分停車場無法停露營車**
+
+到札幌前，我查了查市中心的停車場，幾乎都是立體停車場，沒有平面停車場。立體停車場露營車進不去，這台車車高 3.15 公尺，但市內立體停車場幾乎都限高 2 公尺。
+
+另外，市區很多停車場沒有最高收費上限，停起來非常貴。我們找到市郊這個最多收費到 800。所以就決定不要開車進札幌市區，停在札幌市郊一個停車場，坐地鐵進市區吃飯逛街。
+
+![](/assets/images/miro.medium.com/754194a05c890fe5.jpeg)
+
+*到北海道必吃湯咖喱*
+
+![](/assets/images/miro.medium.com/d5ad2a18e4c10ce4.jpeg)
+
+![](/assets/images/miro.medium.com/84213092426673c2.jpeg)
+
+*札幌有滿滿黑貓巧克力跟咖啡的 CACAOCAT*
+
+吃飽逛完街後，再回來開車去休息站。那晚去的是道之驛惠庭。惠庭花之街道這個道之驛比較特別：它有提供 RV Park 的特別服務，但車位很少。我們去的時候它也關門了，所以停一般車位。
+
+那邊有非常非常多車中泊的人跟露營車，整個停滿都在過夜 — — 是整趟遇到最多人、最多露營車的一個休息站。到惠庭那晚是最後一晚，開始打包，把東西收回行李箱，隔天一早開去還車。
+
+這就是我的整個完整行程的分享。其實沒有去非常多大景點：去白金青池、去富良野富田農場。其他就一路休息站逛過去、吃過去、買東西買過去，這是我們本趟的玩法。
+
+#### **3–19 車上電器充電概況、車上預備夾子掛勾**
+
+![](/assets/images/miro.medium.com/d0b1816a86a99f15.png)
+
+其實在車上我們只用了一個三孔變壓器，就差不多夠充。我們兩個人各帶一支手機、一台電腦；我另外一支手機拍 Mapillary，再加上行動電源、手錶等等。
+
+露營車額頭床床邊的邊燈有 USB 孔，所以基本上就是：這個變壓器＋床邊燈的充電孔＋車子前方駕駛座接車機的 USB 孔，大概就夠我們充所有帶去的電子用品。
+
+![](/assets/images/miro.medium.com/a5de956ba34fe065.jpeg)
+
+![](/assets/images/miro.medium.com/e8b67c1e85bcc094.jpeg)
+
+垃圾我就是用一個袋子裝，一般丟衛生紙的垃圾。
+
+旁邊這些夾子蠻方便：金屬夾子、還有這個夾子。我覺得蠻方便的，大家也可以考慮一下。我忘記在台灣哪裡買的，應該是十元店而已吧。
+
+#### **3–20 紗窗噪音處理、車門需上鎖關緊**
+
+這台車進出口的門，那個紗窗非常非常吵。行駛時沒辦法固定，它會一直前後震動，超吵。所以我會用夾子把它塞住，另外一邊用衛生紙塞住。用夾子把紗窗塞住之後，它就安靜非常非常多。
+
+行駛時，中控鎖要按下去，這個門的鎖才會關緊。我們有一小段路發現門沒有關緊：開車時透過風會看到外面。它其實有卡住，但沒有關緊，所以貨車門要關門大力一點、關緊。出發前按中控鎖，鎖會再把門夾緊。
+
+以上是兩個開車後才發現的點。
+
+#### **3–21 旅行規劃方式**
+
+![](/assets/images/miro.medium.com/5f7d33cc092c39ad.png)
+
+我的行程規劃方式大概是這樣：平常看節目、看書、看旅遊書，把所有看到想去的點都標記起來在 Google Map 上。
+
+開到哪就看附近有什麼東西，再搭配ロケスマ的 app 找附近溫泉、附近道之驛。用 Google Map 搜索「車中泊」看車中泊點；搜索「錢湯」跟「日歸」找洗澡的地方，並看介紹跟評價。
+
+這十天大概就是這樣度過。其實每次去日本大多也是用這些服務來找。
+
+（Google Map 在日本有個麻煩：你看不出哪裡是自動車道、哪裡是一般道路，我不理解為什麼會有這問題。）
+
+以上是整趟行程事前準備、租車、規劃，跟現場行程經驗。
+
+### **第四章 ChatGPT 使用經驗**
+
+#### **4–1 用 AI 協助行程規劃**
+
+本趟在事前也用了蠻多次 ChatGPT 來協助規劃。
+
+我一開始問它，叫它幫我畫成表格、列上距離跟行駛時間。它可以幫你生成 Google Map 的 My Map 下載檔案。
+
+![](/assets/images/miro.medium.com/6c15e11e8540cbf3.png)
+
+![](/assets/images/miro.medium.com/d7be8cf95eaa7e44.png)
+
+但這些都必須查證：這個距離不一定是真的；行駛時間也絕對要自己加倍。
+
+它一開始規劃是第一天從札幌衝到釧路。雖然我看到蠻多其他去北海道開車的人也是這樣衝，但我實際開起來覺得太拼了。
+
+我們在中間就先在 TOMAMU 停一晚。它原本規劃是七天就可以繞完道東到道北的極點，再回到道央。它規劃七天就能衝完，但基本上不可能：不可能一天開六到七小時這種車，太累、而且太顛簸。所以基本上要多一倍的行車天數，會比較適合一點。
+
+如果我有十二天以上，我覺得就可以到稚內，再回旭川，再回札幌。就是差了大概兩天的時間。
+
+這一趟一開始都是往「道東＋道北繞一圈」方向去規劃：你可以一直跟它講要停哪裡、叫它列表列出附近可去的地方、預定可過夜的道之驛。但都都要查證。
+
+我出發前兩個月左右，有一直跟它討論行程，後來也買了兩三本書。其實到了現場後，發現這樣的事前規劃其實完全沒有用：你就走到快日落，找附近道之驛；找附近錢湯跟日歸，然後過夜。隔天繼續走。
+
+你只要大概知道路線；要在哪裡停，就看當天起床時間、開車時間、逛了多少地方來決定。
+
+#### 4–2 遇到疑難雜症都來問 AI
+
+碰到疑難雜症都可以問 ChatGPT。像我第一晚車頭黏一堆蟲，我就問它怎麼清，它解釋得蠻清楚，也建議可以買清潔劑跟專用清潔泡棉。
+
+![](/assets/images/miro.medium.com/5974c9699dfb0d9f.png)
+
+現在也有語音模式，可以拿來做口譯：你叫它切到語音，跟它說「請你幫我口譯，把接下來的對話中文翻譯成日文、日文翻譯成中文」。它可以當口譯服務來使用，但網路要好；網路爛就會卡住。
+
+問它附近的 POI，很多都是假的，很容易是唬爛的東西，還是查地圖比較實際。總之，疑難雜症可以問 ChatGPT，也可以請它翻譯。
+
+這一年來去日本旅行，最近三四趟我都蠻常用 ChatGPT。它日文翻譯比 Google Translation 或蘋果 Translation 好很多。因為它有前後上下文、有語意，還會建議不同翻譯方式，所以非常實用。
+
+旅行時你也可以拍照問它這是什麼、這是什麼鳥、什麼植物、什麼水果，這也很實用，而且蠻準的。
+
+![](/assets/images/miro.medium.com/232d9609186f1241.png)
+
+*在道之站厚岸吃爐端燒時，問 ChatGPT 海鮮怎麼烤*
+
+但問 timing 的東西要小心：像我在札幌看到很多人穿和服，我問它什麼節日，它說可能是花火大會，下面講的花火大會有些就是唬爛。不過你去一般網站搜索花火大會，的確能找到當天有花火大會，但不是在它講的那些地點。
+
+這個是這兩年 AI 的發展，實用程度已經用得上的地方。一開始行程發想、中間疑難雜症、路途上的翻譯，都可以使用。
+
+### **結語**
+
+這就是 2025 年七月北海道露營車旅行的完整經驗分享，感謝閱讀。
+
+在 2025 年秋天時，我也在關西體驗了 K car 輕型車款的露營車單人自駕，後續再找時間跟大家聊！
+
+![](/assets/images/miro.medium.com/1b03a6419dc7ec92.png)

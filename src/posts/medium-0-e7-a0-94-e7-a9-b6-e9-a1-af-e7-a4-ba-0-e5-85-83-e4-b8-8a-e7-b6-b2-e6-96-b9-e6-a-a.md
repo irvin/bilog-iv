@@ -10,4 +10,13 @@ tags: ["medium"]
 excerpt: "研究顯示 0 元上網方案無法有效引領新用戶接觸網路 Mozilla releases research results: Zero rating is not serving as an on-ramp to the internet Today, 4 billion people live without the internet. There&#39;s"
 ---
 
-<section name="50e5" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="13c9" id="13c9" class="graf graf--h3 graf--leading graf--title">研究顯示 0 元上網方案無法有效引領新用戶接觸網路</h3><div name="4375" id="4375" class="graf graf--mixtapeEmbed graf-after--h3"><a href="https://blog.mozilla.org/press/2017/07/mozilla-releases-research-results-zero-rating-is-not-serving-as-an-on-ramp-to-the-internet/" data-href="https://blog.mozilla.org/press/2017/07/mozilla-releases-research-results-zero-rating-is-not-serving-as-an-on-ramp-to-the-internet/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://blog.mozilla.org/press/2017/07/mozilla-releases-research-results-zero-rating-is-not-serving-as-an-on-ramp-to-the-internet/"><strong class="markup--strong markup--mixtapeEmbed-strong">Mozilla releases research results: Zero rating is not serving as an on-ramp to the internet</strong><br><em class="markup--em markup--mixtapeEmbed-em">Today, 4 billion people live without the internet. There&#39;s a global debate about how to connect the unconnected, but it…</em>blog.mozilla.org</a><a href="https://blog.mozilla.org/press/2017/07/mozilla-releases-research-results-zero-rating-is-not-serving-as-an-on-ramp-to-the-internet/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="97b4c64a4fffc7f78ffb3c062a056f0c" data-thumbnail-img-id="0*rnu-yE55yKWC5tC_." style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*rnu-yE55yKWC5tC_.);"></a></div><p name="85e2" id="85e2" class="graf graf--p graf-after--mixtapeEmbed">Mozilla 在印度、緬甸、秘魯、肯亞、奈及利亞、盧安達與南非所做的研究發現，0元上網方案（Zero-rating） 只是用戶省錢的其中一個途徑，而無法達到「讓更多人連上網際網路」的目的。除基礎建設與可負擔性外，數位素養是影響用戶充分利用網路的三大重要因素之一。</p><figure name="28a9" id="28a9" class="graf graf--figure graf-after--p graf--trailing"><img class="graf-image" data-image-id="1*0XQwb_c8yPi76bMX0vx01A.jpeg" data-width="768" data-height="512" src="/assets/images/cdn-images-1.medium.com/b3f6be5a065b9068.jpeg"><figcaption class="imageCaption">Credit: Peter Cihon</figcaption></figure></div></div></section>
+### 研究顯示 0 元上網方案無法有效引領新用戶接觸網路
+
+**Mozilla releases research results: Zero rating is not serving as an on-ramp to the internet**
+*Today, 4 billion people live without the internet. There's a global debate about how to connect the unconnected, but it…*blog.mozilla.org
+
+Mozilla 在印度、緬甸、秘魯、肯亞、奈及利亞、盧安達與南非所做的研究發現，0元上網方案（Zero-rating） 只是用戶省錢的其中一個途徑，而無法達到「讓更多人連上網際網路」的目的。除基礎建設與可負擔性外，數位素養是影響用戶充分利用網路的三大重要因素之一。
+
+![](/assets/images/cdn-images-1.medium.com/b3f6be5a065b9068.jpeg)
+
+*Credit: Peter Cihon*

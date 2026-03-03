@@ -10,4 +10,52 @@ tags: ["medium"]
 excerpt: "AirPods Pro 如何降維打擊助聽器市場 蘋果多年來默默研發並確保了數十億美金的市場，競品發現時則為時已晚 上週發表會上*最少人注意到的事情：蘋果又要顛覆一整個領域的市場了。講白了就是： 現有助聽器的使用者隨著年齡增長而逐漸減少後，市場就會整個被蘋果吃下來了 。 https://www.youtube.com/live/uarNiSl_uh4?si=S"
 ---
 
-<section name="07da" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="7664" id="7664" class="graf graf--h3 graf--leading graf--title">AirPods Pro 如何降維打擊助聽器市場</h3><h4 name="93ca" id="93ca" class="graf graf--h4 graf-after--h3 graf--subtitle">蘋果多年來默默研發並確保了數十億美金的市場，競品發現時則為時已晚</h4><p name="7453" id="7453" class="graf graf--p graf-after--h4">上週發表會上*最少人注意到的事情：蘋果又要顛覆一整個領域的市場了。講白了就是：<strong class="markup--strong markup--p-strong">現有助聽器的使用者隨著年齡增長而逐漸減少後，市場就會整個被蘋果吃下來了</strong>。</p><ul class="postList"><li name="9b27" id="9b27" class="graf graf--li graf-after--p graf--trailing"><a href="https://www.youtube.com/live/uarNiSl_uh4?si=S1JnGyTdY-ZjNjXD&amp;t=1974" data-href="https://www.youtube.com/live/uarNiSl_uh4?si=S1JnGyTdY-ZjNjXD&amp;t=1974" class="markup--anchor markup--li-anchor" rel="nofollow noopener" target="_blank">https://www.youtube.com/live/uarNiSl_uh4?si=S1JnGyTdY-ZjNjXD&amp;t=1974</a> (32:54 處)</li></ul></div></div></section><section name="2902" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="7b7b" id="7b7b" class="graf graf--h3 graf--leading">iPhone 現在就已經擁有耳機的聲音補償功能</h3><p name="f1b1" id="f1b1" class="graf graf--p graf-after--h3">前幾年去得恩堂做過一次聽力圖，後來用 iPhone 的第三方 app 也做過一次，結果非常接近。然後 iPhone 其實很早就可以在耳機上套用聽力圖，來做聲音補償了。</p><figure name="5321" id="5321" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*JGcGpbtRWF9AV6zPcJH1Iw.png" data-width="1392" data-height="1390" data-is-featured="true" src="/assets/images/miro.medium.com/8d5fb04f7178e5e1.png"><figcaption class="imageCaption">我的聽力圖跟 iPhone 現有的聽力補償功能</figcaption></figure><p name="dacd" id="dacd" class="graf graf--p graf-after--figure">且在使用者還不真的需要「助聽」功能前，光是打開 airpods 的「個人化空間音訊」的 spatial audio 音場校正時，就已經用上了特定頻率補償的功能。隨著年紀增長，它也就只需要隨著你的聽力變化，去逐漸增強補償的幅度。</p><p name="74c5" id="74c5" class="graf graf--p graf-after--p">故當你覺得需要聽力輔助時，根本不會另外去門市測試再花錢買助聽器了。既然人人手邊都有 AirPods，手機上按一按就有了，那何必再去特別花錢配單一功能的助聽器。現在還有誰會特別跑去買計算機？</p><p name="3e95" id="3e95" class="graf graf--p graf-after--p">競品當下最大的成本就已經在拉客，而接下來的拉新客難度會直接指數增長。</p><p name="d3ad" id="d3ad" class="graf graf--p graf-after--p graf--trailing">需要把「<em class="markup--em markup--p-em">已經戴了 AirPods 十幾年，早就習慣它的智慧降噪、通透跟對話模式的客人</em>」拉過來，說服他們放棄手邊裝置的現有功能，去花幾萬塊買你的單一功能專用助聽器，這怎麼打得過⋯⋯</p></div></div></section><section name="1248" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="0200" id="0200" class="graf graf--p graf--leading">這集 podcast 前 4/5 把助聽器市場解釋的非常完整：<br><a href="https://podcasts.apple.com/tw/podcast/%E6%9B%BC%E5%A0%B1-mannys-newsletter/id1517743652?i=1000670027874" data-href="https://podcasts.apple.com/tw/podcast/%E6%9B%BC%E5%A0%B1-mannys-newsletter/id1517743652?i=1000670027874" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://podcasts.apple.com/tw/podcast/%E6%9B%BC%E5%A0%B1-mannys-newsletter/id1517743652?i=1000670027874</a></p><p name="552a" id="552a" class="graf graf--p graf-after--p graf--trailing">也幫努力耕耘這個市場的 BenQ QQ</p></div></div></section><section name="dfea" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="0658" id="0658" class="graf graf--h3 graf--leading">搶先體驗聽力補償功能</h3><p name="0b0e" id="0b0e" class="graf graf--p graf-after--h3">在蘋果正式開放通過 FDA 的聽力測試功能前，可以先用「Mimi Hearing Test」這個 App 測試聽力，建立聽力圖：<br><a href="https://apps.apple.com/tw/app/mimi-hearing-test/id932496645" data-href="https://apps.apple.com/tw/app/mimi-hearing-test/id932496645" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://apps.apple.com/tw/app/mimi-hearing-test/id932496645</a></p><div name="99ac" id="99ac" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://apps.apple.com/tw/app/mimi-hearing-test/id932496645" data-href="https://apps.apple.com/tw/app/mimi-hearing-test/id932496645" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://apps.apple.com/tw/app/mimi-hearing-test/id932496645"><strong class="markup--strong markup--mixtapeEmbed-strong">‎Mimi Hearing Test</strong><br><em class="markup--em markup--mixtapeEmbed-em">‎The Mimi Hearing Test is an easy and reliable assessment of your hearing, delivering understandable results in just 5…</em>apps.apple.com</a><a href="https://apps.apple.com/tw/app/mimi-hearing-test/id932496645" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="e6a61bdb158391644cd8ebf9d0cc8040" data-thumbnail-img-id="0*3MD6V0uu_tplWOhD" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*3MD6V0uu_tplWOhD);"></a></div><p name="8771" id="8771" class="graf graf--p graf-after--mixtapeEmbed">將上述 app 與 Apple Health 連結，會將產出的聽力圖儲存入「健康」。</p><p name="0b51" id="0b51" class="graf graf--p graf-after--p">接著在 iPhone 的偏好設定 → 輔助使用 → 音訊與視覺 → 耳機調節 內，選擇「聽力圖」，就可以測試耳機聽力補償的功能：<br><a href="https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web" data-href="https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web</a></p><div name="9734" id="9734" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web" data-href="https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web"><strong class="markup--strong markup--mixtapeEmbed-strong">設定 AirPods 的耳機調節</strong><br><em class="markup--em markup--mixtapeEmbed-em">在 iPhone、iPad 或 Mac上，為 AirPods 2 或 3、AirPods Pro 或 AirPods Max 設定耳機調節來符合你的聽力需求。</em>support.apple.com</a><a href="https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock" data-media-id="31a0e37e7e763f6efd0218fb853516ae"></a></div><p name="2317" id="2317" class="graf graf--p graf-after--mixtapeEmbed">設定耳機套用聽力圖的步驟錄影</p><figure name="1d50" id="1d50" class="graf graf--figure graf--iframe graf-after--p graf--trailing"><iframe src="https://www.youtube.com/embed/6beJh5krE8g?feature=oembed" width="640" height="480" frameborder="0" scrolling="no"></iframe></figure></div></div></section>
+### AirPods Pro 如何降維打擊助聽器市場
+
+#### 蘋果多年來默默研發並確保了數十億美金的市場，競品發現時則為時已晚
+
+上週發表會上*最少人注意到的事情：蘋果又要顛覆一整個領域的市場了。講白了就是：**現有助聽器的使用者隨著年齡增長而逐漸減少後，市場就會整個被蘋果吃下來了**。
+
+- https://www.youtube.com/live/uarNiSl_uh4?si=S1JnGyTdY-ZjNjXD&t=1974
+   (32:54 處)
+
+### iPhone 現在就已經擁有耳機的聲音補償功能
+
+前幾年去得恩堂做過一次聽力圖，後來用 iPhone 的第三方 app 也做過一次，結果非常接近。然後 iPhone 其實很早就可以在耳機上套用聽力圖，來做聲音補償了。
+
+![](/assets/images/miro.medium.com/8d5fb04f7178e5e1.png)
+
+*我的聽力圖跟 iPhone 現有的聽力補償功能*
+
+且在使用者還不真的需要「助聽」功能前，光是打開 airpods 的「個人化空間音訊」的 spatial audio 音場校正時，就已經用上了特定頻率補償的功能。隨著年紀增長，它也就只需要隨著你的聽力變化，去逐漸增強補償的幅度。
+
+故當你覺得需要聽力輔助時，根本不會另外去門市測試再花錢買助聽器了。既然人人手邊都有 AirPods，手機上按一按就有了，那何必再去特別花錢配單一功能的助聽器。現在還有誰會特別跑去買計算機？
+
+競品當下最大的成本就已經在拉客，而接下來的拉新客難度會直接指數增長。
+
+需要把「*已經戴了 AirPods 十幾年，早就習慣它的智慧降噪、通透跟對話模式的客人*」拉過來，說服他們放棄手邊裝置的現有功能，去花幾萬塊買你的單一功能專用助聽器，這怎麼打得過⋯⋯
+
+這集 podcast 前 4/5 把助聽器市場解釋的非常完整：
+[https://podcasts.apple.com/tw/podcast/%E6%9B%BC%E5%A0%B1-mannys-newsletter/id1517743652?i=1000670027874](https://podcasts.apple.com/tw/podcast/%E6%9B%BC%E5%A0%B1-mannys-newsletter/id1517743652?i=1000670027874)
+
+也幫努力耕耘這個市場的 BenQ QQ
+
+### 搶先體驗聽力補償功能
+
+在蘋果正式開放通過 FDA 的聽力測試功能前，可以先用「Mimi Hearing Test」這個 App 測試聽力，建立聽力圖：
+[https://apps.apple.com/tw/app/mimi-hearing-test/id932496645](https://apps.apple.com/tw/app/mimi-hearing-test/id932496645)
+
+**‎Mimi Hearing Test**
+*‎The Mimi Hearing Test is an easy and reliable assessment of your hearing, delivering understandable results in just 5…*apps.apple.com
+
+將上述 app 與 Apple Health 連結，會將產出的聽力圖儲存入「健康」。
+
+接著在 iPhone 的偏好設定 → 輔助使用 → 音訊與視覺 → 耳機調節 內，選擇「聽力圖」，就可以測試耳機聽力補償的功能：
+[https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web](https://support.apple.com/zh-tw/guide/airpods/devcd05671ab/web)
+
+**設定 AirPods 的耳機調節**
+*在 iPhone、iPad 或 Mac上，為 AirPods 2 或 3、AirPods Pro 或 AirPods Max 設定耳機調節來符合你的聽力需求。*support.apple.com
+
+設定耳機套用聽力圖的步驟錄影
+
+<iframe src="https://www.youtube.com/embed/6beJh5krE8g?feature=oembed" width="640" height="480" frameborder="0" scrolling="no"></iframe>

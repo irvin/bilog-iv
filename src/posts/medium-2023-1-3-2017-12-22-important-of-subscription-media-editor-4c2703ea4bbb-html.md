@@ -10,4 +10,157 @@ tags: ["medium"]
 excerpt: "2023/1/3 更新：本文原文發表於 2017/12/22。經過五年的持續訂閱，我目前得以推薦「區塊勢電子報」是中文界關於區塊鏈最佳的報導媒體，歡迎參考作者說明訂閱閱讀： 區塊勢從 2017 年起，按每週 3 篇的節奏，以「人話」說明區塊鏈、加密貨幣有哪些具體應用以及為何值得投入。至 2022 年末，已經出刊 500 篇文章、192 集 podcast，成"
 ---
 
-<section name="8dc7" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="071e" id="071e" class="graf graf--p graf--leading">2023/1/3 更新：本文原文發表於 2017/12/22。經過五年的持續訂閱，我目前得以推薦「區塊勢電子報」是中文界關於區塊鏈最佳的報導媒體，歡迎參考作者說明訂閱閱讀：</p><blockquote name="093c" id="093c" class="graf graf--blockquote graf-after--p">區塊勢從 2017 年起，按每週 3 篇的節奏，以「人話」說明區塊鏈、加密貨幣有哪些具體應用以及為何值得投入。至 2022 年末，已經出刊 500 篇文章、192 集 podcast，成為台灣 Apple Podcast 科技類排行榜第一名。</blockquote><blockquote name="67d4" id="67d4" class="graf graf--blockquote graf-after--blockquote">區塊勢由作者許明恩全職經營，但寫作、錄音不能只喝西北風。區塊勢從 2018 年轉為付費訂閱制，成為完全由讀者付費支持的獨立媒體。現在只要<a href="https://blocktrend.substack.com/" data-href="https://blocktrend.substack.com/" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">填寫 email</a> 就能免費收到公開文章、podcast 試閱。若你希望台灣有這樣的媒體存在，再請以<a href="https://blocktrend.substack.com/subscribe" data-href="https://blocktrend.substack.com/subscribe" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">付費訂閱</a>支持區塊勢的營運。</blockquote><blockquote name="e4ca" id="e4ca" class="graf graf--blockquote graf-after--blockquote">明恩</blockquote><div name="28c9" id="28c9" class="graf graf--mixtapeEmbed graf-after--blockquote graf--trailing"><a href="https://blocktrend.substack.com/" data-href="https://blocktrend.substack.com/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://blocktrend.substack.com/"><strong class="markup--strong markup--mixtapeEmbed-strong">區塊勢</strong><br><em class="markup--em markup--mixtapeEmbed-em">說人話的區塊鏈圖文，每週 3 篇原創內容直送信箱. Click to read 區塊勢, by 許明恩, a Substack publication with tens of thousands of readers.</em>blocktrend.substack.com</a><a href="https://blocktrend.substack.com/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="249eca261370274c7bb0e601e029eab1" data-thumbnail-img-id="0*Y7moQ6JhPZm8k3eF" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*Y7moQ6JhPZm8k3eF);"></a></div></div></div></section><section name="7066" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="a143" id="a143" class="graf graf--h3 graf--leading">為何我尚無法推薦「區塊勢」試營運電子報訂閱</h3><h4 name="6899" id="6899" class="graf graf--h4 graf-after--h3">一人新媒體的寫作困難處與編輯之重要</h4><p name="ced0" id="ced0" class="graf graf--p graf-after--h4"><a href="https://medium.com/u/ab44de911a6d" data-href="https://medium.com/u/ab44de911a6d" data-anchor-type="2" data-user-id="ab44de911a6d" data-action-value="ab44de911a6d" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">許明恩 Astro Hsu</a> 的「區塊勢電子」，自從 12 月轉入封閉訂閱制，以 249 元月費試營運至今，一共已發布八期。在第八期中的最後，包含了一個調查「是否會推薦親朋好友訂閱」，我選擇了<em class="markup--em markup--p-em">否</em>。</p><p name="a1dd" id="a1dd" class="graf graf--p graf-after--p">為什麼？</p><h3 name="4929" id="4929" class="graf graf--h3 graf-after--p">TL;DR, 我認為該電子報的內容，相對於它的收費，不夠深入精闢</h3><p name="b36f" id="b36f" class="graf graf--p graf-after--h3">我不是區塊鏈專家，也沒有做過什麼相關研究，無法論定關於區塊鏈的部分是否精確專業。但電子報現行內容，一但觸及及其他領域，就常會露出許多弱點。</p><figure name="4f48" id="4f48" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*Bimw9GV-SEet7CvUpPJvlQ.png" data-width="2792" data-height="1282" src="/assets/images/miro.medium.com/bd291a4da0d07f8f.png"><figcaption class="imageCaption">具有十足編輯力卻下場淒慘，令人感慨萬千的「Rocket Café」</figcaption></figure><h3 name="3c18" id="3c18" class="graf graf--h3 graf-after--figure">編輯的重要性</h3><p name="25f9" id="25f9" class="graf graf--p graf-after--h3">為何傳統媒體中，都會有「編輯」的角色，以協助作者？我認為透過編輯與作者間的討論，可以讓內容更佳去蕪存菁，並為讀者把關內容，讓消費者可以建立對媒體的信任，以致於持續訂閱支持。</p><p name="facc" id="facc" class="graf graf--p graf-after--p">在新媒體的時代，就算科技的變革，讓作者能夠跳過傳統情境下介於讀者的種種中間人，自行撰寫、發表、銷售內容，但「為內容把關與反覆琢磨」的角色，我認為仍是必要、且不該也無法省去的。</p><p name="c57c" id="c57c" class="graf graf--p graf-after--p">或許足夠經驗的科技作者，例如同是訂閱制電子報「<a href="http://daodu.tech/" data-href="http://daodu.tech/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">科技島讀</a>」的周欽華、或 <a href="https://medium.com/u/f02bc8d68a27" data-href="https://medium.com/u/f02bc8d68a27" data-anchor-type="2" data-user-id="f02bc8d68a27" data-action-value="f02bc8d68a27" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">The Tuna.</a> 的 <a href="https://medium.com/u/b36246f7a37c" data-href="https://medium.com/u/b36246f7a37c" data-anchor-type="2" data-user-id="b36246f7a37c" data-action-value="b36246f7a37c" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">Fred Jame</a>，即可自己扮演好編輯的雙重角色，但我認為在區塊勢的案例上，如果作者在下筆之前，可以跟有更廣泛經驗的編輯，進一步討論過，看看心中的立論是否有漏洞。且在寫完後，讓編輯先讀過，將有疑慮的地方反覆修改，或許就可以表現的更好，更能說服來自不同領域、不同背景的讀者。</p><p name="ec8e" id="ec8e" class="graf graf--p graf-after--p">當然或許也是有啦⋯⋯作為讀者實是無從得知。</p><h3 name="0dd0" id="0dd0" class="graf graf--h3 graf-after--p">條列閱讀區塊勢第八期的種種疑問</h3><p name="8ffb" id="8ffb" class="graf graf--p graf-after--h3">以下摘錄第八期「<a href="https://medium.com/@astromnhsu/008-969469ccb8e5" data-href="https://medium.com/@astromnhsu/008-969469ccb8e5" class="markup--anchor markup--p-anchor" target="_blank">#008｜如何在大數據時代，取回你的 21 世紀石油</a>」的內容，分享我閱讀時的疑慮之處。假設我是編輯，就會與作者在這幾處，進行更深入的討論與資料研讀。</p><blockquote name="ff79" id="ff79" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">你的 21 世紀石油在別人手上</em></blockquote><blockquote name="2325" id="2325" class="graf graf--blockquote graf-after--blockquote"><em class="markup--em markup--blockquote-em">⋯⋯在這個模式底下，你就被迫「委託」臉書或 Google 妥善地保存、管理你的個人資料。這些資料放在企業的最大風險，是如果企業因為商業選擇而決定終止服務，你的資料也可能玉石俱焚。最顯著的例子是幾年前 Google 宣布要關掉 Google Reader（閱讀器）服務的時候，大家只能被迫在有限時間內把自己的資料搬移到其他地方。</em></blockquote><p name="6609" id="6609" class="graf graf--p graf-after--blockquote">這個案例不太好，因為 Google Reader 畢竟不是 UGC 平台，搬移 RSS 訂閱相對簡單成熟（也可以見到 Feedly 很快的補上市場）。我認為更好的國內案例，或許可以舉無名小站關站，或者以「Ptt 如果關站」來闡述。另外或許也可再多舉幾個國際上的知名案例。</p><blockquote name="d786" id="d786" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">而另一個風險，則是系統被駭客入侵，你委託給企業管理的資料也會遭殃。根據 iThome 在 9 月的</em><a href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=7ffb8fbd1e&amp;e=8e91a69020" data-href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=7ffb8fbd1e&amp;e=8e91a69020" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank"><em class="markup--em markup--blockquote-em">報導</em></a><em class="markup--em markup--blockquote-em">：</em></blockquote><blockquote name="40f3" id="40f3" class="graf graf--blockquote graf-after--blockquote"><em class="markup--em markup--blockquote-em">美國第三大消費者信用報告業者 Equifax 周四主動發佈該公司遭駭的消息，該事件導致 1.43 億筆個資外洩，佔將近美國人口的一半。</em></blockquote><blockquote name="5f20" id="5f20" class="graf graf--blockquote graf-after--blockquote">⋯⋯<em class="markup--em markup--blockquote-em">Equifax 管理近半數美國人的個資，但是個資如何使用也不是由個人決定而是公司決定。換句話說，是由公司或機構來代替你管理個資的使用，這之間就有你是否信任這個機構的問題。</em></blockquote><p name="bcd8" id="bcd8" class="graf graf--p graf-after--blockquote">區塊鏈如何改善這個問題？因為他預設公開的性質，反而不會有入侵風險？讀者讀到這段，或許會想到交易所被入侵，導致損失，甚至關閉，會成為反證嗎？</p><blockquote name="316f" id="316f" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">從管理的角度，看比特幣的價值</em></blockquote><blockquote name="2e0c" id="2e0c" class="graf graf--blockquote graf-after--blockquote">⋯⋯<em class="markup--em markup--blockquote-em">而區塊鏈的主要價值是讓擁有者可以隨心所欲的管理錢（比特幣）的流向，法律、政府、企業都無法迫使交易發生或停止，即便對方可能是政府認為的恐怖組織或詐騙集團。因為國家的政治立場、價值觀不一定與你相同，只有你能管理的錢才是你的錢。</em></blockquote><p name="c35a" id="c35a" class="graf graf--p graf-after--blockquote">怎麼會忽然從「服務關閉的風險」、「駭客入侵的風險」，跳躍到「能管理的錢才是你的錢」了？（讀者滿滿黑人問號）</p><blockquote name="5fd8" id="5fd8" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">同樣的邏輯，我們還能繼續延伸到電腦運算能力上。如果你使用的是個人電腦，電腦運算能力當然就是你的。但是如果你使用的是雲端運算，那運算能力就是亞馬遜、Google 或微軟說了算，而不是你。</em></blockquote><p name="53dd" id="53dd" class="graf graf--p graf-after--blockquote">這邊提到了運算力，我認為讀者會想知道，那區塊鏈的「算力」跟這兩個情況，有什麼關聯或不同。</p><blockquote name="2478" id="2478" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">最顯著的例子是中國政府在今年 8 月為了禁止使用者翻牆，要求亞馬遜停止為 VPN 業者提供雲端運算服務。⋯⋯</em></blockquote><blockquote name="a8a2" id="a8a2" class="graf graf--blockquote graf-after--blockquote"><em class="markup--em markup--blockquote-em">現在這些翻牆軟體是架在亞馬遜的服務上，因此亞馬遜可以說關就關。但是如果這個服務是架在以區塊鏈為基礎的運算服務（類似以太坊）上，就有機會不被政府、企業所控制，而是自己可以決定是否應該停止翻牆軟體的服務。</em></blockquote><p name="5099" id="5099" class="graf graf--p graf-after--blockquote">為何有機會「不被政府、企業所控制」？我認為作者剛碰到了邊，但是就止步了。闡述應該更深入核心。</p><blockquote name="2abb" id="2abb" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">從這個角度切入，以太坊和比特幣其實就是在不同數位資產上的區塊鏈應用。比特幣讓你能夠自主決定錢的用途，以太坊讓你能夠自主決定運算能力的用途。區塊鏈既然可以讓錢、運算能力回到使用者手上，數據當然也可以。</em></blockquote><p name="bf5c" id="bf5c" class="graf graf--p graf-after--blockquote">以太坊為何能「讓你能夠自主決定運算能力的用途」？</p><p name="e63e" id="e63e" class="graf graf--p graf-after--p">「從這個角度切入」，以太坊的智慧合約，以 Gas 購買算力，跟傳統雲端服務差在哪裡？</p><blockquote name="ac7e" id="ac7e" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">如何管理你的 21 世紀石油<br>根據</em><a href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=f91a6a75e7&amp;e=8e91a69020" data-href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=f91a6a75e7&amp;e=8e91a69020" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank"><em class="markup--em markup--blockquote-em">台灣創用 CC 計畫</em></a><em class="markup--em markup--blockquote-em">的敘述：</em></blockquote><blockquote name="cf00" id="cf00" class="graf graf--blockquote graf-after--blockquote"><em class="markup--em markup--blockquote-em">依據現行的著作權法，著作的使用權利，全然保留於著作權人手中；即所謂的「所有權利保留」（All Rights Reserved）。任何「合理使用」之外的利用，使用者都要事先取得著作權人的授權，才可進行。</em></blockquote><blockquote name="6663" id="6663" class="graf graf--blockquote graf-after--blockquote"><em class="markup--em markup--blockquote-em">簡單來說，我們在網路上產生的各式數位內容是「天生受到保護，需要刻意授權；而不是天生公開，而需要刻意保護」。</em></blockquote><p name="afb4" id="afb4" class="graf graf--p graf-after--blockquote">既然要討論到網路上的數位內容，應該要討論到 Fb 平台的使用者授權合約，如何看待 UCG 的權利歸屬。</p><blockquote name="f9ec" id="f9ec" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">除非自己有去申請創用 CC 授權，不然只要在未經同意的情況下使用他人的創作，都有可能觸犯法律。但是，一旦有侵權情況時，就會難以證明作品的作者及時間。</em></blockquote><p name="9829" id="9829" class="graf graf--p graf-after--blockquote">「一旦有侵權情況時，就會難以證明作品的作者及時間。」<br>為何？這句話講的太過理所當然，沒有足夠論述。</p><p name="9458" id="9458" class="graf graf--p graf-after--p">此外，創用 CC 的使用情境不是「使用者申請使用他人創作」，而是「創作者預設開放部分權利」。我覺得作者對 CC 的相關知識似乎有些不夠確切。在發表前，或可諮詢一下<a href="https://ocf.tw" data-href="https://ocf.tw" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">開放文化基金會（ocf.tw）</a>，或前<a href="http://creativecommons.tw/" data-href="http://creativecommons.tw/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">中研院創用 CC 計畫</a>的老師，來釐清這邊是否有寫錯，避免誤導大眾。</p><blockquote name="56da" id="56da" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">舉例來說現在我的文章都是放在 Medium 這個部落格平台上，但是說不定哪天我要找的文章失蹤了。如果有內容農場放我的內容，無論原因為何，也就無法佐證被濫用內容的著作權是屬於自己的。</em></blockquote><p name="4298" id="4298" class="graf graf--p graf-after--blockquote">為何？為何？</p><p name="02e9" id="02e9" class="graf graf--p graf-after--p">文章放在 Medium，跟文章失蹤有什麼關聯？<br>文章失蹤，跟被內容農場盜用，有什麼因果？<br>內容農場盜用時，為何無法佐證著作權所屬？</p><p name="2f61" id="2f61" class="graf graf--p graf-after--p">討論到這個場景時，應該要去了解一下網路產業對農場的因應方式。例如左岸很多搜索引擎，都開始在做原創內容認證；或 Youtube 與其他影音平台都有偵測盜版內容或非著作權人上傳內容的機制，</p><p name="64eb" id="64eb" class="graf graf--p graf-after--p">如果以此為「前區塊鏈時代」的範例，他們怎麼做，有什麼弱點？下方的方案有解決什麼目前方法無法解決的問題？</p><blockquote name="1ff4" id="1ff4" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">我登記了一筆數位資產在 Bitmark 區塊鏈上</em></blockquote><blockquote name="176e" id="176e" class="graf graf--blockquote graf-after--blockquote"><em class="markup--em markup--blockquote-em">因此，</em><a href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=c2d2580463&amp;e=8e91a69020" data-href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=c2d2580463&amp;e=8e91a69020" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank"><em class="markup--em markup--blockquote-em">Bitmark</em></a><em class="markup--em markup--blockquote-em"> 就是一個有趣的公司，他們建立了基於 Hyperledger 區塊鏈的</em><a href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=bb421bd806&amp;e=8e91a69020" data-href="https://medium.us11.list-manage.com/track/click?u=9c6e55a5fc848db396d30cff6&amp;id=bb421bd806&amp;e=8e91a69020" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank"><em class="markup--em markup--blockquote-em">數位資產登記簿</em></a><em class="markup--em markup--blockquote-em">。你可以把自己的數位資產例如照片、貼文、運動紀錄等，在他們的區塊鏈上加上標記。用區塊鏈去中心化、不可竄改的特性，提供佐證證據的可信度。例如我剛剛就把自己的一張圖片上傳到 Bitmark 上，上面就會紀錄時間、擁有者以及內容摘要。</em></blockquote><p name="e6bb" id="e6bb" class="graf graf--p graf-after--blockquote">去中心化、不可篡改，如何對「佐證證據的可信度」有所幫助？如果不用到區塊鏈，傳統的情境，可信度又是如何不足？</p><p name="1110" id="1110" class="graf graf--p graf-after--p">以 Flickr 為例，如果一般人上傳一張照片上去，有無標記 CC 授權，該照片被盜用時，跟登錄上 bitmark 的平台，有什麼不同？優缺點呢？</p><p name="2eef" id="2eef" class="graf graf--p graf-after--p">如果讀者是一位攝影師，那應用該區塊鏈服務，跟使用現行商業上的照片授權平台，例如 <a href="http://mediamanager.gettyimages.com/" data-href="http://mediamanager.gettyimages.com/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Getty Images Media Manager</a> 的差別是？</p><blockquote name="19b0" id="19b0" class="graf graf--blockquote graf-after--p"><em class="markup--em markup--blockquote-em">未來我就可以利用這本數位資產登記簿，更正式的主張自己的著作權或是轉移著作權給其他人，而不再是以私下約定再簽合約的方式，來授予他人數位資產使用權。</em></blockquote><p name="50b7" id="50b7" class="graf graf--p graf-after--blockquote">真的不用「簽訂合約」就可以正式轉移著作權給他人嗎？</p><p name="a843" id="a843" class="graf graf--p graf-after--p graf--trailing">如何可以？確定可以？</p></div></div></section><section name="ecba" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="2ae6" id="2ae6" class="graf graf--p graf--leading">我並非反對訂閱制個人媒體或新媒體，例如個人現行持續訂閱<a href="http://daodu.tech/" data-href="http://daodu.tech/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">科技島讀</a>（科技連結在地的觀點）、人渣文本周偉航的<a href="https://sosreader.com/project/zha_magazine/" data-href="https://sosreader.com/project/zha_magazine/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">渣誌</a>（看政治內幕、哲學入門），也身為電子雜誌平台 <a href="https://www.thekono.com/" data-href="https://www.thekono.com/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Kono</a>（跨雜誌全文搜索）、<a href="http://pubu.com.tw/" data-href="http://pubu.com.tw/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Pubu 飽讀電子書</a>（跳著看某幾本雜誌、與前一天的蘋果日報）的付費會員與 Medium 的會員。</p><p name="4906" id="4906" class="graf graf--p graf-after--p">傳統媒體的數位版的話，我目前還在 Zinio 上持續訂閱相對傳統保守的<a href="https://tw.zinio.com/www/browse/product.jsp?productId=500717492" data-href="https://tw.zinio.com/www/browse/product.jsp?productId=500717492" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">台灣壹週刊</a>，且從數位版國家地理雜誌第一期（2013/8）訂閱至改版後止。（曾經是台灣最好的數位雜誌，2016/12 改版後，變成類部落格形式呈現，雖然內容大致相同，卻完全失去<strong class="markup--strong markup--p-strong">編輯落版時的靈魂⋯⋯</strong>）</p><p name="8b03" id="8b03" class="graf graf--p graf-after--p graf--trailing">以上以一位閱讀雜誌數十年的讀者，以及技術人的角度，提供一些閱讀時的想法，提供作者與大家參考，希望能有一些幫助。現今環境下，媒體經營與寫作謀生尤其不易，大家一起加油。</p></div></div></section>
+2023/1/3 更新：本文原文發表於 2017/12/22。經過五年的持續訂閱，我目前得以推薦「區塊勢電子報」是中文界關於區塊鏈最佳的報導媒體，歡迎參考作者說明訂閱閱讀：
+
+> 區塊勢從 2017 年起，按每週 3 篇的節奏，以「人話」說明區塊鏈、加密貨幣有哪些具體應用以及為何值得投入。至 2022 年末，已經出刊 500 篇文章、192 集 podcast，成為台灣 Apple Podcast 科技類排行榜第一名。
+
+> 區塊勢由作者許明恩全職經營，但寫作、錄音不能只喝西北風。區塊勢從 2018 年轉為付費訂閱制，成為完全由讀者付費支持的獨立媒體。現在只要
+> 
+> 填寫 email
+> 
+> 就能免費收到公開文章、podcast 試閱。若你希望台灣有這樣的媒體存在，再請以
+> 
+> 付費訂閱
+> 
+> 支持區塊勢的營運。
+
+> 明恩
+
+**區塊勢**
+*說人話的區塊鏈圖文，每週 3 篇原創內容直送信箱. Click to read 區塊勢, by 許明恩, a Substack publication with tens of thousands of readers.*blocktrend.substack.com
+
+### 為何我尚無法推薦「區塊勢」試營運電子報訂閱
+
+#### 一人新媒體的寫作困難處與編輯之重要
+
+[許明恩 Astro Hsu](https://medium.com/u/ab44de911a6d) 的「區塊勢電子」，自從 12 月轉入封閉訂閱制，以 249 元月費試營運至今，一共已發布八期。在第八期中的最後，包含了一個調查「是否會推薦親朋好友訂閱」，我選擇了*否*。
+
+為什麼？
+
+### TL;DR, 我認為該電子報的內容，相對於它的收費，不夠深入精闢
+
+我不是區塊鏈專家，也沒有做過什麼相關研究，無法論定關於區塊鏈的部分是否精確專業。但電子報現行內容，一但觸及及其他領域，就常會露出許多弱點。
+
+![](/assets/images/miro.medium.com/bd291a4da0d07f8f.png)
+
+*具有十足編輯力卻下場淒慘，令人感慨萬千的「Rocket Café」*
+
+### 編輯的重要性
+
+為何傳統媒體中，都會有「編輯」的角色，以協助作者？我認為透過編輯與作者間的討論，可以讓內容更佳去蕪存菁，並為讀者把關內容，讓消費者可以建立對媒體的信任，以致於持續訂閱支持。
+
+在新媒體的時代，就算科技的變革，讓作者能夠跳過傳統情境下介於讀者的種種中間人，自行撰寫、發表、銷售內容，但「為內容把關與反覆琢磨」的角色，我認為仍是必要、且不該也無法省去的。
+
+或許足夠經驗的科技作者，例如同是訂閱制電子報「[科技島讀](http://daodu.tech/)」的周欽華、或 [The Tuna.](https://medium.com/u/f02bc8d68a27) 的 [Fred Jame](https://medium.com/u/b36246f7a37c)，即可自己扮演好編輯的雙重角色，但我認為在區塊勢的案例上，如果作者在下筆之前，可以跟有更廣泛經驗的編輯，進一步討論過，看看心中的立論是否有漏洞。且在寫完後，讓編輯先讀過，將有疑慮的地方反覆修改，或許就可以表現的更好，更能說服來自不同領域、不同背景的讀者。
+
+當然或許也是有啦⋯⋯作為讀者實是無從得知。
+
+### 條列閱讀區塊勢第八期的種種疑問
+
+以下摘錄第八期「[#008｜如何在大數據時代，取回你的 21 世紀石油](https://medium.com/@astromnhsu/008-969469ccb8e5)」的內容，分享我閱讀時的疑慮之處。假設我是編輯，就會與作者在這幾處，進行更深入的討論與資料研讀。
+
+> 你的 21 世紀石油在別人手上
+
+> ⋯⋯在這個模式底下，你就被迫「委託」臉書或 Google 妥善地保存、管理你的個人資料。這些資料放在企業的最大風險，是如果企業因為商業選擇而決定終止服務，你的資料也可能玉石俱焚。最顯著的例子是幾年前 Google 宣布要關掉 Google Reader（閱讀器）服務的時候，大家只能被迫在有限時間內把自己的資料搬移到其他地方。
+
+這個案例不太好，因為 Google Reader 畢竟不是 UGC 平台，搬移 RSS 訂閱相對簡單成熟（也可以見到 Feedly 很快的補上市場）。我認為更好的國內案例，或許可以舉無名小站關站，或者以「Ptt 如果關站」來闡述。另外或許也可再多舉幾個國際上的知名案例。
+
+> 而另一個風險，則是系統被駭客入侵，你委託給企業管理的資料也會遭殃。根據 iThome 在 9 月的
+> 
+> *報導*
+> 
+> ：
+
+> 美國第三大消費者信用報告業者 Equifax 周四主動發佈該公司遭駭的消息，該事件導致 1.43 億筆個資外洩，佔將近美國人口的一半。
+
+> ⋯⋯
+> 
+> Equifax 管理近半數美國人的個資，但是個資如何使用也不是由個人決定而是公司決定。換句話說，是由公司或機構來代替你管理個資的使用，這之間就有你是否信任這個機構的問題。
+
+區塊鏈如何改善這個問題？因為他預設公開的性質，反而不會有入侵風險？讀者讀到這段，或許會想到交易所被入侵，導致損失，甚至關閉，會成為反證嗎？
+
+> 從管理的角度，看比特幣的價值
+
+> ⋯⋯
+> 
+> 而區塊鏈的主要價值是讓擁有者可以隨心所欲的管理錢（比特幣）的流向，法律、政府、企業都無法迫使交易發生或停止，即便對方可能是政府認為的恐怖組織或詐騙集團。因為國家的政治立場、價值觀不一定與你相同，只有你能管理的錢才是你的錢。
+
+怎麼會忽然從「服務關閉的風險」、「駭客入侵的風險」，跳躍到「能管理的錢才是你的錢」了？（讀者滿滿黑人問號）
+
+> 同樣的邏輯，我們還能繼續延伸到電腦運算能力上。如果你使用的是個人電腦，電腦運算能力當然就是你的。但是如果你使用的是雲端運算，那運算能力就是亞馬遜、Google 或微軟說了算，而不是你。
+
+這邊提到了運算力，我認為讀者會想知道，那區塊鏈的「算力」跟這兩個情況，有什麼關聯或不同。
+
+> 最顯著的例子是中國政府在今年 8 月為了禁止使用者翻牆，要求亞馬遜停止為 VPN 業者提供雲端運算服務。⋯⋯
+
+> 現在這些翻牆軟體是架在亞馬遜的服務上，因此亞馬遜可以說關就關。但是如果這個服務是架在以區塊鏈為基礎的運算服務（類似以太坊）上，就有機會不被政府、企業所控制，而是自己可以決定是否應該停止翻牆軟體的服務。
+
+為何有機會「不被政府、企業所控制」？我認為作者剛碰到了邊，但是就止步了。闡述應該更深入核心。
+
+> 從這個角度切入，以太坊和比特幣其實就是在不同數位資產上的區塊鏈應用。比特幣讓你能夠自主決定錢的用途，以太坊讓你能夠自主決定運算能力的用途。區塊鏈既然可以讓錢、運算能力回到使用者手上，數據當然也可以。
+
+以太坊為何能「讓你能夠自主決定運算能力的用途」？
+
+「從這個角度切入」，以太坊的智慧合約，以 Gas 購買算力，跟傳統雲端服務差在哪裡？
+
+> 如何管理你的 21 世紀石油
+> 根據
+> 
+> *台灣創用 CC 計畫*
+> 
+> 的敘述：
+
+> 依據現行的著作權法，著作的使用權利，全然保留於著作權人手中；即所謂的「所有權利保留」（All Rights Reserved）。任何「合理使用」之外的利用，使用者都要事先取得著作權人的授權，才可進行。
+
+> 簡單來說，我們在網路上產生的各式數位內容是「天生受到保護，需要刻意授權；而不是天生公開，而需要刻意保護」。
+
+既然要討論到網路上的數位內容，應該要討論到 Fb 平台的使用者授權合約，如何看待 UCG 的權利歸屬。
+
+> 除非自己有去申請創用 CC 授權，不然只要在未經同意的情況下使用他人的創作，都有可能觸犯法律。但是，一旦有侵權情況時，就會難以證明作品的作者及時間。
+
+「一旦有侵權情況時，就會難以證明作品的作者及時間。」
+為何？這句話講的太過理所當然，沒有足夠論述。
+
+此外，創用 CC 的使用情境不是「使用者申請使用他人創作」，而是「創作者預設開放部分權利」。我覺得作者對 CC 的相關知識似乎有些不夠確切。在發表前，或可諮詢一下[開放文化基金會（ocf.tw）](https://ocf.tw)，或前[中研院創用 CC 計畫](http://creativecommons.tw/)的老師，來釐清這邊是否有寫錯，避免誤導大眾。
+
+> 舉例來說現在我的文章都是放在 Medium 這個部落格平台上，但是說不定哪天我要找的文章失蹤了。如果有內容農場放我的內容，無論原因為何，也就無法佐證被濫用內容的著作權是屬於自己的。
+
+為何？為何？
+
+文章放在 Medium，跟文章失蹤有什麼關聯？
+文章失蹤，跟被內容農場盜用，有什麼因果？
+內容農場盜用時，為何無法佐證著作權所屬？
+
+討論到這個場景時，應該要去了解一下網路產業對農場的因應方式。例如左岸很多搜索引擎，都開始在做原創內容認證；或 Youtube 與其他影音平台都有偵測盜版內容或非著作權人上傳內容的機制，
+
+如果以此為「前區塊鏈時代」的範例，他們怎麼做，有什麼弱點？下方的方案有解決什麼目前方法無法解決的問題？
+
+> 我登記了一筆數位資產在 Bitmark 區塊鏈上
+
+> 因此，
+> 
+> *Bitmark*
+> 
+> 就是一個有趣的公司，他們建立了基於 Hyperledger 區塊鏈的
+> 
+> *數位資產登記簿*
+> 
+> 。你可以把自己的數位資產例如照片、貼文、運動紀錄等，在他們的區塊鏈上加上標記。用區塊鏈去中心化、不可竄改的特性，提供佐證證據的可信度。例如我剛剛就把自己的一張圖片上傳到 Bitmark 上，上面就會紀錄時間、擁有者以及內容摘要。
+
+去中心化、不可篡改，如何對「佐證證據的可信度」有所幫助？如果不用到區塊鏈，傳統的情境，可信度又是如何不足？
+
+以 Flickr 為例，如果一般人上傳一張照片上去，有無標記 CC 授權，該照片被盜用時，跟登錄上 bitmark 的平台，有什麼不同？優缺點呢？
+
+如果讀者是一位攝影師，那應用該區塊鏈服務，跟使用現行商業上的照片授權平台，例如 [Getty Images Media Manager](http://mediamanager.gettyimages.com/) 的差別是？
+
+> 未來我就可以利用這本數位資產登記簿，更正式的主張自己的著作權或是轉移著作權給其他人，而不再是以私下約定再簽合約的方式，來授予他人數位資產使用權。
+
+真的不用「簽訂合約」就可以正式轉移著作權給他人嗎？
+
+如何可以？確定可以？
+
+我並非反對訂閱制個人媒體或新媒體，例如個人現行持續訂閱[科技島讀](http://daodu.tech/)（科技連結在地的觀點）、人渣文本周偉航的[渣誌](https://sosreader.com/project/zha_magazine/)（看政治內幕、哲學入門），也身為電子雜誌平台 [Kono](https://www.thekono.com/)（跨雜誌全文搜索）、[Pubu 飽讀電子書](http://pubu.com.tw/)（跳著看某幾本雜誌、與前一天的蘋果日報）的付費會員與 Medium 的會員。
+
+傳統媒體的數位版的話，我目前還在 Zinio 上持續訂閱相對傳統保守的[台灣壹週刊](https://tw.zinio.com/www/browse/product.jsp?productId=500717492)，且從數位版國家地理雜誌第一期（2013/8）訂閱至改版後止。（曾經是台灣最好的數位雜誌，2016/12 改版後，變成類部落格形式呈現，雖然內容大致相同，卻完全失去**編輯落版時的靈魂⋯⋯**）
+
+以上以一位閱讀雜誌數十年的讀者，以及技術人的角度，提供一些閱讀時的想法，提供作者與大家參考，希望能有一些幫助。現今環境下，媒體經營與寫作謀生尤其不易，大家一起加油。

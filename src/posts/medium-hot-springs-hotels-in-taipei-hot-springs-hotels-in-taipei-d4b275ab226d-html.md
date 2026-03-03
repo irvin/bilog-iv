@@ -10,4 +10,48 @@ tags: ["medium"]
 excerpt: "Hot Springs hotels in Beitou Taipei for friends who visited Taipei and would like a restful night and bath ( look also m y recommended places for Mozillians to visit in Taipei . )"
 ---
 
-<section name="f744" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="7144" id="7144" class="graf graf--h3 graf--leading graf--title">Hot Springs hotels in Beitou Taipei</h3><h4 name="b13c" id="b13c" class="graf graf--h4 graf-after--h3 graf--subtitle">for friends who visited Taipei and would like a restful night and bath</h4><p name="2377" id="2377" class="graf graf--p graf-after--h4">( look also m<a href="/2014/01/my-suggestion-places-for-mozillians-who.html?m=0" data-href="/2014/01/my-suggestion-places-for-mozillians-who.html?m=0" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">y recommended places for Mozillians to visit in Taipei</a>. )</p><p name="1640" id="1640" class="graf graf--p graf-after--p">There are two main onsen areas in Taipei: Betou and Wulai. Betou is more convenient that can easily reached by metro.</p><p name="f173" id="f173" class="graf graf--p graf-after--p">(Check below for info regarding day-return onsen-only tickets.)</p><h4 name="d899" id="d899" class="graf graf--h4 graf-after--p">Top onsen in Beitou</h4><p name="18e0" id="18e0" class="graf graf--p graf-after--h4">If you are looking for a naked public bath (like a typical onsen in Japan) and you have a high budget, I recommend <a href="http://www.villa32.com" data-href="http://www.villa32.com" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">三二行館</a> (Villa 32)，20K TWD /night. That is the best one in 北投. I can stay at their super onsen park for the whole afternoon, and they have a Michelin-level restaurant.</p><div name="ceb5" id="ceb5" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.villa32.com/en" data-href="https://www.villa32.com/en" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.villa32.com/en"><strong class="markup--strong markup--mixtapeEmbed-strong">32 Villa32 Villa</strong><br><em class="markup--em markup--mixtapeEmbed-em">32Villa, 32 Villa</em>www.villa32.com</a><a href="https://www.villa32.com/en" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="b118df530cdd4d774e965a34b634d833" data-thumbnail-img-id="0*vtC2Zylq3oNB7T3c" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*vtC2Zylq3oNB7T3c);"></a></div><p name="069e" id="069e" class="graf graf--p graf-after--mixtapeEmbed">The other fine ones are <a href="https://www.gvrb.com.tw/en/" data-href="https://www.gvrb.com.tw/en/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">麗禧</a> (16K/night) <a href="https://www.thegaiahotel.com" data-href="https://www.thegaiahotel.com" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">大地</a> (10K/night) <a href="https://www.apresort.com.tw" data-href="https://www.apresort.com.tw" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">亞太</a> (7.7K/night).</p><h4 name="a7bc" id="a7bc" class="graf graf--h4 graf-after--p">Average selection</h4><p name="3317" id="3317" class="graf graf--p graf-after--h4">For normal budget these also have good public bath, 春天 (Spring Resort) is a historial one, with well Japanese dinner cuisine, open-air good naked public bath with swimming poor and another dressed onsen park (stay: 5K/night. No day-ticket for naked bath)</p><div name="3e96" id="3e96" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.springresort.com.tw/" data-href="https://www.springresort.com.tw/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.springresort.com.tw/"><strong class="markup--strong markup--mixtapeEmbed-strong">北投春天酒店</strong><br><em class="markup--em markup--mixtapeEmbed-em">北投春天酒店，位處台北市陽明山國家公園山麓，坐擁北投最大戶外親子露天風呂的溫泉度假飯店，因鄰近北投溫泉白磺泉出口，飯店供應純淨優質的白磺原湯，讓賓客在春天揮別都市喧囂，一享泡湯樂趣。…</em>www.springresort.com.tw</a><a href="https://www.springresort.com.tw/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="f6f6e2d09d75d24703866c894239e9a0" data-thumbnail-img-id="0*Os-Ts2qGK8T5pv-A" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*Os-Ts2qGK8T5pv-A);"></a></div><p name="fdd5" id="fdd5" class="graf graf--p graf-after--mixtapeEmbed"><a href="http://www.tyq.com.tw" data-href="http://www.tyq.com.tw" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">天玥泉</a> had a new and big indoor bath at basement (4K/night)</p><p name="115d" id="115d" class="graf graf--p graf-after--p"><a href="http://www.waterhouse.com.tw" data-href="http://www.waterhouse.com.tw" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">享溫泉</a> is new and a smaller bath on roof level with open air (4K/night)</p><h4 name="1c32" id="1c32" class="graf graf--h4 graf-after--p">On a budget — day-return onsen</h4><p name="74b4" id="74b4" class="graf graf--p graf-after--h4">With a lower budget Isuggest you find a hostel or hotel in downtown Taipei, and went to 北投 for just onsen. The transit is rater easy that just around 30~60min from downtown by metro.</p><p name="11b6" id="11b6" class="graf graf--p graf-after--p">The hotel typically charge about 500 for day-return public bath. about 500~1000 for 天玥泉 &amp; 享溫泉 &amp; 水美. The most pricy is 2.2K for 三二行館, still highly recommand if you had a whole day time there.</p><p name="847b" id="847b" class="graf graf--p graf-after--p">There are some other cheap and crowded one if you would like to try, for price like ~300TWD such as <a href="http://www.shan-yue.com/" data-href="http://www.shan-yue.com/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">山樂</a> (even include a buffet meal with onsen ticket)</p><h3 name="1372" id="1372" class="graf graf--h3 graf-after--p">The onsen hotel experience in Taiwan</h3><p name="5b88" id="5b88" class="graf graf--p graf-after--h3">The experience of onsen hotel in Taiwan is more like a modern hotel with a japanese-style naked public bath, not really a Ryoken style. If you search you will find the most famous Ryoken-style one is “Kagaya” in betou, but I don’t really recommend it, pricy but have mid-to-low level review that the service is not worth it.</p><figure name="c852" id="c852" class="graf graf--figure graf-after--p graf--trailing"><img class="graf-image" data-image-id="1*4gPO7Fwcu0x5ts_kTxwEMQ.jpeg" data-width="3024" data-height="4032" data-is-featured="true" src="/assets/images/miro.medium.com/886bd2e894b48ca0.jpeg"><figcaption class="imageCaption">Sunset at The Gaia hotel</figcaption></figure></div></div></section>
+### Hot Springs hotels in Beitou Taipei
+
+#### for friends who visited Taipei and would like a restful night and bath
+
+( look also m[y recommended places for Mozillians to visit in Taipei](/2014/01/my-suggestion-places-for-mozillians-who.html?m=0). )
+
+There are two main onsen areas in Taipei: Betou and Wulai. Betou is more convenient that can easily reached by metro.
+
+(Check below for info regarding day-return onsen-only tickets.)
+
+#### Top onsen in Beitou
+
+If you are looking for a naked public bath (like a typical onsen in Japan) and you have a high budget, I recommend [三二行館](http://www.villa32.com) (Villa 32)，20K TWD /night. That is the best one in 北投. I can stay at their super onsen park for the whole afternoon, and they have a Michelin-level restaurant.
+
+**32 Villa32 Villa**
+*32Villa, 32 Villa*www.villa32.com
+
+The other fine ones are [麗禧](https://www.gvrb.com.tw/en/) (16K/night) [大地](https://www.thegaiahotel.com) (10K/night) [亞太](https://www.apresort.com.tw) (7.7K/night).
+
+#### Average selection
+
+For normal budget these also have good public bath, 春天 (Spring Resort) is a historial one, with well Japanese dinner cuisine, open-air good naked public bath with swimming poor and another dressed onsen park (stay: 5K/night. No day-ticket for naked bath)
+
+**北投春天酒店**
+*北投春天酒店，位處台北市陽明山國家公園山麓，坐擁北投最大戶外親子露天風呂的溫泉度假飯店，因鄰近北投溫泉白磺泉出口，飯店供應純淨優質的白磺原湯，讓賓客在春天揮別都市喧囂，一享泡湯樂趣。…*www.springresort.com.tw
+
+[天玥泉](http://www.tyq.com.tw) had a new and big indoor bath at basement (4K/night)
+
+[享溫泉](http://www.waterhouse.com.tw) is new and a smaller bath on roof level with open air (4K/night)
+
+#### On a budget — day-return onsen
+
+With a lower budget Isuggest you find a hostel or hotel in downtown Taipei, and went to 北投 for just onsen. The transit is rater easy that just around 30~60min from downtown by metro.
+
+The hotel typically charge about 500 for day-return public bath. about 500~1000 for 天玥泉 & 享溫泉 & 水美. The most pricy is 2.2K for 三二行館, still highly recommand if you had a whole day time there.
+
+There are some other cheap and crowded one if you would like to try, for price like ~300TWD such as [山樂](http://www.shan-yue.com/) (even include a buffet meal with onsen ticket)
+
+### The onsen hotel experience in Taiwan
+
+The experience of onsen hotel in Taiwan is more like a modern hotel with a japanese-style naked public bath, not really a Ryoken style. If you search you will find the most famous Ryoken-style one is “Kagaya” in betou, but I don’t really recommend it, pricy but have mid-to-low level review that the service is not worth it.
+
+![](/assets/images/miro.medium.com/886bd2e894b48ca0.jpeg)
+
+*Sunset at The Gaia hotel*

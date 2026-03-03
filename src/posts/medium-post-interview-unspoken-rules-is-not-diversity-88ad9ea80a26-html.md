@@ -10,4 +10,75 @@ tags: ["medium"]
 excerpt: "面試時為女性應徵者潛規則加分，是保障性別平等嗎？ 依應徵者的性別（年齡、族裔，或其他特質）篩選履歷或加減分，並非保障弱勢，而是確確實實的歧視！ 多元、公平與共融（DEI，Diversity, Equity &amp; Inclusion）是理想的職場必要的元素，也是近年許多公司致力的方向。許多企業開始針對企業內部的性別分布等多元樣態進行統計，並將此設定為人資"
 ---
 
-<section name="cc80" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="e174" id="e174" class="graf graf--h3 graf--leading graf--title">面試時為女性應徵者潛規則加分，是保障性別平等嗎？</h3><h4 name="4518" id="4518" class="graf graf--h4 graf-after--h3 graf--subtitle">依應徵者的性別（年齡、族裔，或其他特質）篩選履歷或加減分，並非保障弱勢，而是確確實實的歧視！</h4><p name="1fcd" id="1fcd" class="graf graf--p graf-after--h4">多元、公平與共融（DEI，Diversity, Equity &amp; Inclusion）是理想的職場必要的元素，也是近年許多公司致力的方向。許多企業開始針對企業內部的性別分布等多元樣態進行統計，並將此設定為人資部門的關鍵指標。</p><p name="f8ba" id="f8ba" class="graf graf--p graf-after--p">但也因此產生了一個極大的誤解：企業在徵人時，可在面試時為求職者加減分，或特別挑出相關履歷，以<em class="markup--em markup--p-em">保障</em>弱勢族群。</p><p name="2a3b" id="2a3b" class="graf graf--p graf-after--p">例如日前台灣最大的消金集團總經理，在「女力年會」的開場致詞上「偷偷透漏的秘密」：</p><blockquote name="4185" id="4185" class="graf graf--blockquote graf-after--p">國泰金控總經理李長庚今日出席女力技術年會致詞時表示，國泰金有5萬多位員工，將近七成是女性…他透露，「因為每次面試新進同仁時，都會偷偷加分、偷偷放水。」</blockquote><blockquote name="4483" id="4483" class="graf graf--blockquote graf-after--blockquote">「我偷偷的告訴大家一個不能公開的公開秘密，每次在面試新進同仁的時候，我都會對比較弱勢的族群，偷偷的放水、偷偷的加分，聽說<br>很多金融業的主管也都一樣」</blockquote><figure name="053b" id="053b" class="graf graf--figure graf-after--blockquote"><img class="graf-image" data-image-id="1*sMPN1lKbrCDvMdKHZP9tSQ.png" data-width="1706" data-height="2412" data-is-featured="true" alt="國泰金控總經理李長庚今日出席女力技術年會致詞時表示，國泰金有5萬多位員工，將近七成是女性，高於本國銀行的60.22%、外商銀行的68.1%， 他透露，「因為每次面試新進同仁時，都會偷偷加分、偷偷放水。」" src="/assets/images/miro.medium.com/cc8e24bf8c722107.png"><figcaption class="imageCaption">鉅亨網報導截圖，2022/5/19 12:32 版本，線上文章已於當日稍晚改標刪減</figcaption></figure><p name="6f32" id="6f32" class="graf graf--p graf-after--figure graf--trailing">當在台上沾沾自喜說出「面試時，主管都會為女生偷偷加分」的「秘密」時，你（或該公司的人資部門）可曾察覺：這並非保障弱勢，而是確確實實的性別歧視！</p></div></div></section><section name="cc29" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="34fc" id="34fc" class="graf graf--p graf--leading">又如前半年在網路上看到來自工程部門的網友分享：</p><blockquote name="8c28" id="8c28" class="graf graf--blockquote graf-after--p graf--trailing">- 主管很認真在過濾女性求職者的履歷來給我們<br>- 以什麼為基準過濾？<br>- 女性<br>- 為什麼？<br>- 好像是因為別組都有女生，就我們沒有<br>- Diversity很重要<br>- 這樣是男性履歷直接被忽略嗎 QQ (職缺內建條件為女性<br>- 這件事沒有什麼好遺憾的阿，在這波履歷篩選以前，男性工程師錄取人數比較多不是事實嗎？現在不過是基於性別平權給予女性比較多的機會而已，畢竟女性因為刻板印象，專業能力在社會上本來就比較容易遭受不公平的待遇</blockquote></div></div></section><section name="9997" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="7bdf" id="7bdf" class="graf graf--p graf--leading">我一定要再次強調，此舉<strong class="markup--strong markup--p-strong">並非保障弱勢，而是性別歧視</strong>！</p><p name="b455" id="b455" class="graf graf--p graf-after--p graf--trailing">不但是歧視，而且還違法！</p></div></div></section><section name="9b7a" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="788a" id="788a" class="graf graf--p graf--leading">讓我們換另一個角度來舉例，就更能察覺其中的認知偏誤：</p><p name="fba6" id="fba6" class="graf graf--p graf-after--p">假設美國有一間公司，發現公司內特定職缺的非裔人員比例，相較於整體人口來說偏低，該企業可以考慮針對非裔特別開設招募計畫、對該族群學生較多的學校提供獎學金、讓企業內的非裔資深員工提供職涯諮詢，檢討企業的制度與福利是否符合該族群的期望、檢視應徵過程中是否會因為族裔資訊露出，而讓用人主管有產生隱性歧視的機會…</p><p name="02a3" id="02a3" class="graf graf--p graf-after--p graf--trailing">但該企業絕不能定下「接下來收到的履歷只要是亞裔或美國白人就先剃除掉」的決定。因為這樣並非保障多元，而是確確實實的種族歧視。一旦在履歷上能看到族裔的資訊，並依此篩選時，就已經不是在「保障」多元族裔了。</p></div></div></section><section name="bb8b" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="e868" id="e868" class="graf graf--p graf--leading">企業想要顧及到 DEI 狀態、改善員工不夠多元的問題，應回到問題的核心。以工程部門的招募為例，可先思考：為什麼招募到的人會性別分布不均？</p><ul class="postList"><li name="af16" id="af16" class="graf graf--li graf-after--p">是因為大環境的狀態，該領域的畢業生源即有性別差距嗎？</li><li name="0ba8" id="0ba8" class="graf graf--li graf-after--li">或者是因為特定性別的應徵者，感覺技術上都比較強嗎？</li></ul><p name="ccf7" id="ccf7" class="graf graf--p graf-after--li">假設應徵者的分布已經不均，則可以考慮以特別的制度，如鼓勵女生攻讀 STEM 領域，或特別加強招募：如提供大四生就業培訓、業師輔導、獎學金等機會，或提供弱勢保障名額（如基層選舉的女性、原住民保障名額），以鼓勵有興趣，但在產業上較為弱勢的族群。</p><p name="f456" id="f456" class="graf graf--p graf-after--p">又或者應徵者的人數並未有這麼大的差異，但招募到的人偏向特定族群，此時可能需要檢視，應徵過程中，是否有任何會提高隱性歧視的因素（如「男生理科比較強」的社會刻板印象）。</p><p name="2d09" id="2d09" class="graf graf--p graf-after--p graf--trailing">如果履歷表上不附照片 / 去除性別欄 / 隱去名稱，看不見這些可以察覺性別（或其他屬性區別）的資訊後，履歷篩選的結果，是否仍然會偏向特定族群？</p></div></div></section><section name="2935" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="c00f" id="c00f" class="graf graf--p graf--leading">又如一個知名的案例：某個城市的交響樂團，團員的性別比例長期偏向男性。該樂團徵人最重要的一關是術科演奏，經過 DEI 顧問的檢視，在面試過程中做了以下微小改變，新進人員的比例就立刻變得更加平衡了：在術科測驗時，地上鋪上地毯，並拉下布幕遮住主考官與應試者，讓主考官無法辨識應試者的性別。</p><p name="2a75" id="2a75" class="graf graf--p graf-after--p graf--trailing">主考官原先也認為他們完全是根據能力來選人，但隱性歧視之所以稱為「隱性」歧視，就是因為源於文化與環境的潛移默化，難以個人的意志來避免，因此需要以實質的流程設計來因應。此案例中，拉下布幕、地上鋪上地毯，讓面試官無從（從腳步聲或身形）辨別受試者性別，實質阻絕了任何隱性歧視的發生機會，真正得以做到取人唯才。</p></div></div></section><section name="8c06" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="7f30" id="7f30" class="graf graf--p graf--leading">這才是求才過程中，保障弱勢的正當方式。如本文一開始的案例，假設職缺並未公開訂定「婦女跟少數族群保障名額」等規則，而是在後面篩選的時候，才偷偷由用人主管自由心證隨意篩除，這樣只是變成另一種潛規則。</p><p name="22c0" id="22c0" class="graf graf--p graf-after--p">雖「團隊裡面女生太少，因此就是要招女生」是職場常見的心態，但不應以「這是多元」來合理化這個想法。用這種方法做「部門性別平衡」，也非優於法律，而是違反法律。</p><p name="0b63" id="0b63" class="graf graf--p graf-after--p">如果企業長期以這個角度來進行選材，反而會讓外界感到更加疑惑：國泰金控的女員工，是否都是「面試官偷偷加分」而入職？國泰金控的女性主管，在考核升遷的過程中，是否也有經歷「主管偷偷加分」？也可能讓入選者自我質疑：我到底是因為能力較佳，又或者只是因產業的潛規則而中選。</p><p name="7155" id="7155" class="graf graf--p graf-after--p graf--trailing">人資部門與用人主管，在想增進職場的多元的同時，務必要建立正確的認知，避免讓原本良善的期望，反而產生更多的問題。</p></div></div></section>
+### 面試時為女性應徵者潛規則加分，是保障性別平等嗎？
+
+#### 依應徵者的性別（年齡、族裔，或其他特質）篩選履歷或加減分，並非保障弱勢，而是確確實實的歧視！
+
+多元、公平與共融（DEI，Diversity, Equity & Inclusion）是理想的職場必要的元素，也是近年許多公司致力的方向。許多企業開始針對企業內部的性別分布等多元樣態進行統計，並將此設定為人資部門的關鍵指標。
+
+但也因此產生了一個極大的誤解：企業在徵人時，可在面試時為求職者加減分，或特別挑出相關履歷，以*保障*弱勢族群。
+
+例如日前台灣最大的消金集團總經理，在「女力年會」的開場致詞上「偷偷透漏的秘密」：
+
+> 國泰金控總經理李長庚今日出席女力技術年會致詞時表示，國泰金有5萬多位員工，將近七成是女性…他透露，「因為每次面試新進同仁時，都會偷偷加分、偷偷放水。」
+
+> 「我偷偷的告訴大家一個不能公開的公開秘密，每次在面試新進同仁的時候，我都會對比較弱勢的族群，偷偷的放水、偷偷的加分，聽說
+> 
+> 很多金融業的主管也都一樣」
+
+![國泰金控總經理李長庚今日出席女力技術年會致詞時表示，國泰金有5萬多位員工，將近七成是女性，高於本國銀行的60.22%、外商銀行的68.1%， 他透露，「因為每次面試新進同仁時，都會偷偷加分、偷偷放水。」](/assets/images/miro.medium.com/cc8e24bf8c722107.png)
+
+*鉅亨網報導截圖，2022/5/19 12:32 版本，線上文章已於當日稍晚改標刪減*
+
+當在台上沾沾自喜說出「面試時，主管都會為女生偷偷加分」的「秘密」時，你（或該公司的人資部門）可曾察覺：這並非保障弱勢，而是確確實實的性別歧視！
+
+又如前半年在網路上看到來自工程部門的網友分享：
+
+> - 主管很認真在過濾女性求職者的履歷來給我們
+> 
+> - 以什麼為基準過濾？
+> 
+> - 女性
+> 
+> - 為什麼？
+> 
+> - 好像是因為別組都有女生，就我們沒有
+> 
+> - Diversity很重要
+> 
+> - 這樣是男性履歷直接被忽略嗎 QQ (職缺內建條件為女性
+> 
+> - 這件事沒有什麼好遺憾的阿，在這波履歷篩選以前，男性工程師錄取人數比較多不是事實嗎？現在不過是基於性別平權給予女性比較多的機會而已，畢竟女性因為刻板印象，專業能力在社會上本來就比較容易遭受不公平的待遇
+
+我一定要再次強調，此舉**並非保障弱勢，而是性別歧視**！
+
+不但是歧視，而且還違法！
+
+讓我們換另一個角度來舉例，就更能察覺其中的認知偏誤：
+
+假設美國有一間公司，發現公司內特定職缺的非裔人員比例，相較於整體人口來說偏低，該企業可以考慮針對非裔特別開設招募計畫、對該族群學生較多的學校提供獎學金、讓企業內的非裔資深員工提供職涯諮詢，檢討企業的制度與福利是否符合該族群的期望、檢視應徵過程中是否會因為族裔資訊露出，而讓用人主管有產生隱性歧視的機會…
+
+但該企業絕不能定下「接下來收到的履歷只要是亞裔或美國白人就先剃除掉」的決定。因為這樣並非保障多元，而是確確實實的種族歧視。一旦在履歷上能看到族裔的資訊，並依此篩選時，就已經不是在「保障」多元族裔了。
+
+企業想要顧及到 DEI 狀態、改善員工不夠多元的問題，應回到問題的核心。以工程部門的招募為例，可先思考：為什麼招募到的人會性別分布不均？
+
+- 是因為大環境的狀態，該領域的畢業生源即有性別差距嗎？
+- 或者是因為特定性別的應徵者，感覺技術上都比較強嗎？
+
+假設應徵者的分布已經不均，則可以考慮以特別的制度，如鼓勵女生攻讀 STEM 領域，或特別加強招募：如提供大四生就業培訓、業師輔導、獎學金等機會，或提供弱勢保障名額（如基層選舉的女性、原住民保障名額），以鼓勵有興趣，但在產業上較為弱勢的族群。
+
+又或者應徵者的人數並未有這麼大的差異，但招募到的人偏向特定族群，此時可能需要檢視，應徵過程中，是否有任何會提高隱性歧視的因素（如「男生理科比較強」的社會刻板印象）。
+
+如果履歷表上不附照片 / 去除性別欄 / 隱去名稱，看不見這些可以察覺性別（或其他屬性區別）的資訊後，履歷篩選的結果，是否仍然會偏向特定族群？
+
+又如一個知名的案例：某個城市的交響樂團，團員的性別比例長期偏向男性。該樂團徵人最重要的一關是術科演奏，經過 DEI 顧問的檢視，在面試過程中做了以下微小改變，新進人員的比例就立刻變得更加平衡了：在術科測驗時，地上鋪上地毯，並拉下布幕遮住主考官與應試者，讓主考官無法辨識應試者的性別。
+
+主考官原先也認為他們完全是根據能力來選人，但隱性歧視之所以稱為「隱性」歧視，就是因為源於文化與環境的潛移默化，難以個人的意志來避免，因此需要以實質的流程設計來因應。此案例中，拉下布幕、地上鋪上地毯，讓面試官無從（從腳步聲或身形）辨別受試者性別，實質阻絕了任何隱性歧視的發生機會，真正得以做到取人唯才。
+
+這才是求才過程中，保障弱勢的正當方式。如本文一開始的案例，假設職缺並未公開訂定「婦女跟少數族群保障名額」等規則，而是在後面篩選的時候，才偷偷由用人主管自由心證隨意篩除，這樣只是變成另一種潛規則。
+
+雖「團隊裡面女生太少，因此就是要招女生」是職場常見的心態，但不應以「這是多元」來合理化這個想法。用這種方法做「部門性別平衡」，也非優於法律，而是違反法律。
+
+如果企業長期以這個角度來進行選材，反而會讓外界感到更加疑惑：國泰金控的女員工，是否都是「面試官偷偷加分」而入職？國泰金控的女性主管，在考核升遷的過程中，是否也有經歷「主管偷偷加分」？也可能讓入選者自我質疑：我到底是因為能力較佳，又或者只是因產業的潛規則而中選。
+
+人資部門與用人主管，在想增進職場的多元的同時，務必要建立正確的認知，避免讓原本良善的期望，反而產生更多的問題。

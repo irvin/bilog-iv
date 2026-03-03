@@ -10,4 +10,25 @@ tags: ["medium"]
 excerpt: "Mozilla 基金會的〈*沒隱私購物指南〉公布「通訊軟體」評鑑報告 接受評比的服務中，只有兩個沒有達到以下最基本的資安要求*： - 網路傳輸有加密 - 產品有提供自動的安全性更新 - 設限存取資料的密碼強度，且避免使用共通的預設密碼 - 提供資安回報機制 - 產品有專屬的隱私原則 * https://mzl.la/2SFW2Pi 都有做到，不代表一定是安全"
 ---
 
-<section name="66b8" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--fullWidth"><figure name="35ad" id="35ad" class="graf graf--figure graf--layoutFillWidth graf--leading"><img class="graf-image" data-image-id="1*eEN-F_1GwRdIMYSE7EpmAg.jpeg" data-width="1200" data-height="630" data-is-featured="true" src="/assets/images/miro.medium.com/7547d4429df80ec3.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><h3 name="313e" id="313e" class="graf graf--h3 graf-after--figure graf--title">Mozilla 基金會的〈*沒隱私購物指南〉公布「通訊軟體」評鑑報告</h3><p name="5ebf" id="5ebf" class="graf graf--p graf-after--h3">接受評比的服務中，只有兩個沒有達到以下最基本的資安要求*：</p><blockquote name="3da9" id="3da9" class="graf graf--blockquote graf-after--p">- 網路傳輸有加密<br>- 產品有提供自動的安全性更新<br>- 設限存取資料的密碼強度，且避免使用共通的預設密碼<br>- 提供資安回報機制<br>- 產品有專屬的隱私原則</blockquote><p name="391a" id="391a" class="graf graf--p graf-after--blockquote">* <a href="https://mzl.la/2SFW2Pi" data-href="https://mzl.la/2SFW2Pi" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">https://mzl.la/2SFW2Pi</a></p><p name="dd97" id="dd97" class="graf graf--p graf-after--p">都有做到，不代表一定是安全好棒棒的產品，但是如果連最基本的要求都沒有滿足，就真的需要好好思考要不要使用嘍！🤔</p><div name="bda2" id="bda2" class="graf graf--mixtapeEmbed graf-after--p graf--trailing"><a href="https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/" data-href="https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/"><strong class="markup--strong markup--mixtapeEmbed-strong">*Privacy Not Included: A Buyer&#39;s Guide for Connected Products</strong><br><em class="markup--em markup--mixtapeEmbed-em">More and more people now rely on video call apps to stay connected during the coronavirus pandemic. We reviewed the…</em>foundation.mozilla.org</a><a href="https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="28eb3dd9ef088ea7ae1ee46661d8114e" data-thumbnail-img-id="0*b6o1NpUfnFy6uxh3" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*b6o1NpUfnFy6uxh3);"></a></div></div></div></section>
+![](/assets/images/miro.medium.com/7547d4429df80ec3.jpeg)
+
+### Mozilla 基金會的〈*沒隱私購物指南〉公布「通訊軟體」評鑑報告
+
+接受評比的服務中，只有兩個沒有達到以下最基本的資安要求*：
+
+> - 網路傳輸有加密
+> 
+> - 產品有提供自動的安全性更新
+> 
+> - 設限存取資料的密碼強度，且避免使用共通的預設密碼
+> 
+> - 提供資安回報機制
+> 
+> - 產品有專屬的隱私原則
+
+* [https://mzl.la/2SFW2Pi](https://mzl.la/2SFW2Pi)
+
+都有做到，不代表一定是安全好棒棒的產品，但是如果連最基本的要求都沒有滿足，就真的需要好好思考要不要使用嘍！🤔
+
+***Privacy Not Included: A Buyer's Guide for Connected Products**
+*More and more people now rely on video call apps to stay connected during the coronavirus pandemic. We reviewed the…*foundation.mozilla.org

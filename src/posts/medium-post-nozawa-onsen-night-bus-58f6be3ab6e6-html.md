@@ -10,4 +10,124 @@ tags: ["medium"]
 excerpt: "日本滑雪場夜間巴士行程經驗 野澤溫泉滑雪場 Road Plan 夜巴一日遊 上個月在日本待了兩週，趁第二個週末，首次嘗試參加 KKDAY 的夜間巴士行程，週五半夜搭車，凌晨抵達雪場；下午再搭車離開雪場，晚上回到東京。在此分享一下相關經驗。 本次參加的行程是 KKDAY「 從新宿到達和離開 | 野澤溫泉滑雪場 | 一日遊巴士和纜車票租賃套餐 」。這個行程分成早"
 ---
 
-<section name="fb4c" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="beb7" id="beb7" class="graf graf--h3 graf--leading graf--title">日本滑雪場夜間巴士行程經驗</h3><h4 name="ea4b" id="ea4b" class="graf graf--h4 graf-after--h3 graf--subtitle">野澤溫泉滑雪場 Road Plan 夜巴一日遊</h4><figure name="013b" id="013b" class="graf graf--figure graf-after--h4"><img class="graf-image" data-image-id="1*-tcf0mpqrp3b70ty6ZlQYQ.png" data-width="2612" data-height="1510" src="/assets/images/miro.medium.com/bffd6718ccce864f.png"></figure><p name="8c68" id="8c68" class="graf graf--p graf-after--figure">上個月在日本待了兩週，趁第二個週末，首次嘗試參加 KKDAY 的夜間巴士行程，週五半夜搭車，凌晨抵達雪場；下午再搭車離開雪場，晚上回到東京。在此分享一下相關經驗。</p><p name="df3a" id="df3a" class="graf graf--p graf-after--p">本次參加的行程是 KKDAY「<a href="https://www.kkday.com/zh-tw/product/138296" data-href="https://www.kkday.com/zh-tw/product/138296" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">從新宿到達和離開 | 野澤溫泉滑雪場 | 一日遊巴士和纜車票租賃套餐</a>」。這個行程分成早上 7:10 出發及前一晚 22:40 出發兩種。早上出發的抵達時間是中午 12:45，夜間出發的抵達時間是早上 06:05。回程都是 16:35（週日16:05）。類似的行程還有<a href="https://www.kkday.com/zh-tw/product/137956" data-href="https://www.kkday.com/zh-tw/product/137956" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">長野龍王滑雪場</a>、<a href="https://www.kkday.com/zh-tw/product/139092" data-href="https://www.kkday.com/zh-tw/product/139092" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">北志賀小丸山滑雪場</a>，應該都是類似安排，可以參考看看。</p><p name="ef6c" id="ef6c" class="graf graf--p graf-after--p">（完全不建議早上出發。中午抵達離離回程時間只剩三個小時，恐怕只夠讓你步行到雪場，搭纜車上山拍照打個卡。）</p><h3 name="95d3" id="95d3" class="graf graf--h3 graf-after--p">夜巴路程</h3><h4 name="319b" id="319b" class="graf graf--h4 graf-after--h3">巴士集合地點</h4><p name="d45c" id="d45c" class="graf graf--p graf-after--h4">集合地點在東京地鐵都廳前站 A2 出口正後方，議事堂通橋下的大型巴士停車場（大型バス専用駐車場，<a href="https://goo.gl/maps/jzW6zEUAZ4mTDXJ47" data-href="https://goo.gl/maps/jzW6zEUAZ4mTDXJ47" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Google 地圖</a>）。</p><p name="9fa8" id="9fa8" class="graf graf--p graf-after--p">搭乘夜巴時，只要在十點準時到達即可。該停車場很冷清，甚至沒有販賣機或椅子。就算早到，旅行社的報到攤位也還沒擺出來。十點過後人就會忽然非常多。現場有多個旅行社同時設攤，KKDAY 行程請排 Road Plan 旅行社的隊伍。</p><figure name="1c4e" id="1c4e" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*5hyy0un_jGd9EysLeLl5yA.jpeg" data-width="768" data-height="1024" src="/assets/images/miro.medium.com/fe6b6fcd24363590.jpeg"><figcaption class="imageCaption">最方便的捷運站出口為東京地鐵都廳前站 A2，出來正後方就是集合的停車場場</figcaption></figure><figure name="6ae2" id="6ae2" class="graf graf--figure graf-after--figure"><img class="graf-image" data-image-id="1*c60zmCEPBZFWDMnPiqm1xg.jpeg" data-width="1024" data-height="768" src="/assets/images/miro.medium.com/398f8a5c0a194e8b.jpeg"><figcaption class="imageCaption">十點一到，各家的旅行社紛紛擺出報到攤位，夜巴的搭乘者也忽然全部冒出來</figcaption></figure><h4 name="e8bb" id="e8bb" class="graf graf--h4 graf-after--figure">報到上車</h4><p name="7d9a" id="7d9a" class="graf graf--p graf-after--h4">在櫃台報到時，旅行社核對完姓名。我在 KKDAY 報名時留英文名稱，在參加者列表中特別容易辨識。旅行社會提供雪票與裝備兌換卷、英文說明地圖、以及巴士的上車月台號碼。請在對應月台等候巴士上車。</p><p name="ace3" id="ace3" class="graf graf--p graf-after--p">上車時，司機會比對手上的乘客名單。巴士有指定座位，座位表放或貼在車門旁邊。路程中司機會根據座位確認上下車的地點，請務必對號入座，避免被意外放生。</p><p name="d2e2" id="d2e2" class="graf graf--p graf-after--p">巴士是一般的四排座大巴，如果是兩個人一起參加，或剛好旁邊有坐人，需要有心理準備不會很好睡。推薦攜帶搭飛機用的頸枕。去程跟回程巴士不同，座位也不同。甚至巴士的公司也不同。我這趟運氣不錯，去程旁邊沒有人，斷斷續續睡到早上還蠻有精神。</p><figure name="d7b1" id="d7b1" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*o79BISyjWNNyybIXaUSDow.jpeg" data-width="2871" data-height="3200" src="/assets/images/miro.medium.com/77023550fad9c908.jpeg"><figcaption class="imageCaption">雪票與裝備兌換卷已收走，地圖上的三個圈起來的地點極重要，務必在手機上查好儲存起來</figcaption></figure><figure name="e28b" id="e28b" class="graf graf--figure graf-after--figure"><img class="graf-image" data-image-id="1*2myGBjQCkSGUTb5t7vk2xQ.jpeg" data-width="1024" data-height="768" src="/assets/images/miro.medium.com/e4f76ff41a6c24d3.jpeg"><figcaption class="imageCaption">此趟去程的巴士在一號月台</figcaption></figure><h3 name="6b51" id="6b51" class="graf graf--h3 graf-after--figure">路程與抵達</h3><p name="64a5" id="64a5" class="graf graf--p graf-after--h3">路程中會停數次休息站（道の駅），短的只停 15 分鐘，長的則有停到一小時，可進去吃點東西逛土產。此趟去程的巴士有在門口用大牌子清楚寫明發車時間，但回程的巴士司機就只有用廣播的。務必問清楚發車時間。</p><p name="85ca" id="85ca" class="graf graf--p graf-after--p">務必在休息站上個廁所。抵達後走到有廁所的地點，就至少要到早上六點多了。</p><p name="c8a0" id="c8a0" class="graf graf--p graf-after--p">同一台車同時接送長野多個鄰近雪場的乘客（<a href="http://roadplan.net/meetingplaces/1046/" data-href="http://roadplan.net/meetingplaces/1046/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">斑尾、野沢、戸狩、北志賀、赤倉地區</a>）。到站時司機會叫名下車。回程亦是繞行多個雪場接人，再返回東京。去程第一站即為野澤溫泉，抵達時還不到六點。此站很少人下車是正常的，請不要懷疑自己該下車了。</p><p name="c732" id="c732" class="graf graf--p graf-after--p">上下車的地點是在野澤溫泉鎮邊緣的巴士停車場（紙本地圖上的 Nakao Information Center，野沢温泉中尾観光案内所，<a href="https://goo.gl/maps/fydxKjoyrNFkWdDYA" data-href="https://goo.gl/maps/fydxKjoyrNFkWdDYA" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Google 地圖</a>）。此處離鎮中心走路仍需約 20 分鐘，下車時附近空無一人，也沒有任何店家。不但很冷，也可能還在下雪╱下雨，請先做好心理準備。</p><figure name="9e74" id="9e74" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*2NrLYmrl1GZ-iiATYObe7A.jpeg" data-width="1024" data-height="768" src="/assets/images/miro.medium.com/94a2dd95d3874661.jpeg"><figcaption class="imageCaption">下車地點的旅遊中心，此為回程時拍攝。早上抵達時不但天色昏黑、下雪，且當然沒開門。</figcaption></figure><h4 name="fe36" id="fe36" class="graf graf--h4 graf-after--figure">步行前往雪場</h4><p name="efb4" id="efb4" class="graf graf--p graf-after--h4">下車後從旅客中心後方往「野澤溫泉 Superrina」走（紙本地圖上的 SPArena Nozawaonsen，<a href="https://goo.gl/maps/u7HTjJkZhxfyKm838" data-href="https://goo.gl/maps/u7HTjJkZhxfyKm838" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Google 地圖</a>），一路緩坡向上，約需走 15 分鐘。抵達時該溫泉設施還沒有開始營業，但可以先進去室內等候。</p><p name="f015" id="f015" class="graf graf--p graf-after--p">待六點半櫃檯開張，即可以用旅行社提供的兌換卷交換雪場一日卷。全天的雪場纜車都憑此卡感應。請不要直接在 Superena 更衣。拿到雪票之後，出來繼續往雪場的「長坂站滑雪中心」走，路程約 10 分鐘。</p><p name="082e" id="082e" class="graf graf--p graf-after--p">抵達長坂中心時，設備租賃店跟雪場纜車應該都還沒開始營業。可以先到二樓的室內置物櫃準備跟著裝，投販賣機喝個熱飲，搭配上車前或在休息站購買的麵包之類食物，充為早餐。</p><p name="50d5" id="50d5" class="graf graf--p graf-after--p">三樓租設備的 Salomon Station 8:15 開門。屆時人很多，請提前去門口排隊。如果能排到最前面，可以省下半小時以上的等候時間。此時先用手機掃描店家門口的 QR Code，在線上表格填寫好尺寸等基本資訊。開門後直接給店員填好的 QR Code 及旅行社提供的兌換卷以核銷費用。</p><p name="3711" id="3711" class="graf graf--p graf-after--p">接下來就可以直接搭纜車上山啦！（雪場經驗請往下到雪場分享）</p><h4 name="baf8" id="baf8" class="graf graf--h4 graf-after--p">小鎮與回程</h4><p name="56c9" id="56c9" class="graf graf--p graf-after--h4">下午滑完雪，回長坂中心租賃處歸還設備。假設不是與家人一起出遊，就不推薦回 Superrina。Superrina 只有一個室內裸湯，而露天溫泉跟戶外泳池需著泳衣。</p><p name="0931" id="0931" class="graf graf--p graf-after--p">野澤溫泉有 13 個免費公共外湯，可以好好走走泡泡。另推薦需付費 500 元的故鄉之湯（麻釜温泉公園ふるさとの湯，<a href="https://goo.gl/maps/HF4VjVfL3AAnzQd46" data-href="https://goo.gl/maps/HF4VjVfL3AAnzQd46" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">地圖</a>）設備環境佳。路途中會經過麻釜湧泉的泉源，也可以搭乘「Yu Road 遊ロード」電動步道上山回雪場的日影站，參觀日本滑雪博物館或吃東西。</p><p name="ffc2" id="ffc2" class="graf graf--p graf-after--p">回程集合處跟清晨下車同一地點，走到停車場時，可以在旁邊的觀光中心內休息，有廁所跟販賣機。巴士可能已經在停車場等候，有看到大巴可以先問問。我回程時搭到的是完全不同的巴士。</p><figure name="e2f0" id="e2f0" class="graf graf--figure graf-after--p"><img class="graf-image" data-image-id="1*vJclsPc9TDx28F90qkNhXg.jpeg" data-width="3515" data-height="2636" src="/assets/images/miro.medium.com/32d8b14460c4deef.jpeg"><figcaption class="imageCaption">麻釜溫泉泉源</figcaption></figure><figure name="1ad8" id="1ad8" class="graf graf--figure graf-after--figure"><img class="graf-image" data-image-id="1*GXwjsSalMryQlwr6jB0faQ.jpeg" data-width="768" data-height="1024" src="/assets/images/miro.medium.com/a13f691ce4884bd9.jpeg"><figcaption class="imageCaption">從山下連結到雪場半山腰「日影站」的免費電動步道「遊ロード」</figcaption></figure><h3 name="ba74" id="ba74" class="graf graf--h3 graf-after--figure">野澤溫泉雪場綠線經驗分享</h3><figure name="4b76" id="4b76" class="graf graf--figure graf-after--h3"><img class="graf-image" data-image-id="1*NaMloeWRzRKbnDJQGBLIqQ.png" data-width="1979" data-height="1414" src="/assets/images/miro.medium.com/908dfd11d408b615.png"><figcaption class="imageCaption"><a href="https://nozawaski.com/cms/wp-content/uploads/2021/10/NOZAWAONSEN2021-22-WEB-JP.pdf" data-href="https://nozawaski.com/cms/wp-content/uploads/2021/10/NOZAWAONSEN2021-22-WEB-JP.pdf" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">野澤溫泉滑雪場全圖</a></figcaption></figure><p name="354d" id="354d" class="graf graf--p graf-after--figure">長坂中心與 Salamon 租賃站在 1 號纜車下方。旁邊 18 號吊椅的 33 號綠線，沒有新雪時整條都結冰，非常難控制，完全不適合練習。當設備準備好後，請直接排隊搭1號纜車上山。下纜車後的 8 號綠線上ノ平，雪質非常好，又長又寬坡度又緩，更適合新手練習、教學跟暖身。</p><p name="5f82" id="5f82" class="graf graf--p graf-after--p">野澤溫泉最長的綠線路線是 8+10+21（環山下山道）+ 38（日影到長坂中心聯絡道），可以滑上近一小時。下山道是原雙線公路，寬敞不困難。38 號的日影長坂聯絡道滑起來沒什麼意思，可提前搭 2 纜車 + 6 號座椅回山上。此路線僅 10 號 Paradise 段較斜一些，但該段蠻寬敞。</p><p name="854d" id="854d" class="graf graf--p graf-after--p">山彥站（やまびこ）再往上的山頭與雪場右方都是紅黑色路線，新手切勿輕易嘗試。<a href="https://www.youtube.com/watch?v=BC7QyoyaCrA" data-href="https://www.youtube.com/watch?v=BC7QyoyaCrA" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">滑雪首要避免受傷</a>。想要練習進階斜坡的人，可以搭日影站的 14 &amp; 16 號吊椅上 29 號綠線，此處就較斜一些，請小心練習。</p><p name="0da4" id="0da4" class="graf graf--p graf-after--p">這幾條線周遭的餐廳位置，在 2 號纜車山腳的日影中心，及10號路線的側邊，有多樣化的餐廳可選擇。</p></div><div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2"><figure name="8a99" id="8a99" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;"><img class="graf-image" data-image-id="1*veMVpNNQMVafGD6QWBlpcw.jpeg" data-width="4032" data-height="3024" data-is-featured="true" src="/assets/images/miro.medium.com/38004eae582ffba2.jpeg"></figure><figure name="0172" id="0172" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;"><img class="graf-image" data-image-id="1*u3pIdeUx58l-B_h1uf1cpA.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/4c145f546380a24c.jpeg"><figcaption class="imageCaption" style="width: 200%; left: -100%;">野澤雪場上ノ平線又寬又長真的超棒</figcaption></figure></div><div class="section-inner sectionLayout--insetColumn"><h3 name="c0e2" id="c0e2" class="graf graf--h3 graf-after--figure">結語</h3><p name="4590" id="4590" class="graf graf--p graf-after--h3">自行前往長野周遭的雪場，需要新幹線轉再來線轉公車，交通真的不甚方便。從東京出發的話，搭乘一日遊夜間巴士，真的是不錯的方法。如果日文溝通無礙，也可直接參考看看<a href="https://roadplan.net/" data-href="https://roadplan.net/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">旅行社的網站</a>，有更多不同的路線可供選擇。之後也會試著繼續運用夜巴，前往更多以往難以安排的雪場。</p><div name="1176" id="1176" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://roadplan.net/" data-href="https://roadplan.net/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://roadplan.net/"><strong class="markup--strong markup--mixtapeEmbed-strong">スキーツアー・スノボツアー(日帰り・宿泊) 2022-2023 ROADPLAN【公式】</strong><br><em class="markup--em markup--mixtapeEmbed-em">FAQ A プランにより異なります。プラン詳細の【レンタル情報】をご確認ください。 レンタル滞在中付プランでレンタル用品を利用しない場合にも、ご返金はございません。 なお、レンタル補償料が掛かる場合は、掛け捨てとなり返金は御座いません。…</em>roadplan.net</a><a href="https://roadplan.net/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock" data-media-id="b2b1f98da9f4c8b3fb4bdf9519051b02"></a></div><p name="f4dd" id="f4dd" class="graf graf--p graf-after--mixtapeEmbed">flickr 相簿</p><div name="8ce1" id="8ce1" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.flickr.com/photos/irvin/albums/72177720307213073" data-href="https://www.flickr.com/photos/irvin/albums/72177720307213073" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.flickr.com/photos/irvin/albums/72177720307213073"><strong class="markup--strong markup--mixtapeEmbed-strong">野澤溫泉滑雪場</strong><br><em class="markup--em markup--mixtapeEmbed-em">20230304 夜巴一日遊</em>www.flickr.com</a><a href="https://www.flickr.com/photos/irvin/albums/72177720307213073" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="4e8ab94feaeaa4ae4ebed3792d8a4851" data-thumbnail-img-id="0*yiWKPWW1UyqnD2w6" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*yiWKPWW1UyqnD2w6);"></a></div><p name="1be3" id="1be3" class="graf graf--p graf-after--mixtapeEmbed">最後是本趟的 Slopes 紀錄，<a href="https://my.getslopes.com/app/addFriend/YW3Re2MpQ6" data-href="https://my.getslopes.com/app/addFriend/YW3Re2MpQ6" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">歡迎加好友</a>。</p><figure name="be70" id="be70" class="graf graf--figure graf-after--p graf--trailing"><img class="graf-image" data-image-id="1*IJb_wOJyIyddh0G6oCJj3Q.jpeg" data-width="1180" data-height="1180" src="/assets/images/miro.medium.com/8bdb365b07a304ca.jpeg"></figure></div></div></section>
+### 日本滑雪場夜間巴士行程經驗
+
+#### 野澤溫泉滑雪場 Road Plan 夜巴一日遊
+
+![](/assets/images/miro.medium.com/bffd6718ccce864f.png)
+
+上個月在日本待了兩週，趁第二個週末，首次嘗試參加 KKDAY 的夜間巴士行程，週五半夜搭車，凌晨抵達雪場；下午再搭車離開雪場，晚上回到東京。在此分享一下相關經驗。
+
+本次參加的行程是 KKDAY「[從新宿到達和離開 | 野澤溫泉滑雪場 | 一日遊巴士和纜車票租賃套餐](https://www.kkday.com/zh-tw/product/138296)」。這個行程分成早上 7:10 出發及前一晚 22:40 出發兩種。早上出發的抵達時間是中午 12:45，夜間出發的抵達時間是早上 06:05。回程都是 16:35（週日16:05）。類似的行程還有[長野龍王滑雪場](https://www.kkday.com/zh-tw/product/137956)、[北志賀小丸山滑雪場](https://www.kkday.com/zh-tw/product/139092)，應該都是類似安排，可以參考看看。
+
+（完全不建議早上出發。中午抵達離離回程時間只剩三個小時，恐怕只夠讓你步行到雪場，搭纜車上山拍照打個卡。）
+
+### 夜巴路程
+
+#### 巴士集合地點
+
+集合地點在東京地鐵都廳前站 A2 出口正後方，議事堂通橋下的大型巴士停車場（大型バス専用駐車場，[Google 地圖](https://goo.gl/maps/jzW6zEUAZ4mTDXJ47)）。
+
+搭乘夜巴時，只要在十點準時到達即可。該停車場很冷清，甚至沒有販賣機或椅子。就算早到，旅行社的報到攤位也還沒擺出來。十點過後人就會忽然非常多。現場有多個旅行社同時設攤，KKDAY 行程請排 Road Plan 旅行社的隊伍。
+
+![](/assets/images/miro.medium.com/fe6b6fcd24363590.jpeg)
+
+*最方便的捷運站出口為東京地鐵都廳前站 A2，出來正後方就是集合的停車場場*
+
+![](/assets/images/miro.medium.com/398f8a5c0a194e8b.jpeg)
+
+*十點一到，各家的旅行社紛紛擺出報到攤位，夜巴的搭乘者也忽然全部冒出來*
+
+#### 報到上車
+
+在櫃台報到時，旅行社核對完姓名。我在 KKDAY 報名時留英文名稱，在參加者列表中特別容易辨識。旅行社會提供雪票與裝備兌換卷、英文說明地圖、以及巴士的上車月台號碼。請在對應月台等候巴士上車。
+
+上車時，司機會比對手上的乘客名單。巴士有指定座位，座位表放或貼在車門旁邊。路程中司機會根據座位確認上下車的地點，請務必對號入座，避免被意外放生。
+
+巴士是一般的四排座大巴，如果是兩個人一起參加，或剛好旁邊有坐人，需要有心理準備不會很好睡。推薦攜帶搭飛機用的頸枕。去程跟回程巴士不同，座位也不同。甚至巴士的公司也不同。我這趟運氣不錯，去程旁邊沒有人，斷斷續續睡到早上還蠻有精神。
+
+![](/assets/images/miro.medium.com/77023550fad9c908.jpeg)
+
+*雪票與裝備兌換卷已收走，地圖上的三個圈起來的地點極重要，務必在手機上查好儲存起來*
+
+![](/assets/images/miro.medium.com/e4f76ff41a6c24d3.jpeg)
+
+*此趟去程的巴士在一號月台*
+
+### 路程與抵達
+
+路程中會停數次休息站（道の駅），短的只停 15 分鐘，長的則有停到一小時，可進去吃點東西逛土產。此趟去程的巴士有在門口用大牌子清楚寫明發車時間，但回程的巴士司機就只有用廣播的。務必問清楚發車時間。
+
+務必在休息站上個廁所。抵達後走到有廁所的地點，就至少要到早上六點多了。
+
+同一台車同時接送長野多個鄰近雪場的乘客（[斑尾、野沢、戸狩、北志賀、赤倉地區](http://roadplan.net/meetingplaces/1046/)）。到站時司機會叫名下車。回程亦是繞行多個雪場接人，再返回東京。去程第一站即為野澤溫泉，抵達時還不到六點。此站很少人下車是正常的，請不要懷疑自己該下車了。
+
+上下車的地點是在野澤溫泉鎮邊緣的巴士停車場（紙本地圖上的 Nakao Information Center，野沢温泉中尾観光案内所，[Google 地圖](https://goo.gl/maps/fydxKjoyrNFkWdDYA)）。此處離鎮中心走路仍需約 20 分鐘，下車時附近空無一人，也沒有任何店家。不但很冷，也可能還在下雪╱下雨，請先做好心理準備。
+
+![](/assets/images/miro.medium.com/94a2dd95d3874661.jpeg)
+
+*下車地點的旅遊中心，此為回程時拍攝。早上抵達時不但天色昏黑、下雪，且當然沒開門。*
+
+#### 步行前往雪場
+
+下車後從旅客中心後方往「野澤溫泉 Superrina」走（紙本地圖上的 SPArena Nozawaonsen，[Google 地圖](https://goo.gl/maps/u7HTjJkZhxfyKm838)），一路緩坡向上，約需走 15 分鐘。抵達時該溫泉設施還沒有開始營業，但可以先進去室內等候。
+
+待六點半櫃檯開張，即可以用旅行社提供的兌換卷交換雪場一日卷。全天的雪場纜車都憑此卡感應。請不要直接在 Superena 更衣。拿到雪票之後，出來繼續往雪場的「長坂站滑雪中心」走，路程約 10 分鐘。
+
+抵達長坂中心時，設備租賃店跟雪場纜車應該都還沒開始營業。可以先到二樓的室內置物櫃準備跟著裝，投販賣機喝個熱飲，搭配上車前或在休息站購買的麵包之類食物，充為早餐。
+
+三樓租設備的 Salomon Station 8:15 開門。屆時人很多，請提前去門口排隊。如果能排到最前面，可以省下半小時以上的等候時間。此時先用手機掃描店家門口的 QR Code，在線上表格填寫好尺寸等基本資訊。開門後直接給店員填好的 QR Code 及旅行社提供的兌換卷以核銷費用。
+
+接下來就可以直接搭纜車上山啦！（雪場經驗請往下到雪場分享）
+
+#### 小鎮與回程
+
+下午滑完雪，回長坂中心租賃處歸還設備。假設不是與家人一起出遊，就不推薦回 Superrina。Superrina 只有一個室內裸湯，而露天溫泉跟戶外泳池需著泳衣。
+
+野澤溫泉有 13 個免費公共外湯，可以好好走走泡泡。另推薦需付費 500 元的故鄉之湯（麻釜温泉公園ふるさとの湯，[地圖](https://goo.gl/maps/HF4VjVfL3AAnzQd46)）設備環境佳。路途中會經過麻釜湧泉的泉源，也可以搭乘「Yu Road 遊ロード」電動步道上山回雪場的日影站，參觀日本滑雪博物館或吃東西。
+
+回程集合處跟清晨下車同一地點，走到停車場時，可以在旁邊的觀光中心內休息，有廁所跟販賣機。巴士可能已經在停車場等候，有看到大巴可以先問問。我回程時搭到的是完全不同的巴士。
+
+![](/assets/images/miro.medium.com/32d8b14460c4deef.jpeg)
+
+*麻釜溫泉泉源*
+
+![](/assets/images/miro.medium.com/a13f691ce4884bd9.jpeg)
+
+*從山下連結到雪場半山腰「日影站」的免費電動步道「遊ロード」*
+
+### 野澤溫泉雪場綠線經驗分享
+
+![](/assets/images/miro.medium.com/908dfd11d408b615.png)
+
+*[野澤溫泉滑雪場全圖](https://nozawaski.com/cms/wp-content/uploads/2021/10/NOZAWAONSEN2021-22-WEB-JP.pdf)*
+
+長坂中心與 Salamon 租賃站在 1 號纜車下方。旁邊 18 號吊椅的 33 號綠線，沒有新雪時整條都結冰，非常難控制，完全不適合練習。當設備準備好後，請直接排隊搭1號纜車上山。下纜車後的 8 號綠線上ノ平，雪質非常好，又長又寬坡度又緩，更適合新手練習、教學跟暖身。
+
+野澤溫泉最長的綠線路線是 8+10+21（環山下山道）+ 38（日影到長坂中心聯絡道），可以滑上近一小時。下山道是原雙線公路，寬敞不困難。38 號的日影長坂聯絡道滑起來沒什麼意思，可提前搭 2 纜車 + 6 號座椅回山上。此路線僅 10 號 Paradise 段較斜一些，但該段蠻寬敞。
+
+山彥站（やまびこ）再往上的山頭與雪場右方都是紅黑色路線，新手切勿輕易嘗試。[滑雪首要避免受傷](https://www.youtube.com/watch?v=BC7QyoyaCrA)。想要練習進階斜坡的人，可以搭日影站的 14 & 16 號吊椅上 29 號綠線，此處就較斜一些，請小心練習。
+
+這幾條線周遭的餐廳位置，在 2 號纜車山腳的日影中心，及10號路線的側邊，有多樣化的餐廳可選擇。
+
+![](/assets/images/miro.medium.com/38004eae582ffba2.jpeg)
+
+![](/assets/images/miro.medium.com/4c145f546380a24c.jpeg)
+
+*野澤雪場上ノ平線又寬又長真的超棒*
+
+### 結語
+
+自行前往長野周遭的雪場，需要新幹線轉再來線轉公車，交通真的不甚方便。從東京出發的話，搭乘一日遊夜間巴士，真的是不錯的方法。如果日文溝通無礙，也可直接參考看看[旅行社的網站](https://roadplan.net/)，有更多不同的路線可供選擇。之後也會試著繼續運用夜巴，前往更多以往難以安排的雪場。
+
+**スキーツアー・スノボツアー(日帰り・宿泊) 2022-2023 ROADPLAN【公式】**
+*FAQ A プランにより異なります。プラン詳細の【レンタル情報】をご確認ください。 レンタル滞在中付プランでレンタル用品を利用しない場合にも、ご返金はございません。 なお、レンタル補償料が掛かる場合は、掛け捨てとなり返金は御座いません。…*roadplan.net
+
+flickr 相簿
+
+**野澤溫泉滑雪場**
+*20230304 夜巴一日遊*www.flickr.com
+
+最後是本趟的 Slopes 紀錄，[歡迎加好友](https://my.getslopes.com/app/addFriend/YW3Re2MpQ6)。
+
+![](/assets/images/miro.medium.com/8bdb365b07a304ca.jpeg)

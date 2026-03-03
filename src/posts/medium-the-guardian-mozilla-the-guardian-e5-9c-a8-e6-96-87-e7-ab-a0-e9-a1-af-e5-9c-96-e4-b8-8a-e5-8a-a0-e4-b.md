@@ -10,4 +10,13 @@ tags: ["medium"]
 excerpt: "The Guardian 在文章顯圖上加上年份，阻止極端組織透過重發舊文來操作輿論。 Mozilla 基金會因此送他們一大張內含兩萬七千個支持者聯名的感謝卡，表彰他們為阻止假新聞的努力。 Thank you The Guardian from Mozilla The Mozilla Foundation delivered a giant thank you"
 ---
 
-<section name="a82c" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--fullWidth"><figure name="3303" id="3303" class="graf graf--figure graf--layoutFillWidth graf--leading"><img class="graf-image" data-image-id="1*leQAnWuHYrMAZo4k5fiahg@2x.jpeg" data-width="2224" data-height="1668" src="/assets/images/miro.medium.com/95bbfab1598afbe6.jpeg"></figure></div><div class="section-inner sectionLayout--insetColumn"><h3 name="b2b0" id="b2b0" class="graf graf--h3 graf-after--figure graf--title">The Guardian 在文章顯圖上加上年份，阻止極端組織透過重發舊文來操作輿論。</h3><h4 name="ef18" id="ef18" class="graf graf--h4 graf-after--h3 graf--subtitle">Mozilla 基金會因此送他們一大張內含兩萬七千個支持者聯名的感謝卡，表彰他們為阻止假新聞的努力。</h4><figure name="a420" id="a420" class="graf graf--figure graf--iframe graf-after--h4"><iframe src="https://www.youtube.com/embed/dpqLJLDPYUk?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe></figure><div name="f242" id="f242" class="graf graf--mixtapeEmbed graf-after--figure graf--trailing"><a href="https://foundation.mozilla.org/en/campaigns/eu-misinformation/publisher-campaign/thanks-guardian/" data-href="https://foundation.mozilla.org/en/campaigns/eu-misinformation/publisher-campaign/thanks-guardian/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://foundation.mozilla.org/en/campaigns/eu-misinformation/publisher-campaign/thanks-guardian/"><strong class="markup--strong markup--mixtapeEmbed-strong">Thank you The Guardian from Mozilla</strong><br><em class="markup--em markup--mixtapeEmbed-em">The Mozilla Foundation delivered a giant thank you card with 27,000 signatures to The Guardian for tackling…</em>foundation.mozilla.org</a><a href="https://foundation.mozilla.org/en/campaigns/eu-misinformation/publisher-campaign/thanks-guardian/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="37c81cdbc5122ca23facc770290df345" data-thumbnail-img-id="0*hoF7z_yWFk2XJbxw.png" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*hoF7z_yWFk2XJbxw.png);"></a></div></div></div></section>
+![](/assets/images/miro.medium.com/95bbfab1598afbe6.jpeg)
+
+### The Guardian 在文章顯圖上加上年份，阻止極端組織透過重發舊文來操作輿論。
+
+#### Mozilla 基金會因此送他們一大張內含兩萬七千個支持者聯名的感謝卡，表彰他們為阻止假新聞的努力。
+
+<iframe src="https://www.youtube.com/embed/dpqLJLDPYUk?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe>
+
+**Thank you The Guardian from Mozilla**
+*The Mozilla Foundation delivered a giant thank you card with 27,000 signatures to The Guardian for tackling…*foundation.mozilla.org

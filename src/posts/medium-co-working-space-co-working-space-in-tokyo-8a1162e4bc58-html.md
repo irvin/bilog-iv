@@ -10,4 +10,223 @@ tags: ["medium"]
 excerpt: "旅途中的 co-working space 東京日本短期遠距工作場地心得 前陣子安排了兩個較長的假期到日本，其中跨越了幾個工作天，因此做了一些研究，在東京遠距工作數日，稍稍小試數位遊牧的生活。以下分享一些場地方面的經驗與心得。 在旅館工作 在旅途之中，當你需要工作時，待在旅館房間可能是最直覺的選擇。但日本緯度高，冬天天黑得早，如果在飯店工作，很容易陷入吃完早"
 ---
 
-<section name="b426" class="section section--body section--first"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="3651" id="3651" class="graf graf--h3 graf--leading graf--title">旅途中的 co-working space</h3><h4 name="f553" id="f553" class="graf graf--h4 graf-after--h3 graf--subtitle">東京日本短期遠距工作場地心得</h4><p name="c5e7" id="c5e7" class="graf graf--p graf-after--h4">前陣子安排了兩個較長的假期到日本，其中跨越了幾個工作天，因此做了一些研究，在東京遠距工作數日，稍稍小試數位遊牧的生活。以下分享一些場地方面的經驗與心得。</p><h3 name="902a" id="902a" class="graf graf--h3 graf-after--p">在旅館工作</h3><p name="c6b0" id="c6b0" class="graf graf--p graf-after--h3">在旅途之中，當你需要工作時，待在旅館房間可能是最直覺的選擇。但日本緯度高，冬天天黑得早，如果在飯店工作，很容易陷入吃完早餐回房間，中午下樓買便利商店，傍晚結束工作時也已經天黑，身體跟心靈都累到懶得出門的狀態。如果是連續多天的話，很容易陷入一種「為什麼要把自己困在異國的房間」的情緒。尤其日本的商務旅館狹小，榻榻米的傳統旅館又缺少可坐正的工作桌，對健康實在不太好。</p><p name="e13c" id="e13c" class="graf graf--p graf-after--p">優點</p><ul class="postList"><li name="7391" id="7391" class="graf graf--li graf-after--p">起床即可工作，累了即可睡覺</li></ul><p name="a01f" id="a01f" class="graf graf--p graf-after--li">缺點</p><ul class="postList"><li name="3783" id="3783" class="graf graf--li graf-after--p">起床就要工作，累了只能睡覺</li></ul><h4 name="9a32" id="9a32" class="graf graf--h4 graf-after--li">一些建議</h4><ul class="postList"><li name="81bd" id="81bd" class="graf graf--li graf-after--h4">如果打算在旅館工作，盡量找大一點的房間，或有區隔工作間與寢室的套房。避免市中心的低價商務旅館之類，只有一個床這麼大的房間。</li><li name="ec91" id="ec91" class="graf graf--li graf-after--li">東京的話，可以往有明、豐洲、潮見的濱海新生地地區的飯店找。我有兩晚住在<a href="https://www.booking.com/hotel/jp/sunroute-ariake.zh-tw.html?aid=2127568&amp;label=metagha-link-MRTW-hotel-245679_dev-desktop_los-1_bw-13_dow-Tuesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-1_clrid-0_ad-0_gstkid-0_checkin-20230418_&amp;sid=5963aeb7055fb44d5f571a870a9ea7e7&amp;all_sr_blocks=24567964_199899372_0_2_0;checkin=2023-04-18;checkout=2023-04-19;dest_id=-246227;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=24567964_199899372_0_2_0;hpos=1;matching_block_id=24567964_199899372_0_2_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=24567964_199899372_0_2_0__1575000;srepoch=1680641437;srpvid=50eb928deeaf002e;type=total;ucfs=1&amp;#RD24567983" data-href="https://www.booking.com/hotel/jp/sunroute-ariake.zh-tw.html?aid=2127568&amp;label=metagha-link-MRTW-hotel-245679_dev-desktop_los-1_bw-13_dow-Tuesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-1_clrid-0_ad-0_gstkid-0_checkin-20230418_&amp;sid=5963aeb7055fb44d5f571a870a9ea7e7&amp;all_sr_blocks=24567964_199899372_0_2_0;checkin=2023-04-18;checkout=2023-04-19;dest_id=-246227;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=24567964_199899372_0_2_0;hpos=1;matching_block_id=24567964_199899372_0_2_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=24567964_199899372_0_2_0__1575000;srepoch=1680641437;srpvid=50eb928deeaf002e;type=total;ucfs=1&amp;#RD24567983" class="markup--anchor markup--li-anchor" rel="noopener" target="_blank">有明相鐵 Fresa</a> 的套房，房間不但大，還有不錯的獨立工作區域、適合的工作桌跟可調高度的電腦椅。</li><li name="8998" id="8998" class="graf graf--li graf-after--li">在 Booking.com 搜索時選擇「差旅行程」，結果篩選可以設定需要包含能用筆電的工作桌。</li></ul><figure name="ffb7" id="ffb7" class="graf graf--figure graf-after--li graf--trailing"><img class="graf-image" data-image-id="1*do3km82qgJtCvZBZn0ZqEw.jpeg" data-width="900" data-height="592" src="/assets/images/miro.medium.com/05fc3b28a7d66ccd.jpeg"><figcaption class="imageCaption">能夠區隔工作與睡覺的區域，且有能夠調整高度的椅子，真的比較理想。（發現沒有照到照片，借<a href="https://sotetsu-hotels.com/tw/grand-fresa/ariake/rooms/" data-href="https://sotetsu-hotels.com/tw/grand-fresa/ariake/rooms/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">官網</a>的）</figcaption></figure></div></div></section><section name="e0f9" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="c7e8" id="c7e8" class="graf graf--h3 graf--leading">咖啡店</h3><p name="7bad" id="7bad" class="graf graf--p graf-after--h3">在台灣，咖啡店大概是除了住家外最常見的工作地點，但行前調查時，不太能確定日本是否也有一樣的文化。特別是預定或臨時需要視訊開會時，總會擔心會不會其實是有點失格的行為。</p><p name="c3fa" id="c3fa" class="graf graf--p graf-after--p">經過實地觀察後，發現像是星巴克、Excelsior、TULLY’S 等，店內光線較亮，以商務客為主的連鎖咖啡店，都還蠻適合用來工作。除了都有提供 wifi 外，許多位置也有插座。且在咖啡店內也有看到不少當地人在視訊開會。</p><p name="d639" id="d639" class="graf graf--p graf-after--p">在咖啡店工作的話，記得注意一下店內的低消規則。我其中一個早晨時段去了新宿的某家 Excelsior，點餐時就會拿到一張牌子註明單點一次最多使用 90 分鐘。如果要待上一整天，就先點個咖啡、中午吃個午餐、下午再來個下午茶吧！</p><p name="d0ba" id="d0ba" class="graf graf--p graf-after--p">優點</p><ul class="postList"><li name="bdb0" id="bdb0" class="graf graf--li graf-after--p">連鎖咖啡店到處都有</li><li name="efa5" id="efa5" class="graf graf--li graf-after--li">一杯飲料的低消便宜</li></ul><p name="d5a9" id="d5a9" class="graf graf--p graf-after--li">缺點</p><ul class="postList"><li name="c7c2" id="c7c2" class="graf graf--li graf-after--p">誤闖安靜的店不適合開會</li><li name="bdd1" id="bdd1" class="graf graf--li graf-after--li">長時間佔用座位時有些顧慮</li></ul><figure name="6b81" id="6b81" class="graf graf--figure graf-after--li"><img class="graf-image" data-image-id="1*i2kSRBVNNsk6yv0GvbUfSw.jpeg" data-width="3852" data-height="2888" src="/assets/images/miro.medium.com/5b1ab4aa6d18f073.jpeg"><figcaption class="imageCaption">Excelsior 蔬菜湯早餐套餐只要 ¥660，注意標示使用時段與低消規則的卡片</figcaption></figure><h3 name="db20" id="db20" class="graf graf--h3 graf-after--figure">特殊的咖啡店</h3><p name="8e0d" id="8e0d" class="graf graf--p graf-after--h3">此次也有調查到特別註明歡迎用於工作，特殊型態的咖啡店，以下分享兩間</p><h4 name="38d0" id="38d0" class="graf graf--h4 graf-after--p">貓咖啡 Mocha</h4><p name="1e9c" id="1e9c" class="graf graf--p graf-after--h4">想像一下，能邊工作邊擼貓，肯定是最幸福的工作環境。Cat Cafe Mocha 應是日本最具規模的貓咪咖啡連鎖，期官網上有特別註明<a href="https://catmocha.jp/shoplist/" data-href="https://catmocha.jp/shoplist/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">新宿、涉谷、池袋⋯⋯等七間分店</a>適合工作。</p><p name="830a" id="830a" class="graf graf--p graf-after--p">實地探訪新宿店，店內環境很不錯，貓咪很多也很可愛活潑，提供無限暢飲多種飲料，光線蠻好。但除了貓咪的叫聲外，顧客都非常小聲，環境非常安靜。的確也有人在店內使用電腦工作，如果沒有視訊會議的需求，的確是不錯的選擇。新宿店的費用是每十分鐘 ¥220，一日 ¥2640 封頂。（無法在內飲食，但可中途外出。）</p><p name="7ebf" id="7ebf" class="graf graf--p graf-after--p">優點</p><ul class="postList"><li name="e1c5" id="e1c5" class="graf graf--li graf-after--p">有貓</li><li name="b7e2" id="b7e2" class="graf graf--li graf-after--li">超多選擇的飲料喝到飽</li><li name="eed4" id="eed4" class="graf graf--li graf-after--li">環境佳</li></ul><p name="1bf1" id="1bf1" class="graf graf--p graf-after--li">缺點</p><ul class="postList"><li name="957b" id="957b" class="graf graf--li graf-after--p">不適合視訊會議</li></ul><p name="1593" id="1593" class="graf graf--p graf-after--li">（特別注意：Cat Cafe Mocha <em class="markup--em markup--p-em">並非浪貓中途</em>。官網有註明他們的貓咪來自於<a href="https://safety.catmocha.jp/debut/index.html" data-href="https://safety.catmocha.jp/debut/index.html" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">符合一定要求的合作繁殖業者</a>）</p><div name="af85" id="af85" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://catmocha.jp/" data-href="https://catmocha.jp/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://catmocha.jp/"><strong class="markup--strong markup--mixtapeEmbed-strong">TOP｜猫カフェ MOCHA(モカ)</strong><br><em class="markup--em markup--mixtapeEmbed-em">猫カフェMOCHAは東京、大阪、名古屋、福岡など日本全国に展開する最大級の猫カフェです。猫と過ごす癒やしの空間で、お客様に心豊かなひとときをお届けします。</em>catmocha.jp</a><a href="https://catmocha.jp/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="0e2fc4aac3257a65e66565a3071fa4b0" data-thumbnail-img-id="0*OAQR0KIjk4DxVT8u" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*OAQR0KIjk4DxVT8u);"></a></div><figure name="b02b" id="b02b" class="graf graf--figure graf-after--mixtapeEmbed"><img class="graf-image" data-image-id="1*4Z6Pv5bBijfFD93AWgI91Q.jpeg" data-width="4032" data-height="3024" src="/assets/images/miro.medium.com/26b1a4818b1e0437.jpeg"><figcaption class="imageCaption">帶著耳朵工作能提升專注力</figcaption></figure><figure name="4eb7" id="4eb7" class="graf graf--figure graf-after--figure graf--trailing"><img class="graf-image" data-image-id="1*r1twSSfVAr_HRoAcCuSmmQ.png" data-width="2036" data-height="1362" src="/assets/images/miro.medium.com/6be7d9a7b059b10f.png"><figcaption class="imageCaption">這個文案很懂</figcaption></figure></div></div></section><section name="d76c" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 name="009f" id="009f" class="graf graf--h4 graf--leading">Cafe Salvador Business Salon</h4><p name="3e6b" id="3e6b" class="graf graf--p graf-after--h4">位於日本橋地鐵茅場町站東京証卷會館一樓，由 Wired 咖啡的母公司 Cafe Company 所經營的另一個咖啡品牌 Cafe Salvador 附設的工作空間。場地內有四人圓桌、沙發區、及以矮隔板區隔的一人用座位。早上七點到夜間十點全天只要 ¥1800，提供基本的飲料暢飲，也可點旁邊咖啡店的餐點與飲品。現場歡迎視訊會議。可於<a href="http://cafe-salvador.com/business_salon/" data-href="http://cafe-salvador.com/business_salon/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">官網線上預約</a>座位。</p><div name="37e4" id="37e4" class="graf graf--mixtapeEmbed graf-after--p"><a href="http://cafe-salvador.com/business_salon/" data-href="http://cafe-salvador.com/business_salon/" class="markup--anchor markup--mixtapeEmbed-anchor" title="http://cafe-salvador.com/business_salon/"><strong class="markup--strong markup--mixtapeEmbed-strong">BUSINESS SALON</strong><br><em class="markup--em markup--mixtapeEmbed-em">コーヒーを片手に意見を交換し合うミーティングから、アイデアを形にするひとときまで。 WEBや電話から席を予約できるビジネスサロンは、この街のビジネスパーソンの1日に寄り添います。 30min / 300yen （税込） 1day /…</em>cafe-salvador.com</a><a href="http://cafe-salvador.com/business_salon/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock" data-media-id="74296edbc8bcf3ac4ed9a5492ae343c5"></a></div><p name="e3d1" id="e3d1" class="graf graf--p graf-after--mixtapeEmbed">優點</p><ul class="postList"><li name="b82f" id="b82f" class="graf graf--li graf-after--p">單人工作隔間</li><li name="4118" id="4118" class="graf graf--li graf-after--li">東京車站周遭金融企業地帶，體驗社畜通勤上班的生活</li></ul><p name="2b9f" id="2b9f" class="graf graf--p graf-after--li">缺點</p><ul class="postList"><li name="a4ad" id="a4ad" class="graf graf--li graf-after--p">下方的單人隔間只有四個，需要提早預約</li><li name="ff70" id="ff70" class="graf graf--li graf-after--li">桌椅無法調整高度</li></ul><figure name="f15e" id="f15e" class="graf graf--figure graf-after--li graf--trailing"><img class="graf-image" data-image-id="1*i6b_i9uWF3cZNtcVQBqldg.jpeg" data-width="3024" data-height="3287" data-is-featured="true" src="/assets/images/miro.medium.com/80648f7217df3fda.jpeg"><figcaption class="imageCaption">C2 區的個人座位，共有四個位子，當天很快就坐滿了</figcaption></figure></div></div></section><section name="1cfa" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="3c36" id="3c36" class="graf graf--h3 graf--leading">車站的工作隔間</h3><p name="26c9" id="26c9" class="graf graf--p graf-after--h3">數個廠商在各繁忙地區都有設置了膠囊型的工作隔間（work booth），尤其是 JR 東日本的「<a href="https://www.stationwork.jp/" data-href="https://www.stationwork.jp/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Station Work</a>」，在全日本的鐵路車站共有 350 個據點，東京幾乎每個主要車站都有數個工作隔間。只要先上網站註冊會員並設定信用卡，即可預約需要的時段，屆時直接以手機 QR code 即可進入使用。</p><p name="a336" id="a336" class="graf graf--p graf-after--p">缺點是長時間使用時價格較貴。以 Station Work 為例，計費方式是每 15 分鐘 ¥275，假設連續使用一整天 8 小時，總價就達到台幣兩千塊了。可能較為適合短時間的視訊會議。</p><p name="1e12" id="1e12" class="graf graf--p graf-after--p">個人這兩趟都沒有使用到工作膠囊。原本有計畫要去高輪 Gateway 的星巴克，再預約使用設置於星巴克內的 booth 來進行視訊會議。不巧沒預約到該時段。</p><p name="1054" id="1054" class="graf graf--p graf-after--p">優點</p><ul class="postList"><li name="ccfd" id="ccfd" class="graf graf--li graf-after--p">據點超多可及性高</li><li name="8676" id="8676" class="graf graf--li graf-after--li">無人自助，預約便利</li><li name="56ee" id="56ee" class="graf graf--li graf-after--li">位於車站方便午餐覓食</li></ul><p name="7d68" id="7d68" class="graf graf--p graf-after--li">缺點</p><ul class="postList"><li name="e4e5" id="e4e5" class="graf graf--li graf-after--p">長時間使用時價格昂貴</li></ul><figure name="ae64" id="ae64" class="graf graf--figure graf--iframe graf-after--li graf--trailing"><iframe src="https://www.youtube.com/embed/JmXq0Krhmsg?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe></figure></div></div></section><section name="0cd7" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="68d2" id="68d2" class="graf graf--h3 graf--leading">商務中心 &amp; co-working space</h3><p name="5d10" id="5d10" class="graf graf--p graf-after--h3">談到在陌生的城市遠端工作時，首先就會想到 co-working space。此次發現，東京真的有非常非常多 co-working space，有的是從商務中心轉型而來，有的則是特定的公司或組織所提供的額外服務。</p><h4 name="515a" id="515a" class="graf graf--h4 graf-after--p">ビジネスエアポート品川</h4><p name="28d9" id="28d9" class="graf graf--p graf-after--h4">Business-Airport 是個有許多據點的商務中心，此次使用了品川的空間。位於品川站南口步行約五分鐘的「太陽生命品川大樓」28F。特點是一整排大面玻璃視野全無遮蔽的座位，且提供許多螢幕可自由使用。</p><p name="7cc6" id="7cc6" class="graf graf--p graf-after--p">此行透過 <a href="https://www.stationwork.jp/booth-desk-franchise/base-search/base-details/?floorId=561&amp;type=3" data-href="https://www.stationwork.jp/booth-desk-franchise/base-search/base-details/?floorId=561&amp;type=3" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Station Work 來預約使用</a>，8am–8pm 價格是 ¥3,300。</p><p name="d5ce" id="d5ce" class="graf graf--p graf-after--p">優點</p><ul class="postList"><li name="15d6" id="15d6" class="graf graf--li graf-after--p">交通便利</li><li name="13dd" id="13dd" class="graf graf--li graf-after--li">全無遮蔽的高樓視野</li><li name="a586" id="a586" class="graf graf--li graf-after--li">品川站內用餐選擇非常非常多</li></ul><p name="fb88" id="fb88" class="graf graf--p graf-after--li">缺點</p><ul class="postList"><li name="0912" id="0912" class="graf graf--li graf-after--p">飲料區只提供超迷你紙杯（飲水機喝水用那種），要一直裝非常麻煩</li></ul><div name="b254" id="b254" class="graf graf--mixtapeEmbed graf-after--li"><a href="https://business-airport.net/shop/shinagawa/" data-href="https://business-airport.net/shop/shinagawa/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://business-airport.net/shop/shinagawa/"><strong class="markup--strong markup--mixtapeEmbed-strong">品川（港区）のビジネスエアポート | 品川駅のレンタルオフィス・シェアオフィス・コワーキングスペース</strong><br><em class="markup--em markup--mixtapeEmbed-em">JR品川駅港南口とスカイウェイにて直結、 空と陸の理想のアクセスを誇る 「ビジネスエアポート品川」。 シーサイド・シティサイドのいずれも 街や海を見下ろすことのできる高層階だからこその眺望と、…</em>business-airport.net</a><a href="https://business-airport.net/shop/shinagawa/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="44f9c6eb741be81de693dd8db41bb9b6" data-thumbnail-img-id="0*mj6MD2XYckmR5hGX" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*mj6MD2XYckmR5hGX);"></a></div><figure name="bbe8" id="bbe8" class="graf graf--figure graf-after--mixtapeEmbed graf--trailing"><img class="graf-image" data-image-id="1*spVQb_H6wVsn3570Kh8KLQ.jpeg" data-width="3024" data-height="4032" src="/assets/images/miro.medium.com/85ab9635e3f4fe6a.jpeg"><figcaption class="imageCaption">一般來說得要是高級社畜才能享有的景色</figcaption></figure></div></div></section><section name="7b79" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 name="bc9c" id="bc9c" class="graf graf--h4 graf--leading">.andwork shibuya &amp; kawasaki</h4><p name="660d" id="660d" class="graf graf--p graf-after--h4">.andwork 自述是「酒店一體型協同工作空間」，就是以飯店公共空間提供作為工作場所，並提供飲料等服務。其網站的標語寫的很好：<strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">既不是辦公室，也不是家裡，也不是咖啡廳</em></strong><em class="markup--em markup--p-em">。兼具適度緊張感和舒適感，釋放你的創造力的辦公室。</em></p><p name="cefa" id="cefa" class="graf graf--p graf-after--p">.andwork <a href="https://www.xandwork.com/locations/" data-href="https://www.xandwork.com/locations/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">在日本共有七個據點</a>。使用方式需先在網站上註冊會員，取得入場 QR Code，並到各飯店櫃檯登記入場。使用後於櫃檯 check-out 並現場結帳。此行共使用了涉谷與川崎兩處，體驗都非常良好，今後也會想要繼續探索其它場地。</p><p name="d443" id="d443" class="graf graf--p graf-after--p"><a href="https://www.xandwork.com/shibuya/" data-href="https://www.xandwork.com/shibuya/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">.andwork shibuya</a> 位於 The Millennials Shibuya 飯店內，距離澀谷車站步行約 10 分鐘。空間風格比較活潑時尚，共用空間有兩層樓，有許多各種不同的座位形式：高腳椅、沙發、卡座、圓桌⋯⋯等。當天使用者蠻多的，且大概有超過一半是西方人。費用是 ¥3,000 一日。</p><p name="3e34" id="3e34" class="graf graf--p graf-after--p">附近一個路口處就是有名的都市改造案例「宮下公園」（公園用地都更後，將公共公園設置到商業建築的屋頂），下班後也可過去散散步。</p><div name="c4c4" id="c4c4" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.xandwork.com/shibuya/" data-href="https://www.xandwork.com/shibuya/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.xandwork.com/shibuya/"><strong class="markup--strong markup--mixtapeEmbed-strong">.andwork shibuya | 渋谷 | ホテルハイブリッド型コワーキングスペース</strong><br><em class="markup--em markup--mixtapeEmbed-em">ホテルがオフィスに。新たなワークプレイス.andwork。世界中の人とシーンが交差するオープン空間は、感性を自由に解き放つワークロケーションへ。各拠点の.andworkを通じたネットワークを活用すれば、いつでも理想的なワークロケーションが見…</em>www.xandwork.com</a><a href="https://www.xandwork.com/shibuya/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="dec294565996ca3a44e1979fe4690fd1" data-thumbnail-img-id="0*62HTeeMavX51iue_" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*62HTeeMavX51iue_);"></a></div><p name="2d80" id="2d80" class="graf graf--p graf-after--mixtapeEmbed">.andwork kawasaki 位於川崎站東口商店街後方的 Slash Kawasaki 飯店內。因為附近是歡樂街的緣故，晚上可能會非常熱鬧（某種意義上）。相對於涉谷的 The Millennials，Slash 飯店的裝潢風格感覺較為悠閒。</p><p name="6bcd" id="6bcd" class="graf graf--p graf-after--p">飯店一樓的工作空間，同時也作為餐廳與咖啡店、bar 使用（且中午還蠻多人進來用餐）。除一樓的一個工作長桌、數個雙人與四人用餐的座位以外，最特別的是頂樓的戶外平台，包含沙發與高腳桌戶外座位，天氣好的時候感覺會非常愜意。</p><p name="9eb2" id="9eb2" class="graf graf--p graf-after--p">使用一天的價格是相對便宜的 ¥2,000，可從早上七點待到晚上十點。另外，頂樓的小自助吧台，反倒是提供了此行所使用過的所有場地內，最好的自助咖啡機跟飲料選擇。</p><div name="21f3" id="21f3" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.xandwork.com/kawasaki/" data-href="https://www.xandwork.com/kawasaki/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.xandwork.com/kawasaki/"><strong class="markup--strong markup--mixtapeEmbed-strong">.andwork kawasaki | 川崎 | ホテルハイブリッド型コワーキングスペース</strong><br><em class="markup--em markup--mixtapeEmbed-em">ホテルがオフィスに。新たなワークプレイス.andwork。世界中の人とシーンが交差するオープン空間は、感性を自由に解き放つワークロケーションへ。各拠点の.andworkを通じたネットワークを活用すれば、いつでも理想的なワークロケーションが見…</em>www.xandwork.com</a><a href="https://www.xandwork.com/kawasaki/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="21f5b664ad60a25823ca79e3610b7e6a" data-thumbnail-img-id="0*Ao0obgUaRrhfiWZI" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*Ao0obgUaRrhfiWZI);"></a></div><figure name="b551" id="b551" class="graf graf--figure graf-after--mixtapeEmbed"><img class="graf-image" data-image-id="1*YE01OrSJgpvFNrpXLsWevA.jpeg" data-width="1024" data-height="768" src="/assets/images/miro.medium.com/7138b8b0317d003d.jpeg"><figcaption class="imageCaption">外帶松屋燒肉飯來天空露台吃午餐曬曬太陽</figcaption></figure><h4 name="0b4e" id="0b4e" class="graf graf--h4 graf-after--figure">其他 co-working space</h4><p name="d646" id="d646" class="graf graf--p graf-after--h4">搜集資料時，有查到 Amazon 在東京目黑的公司大樓 17 樓設立了「<a href="https://aws-startup-lofts.com/apj/loft/tokyo" data-href="https://aws-startup-lofts.com/apj/loft/tokyo" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">AWS Startup Loft Tokyo</a>」的免費空間。只要有 AWS 帳號即可免費使用，並提供免費飲料與點心等福利。甚至在上班時間，現場還有 AWS 的 mentors / architects 可以進行諮詢。（不過沒有用到）</p><div name="69e5" id="69e5" class="graf graf--mixtapeEmbed graf-after--p graf--trailing"><a href="https://aws-startup-lofts.com/apj/loft/tokyo" data-href="https://aws-startup-lofts.com/apj/loft/tokyo" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://aws-startup-lofts.com/apj/loft/tokyo"><strong class="markup--strong markup--mixtapeEmbed-strong">AWS Startup Loft Tokyo</strong><br><em class="markup--em markup--mixtapeEmbed-em">Japan startups have a home at the AWS Startup Loft Tokyo.</em>aws-startup-lofts.com</a><a href="https://aws-startup-lofts.com/apj/loft/tokyo" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="cb0c26b5869fe7a95bdcdfb729d0f01b" data-thumbnail-img-id="0*Z6VWlBbi0aEC4bu5" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*Z6VWlBbi0aEC4bu5);"></a></div></div></div></section><section name="239d" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="ff93" id="ff93" class="graf graf--h3 graf--leading">特殊的工作空間</h3><h4 name="f0c4" id="f0c4" class="graf graf--h4 graf-after--h3">其他飯店的房間</h4><p name="597b" id="597b" class="graf graf--p graf-after--h4">Station Work 另外有提供「飯店房間」可供預約，在白天的時段以 ¥5,000~10,000 的價格，可使用車站附近的飯店房間，作為個人工作空間。只能使用房內的桌椅與廁所，但不可睡覺與洗澡等。</p><div name="8983" id="8983" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.stationwork.jp/booth-desk-franchise/base-search/list-of-bases/?type=franchise" data-href="https://www.stationwork.jp/booth-desk-franchise/base-search/list-of-bases/?type=franchise" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.stationwork.jp/booth-desk-franchise/base-search/list-of-bases/?type=franchise"><strong class="markup--strong markup--mixtapeEmbed-strong">STATION BOOTH/DESK/ホテルシェアオフィス等の拠点一覧｜エキナカ×シェアオフィス - STATION…</strong><br><em class="markup--em markup--mixtapeEmbed-em">STATION BOOTH/DESK/ホテルシェアオフィス等の拠点の一覧が見られます｜「STATION BOOTH（ステーションブース）、STATION DESK（ステーション…</em>www.stationwork.jp</a><a href="https://www.stationwork.jp/booth-desk-franchise/base-search/list-of-bases/?type=franchise" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="3ded3b407d3065570a0ebda3c5f83c77" data-thumbnail-img-id="0*uHtsGPX1WVyyyVX3" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*uHtsGPX1WVyyyVX3);"></a></div><h4 name="d0b0" id="d0b0" class="graf graf--h4 graf-after--mixtapeEmbed">超級錢湯</h4><p name="5bd5" id="5bd5" class="graf graf--p graf-after--h4">因應疫情，東京巨蛋的 Spa LaQua 規劃了特別的工作方案。平常日的白天可以使用半開放的個人座位、餐廳或咖啡店的空間遠端工作。咖啡店另有到下午五點的暢飲方案。如果開會不順利，一言不合就斷線去泡湯，多舒暢。（網站上資訊還在，但不確定目前是否仍持續提供）</p><div name="f00a" id="f00a" class="graf graf--mixtapeEmbed graf-after--p graf--trailing"><a href="https://www.laqua.jp/topics/list/working_spa/" data-href="https://www.laqua.jp/topics/list/working_spa/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.laqua.jp/topics/list/working_spa/"><strong class="markup--strong markup--mixtapeEmbed-strong">都心のリゾートで快適ワーク | ラクーア - LaQua</strong><br><em class="markup--em markup--mixtapeEmbed-em">半個室タイプのワークスペースのご用意もございます。 隣との仕切りをつけてプライベートな空間に。ゆっくりと作業に集中いただけます。 ●別途料金などは必要ございません。…</em>www.laqua.jp</a><a href="https://www.laqua.jp/topics/list/working_spa/" class="js-mixtapeImage mixtapeImage mixtapeImage--mediumCatalog  u-ignoreBlock" data-media-id="76f87e3375d637381ac48e37c06f4648" data-thumbnail-img-id="0*dezpdSQ1hFCcHdJt" style="background-image: url(https://cdn-images-1.medium.com/fit/c/304/160/0*dezpdSQ1hFCcHdJt);"></a></div></div></div></section><section name="406c" class="section section--body"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p name="6d9a" id="6d9a" class="graf graf--p graf--leading graf--trailing">東京有著多且多樣的工作場地，很多連鎖 co-working space（如 WeWork、Business-Airport）都可透過 Station Work 的網站來預約，不需一間一間註冊帳號頗為方便。也很推薦在 Google 地圖上試著搜索，看看附近有沒有什麼看起來很有趣的空間。歡迎推薦其他你體驗過，覺得很不錯的異國工作空間。happy work remotely!</p></div></div></section><section name="fab9" class="section section--body section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="7501" id="7501" class="graf graf--h3 graf--leading">參考資訊</h3><p name="f19b" id="f19b" class="graf graf--p graf-after--h3"><a href="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo" data-href="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo" class="markup--anchor markup--p-anchor" title="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">7 best co-working spaces for remote work in Tokyo | Time Out Tokyo</strong></a></p><div name="a58e" id="a58e" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo" data-href="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo"><strong class="markup--strong markup--mixtapeEmbed-strong">7 best co-working spaces for remote work in Tokyo | Time Out Tokyo</strong><br><em class="markup--em markup--mixtapeEmbed-em">These remote work spaces offer something more professional than a café, but without the commitment of a full office</em>www.timeout.com</a><a href="https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="8250e3781367eb7924479828e1d0659e" data-thumbnail-img-id="0*-MqJIpOe8CJMdsRy" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*-MqJIpOe8CJMdsRy);"></a></div><p name="5f65" id="5f65" class="graf graf--p graf-after--mixtapeEmbed"><a href="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/" data-href="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/" class="markup--anchor markup--p-anchor" title="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">Digital Nomad in Japan — an Ultimate Guide — Digital Nomad Asia</strong></a></p><div name="2f5c" id="2f5c" class="graf graf--mixtapeEmbed graf-after--p"><a href="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/" data-href="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/"><strong class="markup--strong markup--mixtapeEmbed-strong">Digital Nomad in Japan - an Ultimate Guide - Digital Nomad Asia</strong><br><em class="markup--em markup--mixtapeEmbed-em">If you&#39;re looking to travel around Asia as a digital nomad, Japan is completely different to a lot of its neighbouring…</em>www.thedigitalnomad.asia</a><a href="https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="8cd692be6a9543f8f64e9f16ac6d437f" data-thumbnail-img-id="0*D6HqkwlI7CuO8yZS" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*D6HqkwlI7CuO8yZS);"></a></div><p name="81a8" id="81a8" class="graf graf--p graf--startsWithDoubleQuote graf-after--mixtapeEmbed"><a href="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/" data-href="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/" class="markup--anchor markup--p-anchor" title="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/" rel="noopener" target="_blank"><strong class="markup--strong markup--p-strong">“Gaijin-Friendly” Coworking Spaces for Digital Nomads in Tokyo 【Top Ranking】</strong></a></p><div name="4738" id="4738" class="graf graf--mixtapeEmbed graf-after--p graf--trailing"><a href="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/" data-href="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/"><strong class="markup--strong markup--mixtapeEmbed-strong">&quot;Gaijin-Friendly&quot; Coworking Spaces for Digital Nomads in Tokyo 【Top Ranking】</strong><br><em class="markup--em markup--mixtapeEmbed-em">Japan is an amazing country with a rich history and culture that should be on everyone&#39;s bucket list. However you might…</em>www.thedigitalnomad.asia</a><a href="https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/" class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="22f0e31630c5e20bf9b8bc667bd7b437" data-thumbnail-img-id="0*3v2M9iDkkccXNsfG" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*3v2M9iDkkccXNsfG);"></a></div></div></div></section>
+### 旅途中的 co-working space
+
+#### 東京日本短期遠距工作場地心得
+
+前陣子安排了兩個較長的假期到日本，其中跨越了幾個工作天，因此做了一些研究，在東京遠距工作數日，稍稍小試數位遊牧的生活。以下分享一些場地方面的經驗與心得。
+
+### 在旅館工作
+
+在旅途之中，當你需要工作時，待在旅館房間可能是最直覺的選擇。但日本緯度高，冬天天黑得早，如果在飯店工作，很容易陷入吃完早餐回房間，中午下樓買便利商店，傍晚結束工作時也已經天黑，身體跟心靈都累到懶得出門的狀態。如果是連續多天的話，很容易陷入一種「為什麼要把自己困在異國的房間」的情緒。尤其日本的商務旅館狹小，榻榻米的傳統旅館又缺少可坐正的工作桌，對健康實在不太好。
+
+優點
+
+- 起床即可工作，累了即可睡覺
+
+缺點
+
+- 起床就要工作，累了只能睡覺
+
+#### 一些建議
+
+- 如果打算在旅館工作，盡量找大一點的房間，或有區隔工作間與寢室的套房。避免市中心的低價商務旅館之類，只有一個床這麼大的房間。
+- 東京的話，可以往有明、豐洲、潮見的濱海新生地地區的飯店找。我有兩晚住在
+   有明相鐵 Fresa
+   的套房，房間不但大，還有不錯的獨立工作區域、適合的工作桌跟可調高度的電腦椅。
+- 在 Booking.com 搜索時選擇「差旅行程」，結果篩選可以設定需要包含能用筆電的工作桌。
+
+![](/assets/images/miro.medium.com/05fc3b28a7d66ccd.jpeg)
+
+*能夠區隔工作與睡覺的區域，且有能夠調整高度的椅子，真的比較理想。（發現沒有照到照片，借[官網](https://sotetsu-hotels.com/tw/grand-fresa/ariake/rooms/)的）*
+
+### 咖啡店
+
+在台灣，咖啡店大概是除了住家外最常見的工作地點，但行前調查時，不太能確定日本是否也有一樣的文化。特別是預定或臨時需要視訊開會時，總會擔心會不會其實是有點失格的行為。
+
+經過實地觀察後，發現像是星巴克、Excelsior、TULLY’S 等，店內光線較亮，以商務客為主的連鎖咖啡店，都還蠻適合用來工作。除了都有提供 wifi 外，許多位置也有插座。且在咖啡店內也有看到不少當地人在視訊開會。
+
+在咖啡店工作的話，記得注意一下店內的低消規則。我其中一個早晨時段去了新宿的某家 Excelsior，點餐時就會拿到一張牌子註明單點一次最多使用 90 分鐘。如果要待上一整天，就先點個咖啡、中午吃個午餐、下午再來個下午茶吧！
+
+優點
+
+- 連鎖咖啡店到處都有
+- 一杯飲料的低消便宜
+
+缺點
+
+- 誤闖安靜的店不適合開會
+- 長時間佔用座位時有些顧慮
+
+![](/assets/images/miro.medium.com/5b1ab4aa6d18f073.jpeg)
+
+*Excelsior 蔬菜湯早餐套餐只要 ¥660，注意標示使用時段與低消規則的卡片*
+
+### 特殊的咖啡店
+
+此次也有調查到特別註明歡迎用於工作，特殊型態的咖啡店，以下分享兩間
+
+#### 貓咖啡 Mocha
+
+想像一下，能邊工作邊擼貓，肯定是最幸福的工作環境。Cat Cafe Mocha 應是日本最具規模的貓咪咖啡連鎖，期官網上有特別註明[新宿、涉谷、池袋⋯⋯等七間分店](https://catmocha.jp/shoplist/)適合工作。
+
+實地探訪新宿店，店內環境很不錯，貓咪很多也很可愛活潑，提供無限暢飲多種飲料，光線蠻好。但除了貓咪的叫聲外，顧客都非常小聲，環境非常安靜。的確也有人在店內使用電腦工作，如果沒有視訊會議的需求，的確是不錯的選擇。新宿店的費用是每十分鐘 ¥220，一日 ¥2640 封頂。（無法在內飲食，但可中途外出。）
+
+優點
+
+- 有貓
+- 超多選擇的飲料喝到飽
+- 環境佳
+
+缺點
+
+- 不適合視訊會議
+
+（特別注意：Cat Cafe Mocha *並非浪貓中途*。官網有註明他們的貓咪來自於[符合一定要求的合作繁殖業者](https://safety.catmocha.jp/debut/index.html)）
+
+**TOP｜猫カフェ MOCHA(モカ)**
+*猫カフェMOCHAは東京、大阪、名古屋、福岡など日本全国に展開する最大級の猫カフェです。猫と過ごす癒やしの空間で、お客様に心豊かなひとときをお届けします。*catmocha.jp
+
+![](/assets/images/miro.medium.com/26b1a4818b1e0437.jpeg)
+
+*帶著耳朵工作能提升專注力*
+
+![](/assets/images/miro.medium.com/6be7d9a7b059b10f.png)
+
+*這個文案很懂*
+
+#### Cafe Salvador Business Salon
+
+位於日本橋地鐵茅場町站東京証卷會館一樓，由 Wired 咖啡的母公司 Cafe Company 所經營的另一個咖啡品牌 Cafe Salvador 附設的工作空間。場地內有四人圓桌、沙發區、及以矮隔板區隔的一人用座位。早上七點到夜間十點全天只要 ¥1800，提供基本的飲料暢飲，也可點旁邊咖啡店的餐點與飲品。現場歡迎視訊會議。可於[官網線上預約](http://cafe-salvador.com/business_salon/)座位。
+
+**BUSINESS SALON**
+*コーヒーを片手に意見を交換し合うミーティングから、アイデアを形にするひとときまで。 WEBや電話から席を予約できるビジネスサロンは、この街のビジネスパーソンの1日に寄り添います。 30min / 300yen （税込） 1day /…*cafe-salvador.com
+
+優點
+
+- 單人工作隔間
+- 東京車站周遭金融企業地帶，體驗社畜通勤上班的生活
+
+缺點
+
+- 下方的單人隔間只有四個，需要提早預約
+- 桌椅無法調整高度
+
+![](/assets/images/miro.medium.com/80648f7217df3fda.jpeg)
+
+*C2 區的個人座位，共有四個位子，當天很快就坐滿了*
+
+### 車站的工作隔間
+
+數個廠商在各繁忙地區都有設置了膠囊型的工作隔間（work booth），尤其是 JR 東日本的「[Station Work](https://www.stationwork.jp/)」，在全日本的鐵路車站共有 350 個據點，東京幾乎每個主要車站都有數個工作隔間。只要先上網站註冊會員並設定信用卡，即可預約需要的時段，屆時直接以手機 QR code 即可進入使用。
+
+缺點是長時間使用時價格較貴。以 Station Work 為例，計費方式是每 15 分鐘 ¥275，假設連續使用一整天 8 小時，總價就達到台幣兩千塊了。可能較為適合短時間的視訊會議。
+
+個人這兩趟都沒有使用到工作膠囊。原本有計畫要去高輪 Gateway 的星巴克，再預約使用設置於星巴克內的 booth 來進行視訊會議。不巧沒預約到該時段。
+
+優點
+
+- 據點超多可及性高
+- 無人自助，預約便利
+- 位於車站方便午餐覓食
+
+缺點
+
+- 長時間使用時價格昂貴
+
+<iframe src="https://www.youtube.com/embed/JmXq0Krhmsg?feature=oembed" width="700" height="393" frameborder="0" scrolling="no"></iframe>
+
+### 商務中心 & co-working space
+
+談到在陌生的城市遠端工作時，首先就會想到 co-working space。此次發現，東京真的有非常非常多 co-working space，有的是從商務中心轉型而來，有的則是特定的公司或組織所提供的額外服務。
+
+#### ビジネスエアポート品川
+
+Business-Airport 是個有許多據點的商務中心，此次使用了品川的空間。位於品川站南口步行約五分鐘的「太陽生命品川大樓」28F。特點是一整排大面玻璃視野全無遮蔽的座位，且提供許多螢幕可自由使用。
+
+此行透過 [Station Work 來預約使用](https://www.stationwork.jp/booth-desk-franchise/base-search/base-details/?floorId=561&type=3)，8am–8pm 價格是 ¥3,300。
+
+優點
+
+- 交通便利
+- 全無遮蔽的高樓視野
+- 品川站內用餐選擇非常非常多
+
+缺點
+
+- 飲料區只提供超迷你紙杯（飲水機喝水用那種），要一直裝非常麻煩
+
+**品川（港区）のビジネスエアポート | 品川駅のレンタルオフィス・シェアオフィス・コワーキングスペース**
+*JR品川駅港南口とスカイウェイにて直結、 空と陸の理想のアクセスを誇る 「ビジネスエアポート品川」。 シーサイド・シティサイドのいずれも 街や海を見下ろすことのできる高層階だからこその眺望と、…*business-airport.net
+
+![](/assets/images/miro.medium.com/85ab9635e3f4fe6a.jpeg)
+
+*一般來說得要是高級社畜才能享有的景色*
+
+#### .andwork shibuya & kawasaki
+
+.andwork 自述是「酒店一體型協同工作空間」，就是以飯店公共空間提供作為工作場所，並提供飲料等服務。其網站的標語寫的很好：***既不是辦公室，也不是家裡，也不是咖啡廳****。兼具適度緊張感和舒適感，釋放你的創造力的辦公室。*
+
+.andwork [在日本共有七個據點](https://www.xandwork.com/locations/)。使用方式需先在網站上註冊會員，取得入場 QR Code，並到各飯店櫃檯登記入場。使用後於櫃檯 check-out 並現場結帳。此行共使用了涉谷與川崎兩處，體驗都非常良好，今後也會想要繼續探索其它場地。
+
+[.andwork shibuya](https://www.xandwork.com/shibuya/) 位於 The Millennials Shibuya 飯店內，距離澀谷車站步行約 10 分鐘。空間風格比較活潑時尚，共用空間有兩層樓，有許多各種不同的座位形式：高腳椅、沙發、卡座、圓桌⋯⋯等。當天使用者蠻多的，且大概有超過一半是西方人。費用是 ¥3,000 一日。
+
+附近一個路口處就是有名的都市改造案例「宮下公園」（公園用地都更後，將公共公園設置到商業建築的屋頂），下班後也可過去散散步。
+
+**.andwork shibuya | 渋谷 | ホテルハイブリッド型コワーキングスペース**
+*ホテルがオフィスに。新たなワークプレイス.andwork。世界中の人とシーンが交差するオープン空間は、感性を自由に解き放つワークロケーションへ。各拠点の.andworkを通じたネットワークを活用すれば、いつでも理想的なワークロケーションが見…*www.xandwork.com
+
+.andwork kawasaki 位於川崎站東口商店街後方的 Slash Kawasaki 飯店內。因為附近是歡樂街的緣故，晚上可能會非常熱鬧（某種意義上）。相對於涉谷的 The Millennials，Slash 飯店的裝潢風格感覺較為悠閒。
+
+飯店一樓的工作空間，同時也作為餐廳與咖啡店、bar 使用（且中午還蠻多人進來用餐）。除一樓的一個工作長桌、數個雙人與四人用餐的座位以外，最特別的是頂樓的戶外平台，包含沙發與高腳桌戶外座位，天氣好的時候感覺會非常愜意。
+
+使用一天的價格是相對便宜的 ¥2,000，可從早上七點待到晚上十點。另外，頂樓的小自助吧台，反倒是提供了此行所使用過的所有場地內，最好的自助咖啡機跟飲料選擇。
+
+**.andwork kawasaki | 川崎 | ホテルハイブリッド型コワーキングスペース**
+*ホテルがオフィスに。新たなワークプレイス.andwork。世界中の人とシーンが交差するオープン空間は、感性を自由に解き放つワークロケーションへ。各拠点の.andworkを通じたネットワークを活用すれば、いつでも理想的なワークロケーションが見…*www.xandwork.com
+
+![](/assets/images/miro.medium.com/7138b8b0317d003d.jpeg)
+
+*外帶松屋燒肉飯來天空露台吃午餐曬曬太陽*
+
+#### 其他 co-working space
+
+搜集資料時，有查到 Amazon 在東京目黑的公司大樓 17 樓設立了「[AWS Startup Loft Tokyo](https://aws-startup-lofts.com/apj/loft/tokyo)」的免費空間。只要有 AWS 帳號即可免費使用，並提供免費飲料與點心等福利。甚至在上班時間，現場還有 AWS 的 mentors / architects 可以進行諮詢。（不過沒有用到）
+
+**AWS Startup Loft Tokyo**
+*Japan startups have a home at the AWS Startup Loft Tokyo.*aws-startup-lofts.com
+
+### 特殊的工作空間
+
+#### 其他飯店的房間
+
+Station Work 另外有提供「飯店房間」可供預約，在白天的時段以 ¥5,000~10,000 的價格，可使用車站附近的飯店房間，作為個人工作空間。只能使用房內的桌椅與廁所，但不可睡覺與洗澡等。
+
+**STATION BOOTH/DESK/ホテルシェアオフィス等の拠点一覧｜エキナカ×シェアオフィス - STATION…**
+*STATION BOOTH/DESK/ホテルシェアオフィス等の拠点の一覧が見られます｜「STATION BOOTH（ステーションブース）、STATION DESK（ステーション…*www.stationwork.jp
+
+#### 超級錢湯
+
+因應疫情，東京巨蛋的 Spa LaQua 規劃了特別的工作方案。平常日的白天可以使用半開放的個人座位、餐廳或咖啡店的空間遠端工作。咖啡店另有到下午五點的暢飲方案。如果開會不順利，一言不合就斷線去泡湯，多舒暢。（網站上資訊還在，但不確定目前是否仍持續提供）
+
+**都心のリゾートで快適ワーク | ラクーア - LaQua**
+*半個室タイプのワークスペースのご用意もございます。 隣との仕切りをつけてプライベートな空間に。ゆっくりと作業に集中いただけます。 ●別途料金などは必要ございません。…*www.laqua.jp
+
+東京有著多且多樣的工作場地，很多連鎖 co-working space（如 WeWork、Business-Airport）都可透過 Station Work 的網站來預約，不需一間一間註冊帳號頗為方便。也很推薦在 Google 地圖上試著搜索，看看附近有沒有什麼看起來很有趣的空間。歡迎推薦其他你體驗過，覺得很不錯的異國工作空間。happy work remotely!
+
+### 參考資訊
+
+[**7 best co-working spaces for remote work in Tokyo | Time Out Tokyo**](https://www.timeout.com/tokyo/things-to-do/best-co-working-spaces-and-shared-offices-in-tokyo)
+
+**7 best co-working spaces for remote work in Tokyo | Time Out Tokyo**
+*These remote work spaces offer something more professional than a café, but without the commitment of a full office*www.timeout.com
+
+[**Digital Nomad in Japan — an Ultimate Guide — Digital Nomad Asia**](https://www.thedigitalnomad.asia/inspiration/digital-nomads/digital-nomad-in-japan/)
+
+**Digital Nomad in Japan - an Ultimate Guide - Digital Nomad Asia**
+*If you're looking to travel around Asia as a digital nomad, Japan is completely different to a lot of its neighbouring…*www.thedigitalnomad.asia
+
+[**“Gaijin-Friendly” Coworking Spaces for Digital Nomads in Tokyo 【Top Ranking】**](https://www.thedigitalnomad.asia/coworking-spaces/japan-coworking-spaces/gaijin-friendly-coworking-spaces-in-tokyo/)
+
+**"Gaijin-Friendly" Coworking Spaces for Digital Nomads in Tokyo 【Top Ranking】**
+*Japan is an amazing country with a rich history and culture that should be on everyone's bucket list. However you might…*www.thedigitalnomad.asia
