@@ -1,8 +1,30 @@
+const fs = require('fs');
+const path = require('path');
+const ROOT = __dirname;
+
 module.exports = function (eleventyConfig) {
   function toDate(input) {
     const d = new Date(input);
     if (Number.isNaN(d.getTime())) return null;
     return d;
+  }
+
+  function getSystemUpdatedAt() {
+    const watchedFiles = [
+      path.join(ROOT, '.eleventy.js'),
+      path.join(ROOT, 'src', '_includes', 'layout.njk'),
+      path.join(ROOT, 'src', 'styles.css')
+    ];
+    const latestMtime = watchedFiles
+      .map((file) => {
+        try {
+          return fs.statSync(file).mtimeMs;
+        } catch (_err) {
+          return 0;
+        }
+      })
+      .reduce((max, value) => Math.max(max, value), 0);
+    return latestMtime > 0 ? new Date(latestMtime) : new Date();
   }
 
   eleventyConfig.addPassthroughCopy({ 'src/styles.css': 'styles.css' });
@@ -22,6 +44,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('rfc822Date', (dateObj) => {
     const d = toDate(dateObj);
     return d ? d.toUTCString() : '';
+  });
+  eleventyConfig.addFilter('isoDate', (dateObj) => {
+    const d = toDate(dateObj);
+    return d ? d.toISOString() : '';
+  });
+  eleventyConfig.addFilter('latestIsoDate', (dateObj, compareDateObj) => {
+    const d1 = toDate(dateObj);
+    const d2 = toDate(compareDateObj);
+    if (!d1 && !d2) return '';
+    if (!d1) return d2.toISOString();
+    if (!d2) return d1.toISOString();
+    return (d1 > d2 ? d1 : d2).toISOString();
   });
   eleventyConfig.addFilter('absoluteUrl', (urlPath, siteUrl) => {
     const target = String(urlPath || '');
@@ -60,6 +94,7 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date)
       .slice(20);
   });
+  eleventyConfig.addGlobalData('systemUpdatedAt', getSystemUpdatedAt());
 
   return {
     dir: {

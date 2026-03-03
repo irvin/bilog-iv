@@ -1,0 +1,21 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ "/" | absoluteUrl(metadata.siteUrl) | xmlEscape }}</loc>
+    <lastmod>{{ systemUpdatedAt | isoDate }}</lastmod>
+  </url>
+  <url>
+    <loc>{{ "/archive/" | absoluteUrl(metadata.siteUrl) | xmlEscape }}</loc>
+    <lastmod>{{ systemUpdatedAt | isoDate }}</lastmod>
+  </url>
+  {% for post in collections.postsByDate %}
+  <url>
+    <loc>{{ post.url | absoluteUrl(metadata.siteUrl) | xmlEscape }}</loc>
+    <lastmod>{{ (post.data.updated or post.data.date or post.date) | latestIsoDate(systemUpdatedAt) }}</lastmod>
+  </url>
+  {% endfor %}
+</urlset>
